@@ -10,7 +10,7 @@ git clone https://github.com/six2dez/OneListForAll && cd OneListForAll
 ```
 2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
-ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]
+ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]/FUZZ
 ```
 
 ## Sources
