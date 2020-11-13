@@ -33,6 +33,9 @@ This is a wordlist for fuzzing purposes made from the best wordlists currently a
 - [nyxxxie](https://github.com/nyxxxie/awesome-default-passwords)
 - [dirbuster](https://www.owasp.org/index.php/DirBuster)
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn)
+- [hackerone_wordlist](https://github.com/xyele/hackerone_wordlist)
+- [commonspeak2](https://github.com/assetnote/commonspeak2-wordlists)
+- [bruteforce-list](https://github.com/assetnote/commonspeak2-wordlists)
 
 Feel free to contribute, PR are welcomed.
 
