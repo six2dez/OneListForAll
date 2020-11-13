@@ -1,5 +1,19 @@
 # OneListForAll
-Really Big List For Fuzzing 
+**Rockyou for web fuzzing**
+
+## Usage
+
+1. Git clone and extract:
+```bash
+git clone https://github.com/six2dez/OneListForAll && cd OneListForAll
+7z x onelistforall.7z.001
+```
+2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
+```bash
+ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]
+```
+
+## Sources
 
 This is a wordlist for fuzzing purposes made from the best wordlists currently available, lowercased and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut). The lists used have been some selected within these repositories:
 
@@ -19,3 +33,9 @@ This is a wordlist for fuzzing purposes made from the best wordlists currently a
 - [nyxxxie](https://github.com/nyxxxie/awesome-default-passwords)
 - [dirbuster](https://www.owasp.org/index.php/DirBuster)
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn)
+
+Feel free to contribute, PR are welcomed.
+
+You can support this work buying me a coffee:
+
+[<img src="https://www.buymeacoffee.com/assets/img/guidelines/bmc-coffee.gif">](https://www.buymeacoffee.com/six2dez)
