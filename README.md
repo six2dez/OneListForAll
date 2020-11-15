@@ -1,5 +1,7 @@
 # OneListForAll
-**Rockyou for web fuzzing**
+**Rockyou for web fuzzing** 
+
+**Wordlist in releases section**
 
 ## Usage
 
