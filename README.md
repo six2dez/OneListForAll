@@ -5,11 +5,25 @@
 
 ## Usage
 
+### Method 1
+
 1. Go to [releases](https://github.com/six2dez/OneListForAll/releases) and download
 
 2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
 ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]/FUZZ
+```
+
+### Method 2
+
+1. Git clone and extract:
+```bash
+git clone https://github.com/six2dez/OneListForAll && cd OneListForAll
+7z x onelistforall.7z.001
+```
+2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
+```bash
+ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]
 ```
 
 ## Sources
