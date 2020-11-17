@@ -1,7 +1,7 @@
 # OneListForAll
-**Rockyou for web fuzzing** 
+**Rockyou for web fuzzing**
 
-**Wordlist in releases section**
+**V2 released!** Now you can build your own wordlists with the same method and this release includes a **short** wordlist. Base wordlists provided in /dict folder. **See Method 3**
 
 ## Usage
 
@@ -11,7 +11,7 @@
 
 2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
-ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]/FUZZ
+ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ```
 
 ### Method 2
@@ -23,8 +23,51 @@ git clone https://github.com/six2dez/OneListForAll && cd OneListForAll
 ```
 2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
-ffuf -c -mc all -ac -w onelistforall.txt -u [target.com]
+ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ```
+
+### Method 3
+
+**Build your own wordlists!**
+
+1. Add your wordlists to dict/ folder with suffix **_short.txt** for short wordlist and **_long.txt** for the full wordlist.
+
+2. Run ./olfa.sh (olfa -> One List For All) and you will have onelistforall.txt file and onelistforallshort.txt.
+
+3. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
+```bash
+ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
+```
+
+## Wordlists content
+
+In the fields that both lists coincide, the short one has the content but in less quantity, only the most relevant.
+
+Both lists have:
+
+- First slash (/) removed, lines that have it is on purpose.
+- Removed special chars or crash chars such as `' sqlis, xss, etc
+- Trimmed trailing whitespaces
+- Removed comments (lines starting with #)
+
+| Year               | Short              | Full               |
+| ----               | -----------------  | -------------------|
+| Size               |                5M  |               180M |
+| Lines              |            344644  |            9117326 |
+| Extension specific |            &check; | :heavy_check_mark: |
+| Config files       |           &check;  | :heavy_check_mark: |
+| Admin panels       |           &check;  | :heavy_check_mark: |
+| Dotfiles           |           &check;  | :heavy_check_mark: |
+| Backup files/folders |           &check;  | :heavy_check_mark: |
+| LFI                |           &check;  | :heavy_check_mark: |
+| Multilanguage dicts  |           &check;  | :heavy_check_mark: |
+| Extension specific |           &check;  | :heavy_check_mark: |
+| CMS specific |           &check;  | :heavy_check_mark: |
+| Robots Disallowed |           &check;  | :heavy_check_mark: |
+| Software specific  |           &check;  | :heavy_check_mark: |
+|          Usernames |           &cross;  | :heavy_check_mark: |
+|          Words     |           &cross;  | :heavy_check_mark: |
+|     Subdomains     |           &cross;  | :heavy_check_mark: |
 
 ## Sources
 
