@@ -5876,7 +5876,6 @@ sql.sql
 MDB2
 reset-fonts-grids
 admincp.php
-%%45^45E^45E480CD%%index.tpl.php
 index.inc.php
 Assert.php
 1.html
@@ -6972,7 +6971,6 @@ stylesheet
 yuiloader
 head.html
 main.phtml
-%%F7^F7F^F7F34188%%header.tpl.php
 lang.en.php
 fetch.php
 chat.GIF
@@ -7695,7 +7693,6 @@ reset-fonts
 yuiloader-dom-event
 global.func.php
 post.html
-%%0E^0E4^0E407559%%footer.tpl.php
 de.po
 event.class.php
 comment.tpl
@@ -11778,7 +11775,6 @@ devices
 suite
 yaml-dump.php
 yaml-load.php
-%%6A^6A5^6A537DD8%%login.tpl.php
 ?????
 Errors.inc.php
 LoaderTest.php
@@ -19320,7 +19316,6 @@ Converter.class.php
 RecordSet.class.php
 twitter_api.php
 index.xhtml
-%%C8^C82^C821C881%%register.tpl.php
 db.conf.php
 cookie.lib.php
 file.lib.php
@@ -19482,11 +19477,6 @@ pages_controller.test.php
 config.bat
 404
 poll.class.php
-%%-13^%%-135052920^header.tpl.php
-%%-14^%%-1407541581^method.tpl.php
-%%165^%%1653142046^class.tpl.php
-%%239^%%239105369^footer.tpl.php
-%%708^%%708843835^var.tpl.php
 Person.html
 PHPParser.php
 security.xml
@@ -20589,7 +20579,6 @@ usage.htm
 messages.pot
 getConfig.php
 en.mo
-%%77^774^774BE9C9%%index.html.php
 notice.class.php
 __MACOSX
 phpSniff.core.php
@@ -23657,7 +23646,6 @@ window-theme-windows
 zune
 ConfigManager.php
 test.php4
-%%6D^6D7^6D7C5625%%test.tpl.php
 __InstallSupport
 404.shtml
 _conn.php
@@ -25272,7 +25260,6 @@ fpadmin.tmpl.php
 fpexception.tmpl.php
 main.tmpl.php
 test.tmpl.php
-%%41^41F^41F24718%%header.tpl.php
 application.conf
 ArticlesController.php
 FF
@@ -25776,7 +25763,6 @@ db.cfg.php
 notifications.class.php
 register.class.php
 prova
-%%1A^1AB^1AB9BADF%%login.html.php
 textdb
 php3.inc.php
 tdb.inc.php
@@ -28546,7 +28532,6 @@ function.field.php
 function.pager.php
 function.tree.php
 modifier.urldecode.php
-%%2A^2A7^2A72D64A%%categories.tpl.php
 html_table.php
 user_group.php
 busquedas.php
@@ -29429,7 +29414,6 @@ com_rss
 search.html.php
 comment_form.html
 post_form.html
-%%-20^%%-2040098360^filesource.tpl.php
 cpp_includes
 generation_settings
 idl_includes
@@ -33935,15 +33919,6 @@ AdminUsers
 Manage_Groups
 SaveGroupHierarchy.php
 Manage_Groups.php
-%%13^13E^13E2CA0E%%home.tpl.php
-%%2E^2E4^2E4D4797%%add_user.tpl.php
-%%33^330^33066966%%manage_users.tpl.php
-%%3D^3D3^3D34000E%%message.tpl.php
-%%5F^5F2^5F2CEFE2%%myaccount.tpl.php
-%%72^72A^72AAA3F9%%settings.tpl.php
-%%B7^B7E^B7EEE2AD%%users.tpl.php
-%%F2^F2A^F2A0FFFB%%sermons.tpl.php
-%%FC^FC8^FC84D2B5%%login.tpl.php
 myaccount
 sermons
 add_message.tpl
@@ -39419,7 +39394,6 @@ SwingWorker.java
 wars
 colour
 TimeSheet
-%%E3^E36^E36F7EB7%%test.conf%7Csetup.php
 IAction.cs
 model.pdb
 NumberValidator.cs
@@ -39784,14 +39758,6 @@ Simple.cs
 tail
 lofus
 NHibernate.ByteCode.Castle.pdb
-%%127^%%12781687^pkgelementindex.tpl.php
-%%-65^%%-658603405^page.tpl.php
-%%176^%%1767056382^include.tpl.php
-%%-19^%%-1910644431^basicindex.tpl.php
-%%117^%%1172603085^index.tpl.php
-%%131^%%131447552^elementindex.tpl.php
-%%202^%%2027336986^classtrees.tpl.php
-%%146^%%146134639^function.tpl.php
 FluentHtml
 ValidationBehavior.cs
 CheckBoxListBase.cs

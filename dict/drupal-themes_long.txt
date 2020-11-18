@@ -1,4 +1,3 @@
-themes/001%20Dev%20Skin/
 themes/001_dev_skin/
 themes/002_dev_skin/
 themes/08paros/

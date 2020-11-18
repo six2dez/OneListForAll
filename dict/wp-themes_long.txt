@@ -164,7 +164,6 @@ wp-content/themes/antisnews/
 wp-content/themes/anvil-theme/
 wp-content/themes/anvil/
 wp-content/themes/anvys/
-wp-content/themes/anypixelpixel%e4%b8%ad%e6%96%87%e7%89%88/
 wp-content/themes/apbt/
 wp-content/themes/apelsin/
 wp-content/themes/apollo/

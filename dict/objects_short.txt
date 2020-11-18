@@ -1077,7 +1077,6 @@ logos
 logout
 Logs
 logs
-lost%2Bfound
 lpt1
 lpt2
 ls

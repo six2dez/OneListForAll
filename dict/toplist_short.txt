@@ -1,10 +1,4 @@
 ../
-%00/
-%2e/
-%2e%2e/abyss.conf
-%2f/
-%3f.jsp
-%5c/
 a2e2gp2r2/x.jsp
 .access
 access_log

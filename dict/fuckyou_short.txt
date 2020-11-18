@@ -1,4 +1,3 @@
-.%3f.swp
 .//WEB-INF/web.xml
 ./WEB-INF/web.xml
 .bash_history
@@ -1693,7 +1692,6 @@ data.tgz
 data.zip
 DATA/
 data/
-data/%23data.asp
 data/123.txt
 data/admin/ver.txt
 data/config.inc.php.bak

@@ -5,7 +5,6 @@
 .bash_history
 .bashrc
 .cobalt
-.cobalt/alert/service.cgi?service=<img%20src=javascript:alert('Vulnerable')>
 .cobalt/alert/service.cgi?service=<script>alert('Vulnerable')</script>
 .cobalt/sysManage/../admin/.htaccess
 .fhp
@@ -35,6 +34,5 @@
 .ssh/known_hosts
 .www_acl
 .wwwacl
-.cobalt/alert/service.cgi?service=<img%20src=javascript:alert('XSS')>
 .cobalt/alert/service.cgi?service=<script>alert('XSS')</script>
 .viminfo

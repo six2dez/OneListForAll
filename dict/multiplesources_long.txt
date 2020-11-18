@@ -1,11 +1,5 @@
 -
 !@#
-!@#%
-!@#%^
-!@#%^&
-!@#%^&*
-!@#%^&*(
-!@#%^&*()
 ""
 *****
 0
@@ -5720,7 +5714,6 @@ controller
 contry
 cook
 cookie
-*%Cookie:
 cookies
 cookyjar
 cool
@@ -6692,7 +6685,6 @@ dolph
 dolphin
 dolphins
 domain
-%domain%
 domains
 domas
 dome
@@ -19564,7 +19556,6 @@ USERID
 userli
 "user:nagios
 username
-%username%!@#
 username@vultr.com
 user:pass
 users

@@ -10,7 +10,6 @@ eWebEditor/Admin_UploadFile.asp
 eWebEditor/Upload.asp
 eWebEditor/Admin_ModiPwd.asp
 eWebEditor/eWebEditor.asp
-WebEdit/db/dbwebedit%23cc495898.asp
 master/Login.asp
 flyang/include/Cls_Data.asp
 managesite/login.asp
@@ -23,7 +22,6 @@ FCKeditor/_samples/asp/sample04.asp
 admin/southidceditor/popup.asp
 admin/southidceditor/admin/admin_login.asp
 admin/editubb/ewebeditor.asp
-admin/editubb/db/dbwebedit%23cc495898.asp
 FCKeditor/_samples/default.htmlFCKeditor/_samples/asp/sample01.asp
 fckeditor/editor/filemanager/browser/default/browser.html?Type=file&Connector=connectors/asp/connector.Asp
 FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=File&CurrentFolder=/shell.asp
@@ -45,7 +43,6 @@ login.asp
 bm/chkadmin.asp
 bm/login.asp
 123.asp
-db/%23ewebeditor.asp
 bbs/aspcheck.asp
 aspcheck.asp
 editor/add.asp
@@ -78,8 +75,6 @@ Edit/Admin_Del.asp
 Edit/Upload.asp
 Edit/eWebEditor.asp
 web/login.asp
-web/edit/db/%23ewebeditor.asp
-edit/db/%23ewebeditor.asp
 web/edit/admin_conn.asp
 edit/admin_conn.asp
 admin/eWebEditor/admin_login.asp
@@ -121,7 +116,6 @@ fckeditor/editor/filemanager/browser/default/browser.html?Type=Image&Connector=c
 FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp?Command=CreateFolder&CurrentFolder=/&Type=Image&NewFolderName=shell.asp
 FCKeditor/editor/filemanager/browser/default/browser.html?Type=all&Connector=connectors/asp/connector.asp
 FCKeditor/editor/filemanager/browser/default/browser.html?Type=/&Connector=connectors/asp/connector.asp
-browser/default/connectors/aspx/connector.aspx?Command=CreateFolder&Type=Image&CurrentFolder=///%2F&NewFolderName=aspx.asp
 FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=File&CurrentFolder=/1.asp
 FCKeditor/editor/filemanager/browser/default/browser.html?Type=monyer&Connector=connectors/asp/connector.asp
 admin/FCKeditor/editor/filemanager/browser/default/browser.html?Type=/&Connector=connectors/asp/connector.asp
@@ -226,9 +220,6 @@ fckeditor/dialog/fck_about.html
 FCKeditor/_samples/default.html
 admin/js/fckeditor/editor/filemanager/connectors/test.html
 admin/editubb/db/
-FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=CreateFolder&Type=Image&CurrentFolder=%2Fshell.asp&NewFolderName=z&uuid=1244789975684
-FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector?Command=GetFoldersAndFiles&Type=&CurrentFolder=%2F
-FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F
 FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=/
 FCKeditor/editor/filemanager/browser/default/connectors/test.html
 FCKeditor/editor/filemanager/connectors/test.html
@@ -236,7 +227,6 @@ FCKeditor/editor/filemanager/connectors/uploadtest.html
 FCKeditor/editor/filemanager/connectors/
 manage/editor/ewebeditor.asp?id=price&style=standard
 server/fckeditor/editor/fckdebug.html
-ckfinder/ckfinder.html?action=js&func=SetFileField&data=xPicture&thumbFunc=ShowThumbnails&start=Images.asp%3A%2F%3A0
 fckeditor/dialog
 fckEditor/editor/
 fckEditor/editor/
@@ -245,10 +235,8 @@ FCKeditor/editor/dialog/
 editor/eWebEditor.htm
 editor/editor/eWebEditor.htm
 aspupload/aspupload.exe
-aspupload/%E8%AF%B4%E6%98%8E.txt
 intraAdmin/changelog.txt
 edit/SysImage/ewebeditor.gif
-Edit/V2.80%E4%BF%AE%E6%AD%A3%E7%89%88%E8%AF%B4%E6%98%8E.txt
 bbs/boke/Edit_Plus/FCKeditor/editor/dialog/fck_select.html
 boke/Edit_Plus/FCKeditor/editor/dialog/fck_select.html
 bbs/Dv_plus/IndivGroup/Edit_Plus/FCKeditor/editor/dialog/
@@ -262,20 +250,12 @@ editor/fckeditor/fckstyles.xml
 inc/editor/fckeditor/fckstyles.xml
 inc/editor/fckeditor/editor/fckdebug.html
 editor/fckeditor/editor/fckdebug.html
-admin/wo%5Fedit/editor/fckdebug.html
-office/web%5Fadmin/
-admin/wo%5Fedit/editor/fckdebug.html
-admin/wo%5Fedit/editor/filemanager/
-admin/wo%5Fedit/editor/filemanager/test.html
 editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=/
 fckeditor/editor/filemanager/connectors/uploadtest.html
-fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=File&CurrentFolder=%2F
 fckeditor/editor/filemanager/browser/default/connectors/asp/upload.asp?Type=Media"
 fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=/
 FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=CreateFolder&Type=Image&CurrentFolder=/shell.asp&NewFolderName=z&uuid=1244789975684
 FCKeditor/editor/filemanager/browser/default/browser.html?Type=Image&Connector=connectors/jsp/connector
-browser/default/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F
-browser/default/connectors/jsp/connector?Command=GetFoldersAndFiles&Type=&CurrentFolder=%2F
 fckeditor/editor/filemanager/upload/test.html
 fckeditor/editor/filemanager/browser/default/connectors/test.html
 fckeditor/editor/filemanager/connectors/test.html

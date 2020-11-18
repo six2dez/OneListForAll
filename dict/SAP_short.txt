@@ -8,7 +8,6 @@ dswsbobje/services/listServices
 dswsbobje/services/BICatalog?wsdl
 InfoViewApp/
 InfoViewApp/help/en/user/html/
-InfoViewApp/listing/main.do?appKind=InfoView&service=%2FInfoViewApp%2Fcommon%2FappService.do
 sap/bc/gui/sap/its/webgui
 sap/public/icman/ping
 sap/admin

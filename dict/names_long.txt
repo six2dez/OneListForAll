@@ -1,17 +1,6 @@
 
 "
 $admin$
-%e5%88%98%e4%bc%9f
-%e5%bc%a0%e4%bc%9f
-%e5%bc%a0%e5%86%9b
-%e5%bc%a0%e5%8b%87
-%e6%9d%8e%e4%bc%9f
-%e6%9d%8e%e5%a8%9c
-%e6%9d%8e%e9%9d%99
-%e7%8e%8b%e4%b8%bd
-%e7%8e%8b%e4%bc%9f
-%e7%8e%8b%e6%b6%9b
-%e7%8e%8b%e8%8a%b3
 '
 0
 00
@@ -182,7 +171,6 @@ admin" or "1
 admin"--
 admin#
 admin$
-admin%
 admin&
 admin' or '1'='1
 admin' or 1=1#

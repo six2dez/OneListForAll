@@ -55,7 +55,6 @@ ctc
 ctc/ConfigTool
 ctc/servlet
 ctc/servlet/com.sap.ctc.util.ConfigServlet?param=com.sap.ctc.util.FileSystemConfig;EXECUTE_CMD;CMDLINE=ifconfig
-ctc/servlet/com.sap.ctc.util.ConfigServlet?param=com.sap.ctc.util.FileSystemConfig;EXECUTE_CMD;CMDLINE=ipconfig%20/all
 DataArchivingService
 dispatcher
 docs
@@ -115,7 +114,6 @@ index.html
 infoviewapp
 InfoViewApp/
 InfoViewApp/help/en/user/html/
-InfoViewApp/listing/main.do?appKind=InfoView&service=%2FInfoViewApp%2Fcommon%2FappService.do
 inspection.wsil
 ipcpricing/ui/
 irj
@@ -148,7 +146,6 @@ irj/servlet/prt/portal/prtroot/com.sap.km.cm.highlightedcontent
 irj/servlet/prt/portal/prtroot/com.sap.km.cm.navigation
 irj/servlet/prt/portal/prtroot/com.sap.km.cm.uidetails
 irj/servlet/prt/portal/prtroot/com.sap.km.home_ws
-irj/servlet/prt/portal/prtroot/com.sap.netweaver.kmc.people.PeopleDetails?Uri=/ume/users/USER.PRIVATE_DATASOURCE.un%253AAdministrator.usr
 irj/servlet/prt/portal/prtroot/com.sap.portal.dsm.terminator
 irj/servlet/prt/portal/prtroot/com.sap.portal.epcf.loader.wdscriptblockprovider
 irj/servlet/prt/portal/prtroot/pcd!(*)
@@ -160,10 +157,6 @@ Lighthammer
 logon
 logon/index.jsp
 logon/logonServlet
-logon/logonServlet?redirectURL=%2Fuseradmin%2FuserAdminServlet
-logon/logonServlet?redirectURL=%2FVC%2Fdefault.jsp
-logon/logonServlet?redirectURL=%Fuseradmin%FuserAdminServlet
-logon/logonServlet?redirectURL=%FVC%Fdefault.jsp
 main.html
 manager
 mbeanreg

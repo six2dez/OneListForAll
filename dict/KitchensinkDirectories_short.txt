@@ -1934,7 +1934,6 @@ ProductCart
 productcart
 profile
 profiles
-Program%20Files
 project
 projects
 prometheus-all

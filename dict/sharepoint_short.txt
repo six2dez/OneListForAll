@@ -887,7 +887,6 @@ _layouts/user.aspx
 _layouts/userdisp.aspx
 _layouts/userdisp.aspx?id=1
 _layouts/useredit.aspx
-_layouts/useredit.aspx?id=1&source=%2f%5flayouts%2fpeople%2easpx
 _layouts/variationexport.aspx
 _layouts/variationlabel.aspx
 _layouts/variationlabels.aspx
@@ -1643,7 +1642,6 @@ user.aspx
 userdisp.aspx
 userdisp.aspx?id=1
 useredit.aspx
-useredit.aspx?id=1&source=%2f%5flayouts%2fpeople%2easpx
 usergroup.asmx
 usergroupdisco.aspx
 usergroupwsdl.aspx

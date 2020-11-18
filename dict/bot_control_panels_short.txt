@@ -1,5 +1,3 @@
-%CnC%
-%s:%s%s
 0.php
 0.res
 00284d896df6965cf6b6e99718ddcd99315200ca.file.rights.tpl.php
@@ -822,7 +820,6 @@ gttfi.php?id=019451425260376469&ext=YmFkc3R1ZmYuZGxs
 guimanifest.xml
 gVennDiagram.php
 h
-handle.php?addr=http%3A
 HaxMuteX.bas
 HBuilder.exe
 header.php
@@ -874,7 +871,6 @@ import.pid
 import_file.php
 imports
 in.php?q=WPOChVXlw9QiOTwtCbg+uSk36elyOCiUwI99U0PYxA==
-inbox.php?ltype=ld&ccr=1&id=E81B90884C4C45445458&stat=0&ver=2000803&loc=0x0409&os=Windows%20XP
 inc
 inc.config.php
 include
@@ -884,10 +880,8 @@ index.htm
 index.htm?n763t4OPmrs6fXq7fXp7uj16e-r&Length=0
 index.html
 index.php
-index.php?uid=587609&ver=8g%20XP
 index.tpl
 index000000001.asp
-indexbak.asp?rands=IXLCGIXELZ&acc=&str=select%20id%20from%20tab_online%20where%20regc
 indexs.zip
 info.asp
 info.obj
@@ -957,7 +951,6 @@ keygen.exe
 keylogs
 kisses.tar.gz
 kmqkcicalxrntrngwdxjyxztxcqkoyjnbdoafqirgnwwvpcjqglucovna.phtm
-knok.php?id=SYSTEM!VICTIM!9B88F779&ver=21&up=162&os=XP%20Service%20Pack%202
 kod.txt?k=123&t=7215
 kys_allowget.asp?namegetkys.kys
 lang
@@ -1181,7 +1174,6 @@ redir?di=130b51e7dc7&prd=bEFU&pver=131&j=1&ck=0
 redirect
 Release
 releases
-Remote%20PC-769f
 remotescript.obj
 remove.php
 remove_window.php
@@ -1242,14 +1234,12 @@ screenshot.obj
 script
 script.php
 scripts
-search%3Fhl%3cWABQAFMAUAAzACOAUgA5ADMALQBPAEYAQwAyADAA%26q%3DMQA3ADIALgAyADkALgAwAC4AM
 search-trigger.psd
 search.php
 search.php?page=73a07bcb51f4be71
 search.tpl
 search2.php
 search25548?h1=FIFEFDAHAPGDENCMFNFFFNAGAH
-search2?fr=altavista&itag=ody&q=b88d6ce7e9fe419788716298cc747adc%2C93a5d8146fea0bbb&kgs=1&kls=0
 search59861?h1=51&h2=1&h3=BHI06233&h4=FIFEFDAHAPGDENCMFOFFFCAGAE
 search613522?h1=FIFEFDAHAPGDENCMFOFFFCAGAE
 search?qu=

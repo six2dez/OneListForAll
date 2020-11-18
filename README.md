@@ -49,11 +49,12 @@ Both lists have:
 - Removed special chars or crash chars such as `' sqlis, xss, etc
 - Trimmed trailing whitespaces
 - Removed comments (lines starting with #)
+- Removed lines with % cuz cause crashes in ffuf
 
 | Year               | Short              | Full               |
 | ----               | -----------------  | -------------------|
-| Size               |                5M  |               180M |
-| Lines              |            344644  |            9117326 |
+| Size               |              4,9M  |               179M |
+| Lines              |            343003  |            9082810 |
 | Extension specific |            &check; | :heavy_check_mark: |
 | Config files       |           &check;  | :heavy_check_mark: |
 | Admin panels       |           &check;  | :heavy_check_mark: |

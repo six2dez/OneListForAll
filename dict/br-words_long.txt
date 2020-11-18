@@ -1,9 +1,4 @@
 !!Z!32
-##roger123
-#302010#
-#Czajk10
-#c0fasp#
-#lucano#
 $uce$$o10
 (null)
 **1924**
@@ -794,11 +789,6 @@ $uce$$o10
 0o2dcjt6
 0rch1ds
 1*2*3*4*5*
-100%file
-100%jesus
-100%napaz
-100%smo
-100%vida
 100000
 10000000
 100001620338916

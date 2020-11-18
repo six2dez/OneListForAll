@@ -1,8 +1,6 @@
 !.gitignore
 !.htaccess
 !.htpasswd
-%3f/
-%ff/
 .7z
 .access
 .addressbook
@@ -498,7 +496,6 @@ adm.php
 adm/
 adm/spaw2/dialogs/dialog.php
 adm/upload.php
-admin%20/
 admin-console
 admin-console/
 admin-serv/
@@ -1631,8 +1628,6 @@ nbproject/private/private.properties
 nbproject/private/private.xml
 nbproject/project.properties
 nbproject/project.xml
-New%20Folder
-New%20folder%20(2)
 new.php
 nginx-access.log
 nginx-error.log
@@ -1953,7 +1948,6 @@ r58.php
 r99.php
 redis
 Read
-Read%20Me.txt
 read.me
 read_file
 Read_Me.txt

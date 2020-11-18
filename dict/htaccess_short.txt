@@ -34,6 +34,5 @@ htaccess_for_page_not_found_redirects.htaccess
 .htpasswd_test
 .htpasswds
 .htpasswrd
-#.htaccess#
 secure/.htaccess
 .htaccess.swp

@@ -200,7 +200,6 @@ discoverer/common/help/en/connections.htm
 discoverer/intro/html/disc_demo_custom.htm
 discoverer/intro/html/disc_demo_intro.htm
 discoverer/plus
-discoverer/plus#Connect%20Directly
 discoverer/viewer
 discoverer/viewer_files/help/en/edit_parameters.htm
 dms
@@ -416,7 +415,6 @@ OA_HTML/jtfihaon.jsp
 OA_HTML/jtfwrepo.xml
 OA_HTML/oam/weboam.log
 OA_HTML/PTB/mwa_readme.htm
-OA_HTML/qotSCopAddSvc.jsp?qotFrmMainFile=bisakrgn.jsp&pSearchBy=%25%27||CHR(LENGTH(USER)%2B28)||%27%25
 OA_JAVA/
 oa_servlets//IsItWorking
 oa_servlets//oracle.apps.fnd.oam.jserv.OAMDBConnAndAM?debug=y
@@ -790,8 +788,6 @@ pls/
 pls/admin
 pls/admin_/gateway.htm
 pls/admin_/globalsettings.htm
-pls/admin_/help/..%255Cplsql.conf
-pls/admin_help/%252F..%252Fplsql.conf
 pls/apex
 pls/banking/account.welcome
 pls/bookstore
@@ -846,10 +842,8 @@ pls/register/account.welcome
 pls/register/reg.signup
 pls/sample
 pls/sample/admin_/
-pls/sample/admin_/help/..%255cplsql.conf
 pls/simpledad
 pls/simpledad/admin_/
-pls/simpledad/admin_/adddad.htm?%3CADVANCEDDAD%3E
 pls/simpledad/admin_/gateway.htm?schema=sample
 pls/simpledad/admin_/globalsettings.htm
 pls/ssodad
@@ -1103,7 +1097,6 @@ xsql/airport/airport.xsql
 xsql/airport/airportSoap.html
 xsql/classerr/invalidclasses.xsql
 xsql/demo/adhocsql/query.xsql
-xsql/demo/adhocsql/query.xsql?sql=select%20username%20from%20ALL_USERS
 xsql/demo/airport/airport.xsql
 xsql/document/docdemo.html
 xsql/doyouxml/doyouxml.xsql

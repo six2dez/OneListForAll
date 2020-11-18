@@ -500,7 +500,6 @@ logo
 logon
 logout
 logs
-lost%2Bfound
 ls
 magic
 mail

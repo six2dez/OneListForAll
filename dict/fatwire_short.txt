@@ -1,6 +1,5 @@
 Admin
 BlobServer
-#CacheServer
 CatalogManager
 ContentServer
 CookieServer
@@ -34,7 +33,6 @@ assetmaker
 contentserver
 cs
 cs/BlobServer
-#cs/CacheServer
 cs/CatalogManager
 cs/ContentServer
 cs/CookieServer

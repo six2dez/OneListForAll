@@ -10137,7 +10137,6 @@ tests/staticfiles_tests/apps/test/otherdir
 tests/staticfiles_tests/apps/test/otherdir/odfile.txt
 tests/staticfiles_tests/apps/test/static
 tests/staticfiles_tests/apps/test/static/test
-tests/staticfiles_tests/apps/test/static/test/%2F.txt
 tests/staticfiles_tests/apps/test/static/test/CVS
 tests/staticfiles_tests/apps/test/static/test/file1.txt
 tests/staticfiles_tests/apps/test/static/test/file.txt
@@ -10900,7 +10899,6 @@ tests/view_tests/locale/ru/LC_MESSAGES
 tests/view_tests/locale/ru/LC_MESSAGES/djangojs.mo
 tests/view_tests/locale/ru/LC_MESSAGES/djangojs.po
 tests/view_tests/media
-tests/view_tests/media/%2F.txt
 tests/view_tests/media/file.txt
 tests/view_tests/media/file.txt.gz
 tests/view_tests/media/file.unknown

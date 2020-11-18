@@ -2410,7 +2410,6 @@ Logs
 logview
 loja
 lost
-lost%2Bfound
 lost+found
 lostpassword
 Lotus_Domino_Admin

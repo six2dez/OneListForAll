@@ -1,17 +1,7 @@
 !.gitignore
 !.htaccess
 !.htpasswd
-%20../
-%2e%2e//google.com
-%2e%2e;/test
-%3f/
-%C0%AE%C0%AE%C0%AF
-%ff/
 +CSCOU+/../+CSCOE+/files/file_list.json
-#
-%23
-#3ooo<ul>HI</ul>%25
-#'-alert(document.domain)-'
 ;/..;/
 ..;/..;/
 foo;name=foo/
@@ -728,7 +718,6 @@ _wpeprivate/
 _wpeprivate/config.json
 _www
 _yardoc/
-a%5c.aspx
 a.out
 aadmin/
 acceptance_config.yml
@@ -768,7 +757,6 @@ adm/index.php
 adm_auth
 adm_auth.php
 admin
-admin%20/
 admin-console
 admin-console/
 admin-database
@@ -2027,7 +2015,6 @@ eula.txt
 eula_en.txt
 example.php
 examples/
-examples/jsp/%252e%252e/%252e%252e/manager/html/
 examples/jsp/snp/snoop.jsp
 examples/servlet/SnoopServlet
 examples/servlets/servlet/CookieExample
@@ -2830,8 +2817,6 @@ nbproject/private/private.properties
 nbproject/private/private.xml
 nbproject/project.properties
 nbproject/project.xml
-New%20Folder
-New%20folder%20(2)
 new.php
 newbbs/
 newbbs/login
@@ -3363,7 +3348,6 @@ rcjakar/admin/login.php
 rcLogin/
 rdoc/
 Read
-Read%20Me.txt
 read.me
 Read_Me.txt
 readme
@@ -3499,7 +3483,6 @@ services
 services/
 services/config/databases.yml
 servlet/
-servlet/%C0%AE%C0%AE%C0%AF
 servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml

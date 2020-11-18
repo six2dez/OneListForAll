@@ -1,5 +1,4 @@
 .printer
-%NETHOOD%/
 <script>alert('XSS')</script>.aspx
 AccessPlatform/
 AccessPlatform/auth/
@@ -19,7 +18,6 @@ _vti_bin/
 _vti_bin/_vti_aut/fp30reg.dll
 _vti_pvt/
 _WEB_INF/
-a%5c.aspx
 adovbs.inc
 aspnet_files/
 certcontrol/

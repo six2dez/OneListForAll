@@ -3280,7 +3280,6 @@ modules/multisite_manager/
 modules/multisite_search/
 modules/multisite_user_profile/
 modules/multistep/
-modules/multivariate%5C/
 modules/multivariate/
 modules/multuiple_email/
 modules/munin/

