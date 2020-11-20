@@ -13,8 +13,6 @@ names.nsf
 reports.nsf
 statmail.nsf
 webadmin.nsf
-?Open
-?OpenServer
 admin5.nsf
 admin.nsf
 alog.nsf

@@ -28,17 +28,8 @@ MAINTAINERS.txt
 INSTALL.pgsql.txt
 UPGRADE.txt
 CHANGELOG.txt
-?q=admin/
-?q=node/add/
-?q=search/
-?q=comment/reply/
-?q=user/password/
-?q=user/register/
-?q=user/login/
 search
-?q=filter/tips/
 INSTALL.sqlite.txt
-?q=user/logout/
 _services/
 tncms/webservice/
 tncms/user/
@@ -230,7 +221,6 @@ install/
 go/
 alerts/
 temp/
-?q=logout/
 logout
 register/
 books/
@@ -245,7 +235,6 @@ ebooks/
 setprefs
 test
 m?
-?hl=*&amp;
 scholar
 palm
 imgres
@@ -411,7 +400,6 @@ landing/now/ontap/
 intl/*/about/views/
 hotels/rpc
 hotelfinder/rpc
-?hl=*&amp;*&amp;gws_rd=ssl
 help/maps/indoormaps/partners/
 forms/perks/
 finance?*q=*
@@ -453,7 +441,6 @@ wp-content/themes
 page/
 user
 secure/
-?s=
 files/
 feeds/
 assets/
@@ -778,7 +765,6 @@ story/sponsor-story/
 shop/
 redirect/
 t3lib/
-?q=contact/
 privacy
 calendar/fundraiser/search/
 apps/
@@ -831,7 +817,6 @@ media
 it/
 calendar/performer/search/
 Search
-?s=*
 l.php
 *login=
 autocomplete/
@@ -874,7 +859,6 @@ contact_importer/
 classifieds/sale/sale/*?
 checkpoint/
 *auth=
-?attachment_id*
 404.html
 track/
 realestate/*?
@@ -937,7 +921,6 @@ auth.php
 wrapper
 template
 tag
-?refresh
 offsite/
 home
 edit/
@@ -989,7 +972,6 @@ suspension-appeal/*
 story_pins/*
 */story_pins/*
 socialmanager/*
-?show_error=true
 showcase/settings/
 shop_pins/*
 settings/extension/uninstall/
@@ -1726,7 +1708,6 @@ homepage/
 gist/*/*/*
 */forks
 */*/feed/*/
-?feed=
 events/action~week/
 events/action~oneday/
 events/action~month/
@@ -2206,7 +2187,6 @@ sales/
 *?s=*
 *rss
 report.php
-?q=user/register
 *?q=
 productupdates.php
 postreview.php
@@ -2298,8 +2278,6 @@ ta/
 Services/
 res/
 report-a-typo
-?q=user/password
-?q=user/login
 profile/*
 private.php
 pages
@@ -2502,7 +2480,6 @@ upvoted/
 subscribe
 *sort=*
 setup/
-?q=node/add
 pub/
 privacy-policy/
 print.php
@@ -2666,7 +2643,6 @@ application/languages
 :/admin/
 ac_university_departments
 ac_universities
-?action=search
 ac_search
 2013/
 2011/
@@ -2778,7 +2754,6 @@ calendar/get_out/search/
 calendar/food_and_drink/search/
 calendar/festivities/search/
 calendar/art_events/search/
-?blackhole
 attachment/
 *.asp
 app_data/
@@ -3020,7 +2995,6 @@ RatingAjax
 RateUserReview
 Rateit
 RacDetail
-?q=user/
 QuickReview
 QueryJson
 PromoTools
@@ -3063,7 +3037,6 @@ PageviewRecord
 pages/rss_terms.html
 PageMoniker
 packages/
-?p=*
 OwnerVerifyLocation
 OwnerSupport
 OwnersTermsAndConditions
@@ -3554,7 +3527,6 @@ CountryAjax
 CostPerClick
 CookiePolicy
 CookiePingback
-?controllerName=search
 Contributions
 ConnectivityPartnerSignup
 ConnectivityPartnerInfo
@@ -3702,7 +3674,6 @@ statistics
 *start=*
 search
 */related
-?q=comment/reply
 plugins/feedback.php
 places/bestbridal-wedding-rehearsals/*action=srch
 places/bestbridal-wedding-receptions/*action=srch
@@ -3849,10 +3820,7 @@ _resources/
 reputation.php
 region/
 */questions
-?q=search
 qemail/
-?q=admin
-?q=
 promotions/
 privacy-policy.html
 press/
@@ -4020,7 +3988,6 @@ sc/
 review/dynamic/sims-box
 registry/wishlist/
 random/
-?q=user/logout/</pre></body></html>
 queue
 Promotion
 printmail/
@@ -4029,7 +3996,6 @@ print/*
 penton_modal/nojs/*
 paidcontent
 */page/
-?p=
 opensearch.xml
 open_houses/*?
 newsticker/calendar/
@@ -4597,7 +4563,6 @@ s/*
 reset-password
 research/
 *_recache
-?q=user
 *quizResult=
 purchase/
 .preview/
@@ -4764,7 +4729,6 @@ referAppC/
 *ref=
 redesign/
 quotes
-?q=filter/tips
 */ProxyVisitor
 promotion/
 promos/
@@ -4967,7 +4931,6 @@ setup
 search</pre></body></html>
 search.htm
 search/api*
-?se=
 sdfe/reader/pii/*
 sdfe/pdf/download/read/noindex/pii/*
 sdfe/pdf/download/read/index/pii/*
@@ -5036,7 +4999,6 @@ recipes?s=
 recipes/?*&amp;s=
 recipes?*&amp;s=
 real_estate/open_houses/*?
-?q=logout
 *?q=
 Profile/
 *?*product_list_mode=
@@ -5055,7 +5017,6 @@ places/print_ads/*action=srch
 password-protected-pages 
 *PAGEN_1=
 *page=*
-?page=
 ntsh/
 *?np=y
 norobot
@@ -5267,7 +5228,6 @@ toggle-experiment
 testing
 test.html
 telsearch
-?targetURL=https://www.owler.com/iaApp/getDataCard.htm
 tag/zenon-karol-bajorowicz.html
 tag/wiktor-pilarczyk-orlen.html
 tag/wiktor-pilarczyk.html
@@ -5569,7 +5529,6 @@ Zusatzseiten/Suche/index.jsp
 zoeken
 *.xlsx
 www/
-?wptheme=
 wp-register.php</pre></body></html>
 wp-comments-post.php
 *wp-
@@ -5702,7 +5661,6 @@ realestatepages/realtors/*action=srch
 real_estate/housing/open_houses/*?
 */random/
 *?quicktabs_*
-?q=node/
 pubstats/
 promo/yobject/changelog*
 promo/*welcome*
@@ -6140,7 +6098,6 @@ search/breaking/?
 _scripts/
 school/
 sample/
-?s= 
 rs/
 rlock/
 revision-policy  
@@ -6574,7 +6531,6 @@ about
 AAMALL
 *7urren*
 1
-?*  
 year-publication/
 */xmlrpc.php
 wrappers/
@@ -6702,7 +6658,6 @@ recommends/
 re/
 RC/
 rate/
-?q=user/logout
 quote/
 questions/
 qchrondeals/
@@ -7498,8 +7453,6 @@ registration/*
 register$
 real_estate/sale/open_house/*?
 real_estate/sale/*?
-?q=hybridauth/
-?q=comment/
 pub/agent.dll?qscr=pkgl*
 p/s=
 productalert/
@@ -7695,7 +7648,6 @@ circulars/sale/*?
 checkout/cart/
 Chat/
 catalogsearch/result/
-?cat=*
 */cart/
 captcha.php
 campaigns
@@ -8023,7 +7975,6 @@ Search/
 @@search
 scientific_journals/
 sa/
-?s
 *rt=nc
 *rss.xml
 *.rss_include.v2.html
@@ -8193,11 +8144,7 @@ ratecomment.aspx
 *.raffle_new.html
 *.raffle.html
 radar
-?q=taxonomy/
-?q=contact
-?q=aggregator/
 q/
-?q=*
 publish/
 pub/agent.dll?qscr=mrdt 
 *.prototype.html
@@ -8508,8 +8455,6 @@ img-video
 *.image.preview.html
 *.image.normalized.html
 *.image.html
-?id=*
-?id=
 *.icon_settings.png.html
 *.icon_remove.png.html
 *.icon_move.png.html
@@ -9098,7 +9043,6 @@ replyTS_Z5wXOHG1FZ-wfyNB_echelon.html*
 remind/
 register.aspx
 */register
-?ref=[\w&amp;='" _. ]+/
 refs
 redirect.asp
 red/
@@ -9116,7 +9060,6 @@ real-estate/7*
 rd/
 *.rar
 r
-?q=user/login/</pre></body></html>
 qr/
 py/
 p-upload-image.html*
@@ -9393,7 +9336,6 @@ ftptemp/
 fr/user/
 fr/themes/
 fr/profiles/
-?frontpage=true
 *?from=*
 fr/includes/
 frames/
@@ -9661,7 +9603,6 @@ blog.php
 blogAdmin
 blast/BlastAlign.cgi
 blank
-?blackhole</pre></body></html>
 bin/*
 bg/*
 bannergate/
@@ -9747,7 +9688,6 @@ vbulletin2_Arc/
 v4/
 *utm_source=
 *?utm_source*
-?utm_source=
 *utm_campaign=
 *utm_campaign*
 uslugi/*
@@ -9834,7 +9774,6 @@ style.php
 *st.redirect*
 strawberriessweets-css
 store/cart/
-?st.layer*
 stats/alltime
 Stats
 statistic.php
@@ -9844,7 +9783,6 @@ stat
 *st._aid*
 *src=
 sql/
-?sputnik=*
 sports/mct/
 specialvaluesunder20-C19
 *sort=*
@@ -10044,7 +9982,6 @@ pro/
 */print/*
 */print
 */print/*
-?print*
 prevnext
 preview-deposit
 preview-b
@@ -10403,7 +10340,6 @@ flag
 find_similar_products/
 */filter/tips/
 */files_etp/
-?ffsputnik=*
 feeds/*
 feedback/request/
 *feed*
@@ -10427,7 +10363,6 @@ exec/
 */event-tracker
 */etp/news/active?*
 *?esource=*
-?_erv=*
 Errors
 ErrorPage.aspx
 error/
@@ -10680,7 +10615,6 @@ b2b/
 autodiscover/
 */author/*
 */author/
-?author=
 auf-wiedersehen
 *-auf-deiner-website/tipp
 *-auf-deiner-website/thema
@@ -10854,8 +10788,6 @@ v2
 *utm_campaign=*
 *utm_
 *utm
-?utm*
-?utm=
 utility
 user/verify
 users/signup
@@ -10980,7 +10912,6 @@ staff/results.jsp*
 Staff
 -st/
 *sr=
-?s=*</pre></body></html>
 sport/
 splash/
 spice
@@ -11129,7 +11060,6 @@ reports/*
 report/*
 *?report=*$
 *?replytocom 
-?replytocom
 renderhandlers/
  *?reinit
 */registro/
@@ -11172,17 +11102,14 @@ query
 *?q=search/$
 */?q=search/
 *?q=search/
-?q=print/
 *?q=node/add/$
 *?q=node/add/
 *?q=logout/
 *?q=filter/tips/$
 *?q=filter/tips/
 *?q=comment/reply/$
-?q=aggregator
 *?q=admin/$
 *?q
-?q
 px.gif
 Public/
 public
@@ -11201,7 +11128,6 @@ pro2/*
 */printGroupTest/
 */?printer-friendly
 print*
-?print=
 primarySchool/
 Price/PriceRMPopup.aspx
 pricecalculator/
@@ -11235,7 +11161,6 @@ plus
 play/
 pl/*
 *?pid*
-?pid=
 *PHPSESSID=
 phpscripts/
 *.php$
@@ -11251,7 +11176,6 @@ partials
 *PartialRenderControlList=
 parking/
 panama
-?PageSpeed=
 pages/emaildocument.aspx
 page/*/?s=*
 page/*/?s
@@ -11533,14 +11457,11 @@ game
 galleries/top-
 galleries/keywords/
 galleries/boards/
-?_ga=*
 funding/funding_results.jsp*
 fr/taxonomy/
 *fr/suivi-commande-invite
 *fr/recherche
 *fr/panier
-?___from_store=
-?from=*
 *fr/mot-de-passe-oublie
 *fr/mon-compte
 friends
@@ -11753,7 +11674,6 @@ common/en/
 common/de/
 comments.php?op=Reply*
 comments.php/
-?comments=
 comment.php
 comment-page*
 comment-page
@@ -11777,7 +11697,6 @@ classifieds/classified_notice/*?
 classic
 clasificados/*?
 cityHall/
-?city=*
 cits
 *?cid=
 christmas/
@@ -11911,9 +11830,7 @@ awards/award_visualization_noscript.jsp*
 awards/award_visualization.jsp*
 avatar/
 autobuses2007/
-?author=*
 audioCaptcha.wav
-?attachment_id=*
 att/
 async/
 assets/modules/
@@ -12656,7 +12573,6 @@ saintlucia
 saintkittsandnevis
 sainthelena
 s1/
-?s*
 s
 rwanda
 russianfederation
@@ -12763,7 +12679,6 @@ question/
 *?query=
 */?q=search/
 qrcodedata/
-?q=file/
 */?q=comment/reply/
 qatar
 */?q=admin/
@@ -12814,7 +12729,6 @@ product/qu.asp
 product_pictures/
 product_opinion/create
 production-na-wwwinc.demandware.net*
-?productCode
 *Product-AddProductReview*
 */product/
 problem/
@@ -12958,14 +12872,10 @@ p/albums.cgi
 palau
 pakistan
 pagesense/features-delete.html
-?PAGEN_1=*
-?PAGEN=*
 page/generate-menu
 pagead/
 *?page*
-?page=*
 pacific-northwest-news/index.ssf/2010/10/woodburn_police_ask_for_help_in_locating_two_runaway_teens.html
-?p=
 oxford/announcements/search/?
 Overlay/
 _overlay/
@@ -13047,7 +12957,6 @@ NewMarketHome.aspx?
 newmarkethome.aspx?
 newcaledonia
 new-albany/announcements/search/?
-?NEW=*
 netherlandsantilles
 nepal
 negocios/trend_makers/trend-makers-marco-aurelio-rodrigues
@@ -13335,7 +13244,6 @@ image-140x140
 i_data
 *?id=at
 *?*id=5422
-?id=182280&amp;from=rss
 iceland
 HyperNews/
 hungary
@@ -13430,8 +13338,6 @@ gendarmerie/
 gen/
 */gcrnsts
 *gclid=
-?gclid*
-?gclid=
 ga/p/
 gamepage/
 gambia
@@ -13924,11 +13830,6 @@ customerlogin.aspx?
 cust/
 cuba
 cu/
-?ctl=show_saved_ads
-?ctl=do_login
-?ctl=display_ad
-?ctl=detail_view_ad
-?ctl=compare_ads
 */ctl/*
 css/oecd
 crons
@@ -14283,7 +14184,6 @@ australia
 aura/
 */auctions/ecatalogue/lot.pdf
 au/*
-?attachment_id=
 athena/
 assets/import/
 assets/export/
@@ -14457,7 +14357,6 @@ yolo-iframe/
 *ymclid*
 year
 *yclid*
-?yclid=
 yaccs/xmlrss
 xmlrpc.php?rsd
 xmlrpc.php
@@ -14711,7 +14610,6 @@ videos?
 video-player/
 videoeggbackup.html
 video2/
-?viaCallPHP=*
 verification/
 venue/
 *?ved=
@@ -14744,7 +14642,6 @@ uz/
 *utm_campaign*
 *utm_campaign=*
 *utm_*
-?utm_*
 Utility/
 utilities
 usuarios/
@@ -15151,7 +15048,6 @@ saginaw-deals/
 sacs/
 *s=*
 s$
-?s=* 
 rules.html
 rsvp/
 route/
@@ -15193,7 +15089,6 @@ references/
 reference-architecture/
 *ref*
 *?ref
-?ref
 Redirects/
 redirect-pages
 redirector
@@ -15229,7 +15124,6 @@ RadControls/
 *r1=
 R/
 *?r=*
-?q=vote/
 */?q=user/register/
 */?q=user/password/
 */?q=user/logout/
@@ -15246,9 +15140,7 @@ qrcode/
 */?q=node/add/
 qiye/*?
 */?q=filter/tips/
-?q=content/
 */?q=comment/reply/
-?q=calendar/
 qa/index.php/user
 qa/index.php/tag
 qa/index.php/register
@@ -15256,7 +15148,6 @@ qa/index.php/questions
 qa/index.php/login
 qa/index.php/hot
 *?*q=*
-?q*
 p/whoson.cgi
 push-presents-RPSHP
 p/upload_video.cgi
@@ -15748,7 +15639,6 @@ lite
 lists/new_item
 links/out.asp
 *?limit=*
-?limit=
 lightbox
 life/buildings/*
 lidworden/
@@ -15798,7 +15688,6 @@ kids-decor-RKDCR
 kids-blankets-RKDSB
 kids/
 keywords/
-?key=
 keepsakes-rbkps
 KE/
  /kati-cgi/kati/
@@ -16304,7 +16193,6 @@ down/*
 donotenter/
 donate.php
 donate
-?do=lastcomments
 documents/*
 docs/gated/
 docs/					# Do not index static docs folder
@@ -16320,7 +16208,6 @@ discount-gift-baskets-CSV
 disclaimer.html
 disc.do
 directory.bml
-?dir=
 dinero_opinion/
 digest.php
 dictionary*
@@ -16443,8 +16330,6 @@ customer/*
 current
 cupcakes-CCU
 cuff-links-rcuff
-?ctl=search
-?ctl=browse_ads
 ctg/
 css/</pre></body></html>
 *.css</pre></body></html>
@@ -17032,7 +16917,6 @@ a2/
 18th-birthday-gifts-rb18b
 123
 10th-anniversary-gifts-ran10
-?*
 *}
 *{
 *:
@@ -17219,7 +17103,6 @@ widget/entity/search/?
 widget/cr
 widget4/
 wicket/page/
-?wicket:interface
 whsmiths/
 wholesale/
 whois/*/
@@ -17416,7 +17299,6 @@ us/about-lg/investor-relations/
 US/
 URLRewriter/
 url.php?
-?url=*
 */uploads/*.zip
 */uploads/*.psd
 */uploads/*.mp4
@@ -17589,7 +17471,6 @@ tinymce/
 timemap/
 timegate/
 *.tif
-?tid=
 */tickets/
 t/i/*
 thumbs/
@@ -17814,7 +17695,6 @@ stoneedge.aspx
 stockreminder
 stocking-stuffers-sak
 stock/
-?step=
 Stellen/title
 Stellen/CH/
 steepedteacom/
@@ -17857,12 +17737,10 @@ ssc
 */*/?srule*
 */?srule*
 *srule
-?srule*
 *srt=*
 */srch*
 srch
 src_fancy
-?src=
 *?SQ_PAINT_LAYOUT_NAME=
 .sql
 *?SQ_DESIGN_NAME=
@@ -17872,7 +17750,6 @@ s_prize.aspx
 spring-flowers-psg
 spring/
 spresults
-?s=</pre></body></html>
 sport-unify/
 sport/superracing/form-guide/trainer-statistics
 sport/superracing/form-guide/races
@@ -17948,7 +17825,6 @@ smi/
 smartersearch
 small-to-medium-business-security/resources/*
 smallbusiness/
-?slow=*
 slink.htm
 slika
 *?s=lightbox
@@ -17981,7 +17857,6 @@ signin*
 signature/
 sidebar
 *?__SID=
-?SID=
 *?sid=*
 */sid/
 s/i/*
@@ -18139,7 +18014,6 @@ search-
       /search                                                                                                                                                                             
 search          
 */*/search*
-?search
 SD/
 scrivi_opinione_certificata/
 scrivi_opinione/
@@ -18182,7 +18056,6 @@ S
 *?s=* 
 *?s=             
 *?*s=*
-?*s=*
 RW/
 russian
 ru/spy_codeiframe.html*
@@ -18290,7 +18163,6 @@ requests
 reports/neighbourhood-checker
 Reports/
 reporter/pdfs/2015/2015_32204.pdf
-?report
 repo
 rep/main/
 *?replytocom</pre></body></html>
@@ -18444,8 +18316,6 @@ r5/
 *r4=
 *r3=
 R
-?r=*
-?q=user*
 */QuickViewEnhancement.do*
 quick-start/28438-upcoming-events
 quickshop
@@ -18456,17 +18326,9 @@ query_cache/
 *?query=*
 *?query
 queries/*
-?q=tracker
 qrcode
 *?qr=*
-?q=profile/*
-?q=profile
-?q=printmail/
 q.php
-?q=nofollow/
-?q=help
-?q=flag/
-?q=find/
 *?q=&amp;text=&amp;sort=relevance&amp;page=1$
 *?q=&amp;text=&amp;sort=relevance&amp;listingMode=PLAIN&amp;page=1$
 *?q&amp;
@@ -18587,7 +18449,6 @@ price_alerts/update_view
 */price/*
 preview-simple/
 preview-modules
-?preview_id
 previewhighresolutionimage.php
 *preview=
 press-release/social-media-almost-mandatory-in-job-recruiting-says-jason-robinson-waldwick-head-hunter-355428.php
@@ -18609,10 +18470,8 @@ premium/*
 *prefn6=*
 *prefn5=*
 *prefn*
-?prefn*
 preferences/
 predl_ajax
-?*</pre></body></html>
 Praxis/Resource-Repository/Search/*?
 Praxis/Community/Blog/*?
 praca/title/
@@ -18675,7 +18534,6 @@ plantfinder-quicklinks-iframe.aspx
 planning/maps/
 planning/
 *.pl
-?pk_campaign=*
 PJA
 pixel/!crd_prm!.gif
 pinnacleapi/
@@ -18712,7 +18570,6 @@ PF/
 pets-books/
 petofday*
 petition/
-?petId*
 personal/tools/pg/manual/PGholdmail
 personal/tools/pg/manual/PGcoa
 *personalize=true*
@@ -18728,7 +18585,6 @@ pdfserver.do*
 pdfartworkmenu.php
 *.pdf
 *.pdf*
-?pdf*
 pcgi/
 p.cfm/
 pca/Support/Contact/
@@ -18831,7 +18687,6 @@ page/preview.do*
 *page_num
 pagenotfound-unify/
 Page-Not-Found
-?PAGE_NAME
 *PAGEN_1=
 page/live.do*
 *Page-Include*
@@ -18841,7 +18696,6 @@ page/development.do*
 page/assistance/prodPopUpShipping.jsp
 page/archives.do*
 *page/*
-?page=
 paffairs/AgReview/class/Aug14/Horses-Wanted.htm
 padmin
 pack/*/edit$
@@ -19143,7 +18997,6 @@ modules/
 modify.php
 moderation$
 *?Mode*
-?mode=
 modcp
 *.modal.*
 modal
@@ -19838,7 +19691,6 @@ headline.txt
 *.header.logo.html
 header.html
 *.header.breadcrumb.html
-?hb=
 haushalt/
 hardcore-punk-music/
 hanukkah-gifts-SHK
@@ -21355,7 +21207,6 @@ docs/Newsletter/Seller
 docs/channel/
 *.DOC$
 *.doc*
-?doc*
 do2/
 *do=
 *?do=
@@ -21730,7 +21581,6 @@ commerce
 */comments/*
 */comments/*
 _comments/
-?comments=*
 */comment-page-*
 *?commentpage=
 *comment_id*
@@ -21806,10 +21656,8 @@ click.php*
 clickheat/
 *?clickfrom=*
 *?click_from=*
-?click_from=*
 click?
 *?clear_cache=
-?clearall
 classify
 classifieds-unify/
 Classifieds/
@@ -22545,7 +22393,6 @@ bcdb/guest_book.cgi
 bcdb/form.cgi
 bbtvaluation/vote/
 bbs/building-business-sustainability-thank-you/
-?bbp_search=*
 b/batch
 baumarkt-garten/
 batchuploader/metadata
@@ -22598,7 +22445,6 @@ author/*/page/               # Explicitly block pagination on Author pages
 author/admin/
 author/          
 */author/
-?author
 auth/facebook
 _/authenticate/
 auth$
@@ -22636,11 +22482,8 @@ audit/
 audio-hifi/
 auctions
 attributes/
-?attribute_potency=
 *?attachment_id=*
 *?attachment_id=
-?attachment_id
-?attachment*
 attach/
 atom
 atlas_rm.htm
@@ -22829,7 +22672,6 @@ amp-proxy/
 *&amp;monthnum=
 *&amp;module=
 *&amp;mediaId=
-?&amp;icid*
 *&amp;iafilter=
 *&amp;_ga=
 *&amp;FEEDNAME=
@@ -22941,7 +22783,6 @@ activities
 activate_email/*
 action/welcome
 actions*
-?action=login
 *action=history
 *action=detail&amp;AEArticleID*
 *action=detail&amp;AEArticleID
@@ -23025,7 +22866,6 @@ a1/
 A/
 *?a=*
 *?a=
-?*a=*
 */8668/*
 8456
 8058/
@@ -23082,9 +22922,6 @@ A/
 *?* 
 *? 
 *;*
-?* 
-?/
-?                
    
 ~
 zzz-archive/
@@ -23266,7 +23103,6 @@ writers/
 *writereview
 write
 *?wptouch_preview_theme=
-?wp-subscription-manager* 
 wps/myportal/
 WPSAssets/
 wp-rss.php
@@ -23395,7 +23231,6 @@ welcome-email
 welcome*
 welcome/*
 *?weixin=*
-?weixin=*
 weekly/235061/*
 wedding-site/
 wedding-gifts-wed
@@ -23485,7 +23320,6 @@ vyhledavani
 vtblkl7yg3hs2vvuf*
 vtbgjrfturehjkjkyifz*
 vsspev/
-?vse=*
 vsdocs/
 vs.aspx
 vr/
@@ -23698,7 +23532,6 @@ u/vacancy_candidate_file/
 */?utm_place=*
 *?utm_medium=
 *?*utm_medium=
-?utm_expid
 *utm_content*
 *?utm_content=
 *?utm_campaign=
@@ -23706,7 +23539,6 @@ u/vacancy_candidate_file/
 utm/
 *?*utm*
 *utm_*=
-?utm
 utl/
 utils-Tabs.php?*
 utils-Tabs.php
@@ -24170,7 +24002,6 @@ tn_index_id_*_
 tn_alf_letter_*_
 tn/*
 *?*tmpl=component
-?tmpl=* 
 tmoney/*
 tmall*
 tm*
@@ -24444,8 +24275,6 @@ tab/
 *tab
 t1/
 t/*
-?t=
-?t
 t
 szukaj
 sz/en/*
@@ -24697,7 +24526,6 @@ stocks/
 stock-photo/
 sterlitamak
 stellent/
-?st.cmd=
 stavropol
 status.html
 */stats$
@@ -24865,7 +24693,6 @@ sos
 sort-*
 *sort/
 *sort_
-?sort=
 sorry.html
 sorry-flowers-ims
 sophos/
@@ -25441,7 +25268,6 @@ search*
 search\?
 search*?
 search_
-?search
 sea/
 SE/
 se/*
@@ -25551,11 +25377,8 @@ saba/
 SA/
 sa/*
 */?sa=*
-?sa*
-?sa=
 *?s=              
 *?s*
-?s=*
 ryteil/
 ryazan
 rw/en/*
@@ -25963,7 +25786,6 @@ region/my/
 *?region_id=
 region/*
 *region=*
-?region=*
 regie/
 */reg_form_success.php
 */reg_form.php
@@ -25997,8 +25819,6 @@ refer
 *?ref=binfind.com
 */?ref=*
 *?*ref*
-?ref*
-?ref=
 reengageoptout/*
 redshift/search/
 *red=red*
@@ -26082,10 +25902,7 @@ radar_form/
 rabota/
 R/*
 r/
-?r=
-?q=users/
 quote
-?quot
 quiz/*
 quinceanera-flowers-and-gifts-qcf
 *quicktabs*
@@ -26110,23 +25927,11 @@ query.php
 queries/
 *quantity*
 *quantity=*
-?q=taxonomy/term/*
 *?qt-*
-?q=system/
-?q=register/
 *.qr
 *_qpromo*/shop/
-?q=printpdf/
-?q=moderator/
 */?q=logout/
-?q=login/
-?q=forgot/
-?q=crss/*
 */?q=contact/
-?q=comments/
-?q=comments
-?q=comment/*
-?q=comment
 QBCD-psephds1
 qa/*
 q8/
@@ -26440,7 +26245,6 @@ privacy/zoho-group.html
 privacy-policy
 privacy/cookie-policy.html
 *?*print=y
-?print_view=true
 *PRINT_VIEW=
 print/sudoku/
 print.php
@@ -26464,7 +26268,6 @@ print.aspx
 *print/
 *.print?
 */print
-?print
 PrimaPagina.php
 prilog/*
 prijavljivanje/
@@ -26505,7 +26308,6 @@ preview-new
 preview-h/
 preview.do
 *?preview
-?*preview=
 prev/
 *?prestitial=
 press/world/?start_p=*
@@ -26968,7 +26770,6 @@ Papers/AAAI/2015/
 panier*
 panier/*
 *p?=*&amp;*
-?p=*&amp;
 pallo/
 pal/
 paidcontent/
@@ -26980,7 +26781,6 @@ pageviews.php
 page/test-claim-449002f8bf705eba132a38364982f6e7/
 pages/themes/
 Pages/Search*</pre></body></html>
-?pagespeed
 pages/openvpn-ios/au-perth.ovpn
 pages/legal*
 *?PAGESIZE
@@ -26989,7 +26789,6 @@ pages/informacionnyi_razdel/novosti/gruppy_i_stranicy_avtostat_v_socialnyh_setya
 page/*/?search=
 pages/college/
 *page=rostov
-?page=reg
 pageRating.do
 page/</pre></body></html>
 page_personnelle/messagerie_instantanee/
@@ -27005,7 +26804,6 @@ pagenotfound/
 *?*PAGEN*
 *PAGEN*
 */?PAGEN
-?PAGEN_*
 *page_len
 *page=last
 *page=kazan
@@ -27032,7 +26830,6 @@ page/*
 */*~_page*
 *?*page*
 *page
-?page*
 paffairs/SPCCOctober.htm
 paffairs/release/2003/12-03oilrecall.htm
 paffairs/MSFlastweekend.htm
@@ -27057,8 +26854,6 @@ paas/
 */p/
 *?p=* 
 *p=*
-?p*
-?p$
 owners/index.cfm
 overdue.wbp
 _overArg$
@@ -27199,7 +26994,6 @@ oc/
 obratitsya-k-meru/internet-priemnaya/poisk-obrashcheniy/
 *?objInBlock=
 object
-?obj=*
 OBCD-PCHRFAM1
 o-banke/press-centr/novosti-i-press-relizy/?*&amp;page=
 o-banke/*?feed=
@@ -27274,14 +27068,12 @@ no_no/*
 *_nonbts*/shop/
 *nomobileredirect=
 *?nomobile=
-?nomobile=* 
 nomirror/
 nomirror
 *?nominify=*
 *?nominifay=*
 nomera/*
 */*nomen*
-?nolp$
 *no_js=
 *no_js=
 */nojs/*/
@@ -28001,7 +27793,6 @@ loguit.html
 logs/*
 *logout?redirectPath=
 *logout.php*
-?logout&amp;redirect_to=
 logout/
 *?*logout*
 *logout=*
@@ -28039,7 +27830,6 @@ log_in
 */login$
 */login?
 *?login=
-?login=
 logginn/
 log/2003
 log/2002
@@ -28079,7 +27869,6 @@ Lists
 list-Redirect.php?*
 list-Redirect.php
 list.php?*
-?list=page-1
 listing-feed
 *ListId=
 listes/
@@ -28103,7 +27892,6 @@ linkedin/
 linevo
 limited-release/
 */limited-release
-?limited=1
 */limited/*/
 *limit=*
 *?limit*
@@ -28289,7 +28077,6 @@ key/ASWD56425CSA
 *key=
 kerb/
 kemerovo
-?kelime=*
 Keepsakes-gifts-for-her-PHERKEP
 keepalive.html
 ke/*
@@ -28632,7 +28419,6 @@ irkutsk
 ireceipt/get/
 ireceipt/get?
 ir_docs/
-?ir$
 ipv/
 ipoteka/subscribe/
 ipoteka/$
@@ -28698,7 +28484,6 @@ in.php
 innovatsii/
 innovation
 inmotion/
-?inline=true
 initiatives/financial-stability/results/
 initiatives/financial-stability/programs/
 initiatives/financial-stability/Pages/default-old.aspx
@@ -28906,17 +28691,13 @@ ie/*
 *idx=*
 *id_user
 *idteam
-?id_suburbian=*
 *id=seiteempfehlen$
 *ids=
-?id_office=*
 IDMS/
 idg/
 id/forms/sd-wan-business-use-cases.html
 id/forms/dem-solution-brief-riverbed.html
 id/forms/companies-need-improvement-performance.html
-?id_flat2=*
-?id_flat=*
 *id=feedback$
 *?id*egNews
 idea/
@@ -28927,7 +28708,6 @@ idalgo
 */?id*
 *?id=
 *?id*
-?id=
 *ICSA*
 *icsa*
 *ICPA*
@@ -29153,7 +28933,6 @@ headers
 header.php
 hcp/
 *hc_location
-?hc_location
 hc
 HBCD-pcommun1
 hawks/
@@ -29526,7 +29305,6 @@ ge*
 */gde-vzyat-ipoteku/
 gc_video_dailymotion/
 *?gclid
-?gclid
 gc/gc_buy.jsp
 *GCF_
 gc/
@@ -29624,7 +29402,6 @@ frontboxes/
 */from=
 *?*from=
 *from
-?from=
 fr/node/add
 fr/my-account
 fr/map
@@ -29875,7 +29652,6 @@ form_leads
 *formfactor=
 *?*format=raw
 *format=pdf*
-?*format=pdf
 *format=*
 format/
 *format/
@@ -29883,7 +29659,6 @@ formassembly/form-builder/4.1.0/css/wforms-layout.css
 formassembly/2767
 */form
 forgotpw/*
-?forgot_password=yes
 forgot_password.php
 *ForgotPasswordEmailView 
 *forgot_password=*
@@ -29909,7 +29684,6 @@ folders/
 */folders/
 *folder_id=$
 FO/
-?f_name=*
 flyout/
 flymap/
 flyers/
@@ -29919,7 +29693,6 @@ flv/
 *.flv
 *flv
 *flt=
-?flt_*
 flowplayer/flowplayer.commercial-3.0.7.swf
 flowers-plants-PFLWBSL
 flowers-plants-her-PHERFLP
@@ -30022,7 +29795,6 @@ feedback/answers/
 feedback-*/
 */feed            
 feed*
-?feed= 
 fe_data/
 feb23.html
 features/apps_detect_extension.php
@@ -30112,7 +29884,6 @@ export_files/
 _export$
 explicit/
 explain/
-?expId=confirmEmail*
 expert/
 *expand
 exit-poll-2012
@@ -30219,9 +29990,7 @@ es/de/
 es/data/
 es/connectors-request.aspx
 es/cart/
-?_escaped_fragment_=/myfeed
 *_escaped_fragment_*&amp;*
-?_escaped_fragment_=/all
 *_escaped_fragment_=?*
 es/call-back-form.aspx
 es/banners.aspx
@@ -30474,7 +30243,6 @@ ekaterinburg
 *?eID=*
 *eid=
 EH/
-?EGOTECpage
 *egister.aspx    # remove DNN page
 eg/*
 *efault.aspx?*   # hide tabID and other incorrect url formats
@@ -30524,7 +30292,6 @@ earn
 e107_handlers/
 e107_files/cache/
 e107_admin/
-?e*
 dz/fr/*
 dzerzhinsk
 dz/en/*
@@ -30918,7 +30685,6 @@ dbg/
 DBCD-PBABBSL1
 *.db$
 *?da=Y
-?day
 datos/pdfs/BOE/2008/278/A45896-45897.pdf
 datenschutz.php
 date-format/
@@ -30954,7 +30720,6 @@ dacha.html
 *?DA
 d.*
 d/*
-?d$
 cz*
 cz/*
 *cy_id=
@@ -31354,7 +31119,6 @@ Coffeebreak
 codetest/
 *?*CODE=sms4b_1C77.7z*
 _codes/
-?CODE=*
 *code=
 *code=*
 *?code
@@ -31463,7 +31227,6 @@ citynews/unsubscribe/
 *?city_id=
 *?*city=*
 */_city*
-?city
 cip
 */cinema/*/reservation/
 cinema
@@ -31689,7 +31452,6 @@ catalog-adaptive/
 */cat_*
 *?*cat=
 *?cat
-?cat=
 casl2
 casestudies/
 cases/
@@ -32226,7 +31988,6 @@ bad_link.php
 badge/
 bad-behaving-searchbot/
 *BACK_URL
-?backurl=*
 backups
 back_to_school_gifts_for_kids-pbkdb2s
 backstage
@@ -32280,7 +32041,6 @@ autodiscover.xml
 autodiscover/autodiscover.xml
 autocredit.php
 auth/verifychallenge/
-?authtoken=
 *?auth_service_id=
 *auth_service_
 authors/contest/
@@ -32376,7 +32136,6 @@ a-sms_reminder
 askvrach.php
 asia/*
 a-search
-?asd*
 */*asc*
 *.as$
 *?artseo
@@ -32425,7 +32184,6 @@ ar_es/*
 a-register
 area_switcher*
 Areas/HelloAsso/js/site.js
-?area*
 archivev2
 archives/upload/*
 archives/index.2*
@@ -32613,7 +32371,6 @@ amtrak
 *?&amp;search
 *&amp;s=              
 *&amp;s=             
-?*&amp;s=
 *&amp;rubric=
 *&amp;reserved=
 *&amp;rec=
@@ -32626,7 +32383,6 @@ amtrak
 *&amp;pagenum=
 *&amp;page66=
 *&amp;pag=
-?*&amp;p=
 *&amp;order=*
 *&amp;order
 *&amp;nrc=*
@@ -32700,7 +32456,6 @@ allart/
 */*~_all-1_
 */all/
 *?alkey=*
-?a=ljpost&amp;login=*
 alive/
 alipay/*
 *?alias=
@@ -32898,7 +32653,6 @@ active/
 actions/promo500/
 */actions/partners_vd/*/*/*
 *?action=show_basket
-?action=show_basket
 *?action=search_form
 *?action=search*
 *?action=printpage$
@@ -32945,11 +32699,9 @@ account/*
 accommodation/
 accessibility/
 ACCD-PCHRBAB1
-?ac&amp;e*
 academy/
 _academics/*
 ab_testcontent/
-?abtest=1
 abtest$
 */abtest/
 abstract/*
@@ -33052,7 +32804,6 @@ a0/ru/t3
 3d_m300/
 33/
 32/
-?3$
 2Star-*-Hotels-*.s20-n*-t*.Travel-Guide-Filter-Hotels
 2Star-*-Hotels-*.s20-n*-t*-b*.Travel-Guide-Filter-Hotels
 2Star-*-Hotels-*.s20-n*--b*.Travel-Guide-Filter-Hotels
@@ -33113,7 +32864,6 @@ a0/ru/t3
 *16-1/
 15/?
 15/
-?148*
 *14-1/
 14/*
 14/
@@ -33183,7 +32933,6 @@ a0/ru/t3
 *==$
 ]$
 /
-? 
 :/
 :
 wp-admin/
@@ -33385,7 +33134,6 @@ yx/
 yves/
 yupe/backend*
 yummy/ilogin.php
-?ytvideo=
 yritysasiakkaat/lomakkeet/kiitos-sivut/
 *?*yr=
 ypxl.php
@@ -34709,7 +34457,6 @@ wcm/administrator/
 wcm/administration/
 wc_interactive_map.asp
 wcd/noindex/
-?wc-ajax=get_refreshed_fragments
 wbdiscover/
 *?wb
 wb-
@@ -34779,7 +34526,6 @@ _vv/
 */vuelos-mas-baratos-*
 VTK/Testing/
 vtk/quality/
-?vtkn
 VTK/doc/release/3/
 _vti_txt 
 vti_cnf 
@@ -35654,7 +35400,6 @@ urllist/
 Url.aspx*
 *{{URL}}*
 url/
-?url=
 *?uri
 ureq.php
 urdu/
@@ -36149,7 +35894,6 @@ tron/
 trnl/
 trko/
 trk-download/
-?trk=*
 trk
 trja/
 triton/modules/calendar/calendar.php
@@ -36609,13 +36353,8 @@ tjenester/it/applikasjoner/nettskjema/include-files/
 *titt*
 *tits*
 title/tt*/mediaviewer/rm*/tr
-?title=Template
-?title=Special:
 title_profile.asp
-?title=MediaWiki
 title_items.asp
-?title=Image
-?title=Help
 *title=*
 *?*title=*
 title/
@@ -36793,7 +36532,6 @@ textsize/
 textsections/
 textSearch.do*
 textpattern/
-?textonly
 text_generator/*  
 *text=*
 */?text
@@ -37320,7 +37058,6 @@ t3/accesscontrol/
 *_t12*
 T/
 *t=*
-?s=* # страницы с результатами поиска
 *?s=              # РїРѕРёСЃРє
 szukaj*
 szukaj$
@@ -38609,7 +38346,6 @@ source_guest_sign.asp
 SourceDocs/
 *?*source=*
 *source= 
-?source=*
 soulsalesol/*
 soubory/
 *sort=year_desc*
@@ -38659,7 +38395,6 @@ sort=
 */?sort*
 */?sort
 *?*sort*
-?sort*
 sorry.php
 sorryPage.html
 sorry
@@ -38720,7 +38455,6 @@ social-login*
 socialism
 social.html
 social/help/search-results.html
-?social_controller=*
 */social-bookmarks.html$
 *.socialbar.html
 social-authorization/
@@ -38797,7 +38531,6 @@ slideshow/embed_code/
 *slideshow
 slideshow
 slides
-?slider_cat=frontpage-slider
 slidepix/
 slide_information/
 slf/mssp*
@@ -39333,8 +39066,6 @@ sida/ajax/
 *?SID
 *?sid=
 *?*sid
-?sid=
-?sid=*
 sicherheit/
 *shyty*
 *shytty*
@@ -39389,8 +39120,6 @@ ShowObject
 show_*minpow
 showmap.php
 show/logoutpage.html
-?showlogin
-?showjoin
 *showId=
 show_*.html
 *?show=full
@@ -39943,7 +39672,6 @@ send_to_friend?page=*
 *sendtofriend*
 *send-to-friend
 *sendto_form
-?send_to=
 sendthread.php*
 sendthread.php
 sendrequestonproduct.aspx
@@ -40301,8 +40029,6 @@ search
 @@search$
 @@search/
 @@search?
-?search_=*
-?search=
 -search
 _/search/
  /search*
@@ -40354,7 +40080,6 @@ scratchandwin
 scrapsbook/
 scrapertrap/
 scout/
-?s=coupons
 scotland/preview/
 scotland-by-rail/events/*
 *score_shop
@@ -40558,7 +40283,6 @@ s/
 s/*/*
 *s=*
 *?*s=
-?s=
  *s=
 rw/WashingtonPost/Content/Epaper/
 rweb/
@@ -41174,7 +40898,6 @@ Ressourcen/Overlay/
 *._responsive.header.includes.bottom_nav_local.html
 *._responsive.detail.teads.html
 *._responsive.alpregio.html
-?responsive=*
 responsibilities
 _respectToString$
 _respect-keys-internal$
@@ -41384,8 +41107,6 @@ _/_/report/*
 */?replytocom
 *?replytocom*
 */?replytocom=*
-?replytocom=
-?replytocom
 *?reply-to
 */Reply
 *reply=
@@ -41731,7 +41452,6 @@ refresh
 *?*refipid=*
 *refineSearchString=
 refinery
-?ref_id
 *?reff=menu_main
 *ref_filter
 refer/thankyou/index.html
@@ -41754,8 +41474,6 @@ refer-21352/
 *?refer=
 *?ref=*
 *__ref=*
-?ref=*
-?ref=
 reembed/
 redzone/
 *redwarp*
@@ -42063,25 +41781,12 @@ r-*
 *r=*
 *?r
 *_r=*
-?r*
-?r
 _r/
-?q=wifi/
 qwerty/
 qvp/pin/success.action
 qvp/info.action*
 qvp/activate/main.action
-?q=user/register*
-?q=*/user/register/
-?q=user/password*
-?q=*/user/password/
-?q=user/logout</pre></body></html>
 */?q=user/logout/
-?q=user/logout*
-?q=*/user/logout/
-?q=user/login*
-?q=*/user/login/
-?q=/user/login
 quotes/search-for-quotes.aspx
 quotes.html
 Quotes/
@@ -42108,7 +41813,6 @@ quienes-somos/*
 *QuickView
 quickView
 *?quicktabs_happens_now=0/
-?quicktabs_happens_now=0/
 *quicktabs_*
 quickstart
 quickregister
@@ -42166,14 +41870,9 @@ qu/
 *?qtyAvailable
 *?qt-view_*
 */?q=translation_not_found$
-?q=translation_not_found$
-?q=top-news/
-?q=textsize/
-?q=/taxonomy/*
 *?qt_*
 qs.php
 */*/?q=search/
-?q=*/search/
 qsc/register/san-francisco/confirm
 qsc/register/mumbai/confirm
 qsc/register/dubai/confirm
@@ -42186,79 +41885,27 @@ QQ/
 */?q=printpdf/
 */?q=print/
 qp/
-?q=node/*/edit
-?q=node/*/content/events/calendar/*
-?q=*/node/add/
-?q=node/*
 qlist/
-?q=les-recettes-de-cuisines/
 qiye/
 *?qiwinews
 *?qiwibanner_prioritet
 *qiwibanner*
 *?qiwibanner
-?q=infographies/
-?q=image-du-jour/
 QHb2bCount.html
-?q=fr/user/register/
-?q=fr/user/password/
-?q=fr/user/logout/
-?q=fr/user/login/
-?q=fr/search/
-?q=fr/node/add/
-?q=fr/filter/tips/
-?q=fr/comment/reply/
-?q=fr/admin/
-?q=forum/unanswered/
-?q=forum/new/
-?q=forum/active/
 */?q=filter/tips/
-?q=*/filter/tips/
 *?q_facetTrail=
-?q=event/*/*/*/week/all/all
-?q=event/*/*/*/table/all/all
-?q=event/*/*/*/month/event/all
-?q=event/*/*/*/day/event/all
-?q=event/*/*/*/day
-?q=en/user/register/
-?q=en/user/password/
-?q=en/user/logout/
-?q=en/user/login/
-?q=en/search/
-?q=en/node/add/
-?q=en/filter/tips/
-?q=en/comment/reply/
-?q=en/admin/
-?q=depeches/afp/0/
-?q=depeche/
-?q=crss
-?q=*/comment/reply/
-?q=commentaires/
-?q=checkout/
-?q=category/userpoints/
-?q=category/ad-groups/
-?q=cart/
 *?q_brandId=
-?q=book/print
-?qa=test2
-?qa=test
-?q=article/
 */qans.t0
 */qans.coms
 */qans.addq
 *?q=*&amp;*
-?q=ajax/
 qa/*.html
 *_qa.html
-?q=*/admin/
-?q=ad/
-?q=actu/
 qa/c/ReportPost/Report
 qa/c/ReportPost
 qa/c/Question/Ask
 qa/c/Profile
 qa/c/profile
-?q=account/article/create/
 qa/c/Controls
 qa/c/Contributor/List
 qa/c/API/AutoComplete.aspx
@@ -42280,9 +41927,6 @@ pz/pv/abmeldung.html
 pz/news/
 pytania/taxonomy/term
 pyear
-?p=ydrt0417
-?p=ydrsya0417
-?p=yamichat17
 pwyw.html
 pwp
 pwdata/scrapedxml
@@ -42291,8 +41935,6 @@ pwdata
 pwa/
 *.pvoLandingpage.html
 *pview
-?pvergleich_remove
-?pvergleich_add
 PV/
 pv
 *pusy*
@@ -42674,7 +42316,6 @@ psg/help/cookies-list/
 psg/help/cookies/
 psg/AjaxService/
 *?p=search*
-?p=search*
 psearch
 psd/
 *.psd$
@@ -45467,7 +45108,6 @@ picnic/
 pickup.
 *pickup
 *_pic*.html$
-?p=ibuild
 physics/
 *phuq*
 *phuks*
@@ -45622,8 +45262,6 @@ PhaseLaunch
 */pgtrack.js
   /pgp-key/			# IS -   2/19/2016
 */*?pgId=
-?p=gadw17
-?pg=
 pfs$
 pfs/
 pfr/
@@ -45935,7 +45573,6 @@ peniadmin111/
 */penerbangan termurah-*
 pendler</pre></body></html>
 *penas*
-?p=elektromb
 *peinus*
 *?*pegi=*
 pega/customers-for-life
@@ -46030,7 +45667,6 @@ pda/pda-describ/*/*/
 pd/
 *?p=comments*
 pcgi-bin # no programs
-?p=Celentano
 pc/calendarpaper.php?*
 pcabinet/
 PC
@@ -46229,7 +45865,6 @@ p/*/amp*
 *?pam=
 *p_all_items
 palladian-files/
-?palette*
 */paint-equipment-and-supplies/N-*Z*Z
 */PaidContent/*
 pa/*.html
@@ -46250,7 +45885,6 @@ pages/user/login/
 pages/UPGRADE.txt
 pages/update.php
 page-strength/*
-?page=stat
 *?PageStart=0*
 */page__st__
 Pages/STREAMLIGHT
@@ -46380,8 +46014,6 @@ page/login
 pagelets/cookie-bar
 *Page-Include*
 page-improvements*
-?page=hotellist_json
-?page=hotel_ajax
 pageframe/
 (page)/*/(filtre)/*
 PageFiles/
@@ -46486,8 +46118,6 @@ p2/
 */?p=
 p?*
 *?p
-?p=*  
-?p
 ozg 
 ow_version.xml
 ows/ 
@@ -46506,7 +46136,6 @@ overture-
 overstock-garage/
 *override_item
 Overlays
-?overlay=*
 over-het-museum/organisatie/medewerkers/
 over-de-vpro/bedankt$
 outwear
@@ -46701,7 +46330,6 @@ OrderCalculate
 *?orderBy
 *orderby=*
 *?*orderby=
-?orderby=
 order-b/
 order/assay-builder/
 *order.aspx
@@ -46772,7 +46400,6 @@ openvz-catalog/
 openurl/
 openurl
 *openTabName
-?_openstat=
 openSearch.xml
 openSearch_IE.xml
 opensearch/
@@ -47223,7 +46850,6 @@ nomail-en/
 nomail/
 nolink
 NOKIA
-?nojs
 */no-internet-heading-assisted
 */no-internet-heading-assigned
 no/int/
@@ -47505,7 +47131,6 @@ ngw/eventassets
 ng/regcomplete
 ngphp
 */nginx.conf.sample
-?ng=*
 *?*nf=true*
 nfredirect/
 nfl/format/player/design09/dropdown
@@ -47794,7 +47419,6 @@ news/*/*/
 news/*?*
 news/ 
 news?*
-?newrob=
 *newReview
 newreply.php*
 new-products/The Truth About Granite and Radon.pdf
@@ -48527,10 +48151,8 @@ models/bios/
 *mode=list
 *?*modelFacet=*
 */model/*
-?mode=invite
 *mode=grid
 mode/fashion-depannage/*
-?mode=common&amp;act=adduser_form
 *mode=cart 
 *?mode=ajax*
 *mode=account
@@ -48540,7 +48162,6 @@ mode/fashion-depannage/*
 mode/
 */*?mode=
 *?mode=*
-?mode*
 *_modal.html
 modal_forms/
 *modal=*
@@ -49960,7 +49581,6 @@ login.html*
 *.login.html*
 login.htm
 login/?*guestpasskey=
-?login-first=1
 login/facebook/
 login/facebook
 */*/login?error=true
@@ -49985,7 +49605,6 @@ login/*/
 */_login
 *?login
 .*login
-?login=*
 _login
 logging?*
 logged-out/
@@ -50218,7 +49837,6 @@ liquidcontent.*.*.json.html
 */*.liquidcontent.json.html
 linux/
 linux?
-?linkurl=
 link-to-us
 links/</pre></body></html>
 linkshrinking*
@@ -50262,7 +49880,6 @@ limited/
 *?limit=*
 *?*limit=
 *?*limit
-?limit=*
 *lilly+4k*
 lillian/
 lilianreis/*
@@ -50340,7 +49957,6 @@ lh-deal*
 LGPL.txt
 *?lgeurl=*
 lgecs.downloadFile.ldwf?*
-?lg*
 lg
 *?*lf=*
 *lezzie*
@@ -50444,7 +50060,6 @@ lcl/file.jsp
 */LCDTV/
 lb/userRole/
 _LBStatus
-?L=blogs.blog&amp;article=4086
 lbin/video_usertrk.php
 lbin/ajax/drm_config.php
 lb/*.html
@@ -50741,7 +50356,6 @@ knitwear
 */knigi/*.html?book_binding_type*
 *.kmz
 *kmto=*
-?kmi=
 *kmfrom=*
 klaus/
 *KlarnaUtil-*
@@ -50790,7 +50404,6 @@ kid_announcementsmark*
 khmhfwt/
 kgfix*
 keywords/*
-?keywords*
 keyword_items.asp
 Keyword.asp
 keyword.asp
@@ -50818,7 +50431,6 @@ kb/search/
 katrina?
 katitaarts/*
 kategorie-rss
-?katalog_=*
 karstadt/
 Kampanyalar/WildfireS/*
 Kampanyalar/Clear_Skin_3.swf
@@ -50850,7 +50462,6 @@ junk/</pre></body></html>
 junglee/
 *jump_to
 *?jumpto=*
-?jumpto=*
 jump.php
 JumpData/
 Jump/
@@ -51009,7 +50620,6 @@ jp/ja/admin/
 *.Jpg$
 *.jpg
 *.jpg*
-?.jpg
 jp/forms/the-devops-approach-to-delivering-frequent-high-quality-applicat.html
 jp/forms/temp-email-form-ty.html
 jp/forms/temp-email-form.html
@@ -52665,7 +52275,6 @@ iframe_activitylog.asp
 *?iframe
 *iframe
 *?iframe
-?iframe=*
 iforum/userprofile.cgi
 iforum/search.cgi
 iforum/mailto.cgi
@@ -52780,7 +52389,6 @@ ID/
 *?*id=*
 *:id*
 *?id=* 
-?id
 ict/
 */icqfuns/call/*
 iconf/manage
@@ -53497,8 +53105,6 @@ htbin
 *.htaccess$
 *.htaccess
 hsw.php
-?__hstc</pre></body></html>
-? __hstc
 *__hssc
 hsca/hs_aup.phtml
 h-s/
@@ -54282,7 +53888,6 @@ go$
 go/ 
 go?*
 */*/go/
-?go
 gm/userRole/
 *gmc
 *gmc
@@ -54890,9 +54495,7 @@ frontdoor/
 *?___from_store=
 *?___from_store=*
 *___from_store=
-?from=rr
 *from=*				# ni
-?from=newsletter
 *from=marketgid
 *?frommarket=
 *_fromLogout=
@@ -55990,7 +55593,6 @@ forum/action/
 forum/*action
 forum/?a=&amp;dend*
 forum5/
-?forum=1
 Forum/
 forum/
 forum$
@@ -56228,7 +55830,6 @@ forecast
 For-Consumers/
 for-consumers/
 *forceredesign=
-?forced*
 ForBusiness/DocumentSystems/MFPsPrinters/
 *forbidden+internet+porn*
 forbes/
@@ -56783,11 +56384,9 @@ fbl/faq.html
 *fb_index
 fbh
 */fbdn_
-?fb_comment
 *fb_action_ids
 *?fb_action_ids=*
 *?fb_*
-?fb*
 */favouritedesigners/items.aspx
 favourite*
 favoritos/
@@ -57625,7 +57224,6 @@ epp/
 epp
 epn/en/healthcare-professional/support/devices/astral-series/toolkit.html
 *?epl=
-?epl=
 EpiServer/
 epimeleia/
 epic-
@@ -58762,7 +58360,6 @@ education/about_online_payment
 edtech/
 edtabs.php*
 *?EDMTOP001=*
-?EDMTOP001=*
 edm
 editwebspace/
 edit-transportation/
@@ -58915,7 +58512,6 @@ dwr/interface/RandCSearch.js
 dwr/call/plaincall/ModelSearchUtil.getAllMakes.dwr
 dwgiwlzpn
 *?dwcont=*
-?dwcont=*
 DW_COM/
 dw_com/
 dw/
@@ -59039,11 +58635,9 @@ download_*
 *download.*
 *download/
 downladm/
-?do=web-login
 double-rainbow/
  /doubleclick_banners*
 dotgov/
-?do=subscr
 DOStubs/
 dostavka/po_moskve.html
 *dossier_company/ 
@@ -59071,14 +58665,11 @@ doska/add-adv/
 *doska/*add/
 *doska*/*action_type
 dosh
-?do=search
 *do=resendpwd*
 *?do=reportComment
 *do=points
-?do=podarki
 *?do=pm
 *?do=pm
-?do=pm
 dop/info/smi/news/homepage_list
 dopfeedback.html*
 *doosh*
@@ -59154,7 +58745,6 @@ domain?
 dom/admincp/
 dom
 *dolly+little*
-?do=lastcomments_user
 dojo
 DOITT/
 doi/abs
@@ -59271,7 +58861,6 @@ doc/release/5.2/vtkDocHtml-5.2.0.tar.gz
 doc/release/5.2/vtkDocHtml-5.2.0.chm
 *?do=credit
 docreate*
-?do=comments
 doc/nightly/vtkNightlyDocHtml.tar.gz
 docfragment/99438012/
 docfragment/93177059/
@@ -59335,11 +58924,9 @@ doc/117761704/
 *?doc=*
 *?doc
 do_ajax/
-?do=addcomplaint
 DO/2-Bedroom-Apartments-For-Rent*
 do/ 
 *do=*
-?do=*
 dns
 Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸Ðº:
 dnc/
@@ -59803,7 +59390,6 @@ dfiles/
 dezh/
 de/web_downloads 
 *?dev=true
-?dev=true
 _devtools/
 devstaging/*
 dev-lit-trips
@@ -59958,7 +59544,6 @@ description.php
 description
 desc/
 *=desc*
-?*desc
 desarrolloprenebrijacom.nebrija.es/*
 deru/
 dero/
@@ -60796,7 +60381,6 @@ da/account
 da$
 da/*
 d9b44bd2g8e466341bf0l9455kb5f0c2280f63446ff9hk9ba41f05*
-?                # Ð²ÑÐµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° Ð½Ð° Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹
 d2l/
 *d1ck*
 D/
@@ -61039,7 +60623,6 @@ cs/Satellite/
 Css/
 .css$
 _css/
-?csrfmiddlewaretoken=*$
 *csrfKey=
 *?*_csrf=*
 csr/
@@ -63043,7 +62626,6 @@ cn/forex/Chinese Language Sites/
 */cnet_global_app_redirect.xml
 */cnetcore/js/*
 cn/en/
-?cn*
 cms/wp-includes
 cms_widgets/
 CMSVirtualFiles/
@@ -63236,7 +62818,6 @@ ClickInfo*
 *ClickInfo*/
 ClickInfo
 *?clickid=
-?clickid
 click_db.php
 clickBanner/*
 clickbank/
@@ -63304,7 +62885,6 @@ clanovi/
 clanek/*timeline--pageItem=
 claim-profile
 *cl1t*
-?ckssvar=
 cko/
 CJXML/
 civis/viewonline.php
@@ -63816,7 +63396,6 @@ ca/user/login/
 cat-supplies/images/
 cat/*/sub/*/sort_by_now/page/*/
 cat/*/sort_by_now/page/*/
-?cats=
 cat/*/products/
 cat.php
 cat-*.php
@@ -63864,7 +63443,6 @@ categoryimages/
 *?*CategoryId=
 *categoryId=
 *?categoryId
-?categoryId=*
 *?category_id=*
 category/household-tips/page/
 category/household/
@@ -64438,8 +64016,6 @@ C/
 c/
 *?*c=*
 *?c
-?c=
-?c
 _c/
 BZ/2-Bedroom-Apartments-For-Rent*
 bypass/*
@@ -66679,7 +66255,6 @@ backgrounds
 backend.php/
 backend.php
 backend*
-?back=
 Bachelors_degree/
 bachelors-completion/events/</pre></body></html>
 bachelors-completion/bio/
@@ -67507,7 +67082,6 @@ attachment_files
 */?attachment
 *attachment/
 *?attachment
-?attachment=
 attaches/
 *attach&amp;type
 attach
@@ -67747,7 +67321,6 @@ artikel-archiv/vereinsgruender-missbrauchte-knaben
 artikel/2/send/
 artikel/2/print/
 artikel/2/insert/
-?artid
 articoli/includes/
 articoli/ajax/
 article/world/
@@ -68340,7 +67913,6 @@ Amsterdam/
 *&amp;query=
 *&amp;qt-view_*
 *&amp;qt-*
-?*&amp;pvergleich_add
 *&amp;*productCodePost=*
 *&amp;*productcodepost=*
 *&amp;print=yes
@@ -68458,8 +68030,6 @@ also/
 Als.Commerce/
 alquiler-de-coches/resultados/*
 *alphabet/
-?a=longpost&amp;id=2755388&amp;page=6
-?a=longpost&amp;id=2755388&amp;page=3
 alogs/
 alod/
 alminuto.asp
@@ -68491,7 +68061,6 @@ allarticles/
 */Alla-publikationer
 */alla-publikationer
 *all*/all$
-?all=*
 all
 alicampbellbook
 aliasy/blad.jsp
@@ -68850,7 +68419,6 @@ adresskollen/
 ad/redirect/
 adRedir.do*
 adredir.asp
-?adpsk*
 adprint/
 ad.php
 adp/
@@ -69088,48 +68656,32 @@ activate/*
 *action=writeReview
 *action=view_posts
 *action=submitreview*
-?action=stats
 actions/secure/
 actions/logoutPageAction.action
 *action=siteSearch
 action/showLogin
 actions/games/*
-?action=sendtopic
 *action=search
 *action=search
 actions/Disallow: /auto-responders/
 Actions.aspx?ActionTypeID*FirstLetter=*bookmark=*
 Actions.aspx?ActionTypeID*bookmark=*FirstLetter=*
 actions
-?action=reminder
 *action=register
-?action=register
 *action=quickSearch&amp;
-?action=profile
 *action=productSupportSearch
 *action=productLinkAction&amp;
 *action=productcompareaction&amp;
-?action=printpage
-?action=post
-?action=pm
 *action=overlay&amp;
 *action_object_map=
-?action=notify
-?action=mlist
-?action=markasread
 *action=history*
-?action=help
 *action=export_rss
 *action=edit*
 action/doImageSearch
-?action=dlattach
 *ActionDate=*
 *?*actionCosmetic=*
 *action=compose 
 *action=catalogsearch&amp;
-?action=calendar
-?action=admin
-?action=activate
 *action=accessorysearch&amp;product=*&amp;*
 *action=accessorysearch&amp;
 *ACTION=505*
@@ -69151,7 +68703,6 @@ action*
 action$
 action/*
 action?
-?action=
 *?act=Help
 *?act=help
 *?act=Forward
@@ -69168,7 +68719,6 @@ act-blog/business-growth/*
 *?act=Attach
 *?act=attach
 *act=
-?act=*
 acrobat/
 a/createTopic.do
 acquisitioncontent/
@@ -69439,7 +68989,6 @@ abczdrowie/js/
 abczdrowie/css/
 abc.aspx
 abc3/
-?ababagalamaga
 *?ab=
 aatest/
 aarhus/kompas/
@@ -69567,7 +69116,6 @@ a/
 7501017/orders
 7501017/checkouts
 75/
-?75
 7449/
 7399215/orders
 7399215/checkouts
@@ -70075,7 +69623,6 @@ $720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/New-page
 3379396672/orders
 3379396672/checkouts
 32528872/lateral-selo
-?32-*
 31110078/*
 31041358/orders
 31041358/checkouts
@@ -70649,7 +70196,6 @@ $720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/New-page
 17282157/orders
 17282157/checkouts
 17/
-?17
 169054071/Gumtree_*
 169/
 16868101/orders
@@ -70705,7 +70251,6 @@ _135265_asg_bersa_thunder_9_pro_17302.html
 13306287/checkouts
 132testme2
 132testme
-?13
 12q/*/results.html
 12982124602/orders
 12982124602/checkouts
@@ -70868,7 +70413,6 @@ _135265_asg_bersa_thunder_9_pro_17302.html
 00/
 */0/
 *-_-
-?
 *?$
 *?_*
 *;*
@@ -70892,14 +70436,10 @@ _135265_asg_bersa_thunder_9_pro_17302.html
 *~* 
 $
 .../
-?*=*
-?$
-?               
 ;
 -*
  	
     
-?
 _*
 includes/
 
@@ -70913,8 +70453,6 @@ path, e.g. the Disallow rule for the /administrator/ folder
 家教/</pre></body></html>
 съпорт/благодаря 
 служба-поддержки/спасибо 
-?                # РїСЂР°РјРµС‚СЂС‹ Р·Р°РїСЂРѕСЃР° РЅР° РіР»Р°РІРЅРѕР№
-?                # РІСЃРµ РїР°СЂР°РјРµС‚СЂС‹ Р·Р°РїСЂРѕСЃР° РЅР° РіР»Р°РІРЅРѕР№
 ошибка 
 изход 
 добро-пожаловать/спасибо 
@@ -71420,7 +70958,6 @@ zipcode/
 *?zipcode=*
 *?*zipcode=
 *zipcode
-?zipcode
 zipcat
 zipcarboston/
 zip-beta.htm
@@ -72674,7 +72211,6 @@ YT/YT_common/
 yTos/
 yTos/
 ytn
-?ytb_id=
 ytacdallas/
 yt/*
 yt/
@@ -73124,7 +72660,6 @@ ydls.php
 ydhw-*
 ydevel*/
 ycpformer/
-?yclidg*
 *yclid*
 *?*yclid=
 *?yclid
@@ -73172,7 +72707,6 @@ yanstar/
 yansebaike/
 yanschon/
 yannisboutiqueartesa/*
-?yankee-converted=*
 yankeecloth/
 yangxia/
 yangtzecruise/cruisedate.asp?*
@@ -73236,7 +72770,6 @@ xyzzy        # non-existent directory for linklint workaround
 xyzsamplestore
 xyzprinting$
 xyzprinting/*
-?xyz
 xyz
 *.xyw$
 xy/upload/
@@ -73583,7 +73116,6 @@ xml
 *.xml?
 */?xml=
 */xml
-?xml=
  xml/
 xming*
 xmind/
@@ -73863,7 +73395,6 @@ x/*
 x_*
 */x$
 */x
-?x=
 wzoeken/
 _wzo_daten/amtsblatt
 wzgg1/
@@ -73887,9 +73418,7 @@ wysiwyg/</pre></body></html>
 wysiwyg_content/
 *:wysiwyg
 wysiwyg
-?wysija-page=1&amp;controller=email&amp;action=view*
 *?wysija-page
-?wysija-page
 wyryxo
 wyrifu
 wyqivy
@@ -74020,7 +73549,6 @@ wwwlog
 www/localizacion.php*
 www-literarus-de/
 *www.linkedin.com*
-?www.liga.net/
 */www.leapforkids.org/
 www.labs.jobserve.com
 www.ketlaw.com*
@@ -78548,7 +78076,6 @@ wtsbcal/
 wtsbc/
 wts/
 wtrazi/
-?wtm_id=
 *?wtmc=XING
 *WT.mc_id=*
 *WT.mc_ic
@@ -78782,7 +78309,6 @@ WriteReview*
 writeReview
 */write-review/
 */write-review/
-?writereview* 
 writereview
 writerevents/
 *Write_response.php
@@ -78896,7 +78422,6 @@ wpvi/
 *wp_validate/
 */wp-trackback.php
 *?wptouch_view
-?wptouch_switch
 *?wptouch_redirect
 *wptouch_preview_theme
 wp-topics/
@@ -79204,7 +78729,6 @@ wp/out/
 wposlovi/
 wposhuk/
 *?*_wpnonce*
-?wpmp_switcher
 *?wpmp
 wpm/
 wp-lwj/
@@ -80518,7 +80042,6 @@ wp-content/langauges/
 wp-content/html/form-contacto-interno.php
 wp-content/gt-cache/
 wp-content-frm/
-?/wp-content?/free-wordpress-themes?/*</pre></body></html>
 wp-content/files_mf/
 wp-content/*.fb2$
 wp-content/external/tpl-mailchimp/
@@ -80538,7 +80061,6 @@ wp-content/cache/object
 wp-content/cache/index.html
 wp-content/cache/config
 */wp-content/cache/*
-?/wp-content?/cache?/*
 wp-content/bps-backup/
 wp-content/bps-backup
 wp-content/blogs.dir</pre></body></html>
@@ -80572,7 +80094,6 @@ wp-commentsrss2.php
 */wp-comments-post.php
 wp/comments/feed
 wpcmsapi/get_category_posts/
-?wp-cmd=cron/
 wp_clock.php
 wp-cache.php
 wpc
@@ -81228,8 +80749,6 @@ word/jigaboo
 word/golliwog
 wordfrom3rd/
 *wordfence_logHuman*
-?wordfence_logHuman
-?wordfence*	
 word/faggot
 word/erotic
 word/erogenous
@@ -82742,7 +82261,6 @@ wiebus/
 */?*width*
 *?*width=
 *?width
-?width=
 widnows/
 widnes.academy/
 *?widIn
@@ -82822,7 +82340,6 @@ widget/6/$
 widget*
 widget/* 
 */widget/
-?widget
 _widget/
 widerrufsrecht-telefonische-rechtsberatung
 widerrufsbelehrung
@@ -82832,7 +82349,6 @@ wicklownow/
 wicklineumc/
 *wicket:interface=
 *?wicket:interface=*
-?wicket*
 wickaboag/know-your-pet
 Wichert/
 wichakan2009/
@@ -83068,7 +82584,6 @@ where/availability/*
 wherearethechows/
 */Where2GetIt-Details
 *where*
-?*where=
 whepp14/
 when</pre></body></html>
 When
@@ -83996,7 +83511,6 @@ webtv/iframe/video*
 WebTvDikeyAnonsUst/
  /web/Turismo-magazine/
 webtrustseal
-?web=true*
 web/TR/telepresence/pro/	
 webtrends/</pre></body></html>
 webtrekk
@@ -84088,7 +83602,6 @@ websoft/
 web/social-media-registration.asp
 webslides/ 
 */webslices/
-?webslices?/*
 webslice/
 web/sk_old/
 webskin/
@@ -87645,7 +87158,6 @@ waar/prijs/*
 */waardering-6/waardering-7/*
 w9.pdf
 w9camisetas/*
-?w=956095
 w9/
 w4pl/
 w3t_private/
@@ -87835,8 +87347,6 @@ _vti_bin
 *_vti*
 _vti_
 v/theology/
-?v=thank-you-wp
-?v=thank-you-webinar
 */v_test/*
 v/test/
 vt/en/textonly/
@@ -87862,7 +87372,6 @@ vst_front/
 vs/textonly/
 */vstdbv3/download?secid=</pre></body></html>
 vsstudio/
-?v=sSFMboLbrSY</pre></body></html>
 vss
 *?_vsrefdom=googleppc
 VSPTX/newsdetail.aspx?news_id=11140*
@@ -88147,7 +87656,6 @@ vote/index/
 VoteHits.asp?*
 vote.hapi
 vote-for-us/
-?voted
 VoteCount/?action=*
 votechat/
 voteaza-retete*
@@ -88902,7 +88410,6 @@ vmusic/
 vmupdatecheck.php
 VMS Videos/
 vmssc-new
-?vm=r
 vmpn/
 vmoallians/
 vm-manual/
@@ -89209,7 +88716,6 @@ visitnow/
 visitnow
 *?*visit_motive_label_id=
 *?visit_month=
-?visitMenu=open
 visit/membership-calculator
 visitlog/
 visitlink.aspx
@@ -89690,8 +89196,6 @@ viewvc/*
 viewuserposts.asp
 */*/*/*/ViewUserAccount-*
 */*/*/*/*/*/*/ViewUserAccount-*
-?viewType=Print&amp;viewClass=Print
-?viewType=listView
  /?viewType=listView
 *viewType*
 *viewType=
@@ -90086,7 +89590,6 @@ view*
 *?*view=*
 *?*view= 
 *?*view=
-?*view
 vietri.service/
 vietnamtest/
 VIETNAM/rss/list
@@ -90993,7 +90496,6 @@ video/iframe/
 video/identificacao-por-radio-frequencia-pode-aumentar-a-seguranca-de-seu-predio/62849
 video/id/
 *video_id=*
-?videoid=
 video/i9991
 video/i999
 video/i9981
@@ -97028,7 +96530,6 @@ video/?*
 *video/
 */video/*
 *?video=*
-?video=
 vide.asp
 vid/cs-christmas/
 vid/*/content
@@ -97061,7 +96562,6 @@ vid/1234$
 VID/
 */*?vid=
 vid/
-?vid
 Vic_Vance/
 victorytemple/
 victory/result.php
@@ -97114,7 +96614,6 @@ vicsbikes/
 vi/copyright-notice
 vi/contact-us/
 vicons/
-?vicon.ico
 vicman.net
 vicman
 vicky.singla/
@@ -97174,94 +96673,12 @@ viajeIncentivos2014
 viaje-de-grupo/
 viaje-de-empresa/
 viaje/
-?viagra-without-prescription-online
-?viagra-the-pill
-?viagra-tabs
-?viagra-tablets-price
-?viagra-tablets-for-sale
-?viagra-tablets
-?viagra-tab
-?viagra-super
-?viagra-soft-tablet
-?viagra-soft-tab
-?viagra-soft-pills
-?viagra-soft-100mg
-?viagra-sildenafil-100mg
-?viagra-shipping
 viagra-sans-ordonnance.html
-?viagra-samples-for-sale
-?viagra-sample-pills
-?viagra-sample-overnight
-?viagra-sale-online
-?viagra-sale-cheap
-?viagra-sale
-?viagra-purchase-on-line
-?viagra-purchase-online
-?viagra-purchase-no-prescription
-?viagra-purchase-buy
-?viagra-professional
-?viagra-price-online
-?viagra-prescription-price
-?viagra-prescription-online
-?viagra-pills-for-sale
-?viagra-pills-cheap
-?viagra-pills
-?viagra-pill-for-sale
 viagra-pfizer-en-ligne.html
-?viagra-overnight-shipping
-?viagra-overnight-no-prescription
-?viagra-overnight
 viagra-original-ou-generique.html
-?viagra-order-cheap
-?viagra-on-prescription
-?viagra-online-without-prescription
-?viagra-on-line-sales
-?viagra-online-purchase
-?viagra-online-prices
-?viagra-online-prescription
-?viagra-on-line-pharmacy
-?viagra-on-line-order
-?viagra-online-no-prescription
-?viagra-online-for-sale
-?viagra-online-discount
-?viagra-online-delivery
-?viagra-online-cheapest
-?viagra-online-cheap
-?viagra-online-buy
-?viagra-online
-?viagra-no-prescription-overnight
-?viagra-no-prescription-online
 viagra-naturelle.html
-?viagra-low-price
-?viagra-lowest-prices
-?viagra-lowest-price
-?viagra-line
 viagra-generique-acheter-viagra.html
-?viagra-generic-sale
-?viagra-generic-brand
-?viagra-for
 viagra-en-pharmacie-en-france.html
-?viagra-discount-online
-?viagra-cialis-samples
-?viagra-cialis-levitra
-?viagra-cialis-for-sale
-?viagra-cialis-cheap
-?viagra-cheap-prices
-?viagra-cheap-prescription
-?viagra-cheap-no-prescription
-?viagra-cheapest
-?viagra-cheap
-?viagra-buy-no-prescription
-?viagra-buy
-?viagra-brand
-?viagra-best-prices
-?viagra-best-price
-?viagra-best
-?viagra-50mg-price
-?viagra-50mg-no-prescription
-?viagra-100mg-tablet
-?viagra-100mg-prices
-?viagra-100mg-pills
 *Viagra
 *viagra*
 *viagra
@@ -97271,7 +96688,6 @@ vi/agegateway/no-access
 viabeauteusa/
 VIA/
 *?via
-?via=
 */vi6bkpeftfha
 */vi5nfoem3fqk
 vi/404 
@@ -97992,7 +97408,6 @@ vend
 vence.scotte.garcia/
 vemvemfolheados/*
 vemcomigo/
-?v=embedded-wp
 velykoge
 veloclub/
 velocity/terms-and-conditions

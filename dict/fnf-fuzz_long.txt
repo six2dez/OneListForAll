@@ -1,4 +1,3 @@
-?fnf=fnf
 bogus_dir_fnf
 .bogus_dir_fnf
 ~bogus_dir_fnf

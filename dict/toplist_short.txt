@@ -451,7 +451,6 @@ manual/
 mapping
 master.passwd
 mc-icons/
-?M=D
 media/
 memberadmin/
 members.txt
@@ -562,7 +561,6 @@ proxy.pac
 psquare/x.jsp
 public_html
 publisher/
-?Publisher
 pwcgi/
 pwd.db
 pws.txt
@@ -603,7 +601,6 @@ samples/
 sap/
 scripts/
 Scripts/
-?S=D 
 search
 Search
 search-ui
@@ -798,19 +795,10 @@ wordpress/
 wp/
 wp-admin/
 wp-content/
-?wp-cs-dump
-?wp-html-rend
 wp-login.php
 _wpresources
 _wpresources/
-?wp-start-ver
-?wp-stop-ver
-?wp-uncheckout
 wp-users/
-?wp-usr-prop
-?wp-ver-diff
-?wp-verify-link
-?wp-ver-info
 ws_ftp.ini
 wvdial.conf
 ~www

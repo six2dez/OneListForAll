@@ -1,6 +1,3 @@
-?page=admin.auth.inc
-?page=auth.inc
-?page=auth.inc.php
 admin
 Admin
 admin-login

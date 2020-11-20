@@ -1,13 +1,3 @@
-?Publisher
-?wp-cs-dump
-?wp-html-rend
-?wp-start-ver
-?wp-stop-ver
-?wp-uncheckout
-?wp-usr-prop
-?wp-ver-diff
-?wp-ver-info
-?wp-verify-link
 admin-serv
 admin-serv/config/admpw
 admpw

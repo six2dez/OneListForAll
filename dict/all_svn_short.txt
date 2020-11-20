@@ -3215,7 +3215,6 @@ Tokenizer.php
 Relation.php
 Sequence.php
 Regexp.php
-????.txt
 cart.php
 html.xml
 filesystem
@@ -4920,8 +4919,6 @@ Notblank.php
 Usstate.php
 processor.php
 Footer
-??
-??.txt
 ArrayList.class.php
 Stack.class.php
 Administration.php
@@ -6496,7 +6493,6 @@ svg
 package-tree.html
 serialized-form.html
 WINDOWS
-????
 config.php.dist
 bg.php
 editorFrame.php
@@ -11396,7 +11392,6 @@ requirements.txt
 010.html
 ask
 house.php
-????.rar
 2009
 sql.lib.php
 resetpassword.php
@@ -11775,7 +11770,6 @@ devices
 suite
 yaml-dump.php
 yaml-load.php
-?????
 Errors.inc.php
 LoaderTest.php
 pagination.class.php
@@ -12421,7 +12415,6 @@ False.php
 todo.html
 Inicio.php
 arrows
-???
 rss_feed.php
 reverse.php
 bg.po
@@ -12708,7 +12701,6 @@ dat
 datadict-postgres.inc.php.bak
 adodb-oci8.old.inc.php
 adodb-session2.php.bak
-?? ????.txt
 phpthumb.license.commercial.txt
 slate
 Select.inc
@@ -13359,7 +13351,6 @@ acl.sql
 testACL.php
 testCreateData.php
 playlist
-????.html
 getUrl.php
 observable.php
 mysql2.php
@@ -14876,7 +14867,6 @@ Composite
 Group_fields.php
 Cart.class.php
 testAction.class.php
-??????.xls
 RTE.php
 Product.class.php
 ServiceController.php
@@ -16410,7 +16400,6 @@ all.sql
 foot.htm
 education.php
 income.php
-???????.rar
 46.html
 filter.inc.php
 pay
@@ -16508,7 +16497,6 @@ sitemap.xml.gz
 panda
 ConvertCharset.class.php
 compact
-??????????.txt
 en_us.lang.php
 reject.php
 bot
@@ -17484,8 +17472,6 @@ privacy.tpl
 nl.txt
 modifier.substr.php
 export_db.php
-?????.rar
-???????
 linklist.php
 es_MX
 imagemap.php
@@ -20646,7 +20632,6 @@ traderoute.php
 zoneedit.php
 02
 javascripts.php
-????.vsd
 1001
 article_cats.php
 download_cats.php
@@ -20725,7 +20710,6 @@ URITest.php
 apple
 opensearch.php
 class.Validator.php
-????.xls
 elimina.php
 nuevo.php
 fr.txt
@@ -20827,7 +20811,6 @@ RequestData.php
 file.tpl
 block.tpl
 utenti.php
-?????.xls
 funk.php
 main.fla
 np.php
@@ -21112,8 +21095,6 @@ gloves
 inn.php
 register_complete.php
 shop_functions.php
-???.txt
-???????.txt
 locations
 updates.sql
 subpages
@@ -21320,7 +21301,6 @@ get_ps_thumb.php
 XmlNode.php
 view_file.php
 train.tpl
-??????
 sv_SE
 help.class.php
 Flexy.php
@@ -22969,7 +22949,6 @@ luggerbu.ttf
 junction
 authentic.php
 DataBaseAPI.class.php
-??????.txt
 r.php
 AES128.php
 debuger.php
@@ -23278,7 +23257,6 @@ amconfig.html
 constant.html
 CompanyModel.class.php
 FriendsModel.class.php
-ThinkPHP????.CHM
 Userlogin
 TagLibAjax_yhustc.zip
 admin_cards.php
@@ -23970,7 +23948,6 @@ viewteam.php
 main_functions.inc.php
 header_simple.php
 tabview.php
-????????.txt
 blackberry.php
 desktop.php
 WCAuthor.php
@@ -28018,7 +27995,6 @@ class.phpgmailer.php
 form.ini
 imager.php
 ms.php
-??.xls
 editbook.php
 UnauthorizedException.php
 blitz
@@ -29372,8 +29348,6 @@ nano
 modules.conf
 man5
 man8
-??????.vsd
-???.vsd
 changepass.html
 notes_controller.php
 shell.test.php
@@ -31407,7 +31381,6 @@ member.sql
 world.sql
 userauth.php
 ADODB.chm
-PHP????.pdf
 Paris
 exif.inc.php
 exif_php.inc.php
@@ -34756,7 +34729,6 @@ elementindex_Common.html
 elementindex_Utility.html
 li_Common.html
 li_Utility.html
-?
 DeleteAction.class.php
 SearchAction.class.php
 usersModel.class.php
@@ -35376,8 +35348,6 @@ shop_include.php
 show-mapimage.php
 side_bar.php
 town_hall.php
-???????.xls
-???.xls
 .files
 invalid.html
 doLogout.php
@@ -36210,8 +36180,6 @@ admin_save.asp
 delvote.asp
 vote_save.asp
 vote_showcode.asp
-??? Admin_list.asp
-??? Vote_List.asp
 out.asp
 themes.tpl
 countvote.asp

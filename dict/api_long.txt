@@ -3,7 +3,6 @@
 &&
 =
 ==
-?:
 __
 _admin_notice_multisite_activate_plugins_page
 _e

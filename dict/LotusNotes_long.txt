@@ -1,7 +1,5 @@
 .nsf/../winnt/win.ini
 852566C90012664F
-?Open
-?OpenServer
 a_domlog.nsf
 account.nsf
 accounts.nsf

@@ -1,6 +1,4 @@
-../../../../../../../../../etc/passwd{{'
 .json
-../../../
 .//WEB-INF/web.xml
 ./admin/./
 ./secret/..
@@ -10,7 +8,6 @@
 /google.com/
 /secret//
 /securityRealm/user/admin
-?redir=google。com
 @download@
 \/twitter.com
 \\twitter.com

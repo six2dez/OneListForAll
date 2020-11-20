@@ -1456,7 +1456,6 @@ examples/info
 examples/jsp/index.html
 examples/jsp/snp/anything.snp
 examples/jsp/snp/snoop.jsp
-examples/jsp/source.jsp??
 examples/servlet/AUX
 examples/servlet/TroubleShooter
 examples/servlets/index.html

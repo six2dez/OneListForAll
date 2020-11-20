@@ -1,4 +1,3 @@
-../../../../../../../../../../WINNT/system32/ipconfig.exe
 /_vti_bin/fpcount.exe?Page=default.htm|Image=3|Digits=15
 0.cgi
 1.cgi
@@ -270,13 +269,11 @@ mkilog.exe
 mkplog.exe
 MsmMask.exe
 MsmMask.exe?mask=/junk334
-NUL/../../../../../../../../../WINNT/system32/ipconfig.exe
 Pbcgi.exe
 perl.exe
 perl.exe?-v
 post16.exe
 ppdscgi.exe
-PRN/../../../../../../../../../WINNT/system32/ipconfig.exe
 rguest.exe
 rightfax/fuwww.dll/?
 scripts/slxweb.dll/getfile?type=Library&file=[invalid

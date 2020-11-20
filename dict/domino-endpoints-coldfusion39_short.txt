@@ -297,8 +297,6 @@ npn_rn.nsf
 n_search.inf
 ntsync45.nsf
 ntsync4.nsf
-?Open
-?OpenServer
 pagesw46
 pagesw46.nsf
 patrol41.nsf

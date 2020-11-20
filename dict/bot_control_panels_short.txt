@@ -324,12 +324,6 @@
 97.php
 98.php
 99.php
-?12da89=12355930
-?7d456d68729292e9843cb9dde2d2f7b4=34
-?c480cfaa684e1dc0db1b2e1f891d814a=a15&8524421677ca0f8c20fd1cd2c1c6e0a7=sansit.in
-?f|-1813912965Admin
-?oJCT6bZIQg8BAAAAAAAAAAAAAAD0AQAAsLi
-?ptrxcz_VYadfikmqsuxz2469BEGILNPSUXZbe
 _bot
 _notes
 _UpgradeReport_Files

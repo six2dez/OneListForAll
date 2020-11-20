@@ -13,12 +13,6 @@
 /example.com//
 /https://example.com//
 <>//example.com
-?url=//example.com&next=//example.com&redirect=//example.com&redir=//example.com&rurl=//example.com
-?url=//example.com&next=//example.com&redirect=//example.com&redir=//example.com&rurl=//example.com&redirect_uri=//example.com
-?url=/\/example.com&next=/\/example.com&redirect=/\/example.com
-?url=/\/example.com&next=/\/example.com&redirect=/\/example.com&redirect_uri=/\/example.com
-?url=http://example.com&next=http://example.com&redirect=http://example.com&redir=http://example.com&rurl=http://example.com
-?url=Https://example.com&next=Https://example.com&redirect=Https://example.com&redir=Https://example.com&rurl=Https://example.com&redirect_uri=Https://example.com
 \/\/example.com/
 \/example.com/
 http://example.com

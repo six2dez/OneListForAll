@@ -1,5 +1,3 @@
-?Open
-?OpenServer
 AgentRunner.nsf
 DEASAppDesign.nsf
 DEASLog.nsf

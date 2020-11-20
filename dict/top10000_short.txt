@@ -27,17 +27,8 @@ MAINTAINERS.txt
 INSTALL.pgsql.txt
 UPGRADE.txt
 CHANGELOG.txt
-?q=admin/
-?q=node/add/
-?q=search/
-?q=comment/reply/
-?q=user/password/
-?q=user/register/
-?q=user/login/
 search
-?q=filter/tips/
 INSTALL.sqlite.txt
-?q=user/logout/
 _services/
 tncms/webservice/
 tncms/user/
@@ -136,7 +127,6 @@ m/
 calendar/community/search/
 wp-admin
 cart
-?
 App_Code/
 *?*
 orders
@@ -176,7 +166,6 @@ app/
 Activity-Feed/userId/	# Do not index user profiles
 gallery/
 groups
-?*
 index.php/filter/tips/
 Resources/Widgets/
 Resources/TabStrip/
@@ -209,7 +198,6 @@ install/
 go/
 alerts/
 temp/
-?q=logout/
 logout
 register/
 books/
@@ -224,7 +212,6 @@ ebooks/
 setprefs
 test
 m?
-?hl=*&amp;
 scholar
 palm
 imgres
@@ -390,7 +377,6 @@ landing/now/ontap/
 intl/*/about/views/
 hotels/rpc
 hotelfinder/rpc
-?hl=*&amp;*&amp;gws_rd=ssl
 help/maps/indoormaps/partners/
 forms/perks/
 finance?*q=*
@@ -432,7 +418,6 @@ wp-content/themes
 page/
 user
 secure/
-?s=
 files/
 feeds/
 assets/
@@ -755,7 +740,6 @@ story/sponsor-story/
 shop/
 redirect/
 t3lib/
-?q=contact/
 privacy
 calendar/fundraiser/search/
 apps/
@@ -807,7 +791,6 @@ media
 it/
 calendar/performer/search/
 Search
-?s=*
 l.php
 *login=
 autocomplete/
@@ -850,7 +833,6 @@ contact_importer/
 classifieds/sale/sale/*?
 checkpoint/
 *auth=
-?attachment_id*
 404.html
 track/
 realestate/*?
@@ -913,7 +895,6 @@ auth.php
 wrapper
 template
 tag
-?refresh
 offsite/
 home
 edit/
@@ -965,7 +946,6 @@ suspension-appeal/*
 story_pins/*
 */story_pins/*
 socialmanager/*
-?show_error=true
 showcase/settings/
 shop_pins/*
 settings/extension/uninstall/
@@ -1695,7 +1675,6 @@ homepage/
 gist/*/*/*
 */forks
 */*/feed/*/
-?feed=
 events/action~week/
 events/action~oneday/
 events/action~month/
@@ -2170,7 +2149,6 @@ social/
 sales/
 *rss
 report.php
-?q=user/register
 *?q=
 productupdates.php
 postreview.php
@@ -2260,8 +2238,6 @@ ta/
 Services/
 res/
 report-a-typo
-?q=user/password
-?q=user/login
 profile/*
 private.php
 pages
@@ -2463,7 +2439,6 @@ upvoted/
 subscribe
 *sort=*
 setup/
-?q=node/add
 pub/
 privacy-policy/
 print.php
@@ -2623,7 +2598,6 @@ application/languages
 *&amp;order=
 ac_university_departments
 ac_universities
-?action=search
 ac_search
 2013/
 2011/
@@ -2735,7 +2709,6 @@ calendar/get_out/search/
 calendar/food_and_drink/search/
 calendar/festivities/search/
 calendar/art_events/search/
-?blackhole
 attachment/
 *.asp
 app_data/
@@ -2977,7 +2950,6 @@ RatingAjax
 RateUserReview
 Rateit
 RacDetail
-?q=user/
 QuickReview
 QueryJson
 PromoTools
@@ -3020,7 +2992,6 @@ PageviewRecord
 pages/rss_terms.html
 PageMoniker
 packages/
-?p=*
 OwnerVerifyLocation
 OwnerSupport
 OwnersTermsAndConditions
@@ -3511,7 +3482,6 @@ CountryAjax
 CostPerClick
 CookiePolicy
 CookiePingback
-?controllerName=search
 Contributions
 ConnectivityPartnerSignup
 ConnectivityPartnerInfo
@@ -3656,7 +3626,6 @@ text/
 statistics
 *start=*
 */related
-?q=comment/reply
 plugins/feedback.php
 places/bestbridal-wedding-rehearsals/*action=srch
 places/bestbridal-wedding-receptions/*action=srch
@@ -3803,10 +3772,7 @@ _resources/
 reputation.php
 region/
 */questions
-?q=search
 qemail/
-?q=admin
-?q=
 promotions/
 privacy-policy.html
 press/
@@ -3973,7 +3939,6 @@ sc/
 review/dynamic/sims-box
 registry/wishlist/
 random/
-?q=user/logout/</pre></body></html>
 queue
 Promotion
 printmail/
@@ -3981,7 +3946,6 @@ print/*
 *print=
 penton_modal/nojs/*
 paidcontent
-?p=
 opensearch.xml
 open_houses/*?
 newsticker/calendar/
@@ -4519,7 +4483,6 @@ s/*
 reset-password
 research/
 *_recache
-?q=user
 *quizResult=
 purchase/
 .preview/
@@ -4681,7 +4644,6 @@ referAppC/
 *ref=
 redesign/
 quotes
-?q=filter/tips
 */ProxyVisitor
 promotion/
 promos/
@@ -4878,7 +4840,6 @@ setup
 search</pre></body></html>
 search.htm
 search/api*
-?se=
 sdfe/reader/pii/*
 sdfe/pdf/download/read/noindex/pii/*
 sdfe/pdf/download/read/index/pii/*
@@ -4947,7 +4908,6 @@ recipes?s=
 recipes/?*&amp;s=
 recipes?*&amp;s=
 real_estate/open_houses/*?
-?q=logout
 Profile/
 *?*product_list_mode=
 printerFriendly/
@@ -4963,7 +4923,6 @@ places/print_ads/*action=srch
 */pdfft/*
 *PAGEN_1=
 *page=*
-?page=
 ntsh/
 *?np=y
 norobot
@@ -5170,7 +5129,6 @@ toggle-experiment
 testing
 test.html
 telsearch
-?targetURL=https://www.owler.com/iaApp/getDataCard.htm
 tag/zenon-karol-bajorowicz.html
 tag/wiktor-pilarczyk-orlen.html
 tag/wiktor-pilarczyk.html
@@ -5467,7 +5425,6 @@ Zusatzseiten/Suche/index.jsp
 zoeken
 *.xlsx
 www/
-?wptheme=
 wp-register.php</pre></body></html>
 wp-comments-post.php
 *wp-
@@ -5600,7 +5557,6 @@ realestatepages/realtors/*action=srch
 real_estate/housing/open_houses/*?
 */random/
 *?quicktabs_*
-?q=node/
 pubstats/
 promo/yobject/changelog*
 promo/*welcome*
@@ -6026,7 +5982,6 @@ search/breaking/?
 _scripts/
 school/
 sample/
-?s=
 rs/
 rlock/
 revision-policy
@@ -6457,7 +6412,6 @@ about
 AAMALL
 *7urren*
 1
-?*
 year-publication/
 wrappers/
 wp-content/languages/ru_RU.po
@@ -6582,7 +6536,6 @@ recommends/
 re/
 RC/
 rate/
-?q=user/logout
 quote/
 questions/
 qchrondeals/
@@ -7376,8 +7329,6 @@ registration/*
 register$
 real_estate/sale/open_house/*?
 real_estate/sale/*?
-?q=hybridauth/
-?q=comment/
 pub/agent.dll?qscr=pkgl*
 p/s=
 productalert/
@@ -7571,7 +7522,6 @@ circulars/sale/*?
 checkout/cart/
 Chat/
 catalogsearch/result/
-?cat=*
 */cart/
 captcha.php
 campaigns
@@ -7892,7 +7842,6 @@ search_ac/
 @@search
 scientific_journals/
 sa/
-?s
 *rt=nc
 *rss.xml
 *.rss_include.v2.html
@@ -8061,11 +8010,7 @@ ratecomment.aspx
 *.raffle_new.html
 *.raffle.html
 radar
-?q=taxonomy/
-?q=contact
-?q=aggregator/
 q/
-?q=*
 publish/
 pub/agent.dll?qscr=mrdt
 *.prototype.html
@@ -8375,8 +8320,6 @@ img-video
 *.image.preview.html
 *.image.normalized.html
 *.image.html
-?id=*
-?id=
 *.icon_settings.png.html
 *.icon_remove.png.html
 *.icon_move.png.html
@@ -8944,7 +8887,6 @@ replyTS_Z5wXOHG1FZ-wfyNB_echelon.html*
 remind/
 register.aspx
 */register
-?ref=[\w&amp;='" _. ]+/
 refs
 redirect.asp
 red/
@@ -8962,7 +8904,6 @@ real-estate/7*
 rd/
 *.rar
 r
-?q=user/login/</pre></body></html>
 qr/
 py/
 p-upload-image.html*
@@ -9226,7 +9167,6 @@ ftptemp/
 fr/user/
 fr/themes/
 fr/profiles/
-?frontpage=true
 *?from=*
 fr/includes/
 frames/
@@ -9487,7 +9427,6 @@ blog.php
 blogAdmin
 blast/BlastAlign.cgi
 blank
-?blackhole</pre></body></html>
 bin/*
 bg/*
 bannergate/
@@ -9564,7 +9503,6 @@ vbulletin2_Arc/
 *.vb$
 v4/
 *?utm_source*
-?utm_source=
 *utm_campaign*
 uslugi/*
 users/*/following
@@ -9648,7 +9586,6 @@ style.php
 *st.redirect*
 strawberriessweets-css
 store/cart/
-?st.layer*
 stats/alltime
 Stats
 statistic.php
@@ -9658,7 +9595,6 @@ stat
 *st._aid*
 *src=
 sql/
-?sputnik=*
 sports/mct/
 specialvaluesunder20-C19
 */social-tracker

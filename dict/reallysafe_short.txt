@@ -80,14 +80,6 @@
 9678.php
 99.php
 9C7514000000.cfg
-?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php>
-?author=1
-?author=2
-?c=whoami&ppp=whoami
-?CAVIT
-?feed=rss2
-?XDEBUG_SESSION_START=phpstorm
-?xxnew2018_url2=2
 \xc2\xac/scripts/setup.php
 __phpMyAdmin/index.php
 _admin/scripts/setup.php

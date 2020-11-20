@@ -70631,7 +70631,6 @@ gotoframe
 gotoframe.php
 gotoitem
 gotoitem.php
-gotoitem.php??
 gotojob
 gotojob.html
 gotolink
@@ -70649,7 +70648,6 @@ gotor
 gotoRetailer
 gotoshop
 gotoshop.php
-gotoshop.php??
 gotosite
 GoToSite
 gotostore

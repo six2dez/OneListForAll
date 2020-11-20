@@ -1056,7 +1056,6 @@ MaterializedPath
 Range
 RawSql
 Footer
-??
 doc_style
 structure
 test_app
@@ -1214,7 +1213,6 @@ adm
 videos
 svg
 WINDOWS
-????
 xajax
 polish
 UPGRADING
@@ -2015,7 +2013,6 @@ dblog
 editarea
 devices
 suite
-?????
 com-tecnick-tcpdf
 freefont-20080323
 passport
@@ -2114,7 +2111,6 @@ d3
 advertising
 Predicate
 arrows
-???
 X11
 jsmin
 teacher
@@ -2893,7 +2889,6 @@ layout-browser
 simple-widgets
 swap
 iconv
-???????
 es_MX
 id_ID
 tr_TR
@@ -3384,7 +3379,6 @@ myadmin
 servers
 vi
 openssl
-??????
 sv_SE
 Test Scripts
 UseCases
@@ -5035,7 +5029,6 @@ session_cache
 HackerConsole
 lang_russian
 galeries
-?
 _sessions
 glue
 limesurvey

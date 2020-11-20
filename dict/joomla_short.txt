@@ -1,12 +1,3 @@
-?1.5.10-x
-?1.5.11-x-http_ref
-?1.5.11-x-php-s3lf
-?1.5.3-path-disclose
-?1.5.3-spam
-?1.5.8-x
-?1.5.9-x
-?j1012-fixate-session
-?option=com_mysms&Itemid=0&task=phonebook
 admin/
 administrator/
 administrator/components/
