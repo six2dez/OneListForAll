@@ -3650,3 +3650,5 @@ server-status?full&showmodulestate
 trace.axd
 uddiexplorer/index.jsp
 wp-json/wp/v2/users/
+us/en/blog/_wpeprivate/config.json
+wp-content/uploads/gravity_forms/logs/gravityforms.txt

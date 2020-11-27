@@ -72,7 +72,7 @@ Both lists have:
 
 ## Sources
 
-This is a wordlist for fuzzing purposes made from the best wordlists currently available, lowercased and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut). The lists used have been some selected within these repositories:
+This is a wordlist for fuzzing purposes made from the best wordlists currently available, lowercased and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut), added cleaner from [BonJarber](https://github.com/BonJarber/SecUtils/tree/master/clean_wordlist). The lists used have been some selected within these repositories:
 
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 - [SecLists](https://github.com/danielmiessler/SecLists)
@@ -93,6 +93,7 @@ This is a wordlist for fuzzing purposes made from the best wordlists currently a
 - [hackerone_wordlist](https://github.com/xyele/hackerone_wordlist)
 - [commonspeak2](https://github.com/assetnote/commonspeak2-wordlists)
 - [bruteforce-list](https://github.com/random-robbie/bruteforce-lists)
+- [assetnote](https://wordlists.assetnote.io/)
 
 Feel free to contribute, PR are welcomed.
 
