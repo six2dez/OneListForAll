@@ -157,3 +157,16 @@ wp-content/uploads/file-manager/log.txt
 wp-login.php
 wp-login.php?action=register
 wp/wp-login.php
+wp-content/debug.log
+.wp-config.php.swp
+wp-config.inc
+wp-config.old
+wp-config.txt
+wp-config.html
+wp-config.php.dist
+wp-config.php.inc
+wp-config.php.save
+wp-config.php.swp
+wp-config.php.txt
+wp-config.php.zip
+wp-config.php.html

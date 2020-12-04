@@ -4,7 +4,6 @@ lang.conf
 themes.conf
 entry.count.image
 app.prod.conf
-
 embed
 www+django.conf
 named.conf
