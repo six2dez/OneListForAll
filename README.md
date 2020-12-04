@@ -41,6 +41,13 @@ ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ```
 
+## Wordlists summary
+
+- **onelistforall.txt** basically everything, launch it and go to sleep. 6950906 lines, 113M
+- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 396038 lines, 5.6M
+- **onelistforallmicro.txt** almost 10K lines of the best paths you can find, just juicy and important stuff: 9688 lines, 141K
+
+
 ## Sources
 
 This is a wordlist for fuzzing purposes made from the best wordlists currently available, lowercased and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut), added cleaner from [BonJarber](https://github.com/BonJarber/SecUtils/tree/master/clean_wordlist). The lists used have been some selected within these repositories:
