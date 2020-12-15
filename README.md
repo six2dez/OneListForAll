@@ -3,6 +3,8 @@
 
 **V2 released!** Now you can build your own wordlists with the same method and this release includes a **short** wordlist. Base wordlists provided in /dict folder. **See Method 3**
 
+**V2.3 released!** Added custom curated list "onelistforallmicro.txt", almost 10K lines for quick wins and fast enum process. This new wordlist is not created from other sources is handcrafted.
+
 ## Usage
 
 ### Method 1
@@ -39,36 +41,12 @@ ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ```
 
-## Wordlists content
+## Wordlists summary
 
-In the fields that both lists coincide, the short one has the content but in less quantity, only the most relevant.
+- **onelistforall.txt** basically everything, launch it and go to sleep. 6950906 lines, 113M
+- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 396038 lines, 5.6M
+- **onelistforallmicro.txt** almost 10K lines of the best paths you can find, just juicy and important stuff: 9688 lines, 141K
 
-Both lists have:
-
-- First slash (/) removed, lines that have it is on purpose.
-- Removed special chars or crash chars such as `' sqlis, xss, etc
-- Trimmed trailing whitespaces
-- Removed comments (lines starting with #)
-- Removed lines with % cuz cause crashes in ffuf
-
-| Year               | Short              | Full               |
-| ----               | -----------------  | -------------------|
-| Size               |              4,9M  |               179M |
-| Lines              |            343003  |            9082810 |
-| Extension specific |            &check; | :heavy_check_mark: |
-| Config files       |           &check;  | :heavy_check_mark: |
-| Admin panels       |           &check;  | :heavy_check_mark: |
-| Dotfiles           |           &check;  | :heavy_check_mark: |
-| Backup files/folders |           &check;  | :heavy_check_mark: |
-| LFI                |           &check;  | :heavy_check_mark: |
-| Multilanguage dicts  |           &check;  | :heavy_check_mark: |
-| Extension specific |           &check;  | :heavy_check_mark: |
-| CMS specific |           &check;  | :heavy_check_mark: |
-| Robots Disallowed |           &check;  | :heavy_check_mark: |
-| Software specific  |           &check;  | :heavy_check_mark: |
-|          Usernames |           &cross;  | :heavy_check_mark: |
-|          Words     |           &cross;  | :heavy_check_mark: |
-|     Subdomains     |           &cross;  | :heavy_check_mark: |
 
 ## Sources
 
