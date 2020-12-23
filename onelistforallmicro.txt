@@ -1133,6 +1133,7 @@ HTTP.sys
 .zuul.yml
 //../../data/config/microsrv.cfg
 /////../../../etc/passwd
+;/..;/manager
 /__swagger__
 /api-docs
 /api
@@ -9518,3 +9519,8 @@ zzfaq.sql
 sitemap_index.xml
 wp-includes/wlwmanifest.xml
 wp-content/plugins/easy-wp-smtp
+debug/pprof/
+%7C~.aspx
+Joomla.xml
+admin/
+%C0

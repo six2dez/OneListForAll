@@ -12806,3 +12806,6 @@ zzfaq.sql
 ~user
 ~webmaster
 ~www
+s/anything/_/META-INF/maven/com.atlassian.jira/atlassian-jira-webapp/pom.xml
+s/anything/_/META-INF/maven/com.atlassian.jira/atlassian-jira-webapp/pom.txt
+s/anything/_/META-INF/maven/com.atlassian.jira/atlassian-jira-webapp/pom.properties
