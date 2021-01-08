@@ -13936,3 +13936,8 @@ common.php
 .ftp
 index.php?u=
 admin/user_count.txt
+oauth2/v1/keys
+jwks.json
+.well-known/jwks_uri
+.well-known/openid-configuration/jwks
+openid/connect/jwks.json
