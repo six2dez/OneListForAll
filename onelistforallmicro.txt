@@ -9826,7 +9826,6 @@ GalleryMenu
 runme.sh
 auth/logon
 app/config
-%2e%2e//google.com
 .well-known/repute-template
 test6.php
 nbproject/project.xml
@@ -11557,7 +11556,6 @@ swf.php
 name
 vagrant.sh
 api/put
-/////../../../etc/passwd
 home/users/a/admin/profile.xml
 _priv8/
 ViewUserHover.jspa?username=Admin
@@ -11847,7 +11845,6 @@ config.seen
 checkuser
 quan.sql
 westinit.sh
-//../../data/config/microsrv.cfg
 EWS
 .bzr/branch-format
 concatfragments.sh
