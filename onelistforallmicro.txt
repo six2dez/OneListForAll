@@ -4230,7 +4230,6 @@ tomcat6/tomcat-users.xml
 extensions
 phpfm-1.7.4
 .vgextensions/
-./secret/..
 backup.cfg
 bb-histlog.sh
 wp/
