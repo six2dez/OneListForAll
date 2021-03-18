@@ -12819,3 +12819,14 @@ cors
 jx.sql
 cms/.git/config
 entries
+admin/help.cgi
+admin/help.cgi.bak
+admin/ws_ftp.log
+confirm.asp.bak
+default.asp.bak
+login.asp.bak
+pindex.asp.bak
+rootlogin.asp.bak
+rootlogin.asp.old
+_vti_pvt/service.cnf
+include/common.inc
