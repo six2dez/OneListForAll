@@ -16,25 +16,34 @@ regexes=(
 # Full list
 echo "[+] Building lists..."
 for f in dict/*.txt;
-	do cat $f >> onelistforall_all_big.txt
+	do cat $f >> onelistforall_all_tmp.txt
 done
 # Short list
 for f in dict/*_short.txt;
-	do cat $f >> onelistforall_short_big.txt
+	do cat $f >> onelistforall_short_tmp.txt
 done
 echo "[+] Building done!"
 
+cmd1="cat onelistforall_all_tmp.txt"
+cmd2="cat onelistforall_short_tmp.txt"
 # Removing buggy lines
 echo "[+] Cleaning lines..."
 for regex in "${regexes[@]}"; do
-    cmd="cat onelistforall_all_big.txt | grep -avE '${regex}'"
-    cmd="cat onelistforall_short_big.txt | grep -avE '${regex}'"
+    cmd1="$cmd1 | grep -avE '${regex}'"
+    cmd2="$cmd2 | grep -avE '${regex}'"
 done
+
+cmd1="${cmd1} > onelistforall_big.txt"
+cmd2="${cmd2} > onelistforall_short.txt"
+
+eval $cmd1
+eval $cmd2
+
 echo "[+] Cleaning done!"
 
 echo "[+] Deduplication in progress..."
-duplicut onelistforall_all_big.txt -c -o onelistforall.txt
-duplicut onelistforall_short_big.txt -c -o onelistforallshort.txt
+duplicut onelistforall_big.txt -c -o onelistforall.txt
+duplicut onelistforall_short.txt -c -o onelistforallshort.txt
 echo "[+] Deduplication done!"
 final_lines=$(cat onelistforall.txt | wc -l)
 final_lines_short=$(cat onelistforallshort.txt | wc -l)
