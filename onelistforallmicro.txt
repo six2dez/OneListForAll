@@ -10669,6 +10669,7 @@ servletimages
 servlets
 session
 session.inc
+session.jsp
 session.sql
 sessionexample
 sessionmgr2.sql
