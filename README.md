@@ -75,6 +75,3 @@ This is a wordlist for fuzzing purposes made from the best wordlists currently a
 
 Feel free to contribute, PR are welcomed.
 
-You can support this work buying me a coffee:
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png">](https://www.buymeacoffee.com/six2dez)
