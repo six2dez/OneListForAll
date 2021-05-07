@@ -1518,7 +1518,6 @@
 911admin
 97
 ;/..;/manager
-?__proto__[protopollut]=protopollut
 _
 _.htaccess
 _.htpasswd
@@ -3519,6 +3518,8 @@ apps/__pycache__
 apps/client/.env
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
+apps/usage-dashboard
+apps/usage-dashboard/v2.0.1/index.html
 apps/vendor/phpunit/phpunit/phpunit
 apps_groups.conf
 appserver
