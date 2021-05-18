@@ -3051,7 +3051,6 @@ adminzone
 admission_controller_config.yaml
 admloginuser
 admloginuser.php
-admnistrator.php3
 admpar
 admpar/.ftppass
 admpw
