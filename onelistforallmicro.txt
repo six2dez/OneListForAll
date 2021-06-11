@@ -10,6 +10,7 @@
 !res
 !textove_diskuse
 !ut
+$metadata
 %20admin%20
 %2e%2e;/test
 %2e/admin
@@ -5777,6 +5778,8 @@ dev.log
 dev.php
 dev.sh
 dev/.git/config
+dev/login
+dev/register
 devdata.db
 devel
 devel_isolated
@@ -7536,7 +7539,6 @@ invocactf.php
 invoker
 invoker/ejbinvokerservlet
 invoker/jmxinvokerservlet
-invoker/JMXInvokerServlet
 invoker/readonly
 invoker/readonly/jmxinvokerservlet
 invoker/restricted/jmxinvokerservlet
@@ -7671,7 +7673,6 @@ jmx-console/filterview.jsp
 jmx-console/htmladaptor
 jmx-console/htmladaptor?action=displaymbeans
 jmx-console/htmladaptor?action=inspectmbean&name=jboss.system:type=serverinfo
-jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jmx-console/style_master.css
 jnlp-inf/application.jnlp
 jo.php
@@ -9646,6 +9647,7 @@ phpmyadminbackup
 phpmyadminold/index.php
 phpmyads
 phpnew.sql
+phpoldinfo.php
 phppgadmin
 phppma
 phpqiye.sql
@@ -11183,6 +11185,8 @@ stacktrace.log
 stadmin
 staff
 staffadmin
+stag
+stag/register
 stage-upload.sh
 staging/.git/config
 stamp-h1
@@ -12529,7 +12533,6 @@ web-console/applet.jsp
 web-console/invoker
 web-console/listmonitors.jsp
 web-console/serverinfo.jsp
-web-console/ServerInfo.jsp
 web-console/status
 web-console/status?full=true
 web-console/sysproperties.jsp
@@ -12924,6 +12927,7 @@ wp-admin/install.php
 wp-admin/plugin-install.php?tab=upload
 wp-admin/post-new.php
 wp-admin/setup-config.php
+wp-admin/setup-config.php?step=1
 wp-admin/theme-editor.php
 wp-admin/wp-login.php
 wp-app.log
