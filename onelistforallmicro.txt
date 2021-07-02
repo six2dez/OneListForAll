@@ -445,6 +445,7 @@ $metadata
 .git/description
 .git/fetch_head
 .git/head
+.git/HEAD
 .git/hooks
 .git/hooks/applypatch-msg
 .git/hooks/commit-msg
@@ -4006,6 +4007,7 @@ bin/console
 bin/crxde/logs
 bin/hostname
 bin/libs
+bin/querybuilder.json
 bin/reset-db-prod.sh
 bin/reset-db.sh
 bin/rhobundle
@@ -4287,6 +4289,7 @@ cabal.project.local~
 cabal.sandbox.config
 cache
 cache-downloads
+CACHE/desktop/data.xml
 cache/index.html
 cache/sql_error_latest.cgi
 cache_go_dirs.sh
@@ -5075,8 +5078,10 @@ content/.{.}/libs/foundation/components/text/text.jsp
 content/add_valid_page.html?debug=layout
 content/add_valid_page.query.json?statements//*
 content/content/geometrixx.sitemap.txt
+content/dam
 content/dam.tidy.-100.json
 content/debug.log
+content/usergenerated
 content_admin
 content_types-inc.pot
 contentadmin
@@ -5591,6 +5596,8 @@ dbase.tar.gzip
 dbase.tgz
 dbase.zip
 dbbackup
+dbconsole
+dbconsole/
 dbdump.7z
 dbdump.bz2
 dbdump.gz
@@ -6188,6 +6195,7 @@ env.bak
 env.js
 env.json
 env.list
+env.php
 env.sh
 env/.env
 env/dockers/mariadb-test/.env
@@ -10533,6 +10541,7 @@ searchresults.php
 searchsk.xml
 sec.config
 secret
+secret.php
 secret/.
 secretadmin
 secrets
@@ -12507,6 +12516,7 @@ wait.sh
 wallet.dat
 wallet.json
 wand.dat
+war
 war/gwt_bree
 war/web-inf/classes
 war/web-inf/deploy
