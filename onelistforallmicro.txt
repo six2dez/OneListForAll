@@ -2890,6 +2890,7 @@ administrator/login.htm
 administrator/login.html
 administrator/login.php
 administrator/logs
+administrator/manifests/files/joomla.xml
 administrator/phpmyadmin
 administrator/pma
 administrator/web
@@ -3344,6 +3345,22 @@ apidocs
 apidocs/api-docs.json
 apidocs/swagger.json
 apis
+apis/admissionregistration.k8s.io
+apis/admissionregistration.k8s.io/v1beta1
+apis/apiextensions.k8s.io
+apis/apiextensions.k8s.io/v1beta1
+apis/apiregistration.k8s.io
+apis/apiregistration.k8s.io/v1
+apis/apiregistration.k8s.io/v1beta1
+apis/apps
+apis/apps/v1
+apis/authentication.k8s.io
+apis/authentication.k8s.io/v1
+apis/authorization.k8s.io
+apis/authorization.k8s.io/v1
+apis/autoscaling
+apis/batch
+apis/certificates.k8s.io
 apiserver-aggregator-ca.cert
 apiserver-aggregator.cert
 apiserver-aggregator.key
@@ -7958,6 +7975,7 @@ license
 license.md
 license.php
 license.txt
+LICENSE.txt
 license_afl.txt
 license_key.php
 liferay
@@ -9743,6 +9761,7 @@ plugins/servlet/gadgets/makerequest?url=https
 plugins/servlet/gadgets/makerequest?url=https://google.com
 plugins/servlet/oauth/users/icon
 plugins/spaw2/dialogs/dialog.php
+plugins/system/cache/cache.xml
 plugins/tiny_mce
 plugins/tinymce
 plugins/upload.php
@@ -10133,6 +10152,7 @@ readme.mkd
 readme.php
 readme.rdoc
 readme.txt
+README.txt
 readme_veloce
 rebuild.sh
 recaptcha
