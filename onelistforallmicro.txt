@@ -4560,6 +4560,7 @@ bw-admin
 bwtest
 bx_1c_import.php
 c
+c/portal/login
 c-h.v2.php
 c.php
 c100.php
@@ -7818,6 +7819,7 @@ includes/cache.inc
 includes/common.inc
 includes/config.php
 includes/configure.php~
+includes/defines.php
 includes/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
 includes/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx
 includes/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php
@@ -8202,6 +8204,7 @@ joomla.rar
 joomla.xml
 joomla.zip
 joomla/administrator
+joomla/index.php
 josso/%5c../invoker/ejbinvokerservlet
 josso/%5c../invoker/jmxinvokerservlet
 jpgraph_plotmark.inc
