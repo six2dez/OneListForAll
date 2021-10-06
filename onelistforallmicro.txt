@@ -1544,7 +1544,6 @@ $metadata
 911admin
 97
 ;/..;/manager
-\..\..\..\..\..\..\..\..\..\etc\passwd
 _
 _.htaccess
 _.htpasswd
