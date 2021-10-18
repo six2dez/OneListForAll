@@ -3443,6 +3443,8 @@ api/v1/api-docs
 api/v1/apidocs
 api/v1/label/version/values
 api/v1/labels
+api/v1/status/flags
+api/v1/status/config
 api/v1/swagger
 api/v1/swagger-ui
 api/v1/swagger-ui.html
@@ -5042,6 +5044,7 @@ common_district_2.sql
 common_district_3.sql
 common-inc.pot
 common.inc
+common.js
 common.php
 common.sh
 common.xml
@@ -10890,6 +10893,7 @@ room.sql
 root
 root.dat
 root.es.po
+root.js
 root.php
 root.pot
 root.sh
