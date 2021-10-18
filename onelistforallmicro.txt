@@ -5645,6 +5645,7 @@ core.rm_auto.php
 core.rmdir.php
 core.sh
 core.write_file.php
+core/.env
 core/assets
 core/core.services.yml
 core/docs/changelog.txt
@@ -5679,6 +5680,7 @@ cp.htm
 cp.html
 cp.php
 cp.sql
+cp/.env
 cp/shares?user=&protocol=webaccess&v=2.3
 cpadmin
 cpanel
@@ -6310,6 +6312,7 @@ development-parts
 development.esproj
 development.log
 development.rb
+development/.env
 devels
 device.rsp
 deviceupdatefiles_ext
@@ -7013,6 +7016,7 @@ fckutils.cfm
 features
 features.json
 features.xml
+fedex/.env
 feed
 feed.xml
 feedback
@@ -8563,6 +8567,7 @@ local.properties
 local.sh
 local.xml.additional
 local.xml.template
+local/.env
 local/.git/index
 local/.gitignore
 local/composer.lock
@@ -10202,6 +10207,7 @@ phpmyadmin/changelog.php
 phpmyadmin/index.php
 phpmyadmin/phpmyadmin/index.php
 phpmyadmin/scripts/setup.php
+phpmyadmin/setup
 phpmyadmin0
 phpmyadmin0/index.php
 phpmyadmin1
@@ -10445,6 +10451,7 @@ private.key
 private.mdb
 private.php
 private.sqlite
+private/.env
 privatekey.key
 privmsg.php
 proc_diskstats.log
@@ -10833,6 +10840,7 @@ resources/tmp
 rest
 rest-api
 rest-auth
+rest/.env
 rest/api/2/dashboard?maxresults=100
 rest/api/2/project?maxresults=100
 rest/api/2/user/picker?query=admin
@@ -11324,6 +11332,7 @@ share
 share/page/dologin
 shared
 shared.escape_special_chars.php
+shared/.env
 shared/lib
 sharedadmin
 sheep.php
@@ -11610,6 +11619,7 @@ source.php
 source/inspector.html
 sourceart
 sourcecodeviewer
+sources/.env
 sourceservlet-classviewer
 soyeah.sql
 sp
@@ -12089,6 +12099,7 @@ system.config
 system.log
 system.php
 system.sh
+system/.env
 system/cache
 system/console
 system/cron/cron.txt
