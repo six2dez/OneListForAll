@@ -1971,6 +1971,7 @@ accounts.rb
 accounts.sql
 accounts.txt
 accounts.xml
+accounts/api/v1_0/accounts/config
 accounts/login
 accounts/login.htm
 accounts/login.html
@@ -2086,6 +2087,7 @@ add_link.php
 add_message_file.sh
 add_message.sh
 add_user.asp
+add_vhost.php
 add_vote.asp
 add.asp
 add.php
@@ -3443,8 +3445,8 @@ api/v1/api-docs
 api/v1/apidocs
 api/v1/label/version/values
 api/v1/labels
-api/v1/status/flags
 api/v1/status/config
+api/v1/status/flags
 api/v1/swagger
 api/v1/swagger-ui
 api/v1/swagger-ui.html
@@ -5216,6 +5218,7 @@ config/config.inc.php
 config/config.inc.php.bak
 config/config.inc.php.dist
 config/config.ini
+config/config.json
 config/cucumber.yml
 config/database.yml
 config/database.yml_original
@@ -10243,6 +10246,7 @@ phpsqliteadmin
 phpsso_db.sql
 phpstudy.php
 phpsysinfo
+phpsysinfo/index.php
 phptest.php
 phpthumb
 phpthumb.php
