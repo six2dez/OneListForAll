@@ -3445,6 +3445,17 @@ api/v1/api-docs
 api/v1/apidocs
 api/v1/label/version/values
 api/v1/labels
+api/v1/namespaces
+api/v1/namespaces/default/configmaps
+api/v1/namespaces/default/pods
+api/v1/namespaces/default/secrets
+api/v1/namespaces/default/services
+api/v1/namespaces/default/serviceaccounts
+api/v1/nodes
+api/v1/roles
+api/v1/secrets
+api/v1/serviceaccounts
+api/v1/services
 api/v1/status/config
 api/v1/status/flags
 api/v1/swagger
@@ -3480,6 +3491,10 @@ apis/apiregistration.k8s.io/v1
 apis/apiregistration.k8s.io/v1beta1
 apis/apps
 apis/apps/v1
+apis/apps/v1/
+apis/apps/v1/daemonsets
+apis/apps/v1/deployments
+apis/apps/v1/namespaces/default/deployments
 apis/authentication.k8s.io
 apis/authentication.k8s.io/v1
 apis/authorization.k8s.io
@@ -3487,6 +3502,8 @@ apis/authorization.k8s.io/v1
 apis/autoscaling
 apis/batch
 apis/certificates.k8s.io
+apis/node.k8s.io/
+apis/rbac.authorization.k8s.io/v1beta1/clusterroles
 apiserver-aggregator-ca.cert
 apiserver-aggregator.cert
 apiserver-aggregator.key
@@ -10965,6 +10982,7 @@ runfakepopserver.sh
 runfile.exe.config
 runme.sh
 runner.sh
+runningpods
 runserver.sh
 runtest.sh
 runtests.sh
@@ -11845,6 +11863,7 @@ statistics
 statistics.jsp
 statistik
 stats
+stats/summay
 statsd
 status
 status?full=true
@@ -12907,7 +12926,10 @@ v2.0
 v2/_catalog
 v2/.env
 v2/apis/auth/_resource
+v2/keys/
 v2/keys/?recursive=true
+v2/keys/message
+v2/keys/registry/clusterrolebindings
 v2/swagger.json
 v3
 v3alpha
