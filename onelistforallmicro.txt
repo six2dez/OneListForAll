@@ -3391,6 +3391,7 @@ api/docs
 api/error_log
 api/errors
 api/expr
+api/geojson
 api/graph
 api/health
 api/host

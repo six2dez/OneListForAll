@@ -1,9 +1,7 @@
 # OneListForAll
 **Rockyou for web fuzzing**
 
-**V2 released!** Now you can build your own wordlists with the same method and this release includes a **short** wordlist. Base wordlists provided in /dict folder. **See Method 3**
-
-**V2.3 released!** Added custom curated list "onelistforallmicro.txt", almost 10K lines for quick wins and fast enum process. This new wordlist is not created from other sources is handcrafted.
+This is a projectt to generate huge wordlists for web fuzzing, if you just want to fuzz with a good wordlist use the file [onelistforallmicro.txt](https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt).
 
 ## Usage
 
