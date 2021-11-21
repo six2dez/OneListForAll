@@ -13904,8 +13904,11 @@ yt_weibo.sql
 yum.log
 yum.sh
 z.php
-zabbix
+zabbix.php
+zabbix.php?action=dashboard.list
 zabbix.php?action=dashboard.view&dashboardid=1
+zabbix/zabbix.php
+zabbix/zabbix.php?action=dashboard.list
 zebra.conf
 zehir.php
 zend/vendor/phpunit/phpunit/phpunit
