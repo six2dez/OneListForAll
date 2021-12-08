@@ -7507,6 +7507,7 @@ finalVersion/lcomernbootcamp/projbackend/.env
 findbugs
 fingerprint.jsp
 firebase-debug.log
+firebase/security.json
 firefox_reco
 firewall.sh
 firmconnect
