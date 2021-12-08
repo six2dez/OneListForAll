@@ -3441,6 +3441,7 @@ api/basmaplusglobal
 api/batch
 api/cask/graphql
 api/channels.settopic
+api/cipher.aes
 api/command
 api/command/list
 api/command/ping
@@ -3455,6 +3456,7 @@ api/config/save
 api/configuration
 api/consume
 api/contracts
+api/cruise_config
 api/customer
 api/data/v9.1/leads
 api/debug/schedlock
@@ -5027,6 +5029,7 @@ cibuild.sh
 cidr.txt
 cidr.txtа
 cimjobpostadmin
+cipher.aes
 circle
 circle.yml
 citrix
@@ -6068,6 +6071,7 @@ crossdomain.xml
 crowd/console/login.action
 crowd/plugins/servlet/exp?cmd=cat%20/etc/shadow
 crownadmin
+cruise_config
 crx
 crx/de/index.jsp
 cryo_project/.env
