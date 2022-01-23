@@ -1991,6 +1991,7 @@ account.html
 account.inc
 account.php
 account.sql
+account/create
 account/login
 account/login.htm
 account/login.html
@@ -2000,7 +2001,13 @@ account/login.py
 account/login.rb
 account/login.shtml
 account/logon
+account/register
+account/set_up
+account/set-up
+account/setup
+account/sign_up
 account/signin
+account/signup
 accountants
 accounting
 accountlist.jsp
@@ -2019,6 +2026,10 @@ accounts.sql
 accounts.txt
 accounts.xml
 accounts/api/v1_0/accounts/config
+accounts/ClientRegister
+accounts/ClientSign_up
+accounts/ClientSignup
+accounts/create
 accounts/login
 accounts/login.htm
 accounts/login.html
@@ -2794,6 +2805,7 @@ admin/sample/tealeafj2ee.xml
 admin/scripts/fckeditor
 admin/scripts/setup.php
 admin/secure/logon.jsp
+admin/setup
 admin/showcaches.jsp
 admin/signin
 admin/spaw/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2lite&type=imagesundefined
@@ -3529,6 +3541,8 @@ api/v1/api-docs
 api/v1/apidocs
 api/v1/label/version/values
 api/v1/labels
+api/v1/log
+api/v1/log/diagnostics
 api/v1/namespaces
 api/v1/namespaces/default/configmaps
 api/v1/namespaces/default/pods
@@ -3611,6 +3625,7 @@ app_data
 app_data.php
 app_datserletestudentpro.sql
 app_dev.php
+app_dev.php/_profiler
 app_dir/.env
 app_nginx_static_path/.env
 app-admin
@@ -4086,6 +4101,8 @@ auth.zip
 auth/adm
 auth/admin
 auth/bitbucket
+auth/create
+auth/join
 auth/login
 auth/login.html
 auth/login.jsp
@@ -4094,7 +4111,10 @@ auth/login.shtml
 auth/login/github
 auth/login/google
 auth/logon
+auth/register
+auth/sign_up
 auth/signin
+auth/signup
 authadmin
 authadmin.asp
 authadmin.aspx
@@ -5494,6 +5514,7 @@ config.yml.templ
 config/.env
 config/000000000000.cfg
 config/apc.php
+config/app_env.yml
 config/app.php
 config/app.yml
 config/appdata.config
@@ -6029,6 +6050,7 @@ create_result.sql
 create_svg.sh
 create_tables.sql
 create_user.sql
+create-account
 create-cert.sh
 create-dynamic-salt-files.sh
 create-files.sh
@@ -7649,6 +7671,7 @@ ftp
 ftp.txt
 ftp/.env
 ftpmaster/.env
+flex2gateway/amf
 fuel/app/cache
 fuel/app/config
 fuel/app/logs
@@ -7753,10 +7776,12 @@ geoipg
 geoipggeoipupdate.sh
 gestion_enseignants.sql
 get
+get_started
 get-build.sh
 get-kube-binaries.sh
 get-kube-local.sh
 get-kube.sh
+get-started
 get-version.sh
 get.php
 get.sh
@@ -8397,7 +8422,12 @@ index.php?u=
 index.php.bak
 index.php/admin/
 index.php/login
+index.php/user/add/
+index.php/user/join/
 index.php/user/password
+index.php/user/register/
+index.php/user/sign_up/
+index.php/user/signup/
 index.php~
 index.php3
 index.php4
@@ -9696,6 +9726,8 @@ message.sql
 message/install/mysql.sql
 messageboard_backup.sql
 messageboard.sql
+messagebroker/amf
+messagebroker/amfsecure
 messagedrivenbeans/docs
 messagedrivenbeans/docsservlet
 messages
@@ -10599,7 +10631,7 @@ password-hash.sh
 password.html
 password.jsp
 password.log
-password.log‎
+password.log
 password.mdb
 password.php
 password.sqlite
@@ -11020,6 +11052,8 @@ popup_songs.php
 popup.htm
 popup.html
 portal
+portal/app_dev.php
+portal/app_dev.php/_profiler
 portal/webclient
 portal2
 portal30
@@ -12040,6 +12074,7 @@ sessions/new
 sessionservlet
 set
 set-defaults.sh
+set-up
 setenv.sh
 settings
 settings.bak
@@ -12160,6 +12195,7 @@ sign_in.aspx
 sign_in.htm
 sign_in.html
 sign_in.php
+sign_up
 sign-in
 sign-in.asp
 sign-in.aspx
@@ -13684,8 +13720,11 @@ user/admin.htm
 user/admin.html
 user/admin.php
 user/admin/addnewuser.jsp
+user/join
 user/login
 user/login.php
+user/register
+user/signup
 useradmin
 usercontent
 usercp
@@ -13763,9 +13802,12 @@ users/admin
 users/admin.htm
 users/admin.html
 users/admin.php
+users/join
 users/login
 users/login.php
 users/proxy.pac
+users/register
+users/signup
 userservice.wsdl
 usertellhow.sql
 usr
