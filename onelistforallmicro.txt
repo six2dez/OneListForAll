@@ -7774,6 +7774,7 @@ genpackage.xml.pl
 genproto.sh
 geoipg
 geoipggeoipupdate.sh
+geojson
 gestion_enseignants.sql
 get
 get_started
