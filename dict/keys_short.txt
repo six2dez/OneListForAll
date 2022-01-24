@@ -1,7 +1,0 @@
-ca-key.pem
-ca.pem
-apiserver.pem
-apiserver-key.pem
-apiserver-aggregator-ca.cert
-apiserver-aggregator.cert
-server.cert
