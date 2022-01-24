@@ -1,0 +1,5 @@
+swagger-resources
+swagger-ui.html
+swagger/index.html
+swagger/static/index.html
+swagger/v1/swagger.json
