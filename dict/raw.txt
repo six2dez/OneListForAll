@@ -32938,7 +32938,6 @@ a0/ru/t3
 wp-admin/
 wp-admin/
 admin/
-path, e.g. the Disallow rule for the /administrator/ folder
 _ZZZZ-TEST/
 _ZZZZ_TEST/
 _zzzz-test/
@@ -33464,7 +33463,6 @@ wp-includes/
 *wp-includes/
  wp-includes /
 wp-dyn/
-wp-              # Ð²ÑÐµ Ñ„Ð°Ð¹Ð»Ñ‹ WP: /wp-json/, /wp-includes, /wp-content/plugins
 wp-core/wp-admin/
 wp-content/wflogs/
 wp-content/uploads/wri-mfa-ge-info-print.html
@@ -34316,7 +34314,6 @@ webdev/
 web-design/color-picker/color-chart/
 webDB/
 webdav
-web/                 #     Common Manuals, etc
 web-client/
 web/cexs_annual_report_17_18
 webcasting/
@@ -36210,7 +36207,6 @@ toplist/
 *toples*
 top.inc.php
 *topic=*wap
-*topics_offset=-1* # to fix a display error, can be removed when bug5204 is fixed 
 topics/index-v2-f5L2sheVSpUMT9tL.html
 Topics/archive/
 topic/quote/
@@ -37594,7 +37590,6 @@ stories
 store/xhr/install
 store/xhr/getdevicepermissions
 store/xhr
-      /store/WriteR		#Crawlers cannot submit product reviews, so there is no need for them to view this page.  The content of product reviews is on a separate page that is allowed
 store/watch
 store//vajrayana-training-intensive-2009-1547.html
 store//vajrayana-training-intensive-2009-1546.html
@@ -37614,7 +37609,6 @@ store//the-opening-of-eyes.html
 store//the-meaning-of-the-bodhisattva-vow.html
 store//the-echo-in-the-well.html
 store//the-call-of-retreat.html
-store/templates_c # xcaart tmp direcotry, these will soon disappear
 store//taking-refuge.html
 stores/*wtopic=
 stores/wifiConnect.do*
@@ -37636,7 +37630,6 @@ stores-results
 stores/*qbasic=
 stores-manage/
 store/shopping-cart
-store/shopCa			#Crawlers cannot add items to a shopping cart, so prevent them from viewing the cart page
 Stores-GetLocation?pid=
 store/setuserdata
 *store+selling+porn*
@@ -37654,7 +37647,6 @@ store-portal/
 store//personal-responsibility.html
 store/people/details
 store/people/collection/p3_details_*
-      /store/OnePageCh	# generally contains no inherent SEO value, and crawlers cannot add items to their cart to be able to access this page, therefore it is disallowed
 store-office/
 store/offers
 store/offer
@@ -37867,7 +37859,6 @@ store/alternative-energy-products/
 store/*ajax.htm$
 store//advanced-meditating-with-the-body-2007.html
 store//advanced-meditating-with-the-body-2006.html
-store/adm				#Crawlers do not need access to your console, so this rule disallows all console pages for crawlers
       /store/addtoc			#is used in embedded commerce and allows items to be added to the cart.  There is no content on this page and therefore crawlers do not need to see it.
 store/addtocart
 store//a-change-for-the-better.html
@@ -46766,7 +46757,6 @@ noticias/noticia.php?idnoticia=34047
 noticias/noticia.php?idnoticia=33991
 noticias/noticia.php?idnoticia=33093
 noticias/noticia.php?idnoticia=30262
-noticias/noticia.php?idnoticia=26236&amp;titular=las tendencias de 2008 para su marketing, su publicidad
 noticias/noticia.php?idnoticia=24738&amp;titular=fallon vuelve a atraer las miradas sobre sony bravia
 noticias/noticia.php?idnoticia=24374&amp;titular=la fiebre verde llega a la publicidad
 noticias/noticia.php?idnoticia=23876&amp;titular=hacer telemarketing pensando en el receptor
@@ -49555,7 +49545,6 @@ Logoff</pre></body></html>
 logoff.aspx
 logoff/
 *logo=*
-login/ # want the main login page allowed, but not pages under /login/
 login_vk.php
 loginveo
 login/twitter/
@@ -60604,7 +60593,6 @@ ctx/
 ctr_website-redirect
 ctrl/*
 ctrl/
-ctlawtribune/sites/ctlawtribune/2017/07/20/former-wells-fargo-employee-claims-he-was-fired-for-talking-ethics/ 
 ctlawtribune/events
 ctl/		
 ctl/
@@ -66153,7 +66141,6 @@ base/s2
 base/reportbadoffer
 base/index.php         # Do not allow index.php with any parameters after it
 */base-en/
-base/Documentation_talk:    # No need to index talk pages, we use comments now
 base/Documentation:        # No need to index pages like Documentation:Versions and Documentation:Manuals
 base/Category:        # No need to index Category page listings
 baseball-gifts-psebsbl
@@ -67060,10 +67047,6 @@ atvantagelearning
 *attrs.formUrl*
 */*attrs=*~~
 *?attribute=*
-      *Attribs=					#If you use attributes, these rules allow you to avoid duplicate content warnings when customers filter by specific attributes.
-      *attribs=					#If you use attributes, these rules allow you to avoid duplicate content warnings when customers filter by specific attributes.
-      /*Attrib=					#If you use attributes, these rules allow you to avoid duplicate content warnings when customers filter by specific attributes.
-      /*?Attrib= 				#If you use attributes, these rules allow you to avoid duplicate content warnings when customers filter by specific attributes.
 *attractive*
 *?attr-*
 attorneys/user-agreement.html
@@ -67625,7 +67608,6 @@ app/netzbewertung/
 App_Master/
 app/manufactory.asp
 app/manufact.asp
-apply/ # want apply allowed, but not pages under /apply/
 *applyRef
 apply-here/
 apply-feedback/
@@ -70446,8 +70428,6 @@ includes/
 wp-admin/
 wp-admin/
 files/
-path, e.g. the Disallow rule for the /administrator/ folder
-path, e.g. the Disallow rule for the /administrator/ folder
 薪資職能報告/
 */立即下載
 家教/</pre></body></html>
@@ -78402,8 +78382,6 @@ w-question/
 wqueen/
 *.wq1$
 */w?q=
-wp/              # РµСЃР»Рё РµСЃС‚СЊ РїРѕРґРєР°С‚Р°Р»РѕРі /wp/, РіРґРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅР° CMS (РµСЃР»Рё РЅРµС‚, 
-wp-              # РІСЃРµ С„Р°Р№Р»С‹ WP: /wp-json/, /wp-includes, /wp-content/plugins
 wpzoom/
 */wp/wp-login.php*
 wp/wp-includes/</pre></body></html>
@@ -78788,7 +78766,6 @@ _wpeprivate
 wpengine/
 WPE/
 wp-dp.php
-wp/              # ÐµÑÐ»Ð¸ ÐµÑÑ‚ÑŒ Ð¿Ð¾Ð´ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³ /wp/, Ð³Ð´Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð° CMS (ÐµÑÐ»Ð¸ Ð½ÐµÑ‚, 
 *?wpdm_page
 *?wpdmdl
 wp-discount1768-2.html
@@ -81015,8 +80992,6 @@ wm2tools
 wm2move     # JMU WM2 Move for ITWEB directory should not be indexed.
 wm2
 *wm=*
-*/wlwmanifest.xml # xml-С„Р°Р№Р» РјР°РЅРёС„РµСЃС‚Р° Windows Live Writer (РµСЃР»Рё РЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚Рµ, 
-*/wlwmanifest.xml # xml-Ñ„Ð°Ð¹Ð» Ð¼Ð°Ð½Ð¸Ñ„ÐµÑÑ‚Ð° Windows Live Writer (ÐµÑÐ»Ð¸ Ð½Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚Ðµ, 
 *wlwmanifest.xml
 w.luigi/
 wl/translate?wl_url=http://www.uk-online-store.co.uk&amp;wl_qopt=0/
@@ -81221,7 +81196,6 @@ wishlist/
 wishingwells/
 wishiknew/
 wishfulmusic/
-wishes/CaptchaImage.axd                                                              # Share Your Wish Story, Stay in Touch
 wishes.and.wands/
 *wishes=
 wish.aspx
@@ -88934,7 +88908,6 @@ virtualbank/
 virtualamericanairlinesevents/
 virtualamericanairlines/
 virtualairline/
-virtual/						# added 19 Jul 2013, AB 
 virtual16/dssearch.php</pre></body></html>
 virtual/*/
 virtual
@@ -96733,7 +96706,6 @@ vgn/CheckingProducts/Outage.html
 vgn/
 VG/Multi-Family-Homes-For-Sale*
 VG/Land-For-Sale*
-vgifs/ /wgifs/ /xgifs/ /ygifs/ /zgifs/
 */*?vgid=
 *vgid=*
 VghQo/dLPWb/NPlKf/ghOZe/cPdUn/WlNKk/bckWg/hgoYe/jkhZL/aacNf

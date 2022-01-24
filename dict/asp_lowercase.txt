@@ -16233,7 +16233,6 @@ www/sites/all/modules/contrib/ckeditor/ckeditor/_samples/asp/standalone.asp
 admin/admin_htmlinfo.asp
 artikler/demo/boolsk_search/_vti_cnf/sqlsearch.inc.asp
 sites/all/modules/ferramenta2/fckeditor/fckeditor/_samples/asp/sample04.asp
-demo/data/migrations/! migrations template.asp
 asp/sql.asp
 tests/shootout.old/reversefile.asp
 updates.asp
@@ -18486,7 +18485,6 @@ oldstuff/aspdigital/kapitel2/dsnless.asp
 cfg_owner_download.asp
 specrunner.asp
 hrm/ckeditor/_samples/asp/replaceall.asp
-framework/data/migrations/! migrations template.asp
 coding/w3school/w3cn/www.w3school.com.cn/tiy/loadtext08eb.asp
 ccma-quality-control/website/admon/calidad/deletecalidadincidenteriesgo.asp
 site/freehostmain/agent/domainadm2.asp

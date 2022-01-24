@@ -280,7 +280,6 @@ mcat
 mcd
 mcopy
 md5sum
-mdel, mdeltree
 mdir
 mdu
 merge

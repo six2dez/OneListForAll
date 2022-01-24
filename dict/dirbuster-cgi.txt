@@ -1941,7 +1941,6 @@ msadm/domain/index.php3?account_name=\
 msadm/site/index.php3?authid=\
 msadm/user/login.php3?account_name=\
 msads/Samples/SELECTOR/showcode.asp
-msdac/root.exe?/c+dir+c:\ 
 msdwda.nsf
 mspress30/
 msql/
@@ -2258,7 +2257,6 @@ scripts/postinfo.asp
 scripts/proxy/w3proxy.dll
 scripts/repost.asp
 scripts/rguest.exe
-scripts/root.exe?/c+dir+c:\ 
 scripts/root.exe?/c+dir+c:\+/OG
 scripts/samples 
 scripts/samples/ctguestb.idc
