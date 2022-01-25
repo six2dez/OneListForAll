@@ -1,0 +1,2 @@
+BlackBerry9930/5.1.0.614 Profile/MIDP-2.0 Configuration/CLDC-1.1/UCWEB8.1.0.104/161/800
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9930; en-US) AppleWebKit/534.11+ (KHTML

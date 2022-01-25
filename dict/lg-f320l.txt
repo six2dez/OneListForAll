@@ -1,0 +1,2 @@
+Mozilla/5.0 (Android 6.0.1; LG-F320L; rv:28.0) Gecko/20100101 Firefox/28.0
+Mozilla/5.0 (Linux; Android 4.4.2; vi-VN; LG-F320L Build/Thu Aug 14,2014) MXPlayer/Nightly.20150703

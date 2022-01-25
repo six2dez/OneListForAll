@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G532F Build/MMB29T)
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G532F) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile

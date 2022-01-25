@@ -1,0 +1,6 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T700 Build/KOT49H)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T700 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T705 Build/MMB29K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T705) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T705 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T700 Build/MMB29K)

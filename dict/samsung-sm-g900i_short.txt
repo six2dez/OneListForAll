@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G900I Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G900I Build/LRX21T)

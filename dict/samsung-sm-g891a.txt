@@ -1,0 +1,3 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-G891A Build/NRD90M)
+Callpod Keeper for Android 1.0 (10.4.8/261) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-G891A Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SAMSUNG-SM-G891A Build/R16NW)

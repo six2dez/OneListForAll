@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J327T1 Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J327T1 Build/NRD90M) [EdmodoAndroid 9.12.6]

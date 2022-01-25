@@ -1,0 +1,8 @@
+Opera/9.80 (Bada; Opera Mini/6.5/35.7108; U; en) Presto/2.8.119 Version/11.10
+SAMSUNG-GT-S8500/S8500XXJEE Bada/1.0 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S5250/S5250BWJI5 Bada/1.0 AppleWebKit/533.1 Dolfin/2.0 Mobile NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/37.8762; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Bada; Opera Mini/6.5/37.9093; U; pt) Presto/2.12.423 Version/12.16
+SAMSUNG-GT-S8500/S8500BGJEA Bada/1.0 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/34.1309; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Bada; Opera Mini/6.5/35.3781; U; en) Presto/2.8.119 Version/11.10

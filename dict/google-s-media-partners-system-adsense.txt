@@ -1,0 +1,6 @@
+Mediapartners-Google
+Mozilla/5.0 (compatible; MSIE or Firefox mutant; not on Windows server;) Daumoa/4.0 (Following Mediapartners-Google)
+Mediapartners-Google (via Wayback Save Page)
+Mediapartners-Google AppEngine-Google; (+http://code.google.com/appengine; appid: s~archerfroxy-hrd)
+Mediapartners-Google Yandex.Translate
+Mozilla/5.0 (compatible; Mediapartners-Google/2.1; +http://www.google.com/bot.html)

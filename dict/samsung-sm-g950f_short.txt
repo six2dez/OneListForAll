@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G950F Build/R16NW)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G950F Build/NRD90M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 8.0.0; en-US; SM-G950F) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G950F Build/NRD90M) R/34.4.253 V/GY50XY

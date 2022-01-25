@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J105B Build/LMY47V)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; pt-BR; SM-J105B) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

@@ -1,0 +1,9 @@
+Mozilla/5.0 (PlayStation 4 5.55) AppleWebKit/601.2(KHTML,like Gecko)
+Mozilla/5.0 (PlayStation 4 4.70)
+Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73
+Mozilla/5.0 (PlayStation 4 4.71)
+Mozilla/5.0 (PlayStation 4 Pro 5.0)
+Mozilla/5.0 (compatible; PlayStation 4; +	http://www.us.playstation.com/PS4)
+Mozilla/5.0 (PlayStation 4.0) AppleWebKit/537.73 (KHTML like Gecko)
+Mozilla/5.0 (PlayStation 4 5.78) AppleWebKit/601.2 (Sony Development; KHTML; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (PlayStation 4 5.78) Microsoft Edge 43.19352.3 (Sony Development; KHTML; Trident/7.0; Touch; rv:11.0) like Gecko

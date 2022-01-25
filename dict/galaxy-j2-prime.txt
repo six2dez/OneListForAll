@@ -1,0 +1,9 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G532G Build/MMB29T)
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G532G) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G532G) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G532G) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G532G) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G532G) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G532G) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; axisnet.id;api.twitter.com; SM-G532G) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G532G) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

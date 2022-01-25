@@ -1,0 +1,61 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SCH-I535 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SPH-L710 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-I9300 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SPH-L710 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SCH-I535 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SAMSUNG-SGH-I747 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SPH-L710 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SGH-T999 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SGH-I747M Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SAMSUNG-SGH-I747 Build/JSS15J)
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SCH-I535 Build/JZO54K)
+SAMSUNG-GT-I9308_TD/1.0 Android/4.0.3 Release/02.15.2012 Browser/AppleWebKit534.30
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-I9305 Build/JRO03C)
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-I9300 Build/IMM76D)
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy S III/GT-I9305) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Galaxy S II/GT-I9300) Gecko/20100101 Firefox/50.1.0
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-I9300 Build/IMM76D) [FBAN/Orca-Android;FBAV/5.0.0.16.1;FBLC/tr_TR;FBBV/2302400;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/GT-I9300;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1066,height=552};]
+GT-I9300 Linux/3.0.13 Android/4.2.0 Release/01.01.1970 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9300) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+Mozilla/5.0 (Linux; U; Android 4.3; ar-SA; GT-I9300 Build/JSS15J) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.4.6.1017 Mobile Safari/537.36
+UCWEB/2.0 (Linux; U; Adr 4.1.2; en-US; GT-I9305) U2/1.0.0 UCBrowser/8.2.0.242 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.99; Galaxy S III Build/SPH-L710) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Galaxy S III/SAMSUNG-SGH-I747) Gecko/20100101 Firefox/50.1.0
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I9300 Build/JZO54K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/10.0.0.556 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Galaxy S II/GT-I9300) Gecko/20100101 Firefox/47.0.1
+GT-I9300 Linux/3.0.13 Android/4.1.9 Release/11.23.2012 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy S III/SGH-T999) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/10.5.0.668 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; SAMSUNG-SGH-I747 Build/JZO54K) AppleWebKit/534.30 (KHTM
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Galaxy S III/GT-I9305T) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/11.3.0.1130 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SGH-I747M Build/JZO54K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; en-US; GT-I9300) U2/1.0.0 UCBrowser/9.0.2.389 U2/1.0.0 Mobile
+GT-I9300 Linux/3.0.13 Android/4.1.9 Release/11.09.2012 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; SAMSUNG-SGH-I747) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; SCH-I535 Build/KOT49H)
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; es-LA; GT-I9300 Build/JSS15J) U2/1.0.0 UCMini/10.9.0.946 (SpeedMode; Android 4.3; GT-I9300 Build/JSS15J) Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-i9300 Build/IMM76D) U2/1.0.0 UCBrowser/10.3.0.552 Mobile
+Mozilla/5.0 (Android; Mobile; SCH-I535; rv:32.0) Gecko/32.0 Firefox/32.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9300I) U2/1.0.0 UCBrowser/10.9.8.1006 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy S III/SPH-L710) Gecko/20100101 Firefox/50.1.0
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-I9300 Build/IMM76D) [FBAN/Orca-Android;FBAV/5.0.0.16.1;FBLC/en_GB;FBBV/2302400;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/GT-I9300;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1066,height=552};]
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SCH-I535) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9300 Build/JSS15J) U2/1.0.0 UCBrowser/10.1.0.527 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9305) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; GT-I9300I Build/KTU84P)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300I) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy S III/SPH-L710) Gecko/20100101 Firefox/47.0.1
+GT-I9300 Linux/3.0.13 Android/4.1.9 Release/02.03.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+Mozilla/5.0 (Linux; U; Android 4.2.1; ko-kr; GT-I9300) ApplewWebkit/4.0 Opera Mini/10.5
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; SAMSUNG-SGH-I747 Build/JRO03L)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9300I) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+Mozilla/5.0 (Android; Mobile: SCH-I535; rv:23.0) Gecko/23.0 Firefox/23.0
+SAMSUNG-GT-I9308_TD/1.0 Android/4.1.2 Release/12.20.2012 Browser/AppleWebKit534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9300) U2/1.0.0 UCBrowser/10.0.0.996 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I9300) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile

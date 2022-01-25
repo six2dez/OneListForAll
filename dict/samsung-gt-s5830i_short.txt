@@ -1,0 +1,21 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+Dalvik/1.4.0 (Linux; U; Android 2.3.6; GT-S5830i Build/GINGERBREAD)
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; GT-S5830i Build/GINGERBREAD) U2/1.0.0 UCBrowser/9.9.3.478 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.0.1.275 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; m.facebook.com; GT-S5830i) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; vi; GT-S5830i) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.0.2.389 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; id; GT-S5830i) U2/1.0.0 UCBrowser/9.0.1.379 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; vi; GT-S5830i) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+MQQBrowser/3.7/Adr (Linux; U; 2.3.6; zh-cn; GT-S5830i Build/GINGERBREAD.ZCLD2;320*480)
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5830i) U2/1.0.0 UCBrowser/9.4.0.460 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830i) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile

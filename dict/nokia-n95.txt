@@ -1,0 +1,23 @@
+NokiaN95/1.0(15.1.002)SymbianOS/9.2 Series60/3.01 Profile/MIDP-2.0 Configuration/CLDC-1.1
+UCWEB/2.0 (Java; U; MIDP-2.0; en_US; NokiaN95) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIAN95) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; es-LA; NOKIAN95) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+NOKIAN95 8GB/UC Browser8.0.4.121/28/444/UCWEB
+nokia N95
+NOKIAN95/UC Browser8.0.4.121/28/444/UCWEB
+Mozilla/5.0 (S60V3; U; en-in; NOKIAN95 8GB)/UC Browser8.2.0.132/28/355/UCWEB Mobile
+NokiaN95
+UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIAN95 8GB) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+NOKIAN95/UCWEB7.0.2.37/28/800
+UCWEB/2.0(Symbian; U; S60 V3; en-US; NOKIAN95 8GB) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; ar-SA; NokiaN95_8GB) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NOKIAN95) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; es-LA; NOKIAN95 8GB) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaN95) U2/1.0.0 UCBrowser/9.3.0.326 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; fr-FR; NOKIAN95 8GB) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; en_US; NokiaN95) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIAN95) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; ar-SA; NOKIAN95) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NOKIAN95 8GB) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+Mozilla/5.0 (SymbianOS/9.2; U;Series60/3.1 NokiaN95/1.39.044
+OneBrowser/3.0 (NokiaN95/12.0.014)

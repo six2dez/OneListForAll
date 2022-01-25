@@ -1,0 +1,2 @@
+Opera/9.80 (Linux; U; Android 4.0.3; HU-hu; Transformer Prime TF201 Build/IML74K) Presto/2.9.181 Version/12.00
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; Transformer Prime TF201 Build/JRO03C)

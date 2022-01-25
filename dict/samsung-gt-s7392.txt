@@ -1,0 +1,9 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S7392) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S7392) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S7392) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S7392) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; GT-S7392) U2/1.0.0 UCBrowser/9.4.0.347 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S7392) U2/1.0.0 UCBrowser/9.2.0.419 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S7392) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S7392) U2/1.0.0 UCBrowser/9.4.0.460 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S7392) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile

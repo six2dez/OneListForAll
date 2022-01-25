@@ -1,0 +1,15 @@
+Mozilla/5.0 (BB10;Touch)
+Mozilla/5.0 (BB10;Touch)AppleWebKit/537.10(KHTML,like Gecko) Version/10.0.9.773 Mobile Safari/573.19
+Mozilla/5.0 (BB10; Touch)
+Mozilla/5.0 (BB10;Touch) AppleWebKit/537.10 (KHTML,like Gecko) Version/10.0.9.773 Mobile Safari/537.19
+Mozilla/5.0 (BB10;Touch) AppleWebkit/537.10
+Mozilla/5.0(BB10;Touch)AppleWebKit/537.10(KHTML,like Gecko)Version/10.0.9.773 Mobile Safari/537.19
+Mozilla/5.0(BB10;touch) AppleWebKit/537.10(KHTML,like Gecko) Version/10.0.9.773 Mobile Safari/537.19
+Mozilla/5.0 (BB10; Z10 mobile; rv:36.0) Gecko/36.0 Firefox/36.0
+Mozilla/5.0 (BB10;Touch) AppleWebkit/537.10 Version/10.0.9.773 Mobile Safari/537.19
+mozilla/5.0(bb10;touch)
+Mozilla/5.0 (BB10;Touch) Gecko/20100101 Firefox/20.0
+(BB10;Touch)
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML like Gecko) Version/10.2.1.3247 Mobile Safari/537.35+
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML
+Mozilla/5.0 (BB10;Touch); rv:21.0) Gecko/20100101 Firefox/21.0

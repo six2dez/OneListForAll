@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; LG-H870DS Build/OPR1.170623.032)

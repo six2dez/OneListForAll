@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.3; SM-N7505 Build/JSS15J)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-N7505 Build/LMY47X)

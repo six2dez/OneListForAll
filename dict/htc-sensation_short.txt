@@ -1,0 +1,5 @@
+Mozilla/5.0 (Linux; Android 6.0.1; HTC Sensation/HTC Sensation Z710e) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 6.0.99; HTC Sensation 4g/HTC Sensation 4G) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 8.0; de-ch; HTC Sensation Build/IML74K)
+Mozilla/5.0 (Linux; U; Android 4.0.3; de-ch; HTC Sensation Build/IML74K)
+Mozilla/5.0 (Linux; U; Android 4.0.3; de-ch; HTC Sensation Build/IML74K)

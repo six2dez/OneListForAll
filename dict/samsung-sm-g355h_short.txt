@@ -1,0 +1,27 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/9.0.2.389 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; SM-G355H Build/KOT49H) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.4.6.1017 Mobile Safari/537.36
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/11.1.1.1091 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G355H Build/KOT49H) U2/1.0.0 UCBrowser/10.10.5.809 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G355H) U2/1.0.0 UCBrowser/9.1.1.420 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; ; SM-G355H) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G355H Build/KOT49H) U2/1.0.0 UCBrowser/9.9.6.495 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-G355H) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G355H Build/KOT49H) U2/1.0.0 UCBrowser/10.5.2.582 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.3.0.622 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/8.8.1.359 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G355H Build/KOT49H) U2/1.0.0 UCBrowser/10.9.0.731 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-G355H) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G355H Build/KOT49H) U2/1.0.0 UCBrowser/10.5.0.575 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G355H) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-G355H) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile

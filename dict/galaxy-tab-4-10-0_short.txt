@@ -1,0 +1,4 @@
+Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T535 Build/LRX22G)
+Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.1916.141 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T537V Build/LMY47X)

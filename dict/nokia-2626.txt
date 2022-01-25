@@ -1,0 +1,7 @@
+Nokia2626/2.0 (06.80) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia2626/2.0 (06.81) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia2626/2.0 (03.51) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia2626/2.0 (04.61) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia2626/2.0 (06.81) Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Nokia2626/2.0 (06.80) Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+nokia2626

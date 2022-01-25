@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-N900T Build/LRX21V)
+Dolfin/current (Linux; U; Android 5.0; SM-N900T Build/LRX21V) AppleWebKit/534.24 Chrome/11.0.696.34 Mobile Safari/534.24
+Instagram 9.6.0 Android (19/4.4.2; 480dpi; 1080x1920; samsung; SM-N900T; hltetmo; qcom; en_US)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; SM-N900T) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile

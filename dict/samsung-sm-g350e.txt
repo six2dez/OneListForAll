@@ -1,0 +1,16 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/10.3.0.622 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/9.5.1.494 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/8.9.0.352 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G350E Build/KOT49H) U2/1.0.0 UCBrowser/10.7.6.805 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; SM-G350E Build/KOT49H) U2/1.0.0 UCBrowser/9.7.5.418 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/9.3.0.440 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/8.8.1.359 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/8.2.0.242 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
+JUC(Linux;U;Android4.4.2;Zh_cn;SM-G350E;480*800;)UCWEB7.8.0.95/139/444
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G350E) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile

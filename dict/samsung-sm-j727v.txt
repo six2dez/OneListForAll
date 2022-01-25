@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J727V Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-J727V Build/M1AJQ)

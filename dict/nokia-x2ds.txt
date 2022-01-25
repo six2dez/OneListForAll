@@ -1,0 +1,6 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; id; NokiaX2DS) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; id; NokiaX2DS) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; NokiaX2DS) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; NokiaX2DS) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; NokiaX2DS) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; NokiaX2DS) U2/1.0.0 UCBrowser/10.5.0.668 U2/1.0.0 Mobile

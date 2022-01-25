@@ -1,0 +1,691 @@
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/139
+BlackBerry8300/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.0
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+BlackBerry9000/5.0.0.93 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+BlackBerry9530/4.7.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 UP.Link/6.3.1.20.0
+BlackBerry9000/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/132
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0)
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+BlackBerry9300/5.0.0.832 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/125
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/416
+UCWEB/2.0(BlackBerry; U; 9.49.0.31; en-us; 9320/9.49.0.31) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry; U; Blackberry 9900; en
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+Opera/9.80 (J2ME/MIDP; Opera Mini/9 (Compatible; MSIE:9.0; iPhone; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/600
+BlackBerry9500/5.0.0.425 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8520/5.0.0.1075 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+UCWEB/2.0(BlackBerry; U; 5.2.0.67; en-us; 8520/5.2.0.67) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8320/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry8100/4.5.0.124 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/168
+UCWEB/2.0(BlackBerry; U; 5.2.0.64; en-us; 8520/5.2.0.64) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.241; en-us; 9300/6.6.0.241) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.2.0.104; en-us; 8520/5.2.0.104) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+UCWEB/2.0(BlackBerry; U; 9.105.0.26; en-us; 9720/9.105.0.26) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0
+UCWEB/2.0(BlackBerry; U; 5.2.0.113; en-us; 8520/5.2.0.113) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9650/5.0.0.975 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; en) AppleWebKit/534.11+ (KHTML
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/603
+UCWEB/2.0(BlackBerry; U; 6.6.0.236; en-us; 9300/6.6.0.236) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0
+BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+UCWEB/2.0(BlackBerry; U; 6.4.0.105; en-us; 9800/6.4.0.105) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+MNAPP(CB10) 1.0 BB10 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.212; en-us; 9300/6.6.0.212) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry8530/5.0.0.654 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/126
+BlackBerry9800/6.0.0.141 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9630/5.0.0.975 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8900/4.6.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+UCWEB/2.0(BlackBerry; U; 9.16.0.158; en-us; 9790/9.16.0.158) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/612
+BlackBerry9300/5.0.0.955 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 9.49.0.76; en-us; 9320/9.49.0.76) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/173
+UCWEB/2.0(BlackBerry; U; 4.2.0.451; en-us; 8530/4.2.0.451) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9000/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 6.6.0.216; en-us; 9300/6.6.0.216) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/133
+Mozilla/5.0 (BlackBerry;U;BlackBerry 9900;en-us)AppleWebkit/534.11+(KHTML,likeGecko)Version/9.9.0.0.MobileSafari/534.11+
+UCWEB/2.0(BlackBerry; U; 5.2.0.96; en-us; 8520/5.2.0.96) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.2.0.47; en-us; 8520/5.2.0.47) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 9.50.0.80; en-us; 9220/9.50.0.80) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.5.0.153; en-us; 9780/6.5.0.153) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1075 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+UCWEB/2.0(BlackBerry; U; 5.1.0.532; en-us; 9900/5.1.0.532) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1075 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+BlackBerry9650/5.0.0.1006 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9700/5.0.0.714 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8310/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107
+UCWEB/2.0(BlackBerry; U; 9.50.0.79; en-us; 9220/9.50.0.79) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/5.0 (BlackBerry;U;BlackBerry 9900;en)
+BlackBerry9300/5.0.0.794 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/373
+UCWEB/2.0(BlackBerry; U; 4.2.0.442; en-us; 9550/4.2.0.442) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/114
+BlackBerry9700/5.0.0.656 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry9700/5.0.0.535 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/-1
+BlackBerry8310/4.5.0.188 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/120 UP.Browser/5.0.3.3
+BlackBerry9520/5.0.0.669 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/179
+UCWEB/2.0(BlackBerry; U; 6.6.0.241; en-us; 9700/6.6.0.241) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9000/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9000/4.6.0.304 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9300/5.0.0.845 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/433
+BlackBerry8100/4.2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/123
+Opera/9.80 (J2ME/MIDP; Opera Mini/9 (Compatible; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54
+BlackBerry9700/5.0.0.586 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+UCWEB/2.0(BlackBerry; U; 5.2.0.111; en-us; 8520/5.2.0.111) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 9.16.0.129; en-us; 9790/9.16.0.129) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba
+BlackBerry8300/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107 UP.Link/6.2.3.15.02011-10-16 20:20:17
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+UCWEB/2.0(BlackBerry; U; 6.5.0.54; en-us; 9780/6.5.0.54) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 2.7.0.90; en-us; 8310/2.7.0.90) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9550/5.0.0.1015 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+UCWEB/2.0(BlackBerry; U; 6.6.0.246; en-us; 9300/6.6.0.246) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.248; en-us; 9800/6.6.0.248) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 4.4.0.560; en-us; 9330/4.4.0.560) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8530/5.0.0.654 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/389
+BlackBerry9700/5.0.0.770 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/122
+UCWEB/2.0(BlackBerry; U; 9.16.0.159; en-us; 9790/9.16.0.159) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.2.0.110; en-us; 8520/5.2.0.110) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.207; en-us; 9300/6.6.0.207) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1113 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/125
+UCWEB/2.0(BlackBerry; U; 9.6.0.111; en-us; 9360/9.6.0.111) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+OneBrowser/for Blackberry3.0.0 (BlackBerry9320/7.1.0.714)
+BlackBerry9700/5.0.0.602 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8520/5.0.0.1106 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/128
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9700/5.0.0.442 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/124
+UCWEB/2.0(BlackBerry; U; 5.1.0.678; en-us; 9930/5.1.0.678) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry8520/4.6.1.259 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+UCWEB/2.0(BlackBerry; U; 4.2.0.451; en-us; 9630/4.2.0.451) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/149
+UCWEB/2.0(BlackBerry; U; 9.6.0.51; en-us; 9360/9.6.0.51) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9330/5.0.0.857 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9630/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/609
+BlackBerry9300/5.0.0.888 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+UCWEB/2.0(BlackBerry; U; 9.105.0.16; en-us; 9720/9.105.0.16) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/4.6.1.286 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/308
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8530/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+UCWEB/2.0(BlackBerry; U; 4.2.0.118; en-us; 8520/4.2.0.118) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.1.0.393; en-us; 9900/5.1.0.393) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+OneBrowser/for Blackberry3.0.0 (BlackBerry9780/6.0.0.294)
+BlackBerry9530/5.0.0.419 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/600
+BlackBerry8520/5.0.0.348 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/129
+UCWEB/2.0(BlackBerry; U; 9.49.0.76; en-us; 9320/9.49.0.76) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 5.0.0.734; en-us; 9900/5.0.0.734) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/215
+UCWEB/2.0(BlackBerry; U; 9.49.0.31; en-us; 9320/9.49.0.31) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8900/4.6.1.206 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/142
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/131
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+UCWEB/2.0(BlackBerry; U; 6.6.0.249; en-us; 9800/6.6.0.249) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 4.2.0.442; en-us; 9550/4.2.0.442) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9000/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 4.4.0.560; en-us; 9650/4.4.0.560) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.1.0.230; en-us; 9810/5.1.0.230) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9000/4.6.0.282 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/173
+UCWEB/2.0(BlackBerry; U; 6.3.0.63; en-us; 9300/6.3.0.63) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.236; en-us; 9700/6.6.0.236) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8310/4.5.0.81 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107
+BlackBerry9630/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+BlackBerry8520/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8530/5.0.0.459 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/228
+BlackBerry9700/5.0.0.344 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/129
+UCWEB/2.0(BlackBerry; U; 6.6.0.236; en-us; 9800/6.6.0.236) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/373
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/214
+UCWEB/2.0(BlackBerry; U; 8.0.0.419; en-us; 9360/8.0.0.419) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 4.2.0.487; en-us; 9550/4.2.0.487) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.1014 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry9630/5.0.0.624 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8520/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8310/4.5.0.174 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/123
+BlackBerry8900/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+UCWEB/2.0(BlackBerry; U; 6.6.0.248; en-us; 9780/6.6.0.248) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+UCWEB/2.0(BlackBerry; U; 6.6.0.212; en-us; 9700/6.6.0.212) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9530/4.7.0.76 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/126
+BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/104
+BlackBerry8520/5.0.0.1096 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9300/5.0.0.832 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+UCWEB/2.0(BlackBerry; U; 9.49.0.47; en-us; 9320/9.49.0.47) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9650/5.0.0.699 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+UCWEB/2.0(BlackBerry; U; 9.49.0.77; en-us; 9320/9.49.0.77) U2/1.0.0 UCBrowser/8.1.0.216
+Nokia5300/2.0 (07.20) Profile/MIDP-2.0 Configuration/CLDC-1.1 BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0
+UCWEB/2.0(BlackBerry; U; 4.2.0.135; en-us; 8520/4.2.0.135) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; PPC; 240x320) BlackBerry8100/4.2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/139
+BlackBerry9700/5.0.0.400 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/395
+UCWEB/2.0(BlackBerry; U; 6.6.0.241; en-us; 9780/6.6.0.241) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.1.0.393; en-us; 9860/5.1.0.393) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/215
+blackberry 8800
+9.0; iPhone; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54
+UCWEB/2.0(BlackBerry; U; 6.6.0.207; en-us; 9780/6.6.0.207) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.124; en-us; 9300/6.6.0.124) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/136
+UCWEB/2.0(BlackBerry; U; 9.105.0.16; en-us; 9720/9.105.0.16) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 5.1.0.532; en-us; 9810/5.1.0.532) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry9000/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/315
+BlackBerry8900/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/301
+UCWEB/2.0(BlackBerry; U; 9.32.0.143; en-us; 9380/9.32.0.143) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8900/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry9650/5.0.0.732 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+UCWEB/2.0(BlackBerry; U; 6.5.0.136; en-us; 9780/6.5.0.136) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.586 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+UCWEB/2.0(BlackBerry; U; 6.6.0.236; en-us; 9300/6.6.0.236) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+BlackBerry8310/4.5.0.110 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8310/4.5.0.55 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/301
+UCWEB/2.0(BlackBerry; U; 6.6.0.250; en-us; 9780/6.6.0.250) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 6.6.0.250; en-us; 9780/6.6.0.250) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/5.0 (BlackBerry; U; Blackberry 9900; en)
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/146
+UCWEB/2.0(BlackBerry; U; 6.6.0.137; en-us; 9300/6.6.0.137) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.248; en-us; 9300/6.6.0.248) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/5.0 (BlackBerry; U; Firefox; en-US)(Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+UCWEB/2.0(BlackBerry; U; 4.2.0.127; en-us; 8900/4.2.0.127) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.680 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/121
+BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/394
+BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/189
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/125
+UCWEB/2.0(BlackBerry; U; 2.7.0.105; en-us; 8110/2.7.0.105) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.979 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/125
+BlackBerry8330/4.5.0.77 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/123
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/131
+BlackBerry9700/5.0.0.442 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+UCWEB/2.0(BlackBerry; U; 5.1.0.553; en-us; 9930/5.1.0.553) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9550/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+UCWEB/2.0(BlackBerry; U; 6.4.0.105; en-us; 9800/6.4.0.105) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry9700/8.865.534.943 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+BlackBerry9800/9.169.531.583 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba
+Opera/9.80 (J2ME/MIDP; Opera Mini/9 (Compatible; MSIE:9.0; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54
+BlackBerry9630/6.3242.56.7697 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+Mozilla/5.0 (BB10; Kbd; Mobile) Gecko/52.0 Firefox/52.0
+BlackBerry9000/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/215
+Dalvik/1.6.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90)BlackBerry4.1.0
+BlackBerry9700/5.0.0.330 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/301
+UCWEB/2.0(BlackBerry; U; 6.6.0.86; en-us; 9300/6.6.0.86) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/416
+UCWEB/2.0(BlackBerry; U; 9.49.0.114; en-us; 9320/9.49.0.114) U2/1.0.0 UCBrowser/8.1.0.216
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; BBB100-3 Build/NMF26F)
+BlackBerry8520/5.0.0.1056 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8300/4.2.2
+UCWEB/2.0(BlackBerry; U; 6.2.0.94; en-us; 9105/6.2.0.94) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9000/21.6.0.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 5.1.0.701; en-us; 9900/5.1.0.701) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry7100/94.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+UCWEB/2.0(BlackBerry; U; 4.2.0.494; en-us; 9630/4.2.0.494) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8700/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/115
+BlackBerry8320/4.5.0.188 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+UCWEB/2.0(BlackBerry; U; 4.2.0.423; en-us; 9520/4.2.0.423) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8300/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry7100/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+UCWEB/2.0(BlackBerry; U; 6.6.0.212; en-us; 9800/6.6.0.212) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8530/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/417
+BlackBerry8100/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100 UP.Browser/5.0.3.3
+UCWEB/2.0(BlackBerry; U; 6.6.0.137; en-us; 9105/6.6.0.137) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+BlackBerry8900/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/308
+BlackBerry9000/344.26.0.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/124
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/162
+BlackBerry9630/5.0.0.975 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/10512
+BlackBerry8900/5.03.02.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/179
+Mozilla/5.0 (BlackBerry; U; Firefox; en-US)(Windows NT 6.2; rv:24.0) Gecko/20100101 Firefox/24.0
+UCWEB/2.0(BlackBerry; U; 5.1.0.507; en-us; 9810/5.1.0.507) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry7100/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9000/4.6.0.126 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/120
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/115
+UCWEB/2.0(BlackBerry; U; 6.6.0.50; en-us; 9700/6.6.0.50) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9500/5.0.0.841 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/118
+BlackBerry8700/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry 9800
+BlackBerry8100/4.24.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/-1
+UCWEB/2.0(BlackBerry; U; 5.1.0.401; en-us; 9810/5.1.0.401) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8900/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 6.2.0.54; en-us; 9105/6.2.0.54) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/5.0 (BB10;Touch)
+UCWEB/2.0(BlackBerry; U; 6.6.0.250; en-us; 9300/6.6.0.250) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 3.4.0.51; en-us; 8130/3.4.0.51) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.252; en-us; 9700/6.6.0.252) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8110/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/124
+BlackBerry8900/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/308
+UCWEB/2.0(BlackBerry; U; 5.0.0.496; en-us; 9900/5.0.0.496) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.3.0.31; en-us; 9300/6.3.0.31) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.1.0.121; en-us; 9700/5.1.0.121) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.1.0.319; en-us; 9810/5.1.0.319) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9630/5.0.0.1041 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/254
+UCWEB/2.0(BlackBerry; U; 6.6.0.124; en-us; 9700/6.6.0.124) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 6.6.0.195; en-us; 9800/6.6.0.195) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 5.1.0.652; en-us; 9900/5.1.0.652) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 6.6.0.252; en-us; 9300/6.6.0.252) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9500/5.0.0.841 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+UCWEB/2.0(BlackBerry; U; 6.6.0.252; en-us; 9780/6.6.0.252) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/4.6.1.290 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/168
+UCWEB/2.0(BlackBerry; U; 9.49.0.123; en-us; 9320/9.49.0.123) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9300/5.0.0.912 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry9550/5.0.0.1082 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+UCWEB/2.0(BlackBerry; U; 3.4.0.59; en-us; 8330m/3.4.0.59) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 6.6.0.223; en-us; 9300/6.6.0.223) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 9.16.0.207; en-us; 9790/9.16.0.207) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9550/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/-1
+BlackBerry8310/4.5.0.182 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8900/4.6.1.206 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/119
+BlackBerry9000/5.0.0.464 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/605
+BlackBerry8520/5.0.0.886 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9700/5.0.0.423 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+UCWEB/2.0(BlackBerry; U; 5.1.0.137; en-us; 9930/5.1.0.137) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/416
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry9700/5.0.0.979 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 9.6.0.124; en-us; 9360/9.6.0.124) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+UCWEB/2.0(BlackBerry; U; 5.1.0.699; en-us; 9350/5.1.0.699) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+(BlackBerry; U; Blackberry 9900; en)
+BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/133
+UCWEB/2.0(BlackBerry; U; 4.4.0.560; en-us; 9670/4.4.0.560) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 4.2.0.334; en-us; 9650/4.2.0.334) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.2.0.113; en-us; 8520/5.2.0.113) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/5.0.0.1106 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8900/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/179
+BlackBerry9630/5.0.0.732 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102 ips-agent
+UCWEB/2.0(BlackBerry; U; 9.50.0.50; en-us; 9220/9.50.0.50) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+OneBrowser/for Blackberry3.0.0 (BlackBerry8520/5.0.0.681)
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/24.705; U; en) Presto/2.5.25 Version/10.54
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/150
+UCWEB/2.0(BlackBerry; U; 5.2.0.104; en-us; 8520/5.2.0.104) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 9.6.0.80; en-us; 9360/9.6.0.80) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.351Profile/MIDP-2.1Configuration/CLDC-1.1VendorID/123
+BlackBerry8530/5.0.0.508 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9800/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba
+Mozilla/5.0 (BlackBerry; U; Firefox; en-US)(Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Firefox/24.0
+BlackBerry9800/6.0.0.448 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry7290/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/104
+BlackBerry8900/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/302
+BlackBerry8310/4.5.0.42 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/160
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/301
+BlackBerry8900/5.0.0.411 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/132
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/301
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/197
+UCWEB/2.0(BlackBerry; U; 6.5.0.54; en-us; 9780/6.5.0.54) U2/1.0.0 UCBrowser/8.1.0.216
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9720; en) AppleWebKit/534.11+ (KHTML
+BlackBerry8320/4.5.0.153 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+UCWEB/2.0(BlackBerry; U; 5.0.0.734; en-us; 9860/5.0.0.734) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.400 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/609
+BlackBerry9700/5.0.0.296 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+BlackBerry8520/5.0.0.1075 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+BlackBerry9300/7.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/215
+BlackBerry9300/5.0.0.794 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+BlackBerry8520/5.0.0.1096 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba/UCWEB8.2.0.116/69/352 UNTRUSTED/1.0
+UCWEB/2.0(BlackBerry; U; 5.2.0.96; en-us; 8900/5.2.0.96) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9710/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123  Mozilla/5.0 (Android; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+BlackBerry8320/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/142
+UCWEB/2.0(BlackBerry; U; 9.6.0.39; en-us; 9360/9.6.0.39) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.979 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/180
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/370
+BlackBerry9650/7.321.53.6 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/121
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One Build/JDQ39) BlackBerry7520/4.0.2
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One Build/JDQ39) BlackBerry4.0.2
+Dalvik/1.4.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry4.0.2
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/301
+Mozilla/5.0 (BB10; <Device Model>) AppleWebKit/<WebKit Version>
+Dalvik/1.6.0 (Linux; U; Android 2.3.7; LG Build/GRJ90)BlackBerry4.1.0
+UCWEB/2.0(BlackBerry; U; 5.2.0.102; en-us; 8520/5.2.0.102) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry4.1.0
+BlackBerry9000/41.36.0.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; en-US) Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101
+BlackBerry8900/5.03.40.10222 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/165
+BlackBerry9000/41.63.0.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9700/5.0.0.656 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1
+BlackBerry8900/5.0.0.1106 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/301
+BlackBerry9650/70.321.53.6 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/121
+BlackBerry8310/4.5.0.110 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107
+BlackBerry7520/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry8220/4.6.0.278 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One Build/JDQ39) BlackBerry4
+BlackBerry9650/70657.321.53.6 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/121
+Dalvik/1.6.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry4
+BlackBerry9000/4.346.20.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9000/4.6.03.3203 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/302
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+UCWEB/2.0(BlackBerry; U; 6.6.0.252; en-us; 9780/6.6.0.252) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8310/4.5.0.37 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+Mozilla/5.0 (BB10;Touch)AppleWebKit/537.10(KHTML,like Gecko) Version/10.0.9.773 Mobile Safari/573.19
+BlackBerry9105/5.0.0.604 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9700/6.0.0.351Profile/MIDP-2.1
+UCWEB/2.0(BlackBerry; U; 6.3.0.23; en-us; 9300/6.3.0.23) U2/1.0.0 UCBrowser/8.1.0.216
+UCWEB/2.0(BlackBerry; U; 6.6.0.252; en-us; 9700/6.6.0.252) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8900/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8800/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/114
+BlackBerry8900/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9860; en-US)
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/114
+BlackBerry8310/4.5.0.69 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/125
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/214
+UCWEB/2.0(BlackBerry; U; 5.1.0.699; en-us; 9930/5.1.0.699) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9630/5.01232667.00577.452975 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry 9700/590.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry8900/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/124
+BlackBerry 9700/50.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+Mozilla/5.0(BlackBerry;U;Blackberry 9900;en)AppleWebKit/534.11+(KHTML,like Gecko)Version/7.10.346 Mobile Safari/534.11+
+Mozilla/4.0 (compatible; blackberry; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 1.0.3705; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+BlackBerry 9700/31.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry9700/5.0.0.423 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/10231
+BlackBerry9300/5.0.0.832 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/332
+Mozilla/5.0 (BB10; Touch)
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/210
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+BlackBerry7100/64.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (Windows NT 5.1; rv:29.0; WUID=f8ff45860559137a783abb1085d21d33; WTB=2958) Gecko/20100101 Firefox/29.0
+UCWEB/2.0(BlackBerry; U; 6.3.0.67; en-us; 9300/6.3.0.67) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1106 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/215
+UCWEB/2.0(BlackBerry; U; 5.1.0.641; en-us; 9810/5.1.0.641) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/4.6.1.286 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/600
+BlackBerry8900/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+OneBrowser/for Blackberry3.0.0 (BlackBerry9700/6.0.0.570)
+BlackBerry8520/5.0.0.1074 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/327
+BlackBerry8530/5.0.0.386 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/126
+Mozilla/5.0 (BB10;Touch) AppleWebKit/537.10 (KHTML,like Gecko) Version/10.0.9.773 Mobile Safari/537.19
+BlackBerry9000/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/144
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry9650/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+UCWEB/2.0(BlackBerry; U; 6.3.0.39; en-us; 9300/6.3.0.39) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0
+BlackBerry8520/5.0.0.1113 Profile/MIDP-2.1Configuration/CLDC-1.1 VendorID/214
+BlackBerry8520/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/132
+BlackBerry9810/7.1.0.694 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8320/4.5.0.174 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/142
+Mozilla/5.0 (BB10;Touch) AppleWebkit/537.10
+BlackBerry9550/5.0.0.1082 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/179
+BlackBerry8900/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+UCWEB/2.0(BlackBerry; U; 5.2.0.111; en-us; 8520/5.2.0.111) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8900/4.6.1.231 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/117
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/353
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9300/55.40.0.888 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+UCWEB/2.0(BlackBerry; U; 9.6.0.51; en-us; 9360/9.6.0.51) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8120/4.5.0.81 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+BlackBerry8310/4.5.0.55 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/133
+UCWEB/2.0(BlackBerry; U; 9.50.0.28; en-us; 9220/9.50.0.28) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/122
+NokiaX2-05/2.0 (08.30) Profile/MIDP-2.1 Configuration/CLDC-1.1 BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba/UCWEB8.0.3.99/70/350 UNTRUSTED/1.0
+UCWEB/2.0(BlackBerry; U; 5.0.0.735; en-us; 9900/5.0.0.735) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/178
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/134
+UCWEB/2.0(BlackBerry; U; 4.4.0.562; en-us; 9670/4.4.0.562) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+BlackBerry8520/5.0.0.1075 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+BlackBerry9700/5.0.0.344 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/12
+BlackBerry9630/5.0.0.732 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/126
+BlackBerry9520/5.0.0.436 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+BlackBerry8520/5.2.0.104 Profile/MIDP-2.0 Configuration/CLDC-1.1/UC Browser7.8.0.95/159/444
+BlackBerry8100/4.2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/1
+BlackBerry9300/5.0.0.845 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/121
+BlackBerry8520/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9300/5.0.0.832 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/115
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; DBB10DBE-4584-E829-2723-712BD9005E40; GTB7.5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; DBB10D08-45D9-E8C7-2757-712B6FB32A-54; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+UCWEB/2.0(BlackBerry; U; 2.6.0.53; en-us; 8110/2.6.0.53) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/115
+BlackBerry8900/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/114
+Mozilla/5.0(BB10;Touch)AppleWebKit/537.10(KHTML,like Gecko)Version/10.0.9.773 Mobile Safari/537.19
+BlackBerry9700/5.0.0.1014 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/332
+BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry8520/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+UCWEB/2.0(BlackBerry; U; 9.49.0.53; en-us; 9320/9.49.0.53) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.1.0.546; en-us; 9900/5.1.0.546) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 4.4.0.315; en-us; 9330/4.4.0.315) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.545 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331
+BlackBerry8900/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/173
+BlackBerry8520/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry8520/4.6.1.290 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+mozilla/13.0 (blackberry; firefox/13.0; U; id) presto/2.8.199 version/11.10 UNTRUSTED/1.0
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba/UC Browser8.0.3.107/70/352 UNTRUSTED/1.0
+BlackBerry9650/5.0.0.810 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/189
+BlackBerry8820/4.5.0.188 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8900/4.6.1.310 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/142
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9850; en-US) Gecko/20100101 Firefox/4.0.1
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/121
+Mozilla/5.0(BB10;touch) AppleWebKit/537.10(KHTML,like Gecko) Version/10.0.9.773 Mobile Safari/537.19
+BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/298
+Opera/9.80 (J2ME/MIDP; Opera Mini/9 (Compatible; MSIE:9.0; iPhone; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54 hola_android
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/381
+Mozilla/5.0 (BB10; Z10 mobile; rv:36.0) Gecko/36.0 Firefox/36.0
+UCWEB/2.0(BlackBerry; U; 5.2.0.104; en-us; 8900/5.2.0.104) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8100/4.2.0
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/373
+Mozilla/5.0 (BB10;Touch) AppleWebkit/537.10 Version/10.0.9.773 Mobile Safari/537.19
+Mozilla/5.0 (Blackberry; rv:24.0) Gecko/20100101 Firefox/24.0
+BlackBerry8100/4.2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/-1
+Mozilla/5.0 (BB10; Z10; BlackBerry; Mobile; rv:36.0) Gecko/36.0 Firefox/36.0
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/611
+BlackBerry8320/4.5.0.81 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/107
+BlackBerry8900/4.6.1.109 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/142
+Konqueror/15.12 (BlackBerry 2.3; en_GB;)
+BlackBerry8300 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9700/5.0.0.442 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/416
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/134
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/186
+BlackBerry9800/5.0.0.862
+BlackBerry9650/5.0.0.983 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/277
+BlackBerry8520/5.0.0.1113 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/214
+UCWEB/2.0(BlackBerry; U; 9.6.0.133; en-us; 9360/9.6.0.133) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 4.4.0.348; en-us; 9650/4.4.0.348) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+UCWEB/2.0(BlackBerry; U; 5.2.0.67; en-us; 8900/5.2.0.67) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9800/8.0.0.862
+BlackBerry7130/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 UNTRUSTED/1.0 3gpp-gba
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/175
+BlackBerry8520/5.0.0.822 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/327
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/175
+BlackBerry9930/5.1.0.614 Profile/MIDP-2.0 Configuration/CLDC-1.1/UCWEB8.1.0.104/161/800
+BlackBerry9500/5.0.0.451 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/124
+BlackBerry9105/5.0.0.689 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9000/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/503
+mozilla/5.0(bb10;touch)
+BlackBerry8900/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/240
+UCWEB/2.0(BlackBerry; U; 9.49.0.98; en-us; 9320/9.49.0.98) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1113 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/136
+Mozilla/5.0 (Blackberry; U; Blackberry 9800; id) webkit/583 mobile version/6.0.0.195 presto/2.8.99  UNTRUSTED/1.0
+BlackBerry9700/5.0.0.586 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/119
+UCWEB/2.0(BlackBerry; U; 4.4.0.315; en-us; 9650/4.4.0.315) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/60324
+BlackBerry9700/5.0.0.405 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9700/5.0.0.743 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/115
+BlackBerry9700/5.0.0.423 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1024
+BlackBerry8800/4.5 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/217
+BlackBerry9520/5.0.0.713 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/13124
+BlackBerry8320/4.3.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+UCWEB/2.0(BlackBerry; U; 5.0.0.544; en-us; 9810/5.0.0.544) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9300/5.0.0.846 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/612
+BlackBerry9630/5.0.0.624 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+BlackBerry8530/5.0.0.734 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+Opera/ (J2ME/MIDP; Opera Mini/9 (Compatible; MSIE:9.0; iPhone; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54
+BlackBerry8900/5.9.5.2124 Profile/MIDP-2.9 Configuration/CLDC-1.1 VendorID/132
+BlackBerry9700/5.0.0.442 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/383
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/12024
+BlackBerry9000/4.6.0.303 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/167
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/119
+UCWEB/2.0(BlackBerry; U; 5.2.0.96; en-us; 8900/5.2.0.96) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9650/5.0.0.699 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry7100/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/124
+UCWEB/2.0(BlackBerry; U; 4.2.0.284; en-us; 9630/4.2.0.284) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+BlackBerry9800/6.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0)
+BlackBerry9000/4.346.0.3023 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/302
+BlackBerry7250/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9000/4.634.0.2303 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/302
+BlackBerry 9000: BlackBerry9000/4.6.0.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/352
+BlackBerry8100/4.2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+UCWEB/2.0(BlackBerry; U; 5.2.0.31; en-us; 8520/5.2.0.31) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8820/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8300/4.5.0.93 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+BlackBerry9300/5.0.0.716 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/133
+BlackBerry9700/5.356.653.266 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+BlackBerry9700/5.356.983.286 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+BlackBerry9700/5.825.984.653 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+BlackBerry9700/6.6.0.241 Profile/MIDP-2.0 Configuration/CLDC-1.1/UCWEB8.1.0.104/161/32080
+BlackBerry9700/5.356.231.158 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+BlackBerry9500/5.0.0.484 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/130
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/604
+BlackBerry9700/5.839.511.807 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+BlackBerry9105/5.0.0.783 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1
+BlackBerry9700/5.825.558.653 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+BlackBerry9100/5.0.0.604 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/298
+BlackBerry8530/5.0.0.973 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/303
+Blackberry 9900
+Mozilla/4.0 (compatible; Opera/9.80 (J2ME/MIDP; Opera Mini/9 (Compatible; MSIE:9.0; iPhone; BlackBerry9700; AppleWebKit/24.746; U; en) Presto/2.5.25 Version/10.54; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)
+BlackBerry7130/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+Mozilla/5.0 (BB10;Touch) Gecko/20100101 Firefox/20.0
+BlackBerry9700/5.80.731.158 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/606
+(BB10;Touch)
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML like Gecko) Version/10.2.1.3247 Mobile Safari/537.35+
+UCWEB/2.0(BlackBerry; U; 5.2.0.58; en-us; 8900/5.2.0.58) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8900/5.0.0.411 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+BlackBerry9300/5.0.0.997 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/136
+BlackBerry9550/5.0.0.517 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/-1
+BlackBerry9630/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/269
+BlackBerry9700/5.0.0.979 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/122
+BlackBerry8900/5.0.0.1022 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/215
+BlackBerry9700/5.0.0.770 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/375
+BlackBerry9520/5.0.0.306 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+Blackberry9700 UNTRUSTED/1.0
+BlackBerry8530/5.0.0.1000 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+BlackBerry8530/5.0.0.459 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/442
+UCWEB/2.0(BlackBerry; U; 5.1.0.532; en-us; 9810/5.1.0.532) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1113 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+BlackBerry7100/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102
+BlackBerry8530/5.0.0.395 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/104
+BlackBerry9700/5.0.0.586 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry9550/5.0.0.320 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/133
+UCWEB/2.0(BlackBerry; U; 6.6.0.223; en-us; 9800/6.6.0.223) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9500/4.7.0.65 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/120
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML
+UCWEB/2.0(BlackBerry; U; 2.7.0.105; en-us; 8310/2.7.0.105) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/167
+UCWEB/2.0(BlackBerry; U; 6.6.0.195; en-us; 9300/6.6.0.195) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; en) AppleWebKit/534.11+ (KHTML
+BlackBerry8520/4.6.1.314 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/327
+BlackBerry9700/5.0.0.593 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/100
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1 (KHTML
+BlackBerry9330/5.0.0.913 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1042
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/16724
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/604
+BlackBerry9300/5.0.0.912 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/3782
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9930; en-US) AppleWebKit/534.11+ (KHTML
+BlackBerry9105/5.0.0.783 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/124
+BlackBerry8900/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/30224
+BlackBerry9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry7520/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+BlackBerry9650/5.0.0.975 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/10524
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/16724
+UCWEB/2.0(BlackBerry; U; 6.6.0.236; en-us; 9700/6.6.0.236) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8120/4.5.0.37 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+BlackBerry9630/5.0.0.1030 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/126
+BlackBerry9780/6.6.0.241 Profile/MIDP-2.0 Configuration/CLDC-1.1/UC Browser7.8.0.95/159/352
+UCWEB/2.0(BlackBerry; U; 6.3.0.23; en-us; 9300/6.3.0.23) U2/1.0.0 UCBrowser/8.1.0.216 U2/1.0.0 Mobile
+BlackBerry8520/5.0.0.1113 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/120
+UCWEB/2.0(BlackBerry; U; 5.2.0.67; en-us; 8520/5.2.0.67) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry9530/4.7.0.148 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9530/5.0.0.797 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+Mozilla/5.0 (BlackBerry; MSIE 8.0; Windows NT 6.1)
+BlackBerry8800/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/122
+BlackBerry8530/5.0.0.337 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry8530/5.0.0.847 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/315
+BlackBerry9630/4.7.1.40 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+Dalvik/1.4.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry/4.0
+BlackBerry8900/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+BlackBerry8100/4.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/167
+BlackBerry9000/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/214
+BlackBerry8120/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/115
+BlackBerry9630/5.0.0.484 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+UCWEB/2.0(BlackBerry; U; 5.1.0.429; en-us; 9930/5.1.0.429) U2/1.0.0 UCBrowser/8.1.0.216
+BlackBerry8520/4.6.1.286 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/118
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry7100/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/133
+BlackBerry8520/5.0.0.592 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/214
+BlackBerry9300/5.0.0.977 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/142
+Dalvik/1.4.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry7100/4.1.0
+BlackBerry8520/5.0.0.900 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/107
+BlackBerry 9700/5.0.0.351 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123  Mozilla/5.0 (Android; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+BlackBerry8520/5.0.0.509 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9630/4.7.1.61 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9100/5.0.0.921 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+Mozilla/5.0 (BB10; Mobile; rv:22.0) Gecko/22.0 Firefox/22.0
+BlackBerry7520/4.0.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/168
+BlackBerry8320/4.5.0.55 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/150
+Dalvik/1.4.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) BlackBerry7100/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/133
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/601
+Dalvik/1.4.0 (Linux; U; Android 2.3.7; LG-P350 Build/GRJ90) Gecko/20100101 BlackBerry/8.0 slurp
+Dalvik/1.4.0 (Linux; U; LG-P350 Build/GRJ90)  BlackBerry/8.0 slurp
+BlackBerry8520/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/123
+BlackBerry8520/5.0.0.1036 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/373
+BlackBerry8820/4.5.0.187 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/603
+Mozilla/5.0 (BB10;Touch); rv:21.0) Gecko/20100101 Firefox/21.0

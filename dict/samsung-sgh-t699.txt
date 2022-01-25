@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SGH-T699 Build/JZO54K)
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy S Relay/SGH-T699) Gecko/20100101 Firefox/50.1.0

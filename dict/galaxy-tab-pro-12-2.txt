@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T900 Build/LMY47X)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T900 Build/KOT49H)

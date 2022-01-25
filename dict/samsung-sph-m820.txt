@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; SPH-M820-BST) U2/1.0.0 UCBrowser/9.3.0.440 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SPH-M820-BST) U2/1.0.0 UCBrowser/9.3.0.440 Mobile

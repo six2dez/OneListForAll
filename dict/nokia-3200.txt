@@ -1,0 +1,2 @@
+Nokia3200/1.0 (5.12) Profile/MIDP-1.0 Configuration/CLDC-1.00
+Nokia3200/1.0 (5.29) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/6.3.1.13.0

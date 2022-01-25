@@ -1,0 +1,9 @@
+Dooble/0.07 (de_CH) WebKit
+Dooble/0.07 (en_US) WebKit
+Dooble/0.07 (de_DE) WebKit
+Dooble/0.07 (C) WebKit
+Dooble/0.07 (en_ZA) WebKit
+Dooble/0.07 (cs_CZ) WebKit
+Dooble/0.07 (en_AU) WebKit
+Dooble/0.07 (sl_SI) WebKit
+Dooble/0.07 (pt_BR) WebKit

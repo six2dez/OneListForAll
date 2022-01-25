@@ -1,0 +1,17 @@
+UCWEB/2.0 (Symbian; U; S60 V5; id; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+Nokia5800
+UCWEB/2.0 (Symbian; U; S60 V5; ar-SA; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+Nokia 5800 XpressMusic/UCWEB8.9.0.253/50/999
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+Nokia5800 XpressMusic/UC Browser8.0.4.121/50/351/UCWEB
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; id; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; id; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+Nokia5800 XpressMusic/UC Browser8.0.3.107/50/352/UCWEB
+UCWEB/2.0(Symbian; U; S60 V5; en-US; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia 5800 XpressMusic) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+Nokia5800 XpressMusic/UC Browser8.0.4.121/50/355/UCWEB
+UCWEB/2.0 (Symbian; U; S60 V5; ru; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; en-US; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; id; Nokia5800 XpressMusic) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile

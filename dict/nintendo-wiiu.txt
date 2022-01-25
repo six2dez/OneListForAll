@@ -1,0 +1,2 @@
+Mozilla/5.0 (Nintendo WiiU) Gecko/20100101 NX/3.0.4.2.12 NintendoBrowser/4.3.1.11264.US
+Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.28

@@ -1,0 +1,18 @@
+Mozilla/5.0 (Linux; Android 6.0.99; Nexus 9 Build/NPD56N) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Android 5.1 ; Mobile; Nexus 9 rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Linux; Android 6.0.99; Nexus 9 Build/NPD56N) Gecko/20100101 Firefox/50.1.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 9 Build/MOB30M)
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 9 :rv31.0) Gecko/31.0 Firefox/31.0
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 9; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; Mobile; Nexus 9 rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; 5.0.3 Mobile; Nexus 9 rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 9 rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 5.0; Mobile; Nexus 9; rv:35.0) Gecko/35.0 Firefox35.0
+Mozilla/5.0 (Android 5.0; Mobile; Nexus 9; rv:31.0) Gecko/31.0 Firefox31.0
+Mozilla/5.0 (Android; 5.0.3; Mobile; Nexus 9; rv:35) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; Mobile; Nexus 9 rv:31.0) Gecko/31.0 Firefox/31.0
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; Nexus 9 Build/NMF26F)
+Android 7.1.1 Nexus 9
+Amazon.com/10.3.0.850 (Android/7.1.1/Nexus 9)
+Mozilla/5.0 (Android 5.0; Mobile; Nexus 9; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Android; Mobile; Nexus 98 rv:98.0) Gecko/98.0 Firefox/98.0

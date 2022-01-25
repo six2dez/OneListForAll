@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; pt-BR; SM-G110B) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; pt-BR; SM-G110B Build/KOT49H) U2/1.0.0 UCBrowser/10.7.2.757 Mobile

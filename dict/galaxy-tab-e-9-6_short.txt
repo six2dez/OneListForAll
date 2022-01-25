@@ -1,0 +1,5 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T560NU Build/MMB29M)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T560 Build/KTU84P)
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T560NU Build/NMF26X)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-T561) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T560NU Build/LMY47X)

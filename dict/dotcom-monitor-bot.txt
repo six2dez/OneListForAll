@@ -1,0 +1,30 @@
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:29.0) Gecko/20100101 /29.0 DMBrowser-BV
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0) DMBrowser/2.1 (UV)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 /29.0 DMBrowser-BV
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Media Center PC 6.0) DMBrowser/2.1 (UV)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; Media Center PC 6.0) DMBrowser-BV
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko DMBrowser-UV
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko DMBrowser/2.1 (UV)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729) DMBrowser-BV
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko DMBrowser/2.1 (UV)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 /29.0 DMBrowser-UV
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0) DMBrowser-UV
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E) DMBrowser-BV
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:29.0) Gecko/20100101 /29.0 DMBrowser-UV
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0) DMBrowser/2.1 (UV; LV)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 22a3879b-f910-4b3f-92bf-b2b6e3ccd983
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 199fca8b-a232-4adf-93da-f57d936ee986
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 3bd72bda-139c-443e-b69d-1ebd908f9fec
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: ad39cda6-31f7-4228-9e7b-ab5bbfe5fc03
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 4b803c3f-d4d9-4b0f-9cdd-32038ca944a5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; Media Center PC 6.0)DMBrowser: 5d3a594a-ee7e-481a-817a-287ebdf938fe
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: e482d411-8a49-4875-a954-5a707249f5c0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0)DMBrowser: 5d3a594a-ee7e-481a-817a-287ebdf938fe
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: bb661214-686d-4087-9a4b-10899393ad78
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 3fe74a80-23b0-425f-9cf4-b7414edebe31
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 62e19ed2-6864-4a13-a7f9-1c198390a97d
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 2e798639-6964-4efc-95a5-b4220137877f
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: da99552f-9edf-4b03-ab92-e3cb6f313330
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 0045d5c3-126b-4043-9633-c9f65098c1f5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 971691a1-e448-4bf2-b39c-6aa842307f20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Media Center PC 6.0); DMBrowser: 0e5ed5f8-3aeb-492d-affd-750e577b7fdd

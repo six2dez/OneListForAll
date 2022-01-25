@@ -1,0 +1,77 @@
+iBrowser/2.0,Nokia6681/2.0
+iBrowser/1.1(compatible;Windows NT 6.1;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; JuziBrowser)
+iBrowser/1.2(compatible;Windows NT 6.1;Trident/4.0;.NT CLR 2.0.50727;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; JuziBrowser)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; JuziBrowser)
+iBrowser/1.2(compatible;Windows NT 6.1;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+WikiBrowser/1.0 Gecko/1.0
+OIPF-OIP/2.2.0 (;;;;;) AltiBrowser/3.0.4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; JuziBrowser)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; JuziBrowser) like Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; JuziBrowser)
+iBrowser/1.1(compatible;Trident/7.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; JuziBrowser)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; JuziBrowser)
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0; JuziBrowser) like Gecko
+iBrowser/Mini2.8 (NokiaN90-1/5.0607.7.3)
+KeitaiBrowser/0.1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; JuziBrowser)
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0; JuziBrowser) like Gecko
+Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0; JuziBrowser) like Gecko
+Xiaomi_2016051_TD-LTE/V1 Linux/3.18.22 Android/6.0 Release/8.8.2016 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 6.0 XiaoMi/MiuiBrowser/2.4.9
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; JuziBrowser)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SV1; JuziBrowser)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; JuziBrowser)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2; JuziBrowser)
+Xiaomi_2014112_TD-LTE/V1 Linux/3.10.28 Android/4.4.4 Release/11.11.2014 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 4.4.4 XiaoMi/MiuiBrowser/2.0.1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; JuziBrowser)
+iBrowser/2.0(compatible;Windows NT 6.1;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.1(compatible;MSIE 7.0;Windows NT 6.1;Win64;x64;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;Media Center PC 6.0;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.1(compatible;Windows NT 6.1;Win64;x64;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/Mini2.5 (LG-T375)
+iBrowser/Mini2.2 (TCL-C616)
+iBrowser/Mini2.4 (Nokia7610Supernova/07.2)
+Xiaomi_2013022_TD/V1 Linux/3.4.5 Android/4.2.1 Release/03.11.2013 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.2.1 XiaoMi/MiuiBrowser/1.0
+Xiaomi_2016112_TD-LTE/V1 Linux/3.18.24 Android/6.0 Release/8.8.2016 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 6.0 XiaoMi/MiuiBrowser/2.4.9
+Xiaomi_MBT6A5_TD-LTE/V1 Linux/3.18.22+ Android/6.0 Release/3.3.2017 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 6.0 XiaoMi/MiuiBrowser/2.4.9
+iBrowser/Mini2.8 (Nokia110/03.47)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; JuziBrowser)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; JuziBrowser)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; .NET4.0C; .NET4.0E; JuziBrowser)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; JuziBrowser)
+Mozilla/5.0 (compatible; Seznam Minibrowser URL peek; +http://software.seznam.cz/)
+Xiaomi_2015611_TD-LTE/V1 Linux/3.10.61 Android/5.0 Release/11.11.2015 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 5.0 XiaoMi/MiuiBrowser/2.4.9
+Mozilla/5.0 (MSIE 9.0; qdesk 2.5.1279.201; Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; JuziBrowser) like Gecko
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANMJS; rv:11.0; JuziBrowser) like Gecko
+iBrowser/1.1(compatible;Windows NT 63.1;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.1(compatible;Windows2 NT 63.1;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.1(compatible;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/Mini2.2 (MStar)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; JuziBrowser)
+Kakashi/1.0 (X1; KakashiOS KakashiCPU1.0; KX1.0) various/various KakashiBrowser/1.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; JuziBrowser)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; JuziBrowser)
+Xiaomi_MAT136_TD-LTE/V1 Linux/3.18.24 Android/6.0 Release/3.3.2017 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 6.0 XiaoMi/MiuiBrowser/2.4.9
+iBrowser/Mini2.8 (NokiaX2-02/11.79)
+Xiaomi_MDT1_TD-LTE/V1 Linux/3.1.31 Android/7.1 Release/10.10.2017 Browser/AppleWebKit537.36 Mobile Safari/537.36 System/Android 7.1 XiaoMi/MiuiBrowser/9.2.1
+iBrowser/2.5 (NokiaN73(Z5.01);SymbianOS/9.1 Series60/3.0)
+iBrowser/2.7 (Nokia5800XpressMusic;SymbianOS/9.1 Series60/3.0)
+iBrowser/2.5 (NokiaNXX;SymbianOS/9.3 Series60/3.2)
+iBrowser/Mini2.4 (Nokia6120c/06.01)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2; Tablet PC 2.0; JuziBrowser)
+iBrowser/Mini2.8 (SonyEricssonJ10i/R7BA076)
+iBrowser/Mini2.7 (SAMSUNG-GT-S3850/S3850DXKK1)
+iBrowser/2.0(compatible;Windows NT 5.1;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.2(compatible;Macintosh;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.2(compatible;Windows NT 7.2;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.2(compatible;Windows NT 6.2;Trident/4.0;.NT CLR 2.0.50727;SLCC2;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+iBrowser/1.2(compatible;Windows NT 6.1;Trident/4.0;)
+iBrowser/1.0
+SciBrowser
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; Touch; rv:11.0; JuziBrowser) like Gecko
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; JuziBrowser) like Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; JuziBrowser)
+Xiaomi_2013061_TD/V1 Linux/3.4.5 Android/4.2.1 Release/09.18.2013 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.2.1 XiaoMi/MiuiBrowser/1.0
+iBrowser/7.3(compatible;Windows NT 6.1;Trident/3.0;.NT CLR 2.0.50727;.NET CLR 3.5.30729;.NET CLR 3.0.30729;MALN5;.NET4.0C;.NET4.0E;)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; JuziBrowser)

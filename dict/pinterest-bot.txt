@@ -1,0 +1,5 @@
+Pinterest/0.2 (+http://www.pinterest.com/)
+Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)
+Pinterest/0.2 (+http://www.pinterest.com/bot.html)
+Pinterest/0.1 +http://pinterest.com/
+Pinterest for Android/6.12.0 (F3113; 6.0)

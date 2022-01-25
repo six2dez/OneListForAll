@@ -1,0 +1,3 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9192 Build/KOT49H)
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9192) U2/1.0.0 UCBrowser/9.2.0.419 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9192) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile

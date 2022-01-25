@@ -1,0 +1,3 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S7500) U2/1.0.0 UCBrowser/8.8.1.351 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S7500) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S7500) U2/1.0.0 UCBrowser/9.0.1.379 U2/1.0.0 Mobile

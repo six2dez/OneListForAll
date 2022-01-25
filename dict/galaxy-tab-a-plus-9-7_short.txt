@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-P550 Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-P555 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-P550 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-P550 Build/NMF26X)

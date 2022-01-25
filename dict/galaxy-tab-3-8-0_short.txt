@@ -1,0 +1,7 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T310 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T310 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T315T Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T315 Build/KOT49H)
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-T311 Build/KOT49H) U2/1.0.0 UCBrowser/10.4.2.659 Mobile
+Samsung SM-T310 stagefright/1.2 (Linux;Android 4.4.2)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T311) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile

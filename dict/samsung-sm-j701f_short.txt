@@ -1,0 +1,5 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J701F Build/NRD90M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; en-US; SM-J701F) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-J701F) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-J701F) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-J701F) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile

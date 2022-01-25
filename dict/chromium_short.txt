@@ -1,0 +1,99 @@
+Mozilla/5.0 (Linux; Ubuntu 14.04) AppleWebKit/537.36 Chromium/35.0.1870.2 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 14.04 like Android 4.4) AppleWebKit/537.36 Chromium/35.0.1870.2 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/57.0.2987.110 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 17.04) AppleWebKit/537.36 Chromium/57.0.2987.110 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/55.0.2883.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/56.0.2924.87 Safari/537.36
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.22 (KHTML like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/53.0.2785.143 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/55.0.2883.75 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04) AppleWebKit/537.36 Chromium/55.0.2883.75 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04 like Android 4.4) AppleWebKit/537.36 Chromium/65.0.3325.151 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/56.0.2924.87 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/35.0.1870.2 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/57.0.2987.110 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04 like Android 4.4) AppleWebKit/537.36 Chromium/55.0.2883.75 Mobile Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) Ubuntu Chromium/30.0.1599.114 Chrome/30.0.1599.114 Safari/537.36
+Mozilla/5.0;(Macintosh,Intel-Mac-OS-X-10_10_4);AppleWebKit/537.36(KHTML,like-Gecko);Chrome/44.0.2403.125;Safari/537.36;M-Theory-Chromium
+Mozilla/5.0 (Linux; Ubuntu 15.04) AppleWebKit/537.36 Chromium/35.0.1870.2 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/55.0.2883.75 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/51.0.2704.79 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04 like Android 4.4) AppleWebKit/537.36 Chromium/60.0.1870.2 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/52.0.2743.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/53.0.2785.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/65.0.3325.151 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04 like Android 4.4) AppleWebKit/537.36 Chromium/57.0.2987.133 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/54.0.2840.71 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/57.0.2987.133 Mobile Safari/537.36
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; chromiumcsgframe/24.0.1312.52; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+Mozilla/5.0 (Linux; Ubuntu 15.04) AppleWebKit/537.36 Chromium/53.0.2785.143 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 17.04) AppleWebKit/537.36 Chromium/53.0.2785.143 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/51.0.2704.79 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04) AppleWebKit/537.36 Chromium/52.0.2743.116 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 17.04) AppleWebKit/537.36 Chromium/56.0.2924.87 Safari/537.36
+Chromium
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; chromiumcsgframe/24.0.1312.52) like Gecko
+Mozilla/5.0 (Linux; Ubuntu 15.04) AppleWebKit/537.36 Chromium/58.0.3029.41 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/53.0.2785.101 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/51.0.2704.79 Safari/537.36
+Mozilla/5.0 (Linux; Android) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux; Android 5.1; Nexus 5) Chromium/53.0 Mobile
+Chromium 56.0.2924.87
+Mozilla/5.0 (Linux; Ubuntu 17.0) AppleWebKit/539.0 Chromium/69.0
+Mozilla/5.0 (Linux) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/54.0.2840.71 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 17.04) AppleWebKit/537.36 Chromium/55.0.2883.75 Safari/537.36
+Chromium flavoured Unisoft embedded browser
+Chromium 20 on Ubuntu Linux 12 (x64) certainly
+Chromium Ubuntu Linux x86 64
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; chromiumcsgframe/24.0.1312.52; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+Chromium/xyz
+Mozilla/5.0 (Linux; Ubuntu 16.04 like Android 4.4) AppleWebKit/537.36 Chromium/56.0.2924.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 17.01) AppleWebKit/539.36 Chromium/71.0.1870.2 Safari/539.36
+DreamsicleTram/0.0.1-xo1aKTQ Mozilla/5.0 Chromium/59.0.3071.115
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Ubuntu Chromium/30.0.1599.114 Chrome/30.0.1599.114 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04 like Android 4.4) AppleWebKit/537.36 Chromium/57.0.2987.110 Mobile Safari/537.36
+LiveSlides/1.6.12.0 Office/16.0 (Microsoft Windows 10 Home 6.2.9200.0) CefSharp/43.0.0.0 Cef/r3.2357.1287.g861c26e Chromium/43.0.2357.130
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.36; Chromium
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/51.0.2704.103 Safari/537.36
+Seba 1.0 (Like Gecko with Chromium)
+Mozilla/5.0 (Linux; Ubuntu 18.10) AppleWebKit/606 Chromium/70 Safari/606
+Chromium 27 on Ubuntu Linux 11.1 (x64)
+Google/4.0 (Mac OS) Chromium/21.4.8
+Mozilla/5.0 (*Linux x86_64*) AppleWebKit/* (KHTML* like Gecko)*Ubuntu/12.04*Chromium/55.*Chrome/*Safari/*
+chromium-37
+chromium-55.0.2883
+Mozilla/5.0 (Linux; PalmOS 3.0) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux; Android 3) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux; Android 5.1) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux; Ubuntu 14.04) AppleWebKit/537.36 Chromium/35.0.1870.2
+Mozilla/5.0 (X11; Linux i586; en-GB; rv:6.0.5) Gecko/20111012 Chromium/11.0 (Debian)
+Mozilla/5.0 (Linux; Ubuntu 17) AppleWebKit/606 Chromium/71 Safari/606
+Mozilla/5.0 (Linux armv7l; Android 5.1; Nexus 5) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux armv7l; Nexus 5) Chromium/53.0 Mobile
+Mozilla/5.0 (X11; Linux x86_64) Ubuntu Chromium/60.0.3112.78 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04) AppleWebKit/605.1.15 Chromium/69.0.0.0
+Krisna was here. He is using Chromium on a mac BTW...
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9a1) Chrome/12.0.742.91 Chromium/12.0.742.91 Safari/534.30
+Mozilla/5.0 (X11; Linux x86_64) Ubuntu Chromium/60.0.3112.78
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+Mozilla/5.0 (X11; Linux x8664) AppleWebKit/537.36 (KHTML like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04 like Android 4.4) AppleWebKit/537.36 Chromium/54.0.2840.99 Mobile Safari/537.36
+Chromium based
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; chromiumcsgframe/18.0.1025.54; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+Mozilla/5.0 (X11; Debian) AppleWebKit/58 Chromium/33
+Mozilla/5.0 (X11; Linux x8664) AppleWebKit/537.36 (KHTML like Gecko) Ubuntu Chromium/28.0.1500.52 Chrome/28.0.1500.52 Safari/537.36
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; chromiumcsgframe/24.0.1312.52; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Mozilla/5.0 (Linux; Ubuntu 17.04 like Android 4.4) AppleWebKit/537.36 Chromium/57.0.2987.110 Mobile Safari/537.36
+DreamsicleTram/0.0.1-ntosexe Mozilla/5.0 Chromium/59.0.3071.115
+Chromium/65.0.1453.93 Chrome/65.0.1453.93
+Opera/2013.9.80 (X11; Linux zbov) Presto not Chromium/2.11.357 Version/12.19
+Opera truely/2013.9.80 (X11; Linux zbov) Presto not Chromium/2.11.357 Version/12.19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36; Chromium
+PureOS Internal Application Window Frame (Chromium Based)
+Chromium/10.0.648.127
+Mozilla/5.0 (Linux; Ubuntu 14.04 like Android 4.4) AppleWebKit/537.36 Chromium/35.0.1870.2 Mobile  Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.10) AppleWebKit/537.36 Chromium/54.0.2840.99 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 16.04) AppleWebKit/537.36 Chromium/52.0.2743.116 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 14.04) AppleWebKit/537.36 Chromium/35.0.187.2 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 15.04) AppleWebKit/537.36 Chromium/51.0.2704.79 Safari/537.36

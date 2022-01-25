@@ -1,0 +1,2 @@
+BlackBerry9100/5.0.0.604 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/298
+BlackBerry9100/5.0.0.921 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102

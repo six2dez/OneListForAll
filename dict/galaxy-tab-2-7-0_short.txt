@@ -1,0 +1,15 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P3113 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P3100 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Tab 2 7.0/GT-P3100) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.1; oc-FR; GT-P3100 Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-US; GT-P3100 Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; en-US; GT-P3100) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-CA; GT-P3100 Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; id; GT-P3100) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Tab 2 7.0/GT-P3100) Gecko/20100101 Firefox/47.0.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-P3100) U2/1.0.0 UCBrowser/9.1.1.420 U2/1.0.0 Ponsel

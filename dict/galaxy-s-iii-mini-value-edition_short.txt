@@ -1,0 +1,7 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; pt-BR; GT-I8200L) U2/1.0.0 UCBrowser/9.1.1.420 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I8200N Build/JDQ39)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I8200) U2/1.0.0 UCBrowser/10.9.8.1006 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; GT-I8200) U2/1.0.0 UCBrowser/10.4.0.641 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; Internet.movistar.com.ec; GT-I8200) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I8200) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; GT-I8200) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

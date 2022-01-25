@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-N960F Build/M1AJQ)
+Mozilla/ (Linux: Android 8.1: SM-N960F Build/M1AJQ)

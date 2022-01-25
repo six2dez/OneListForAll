@@ -1,0 +1,4 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; SCH-R530U) U2/1.0.0 UCBrowser/9.0.2.389 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.1.1; br-FR; SPH-L710Android 4.2.2; br-FR; SCH-R530U Build Build/JRO03L) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; ru-DE; SPH-L710Android 4.2.2; ru-DE; SCH-R530U Build Build/JRO03L) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; en-CA; SPH-L710Android 4.2.2; en-CA; SCH-R530U Build Build/JRO03L) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

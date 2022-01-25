@@ -1,0 +1,4 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5110 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-P5110 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5110
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5110 Build/SGASA

@@ -1,0 +1,36 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/9.5.1.494 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5282 Build/JZO54K) U2/1.0.0 UCBrowser/10.0.1.512 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.1.5.583 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/9.0.2.389 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/8.8.1.351 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.3.0.622 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5282) U2/1.0.0 UCBrowser/9.1.1.420 Mobile
+UCWEB/2.0 (Linux; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/8.7.0.315 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.7.0.733 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; id; GT-S5282) U2/1.0.0 UCBrowser/10.0.0.556 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.4.0.641 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5282) U2/1.0.0 UCBrowser/9.5.0.480 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5282) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/8.8.1.359 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5282) U2/1.0.0 UCBrowser/8.8.1.351 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; klip.telkomsel.com; GT-S5282) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S5282) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; ru; GT-S5282) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5282) U2/1.0.0 UCBrowser/10.7.0.733 U2/1.0.0 Mobile

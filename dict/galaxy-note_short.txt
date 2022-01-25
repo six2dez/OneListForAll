@@ -1,0 +1,12 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N8013 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.0.3; GT-N7000 Build/IML74K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.4; en-US; GT-N7000) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-N7000) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.5; en-US; GT-N7000) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-N7000) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+UCWEB/2.0 (Linux; U; Adr 4.0.4; en-US; GT-N7000) U2/1.0.0 UCBrowser/9.3.0.321 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy Note/GT-N7000) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Note/GT-N7000) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Note/GT-N7000) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-N7000) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-N7000 Build/IMM76D)

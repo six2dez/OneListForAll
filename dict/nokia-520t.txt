@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Nokia 520T; CMCC) like Gecko

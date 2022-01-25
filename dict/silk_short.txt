@@ -1,0 +1,8 @@
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFOT Build/IML74K) AppleWebKit/535.19 (KHTML like Gecko) Silk/2.4 Mobile Safari/535.19 Silk-Acceleratedtrue
+Mozilla/5.0 (Linux; U; en-us; KFJWI Build/IMM76D) AppleWebKit/535.19 (KHTML like Gecko) Silk/2.4 Safari/535.19 Silk-Acceleratedtrue
+Surf/0.4 (Unix) Silk/3.2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0 Silk/3141592654
+Surf/0.4 (Linux) Silk/3.2
+Surf/0.4.2 (Linux) Silk/3.1
+Silk/3.2 Midori/0.5.9
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFTT Build/IML74K) AppleWebKit/535.19 (KHTML like Gecko) Silk/2.4 Mobile Safari/535.19 Silk-Acceleratedtrue

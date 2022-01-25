@@ -1,0 +1,19 @@
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Chrome/55.0.2883.0.87 Maxthon/5.0.2 QupZilla/2.0.2
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Chrome/48.2564.0.82 Maxthon/4.9.0 QupZilla/1.8.9
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Chrome/55.0.2883.87 Maxthon/5.0.2 QupZilla/2.0.2
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Maxthon/5.0 Chrome/57.0.2987.110 QupZilla/2.1.2
+Mozilla/5.0 (compatible; Windows NT 6.1; WOW64; IA64; en) AppleWebKit/599.0+ Chrome/55.0.2704.84 Maxthon/4.4.8 QupZilla/2.0.0
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Chrome/55.0.2883.75 Maxthon/4.9.4 QupZilla/2.0.2
+QupZilla
+Mozilla/5.0 (Windows; rv:9.0.1) Gecko/20100101 Firefox/200.0.1 (QupZilla 1.2.0)
+Mozilla/5.0 (Windows; rv:9.0.1) Gecko/20100101 Firefox/Li Yicheng (QupZilla 1.2.0)
+Mozilla/5.0 (SteveJobsSux; rv:132.25.123.1) Gecko/20100101 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Mozilla/5.0 (Linux; rv:132.25.123.1) Gecko/999999999 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Mozilla/5.0 (iPad; rv:132.25.123.1) Gecko/999999999 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Mozilla/5.0 (iPhone; rv:132.25.123.1) Gecko/999999999 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Mozilla/5.0 (Yicheng; rv:132.25.123.1) Gecko/999999999 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Opera/9.80 (Windows) Presto/2.10.229 Version/11.61 (QupZilla 1.2.0)
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Maxthon/5.1 Chrome/61.0.3163.100 QupZilla/2.1.2
+Mozilla/5.0 (compatible; Windows NT 10.0; WOW64; IA64; en) AppleWebKit/599.0+ Chrome/55.0.2883.87 Maxthon/4.9.4 QupZilla/2.0.2
+Mozilla/5.0 (Windows; rv:9.0.1) Gecko/20100101 Firefox/9.0.1 (QupZilla 1.1.8)
+Opera/9.80 (Windows) Presto/2.10.229 Version/11.61 (QupZilla 1.1.8)

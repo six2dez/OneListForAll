@@ -1,0 +1,5 @@
+SonyEricssonJ20i/R7CA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
+SonyEricssonJ20i/R7CA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; id; SonyEricssonJ20i) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile
+SonyEricsson J20i_SonyEricssonJ20i/R7CA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
+SonyEricssonJ20i/R7CA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; id; sonyericssonj20i) U2/1.0.0 UCBrowser/9.1.0.291 U2/1.0.0 Mobile
+SonyEricssonJ20i/R7CA Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SonyEricssonJ20i) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile

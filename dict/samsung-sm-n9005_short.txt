@@ -1,0 +1,7 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-N9005 Build/LRX21V)
+Mozilla/5.0(Linux;Android 4.4.2;en-gb;SM-N9005 Build/KOT49H) AppleWebKit/537.36(KHTML,like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-N9005) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; SM-N9005 Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0; www.myinternet.com.my.; SM-N9005) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 5.0; SM-N9005 Build/LRX21V) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; mobile.facebook.com; SM-N9005) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile

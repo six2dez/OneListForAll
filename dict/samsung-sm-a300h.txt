@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; id; SM-A300H) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-A300H) U2/1.0.0 UCBrowser/10.5.0.668 U2/1.0.0 Mobile

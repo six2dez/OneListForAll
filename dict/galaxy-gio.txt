@@ -1,0 +1,7 @@
+UCWEB/2.0 (Linux; U; Adr 2.2.1; en-US; GT-S5660) U2/1.0.0 UCBrowser/9.1.0.297 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.3; en-US; GT-S5660) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.2.1; en-US; GT-S5660) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 2.3.8; sv-se; GT-S5660 Build/CYANOGEN) AppleWebKit/5 Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.3.8; sv-se; GT-S5660 Build/CYANOGEN) AppleWebKit/8 Gecko) Version/4.0 Mobile Safari/533.1
+UCWEB/2.0 (Linux; U; Adr 2.3.4; id; GT-S5660) U2/1.0.0 UCBrowser/8.6.0.276 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.7; id; GT-S5660) U2/1.0.0 UCBrowser/9.3.0.440 U2/1.0.0 Mobile

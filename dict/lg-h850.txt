@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; LG-H850 Build/NRD90U)

@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; LG-LS980 Build/KOT49I.LS980ZVE)
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LG-LS980 Build/KOT49I.LS980ZVD) AppleWebKit/537.36 (KHT

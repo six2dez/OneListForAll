@@ -1,0 +1,21 @@
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55)  YaBrowser/2.0 Safari/537.75.14
+Mozilla/5.0 (Windows NT 6.4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.115 YaBrowser/15.2.2214.3645 Safari/537.36
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55) YaBrowser/2.0 Safari/537.75.14 (like spoof; mods@mys.onl; 'If you believed this you're fooled :b')
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9323 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/30.0.1599.13014 YaBrowser/13.12.1599.13014 Safari/537.36
+like Gecko) Version/9.0 YaBrowser/18.1.1.1047.11 Mobile/13G36 Safari/601.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9151 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/536.5 (KHTML like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1082) AppleWebKit/536.5 (KHTML like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/30.0.1599.13014 YaBrowser/13.12.1599.13014 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9323 Safari/537.36
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55) YaBrowser/2.0 Safari/537.75.14 (mods@mys.onl; 'If you believed this you're fooled :b')
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/537.22 (KHTML like Gecko) Chrome/25.0.1364.172 YaBrowser/1.7.1364.17132 Safari/537.22
+YaBrowser/1.7.1364.12383
+Opera/9.80 (X11; Linux x86_64; Edition Linux Mint) Presto/2.12.388 Version/12.16 YaBrowser/16.6.0.6383 (beta)
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.103 YaBrowser/14.8.1985.9219 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1090) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9322 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.103 YaBrowser/x14.8.1985.9219 Safari/537.36
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55) YaBrowser/2.0 Safari/537.75.14 (mods@mys.onl)
+YaBrowser
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1091) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9322 Safari/537.36

@@ -1,0 +1,24 @@
+Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)
+Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)
+Mozilla/4.0 (Add Catalog; Windows NT 5.1; infobot.4942@yahoo.com)
+Mozilla/5.0 (Admin Catalog; Windows NT 5.1; infobot.4942@yahoo.com)
+Y!J-ASR/0.1 crawler (http://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716/)
+Mozilla/5.0 (YahooYSMcm/3.0.0; http://help.yahoo.com)
+Mozilla/5.0 (compatible; Yahoo Pipes 2.0; +http://developer.yahoo.com/yql/provider) Gecko/20090729 Firefox/3.5.2
+Mozilla/3.0 (Content Parser; Windows NT 5.1; infobot.4942@yahoo.com)
+Mozilla/5.0 (compatible; pub-crawler; +http://wiki.github.com/bixo/bixo/bixocrawler; bixo-dev@yahoogroups.com)
+YahooSeeker/1.2 (compatible; Mozilla 4.0; MSIE 5.5; yahooseeker at yahoo-inc dot com ; http://help.yahoo.com/help/us/shop/merchant/)
+Mozilla/5.0 (compatible baidu spider google robot bing sogou yahoo alibaba sm.cn 360)
+Mozilla/5.0 (compatible; Yahoo Ad monitoring)
+YahooExternalCache
+Y!J-BRJ/YATS crawler (http://help.yahoo.co.jp/help/jp/search/indexing/indexing-15.html)
+Yahoo-MMCrawler/3.x (mm dash crawler at trd dot overture dot com)
+YahooSeeker
+Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)  yahoo.adquality.lwd.desktop/1534713918-0
+Y!J-ASR/1.0 crawler (http://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716/)
+mcreighbaum@yahoo.com
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/46.0 Cookie: cookie_check=yes; LANG=en_US%3BUS; tsrce=settingsnodeweb; ts=vr%3D93131de515e0a1e1aa72afbafffcfa01%26vreXpYrS%3D1600376834%26vteXpYrS%3D1505707857%26vt%3D93131e0815e0a1e1aa72afbafffcfa00; nsid=s%3ARW4NtXaqAl1ZvHO3GThta76SEhm-kA3N.C%2BLI2qgxz3xSE16I3soXGi%2FjSnxf5%2FZ7ptPnRWQpb7I; AKDC=phx-origin-www-1.paypal.com; akavpau_ppsd=1505706690~id=e1675f8e8f266e7a4f157877c7d97bb1; xppcts=ff50e6de21071ce9; x-pp-s=eyJ0IjoiMTUwNTcwNjA3MzY4MiIsIm0iOiIwIn0; login_email=Shuntayrbell%40yahoo.com; ui_experience=home%3D2%26login_type%3DEMAIL_PASSWORD; fn_dt=b99b8b5f23be427d9acf28251294ddec; HaC80bwXscjqZ7KM6VOxULOB534=cFylYJRmgbGlNUra8xF4A2cBOsCJbcZUwx4U9W41abi3iFuQhRryxj1KxEauh5SE42M6XiNeTI1DX3DtGVLmLOty8qCmsge2JsdwnndJyTx0UnZNd9_rKNE_Ft_MybFQ6gc9sG; X-PP-ADS=AToBUUC.WVwpsocPdB1riDLAoHoEKRM; navcmd=_complaint-view; KHcl0EuY7AKSMgfvHl7J5E7hPtK=GECMmlTEa1-31thGJR-NcGDCX7y_VVgmZvFLJT1jperovxI9WbVlWCv8sJo6U9r4aaXsYnFuwFKjjn5u; x-pp-p=4PdpkSOYGmxzAXw6ouE5W.6CJ8MFiXwo6J9g1z6J.Vp43pu6gQ0lZ4WTpnf5JwBPT.Jj4TcKjE4yfDtxbCC5.wLlOSR1CXUuzI-30ZPytnk8roEIR-S.ExMxZYZyf7XZ6mpEKVF8SazU1eXDv8fszzk93MkhsYfEgGHv6FD.0.aS.QiwMc6Qxg4w2Ow6HVp4izfXJn9wuvE7M.-EAbpbAle.gJC8q2uVLNuhWR8sdn5V3nQJvz.43ycXPskM.oX2; SEGM=kPdr9wAD9vnD2klO5j9sDt3jd9Dr8DDbshd72DDrt8ZQpln941oplFGH9isom0wDWnGlL83Ghjir932dfkd8FCou; cwrClyrK4LoCV1fydGbAxiNL6iG=NdAmkcZOS7wshP4kfhiiH1FWm2TpM6ukxUHRvaUnVaKLoK0Rxzg9gcDZUT034k5aa7HY_R5ddGdOPz6FxrZv-wPHLjr9_glPFf2GaH0aspgUHC2iIsMFfu6FdIv2NGLmmKg9ujEAyEI6w6d8c1OAHXIa2Wp7rC6_-u1M6P0WjiKHqLB70ONkbPhUz6gmc_zIUZnbaEoebqZv61D3tViz1quzVECsxH-ngurvjFShtxeX19qjVETmCYOlQr4
+Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)  yahoo.adquality.lwd.desktop/1540573980-0
+Mozilla/4.0 (hhjhj@yahoo.com)
+Mozilla/5.0 (compatible; Bixo/Test; +http://wiki.github.com/bixo/bixo/bixocrawler; bixo-dev@yahoogroups.com)
+Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)  yahoo.adquality.lwd.desktop/1534935443-0

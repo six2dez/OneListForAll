@@ -1,0 +1,4 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-P600 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SM-P600 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-P605 Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-P600) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile

@@ -1,0 +1,7 @@
+Mozilla/5.0 (Android 7.0; Mobile; LG-H871; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-H871; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-H871; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-H871; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-H871; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 8.0.0; Mobile; LG-H871; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 8.0.0; Mobile; LG-H871; rv:57.0) Gecko/57.0 Firefox/57.0

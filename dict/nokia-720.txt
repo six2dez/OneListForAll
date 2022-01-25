@@ -1,0 +1,2 @@
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; NOKIA; Nokia 720) like Gecko UCBrowser/4.0.0.498 Mobile
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Nokia 720) UCBrowser/4.1.0.504 Mobile

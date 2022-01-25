@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-N910P Build/LMY47X)

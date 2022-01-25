@@ -1,0 +1,7 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9195 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9197 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; GT-I9195I Build/KTU84P)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; GT-I9195 Build/KTU84Q)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9190 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9190 Build/KOT49H) [EdmodoAndroid 9.6.0]
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; tr-TR; GT-I9190) U2/1.0.0 UCBrowser/8.6.0.276 U2/1.0.0 Mobile

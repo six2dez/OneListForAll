@@ -1,0 +1,14 @@
+Mozilla/5.0 (Linux; U; Android 4.4.2; ar-ae; HTCOnemax Build/KOT49H) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC One Build/JZO54K)
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-sg; HTCOneXL Build/IMM76D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; HTC One Build/LRX22G)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One Build/JDQ39) MSIE 11.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One Build/JDQ39)
+Mozilla/5.0 (Linuxz Android 4.3z HTC One Build/JSSISJ) AppIeWebKit/537.36 (KHTML. like Gecko) Chrome/32.0.1700i99 Mobile Safari /537.36
+Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; HTCOneXplus Build/JRO03C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTCOneX/1.29.161.13 Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTCOneS/1.78.161.2 Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTCOneX/1.29.163.13 Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0(Linux;Android4.2.2;HTCOneXBuild/JDQ39)AppleWebKit/537.36(KHTML,likeGecko)Chrome/34.0.1847.114MobileSafari/537.36
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; HTCONE Build/KOT49H)
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTCOneS-orange-LS Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

@@ -1,0 +1,4 @@
+Callpod Keeper for Android 1.0 (10.5.9/274) Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-G928A Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-G928A Build/MMB29K)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-G928A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-G928A Build/NRD90M)

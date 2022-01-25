@@ -1,0 +1,5 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T111) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T111) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; SM-T111) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T111) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T111 Build/JDQ39)

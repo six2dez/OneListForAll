@@ -1,0 +1,5 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; en-US; XT1068) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; pt-BR; XT1069) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; XT1068 Build/LXB22.46-28) U2/1.0.0 UCBrowser/10.6.2.599 Mobile
+Dalvik/2.1.0 (Linux; U; Android 6.0; XT1072 Build/MPBS24.65-34-5)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; XT1068) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile

@@ -1,0 +1,59 @@
+Mozilla/5.0 (Linux; U; Android 2.3.7; en-us; Nexus One Build/GRJ22) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Android; Mobile Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus One Build/GRK39F) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.2; Nexus One; id-en) Applewebkit/522.32 presto/2.2.40 Build/TiparTimur Mobile Safari/522.32 Id; tcl-c616) UCBrowser8.4.0.159/70/352/UCWEB Mobile UNTRUSTED/1.0
+Mozilla/5.0 (Android 3.0.1; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android: Mobile; Nexus One rv:30.1) Gecko/30.1 Firefox/30.1
+Mozilla/5.0 (Android 3.0.1; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 3.1.0; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 3.1.0; Mobile; Nexus One rv:13/0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android; 2.3.7; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One; rv:13/0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 2.2.1; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 2.1; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 1.6; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 1.5; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 6.0; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 1.4; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Linux; U; Android 2.3.7; en-us; Nexus One Build/GWK74) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Android 1.0; Mobile; Nexus One; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; 3.0.1; Mobile; Nexus One rv:13/0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 3.1.4; Mobile; Nexus One; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Android 3.0; Mobile; Nexus One rv:13/0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 3.0.1; Mobile; Nexus One rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 2.2; Nexus One; id-en) Applewebkit/522.32 presto/2.2.40 Build/TiparTimur Mobile Safari/522.32 en-us; tcl-c616) UCBrowser8.4.0.159/70/352/UCWEB Mobile UNTRUSTED/1.0
+Mozilla/5.0 (Android 3.0.1; Mobile; Nexus One; rv:13.) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 5.0; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U;Android 2.3.7; en-us; Nexus One Build/ERD62) AppleWebKit/533.1 (KHTML,like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; 2.3.7; Mobile; Nexus One; rv:13) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Chrome Compatible; Linux; U; Android 2.2.1; en-us; Nexus One Build/FRG83) AppleWebKit/533.1 (KHTML; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Android; 2.3.7; Mobile; Nexus One rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android; Mobile; Nexus One rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/ERD62) AppleWebKit/530.17 (KHTML like Gecko) Version/4.0 Mobile Safari/530.17
+Mozilla/5.0 (Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 2.3; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Android 2.3.7; Mobil; Nexus One rv:36.0) Gecko/36.0 Firefox/36.0
+Mozilla/5.0 (Android 2.3.7; Mobil; Nexus One rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Linux; U; Android 2.3.2; en-us; Nexus One Build/GRH87C) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Android; Mobile Nexus One; rv:7.0 Gecko/7.0 Firefox/7.0
+Mozilla/5.0 (Android 3.2.3; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 2.1-update1; en-us; Nexus One Build/ERE36B) AppleWebKit/530.17 (KHTML like Gecko) Version/4.0 Mobile Safari/530.17
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/130
+Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Mobile; Nexus One; rv:17) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Android; Mobile; Nexus One; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 3.0; Mobile; Nexus One rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One :rv13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 2.3.7; Mobile; Nexus One rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Nexus One Build/FRG83) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Android; Mobile Nexus One; rv:31.0) Gecko/31.0 Firefox/31.0
+Mozilla/5.0 (Linux; U; CPU Android 3.0 like Mac 0S X; en-us; Nexus One; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0
+Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Nexus One Build/FRG83)
+Mozilla/5.0 (Linux; U; Android 2.1; en-us; Nexus One Build/ERD62) AppleWebKit/530.17 (KHTML like Gecko) Version/4.0 Mobile Safari/530.17
+Mozilla/5.0 (Android 4.0; Mobile; Nexus One; rv:13) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android 3.0.1; Mobile; Nexus One; rv:13) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Mobil; Nexus One rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android; Mobile; Nexus One; rv:16) Gecko/16.0 Firefox/16.0

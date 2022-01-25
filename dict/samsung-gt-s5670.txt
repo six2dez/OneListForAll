@@ -1,0 +1,4 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.2.1; id; GT-S5670) U2/1.0.0 UCBrowser/9.1.1.420 U2/1.0.0 Ponsel
+UCWEB/2.0 (Linux; U; Adr 2.2.1; en-US; GT-S5670) U2/1.0.0 UCBrowser/8.2.0.242 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.7; id; GT-S5670) U2/1.0.0 UCBrowser/8.8.1.359 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.7; id; GT-S5670) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile

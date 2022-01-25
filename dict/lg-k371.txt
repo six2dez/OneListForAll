@@ -1,0 +1,2 @@
+Mozilla/5.0 (Android 7.0; Mobile; LG-K371; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-K371; rv:56.0) Gecko/56.0 Firefox/56.0

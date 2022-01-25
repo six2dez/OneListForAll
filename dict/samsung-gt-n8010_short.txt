@@ -1,0 +1,3 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N8010 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N8010 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-N8010 Build/JRO03C)

@@ -1,0 +1,4 @@
+BlackBerry9105/5.0.0.604 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9105/5.0.0.689 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/613
+BlackBerry9105/5.0.0.783 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/1
+BlackBerry9105/5.0.0.783 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/124

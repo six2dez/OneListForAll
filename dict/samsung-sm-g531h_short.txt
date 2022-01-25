@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G531H Build/LMY48B)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-G531H) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-G531H) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G531H Build/LMY48B) BLAndroid

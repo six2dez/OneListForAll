@@ -1,0 +1,366 @@
+Mozilla/5.0 (compatible; Konqueror/3; Linux)
+Mozilla/5.0 (X11; Linux 3.8-6.dmz.1-liquorix-686) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux) KHTML/4.4.5 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux 2.6.32-22-generic; X11; en_US) KHTML/4.4.3 (like Gecko) Kubuntu
+Mozilla/5.0 (compatible; Konqueror/4.2; Linux) KHTML/4.2.4 (like Gecko) Slackware/13.0
+Mozilla/5.0 (Windows; Windows i686) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (compatible; Konqueror/3.5; SunOS) KHTML/3.5.1 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.1; DragonFly) KHTML/4.1.4 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.1 (like Gecko) Fedora/4.3.1-3.fc11
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux) KHTML/4.4.1 (like Gecko) Fedora/4.4.1-1.fc12
+Mozilla/5.0 (compatible; Konqueror/3.1; i686 Linux; 20021128)
+Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/4.5; NetBSD 5.0.2; X11; amd64; en_US) KHTML/4.5.4 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko) (Exabot-Thumbnails)
+Mozilla/5.0 (compatible; Konqueror/4.5; Linux) KHTML/4.5.3 (like Gecko) Kubuntu
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.5; FreeBSD) KHTML/4.5.4 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.1; OpenBSD) KHTML/4.1.4 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/5.0; OpenBSD) KHTML/5.0.97 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.38.0 (like Gecko) Konqueror/5 KIO/5.38
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.13.3 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (compatible; Konqueror/4.0; Microsoft Windows) KHTML/4.0.80 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.5 (like Gecko) Konqueror/4.10 Fedora/4.10.5-6.el7
+Mozilla/5.0 (compatible; Konqueror/4.9; Linux) KHTML/4.9.1 (like Gecko) Red Hat Enterprise Linux/4.8.2-3.el7
+Mozilla/5.0 (compatible; Konqueror/3.5; Darwin)  KHTML/3.5.6 (like Gecko)
+Mozilla/5.0 (compatible; KHTML/5.0; OpenBSD) (like Gecko) Konqueror/5.0.97
+Mozilla/5.0 (X11; Linux 3.5.4-1-ARCH i686; es) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/4.5; Windows) KHTML/4.5.4 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.1 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.2; Linux; X11) KHTML/4.2.1 (like Gecko) Fedora/4.2.1-4.fc10
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux) KHTML/4.4.2 (like Gecko) Kubuntu
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.8 (like Gecko) Konqueror/4.14 Fedora/4.14.8-5.el7_2
+Mozilla/5.0 (compatible; Konqueror/3.4; CYGWIN_NT-5.1) KHTML/3.4.89 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.5 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-23.el6_6
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.2 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; FreeBSD x86_64) KHTML/5.28.0 (like Gecko) Konqueror/5.28
+Mozilla/5.0 (compatible; Konqueror/2.1.1; X11)
+Konqueror/3.0-rc4; (Konqueror/3.0-rc4; i686 Linux;;datecode)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.8 (like Gecko) Konqueror/4.14 Fedora/4.14.8-6.el7_3
+Mozilla/5.0 (compatible; Konqueror/2.0.1; X11); Supports MD5-Digest; Supports gzip encoding
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.2 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/3.3; Linux 2.6.8-gentoo-r3; X11;
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.3 (like Gecko) Konqueror/4.8 Fedora/4.8.3-1.fc17
+Mozilla/5.0 (compatible; Konqueror/4.9; Linux) KHTML/4.9.1 (like Gecko) conkeror/1.0pre (Debian-1.0~~pre+git120527-1)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-14.el6_3.2
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.9.4 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (Windows; Windows i686) KHTML/4.8.0 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.4 (like Gecko) Konqueror/4.8 Fedora/4.8.4-8.fc17
+Mozilla/5.0 (X11; FreeBSD x86_64) KHTML/5.28.0 (like Gecko) Konqueror/5.28.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) KHTML/5.28.0 (like Gecko) Konqueror/5.28.0
+Mozilla/5.0 (X11; Linux i686) KHTML/4.10.1 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (compatible; Konqueror/4.5; Linux) KHTML/4.5.5 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.4 (like Gecko) (Debian)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.1 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux 2.6.30-7.dmz.1-liquorix-686; X11) KHTML/3.5.10 (like Gecko) (Debian package 4:3.5.10.dfsg.1-1 b1)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.4 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.3 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux 2.6.24.4; X11) KHTML/3.5.9 (like Gecko) (Debian package 4:3.5.9.dfsg.1-2+b1)
+Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9 slurp slurp
+Mozilla/5.0 (X11; Linux x86_64; en-US) KHTML/4.09.4 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-11.el6_1.4
+Mozilla/5.0 (Windows; Windows x86_64) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux i686) KHTML/4.9.5 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.28.0 (like Gecko) Konqueror/5.28
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-20.el6_4.1
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020914)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-21.el6_5
+Mozilla/5.0 (compatible; Konqueror/2.2.2)
+Mozilla/5.0 (compatible; Konqueror/3.0-rc6; i686 Linux; 20020614)
+Mozilla/5.0 (compatible; Konqueror/3.4; Linux 2.6.8; X11; i686; en_US) KHTML/3.4.0 (like Gecko)
+Mozilla/5.0 (X11; Linux 3.8-6.dmz.1-liquorix-686) KHTML/4.8.4 (like Gecko) Konqueror/4.8 slurp slurp
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.4 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; SV1; .NET4.0C; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/5.0 (compatible; Konqueror/3.5; NetBSD 4.0_RC3; X11) KHTML/3.5.7 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.7.4 (like Gecko) Konqueror/4.7
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.8 (like Gecko) Konqueror/4.14 Fedora/4.14.8-4.el7
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.16 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.2 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.8.3 (like Gecko) Konqueror/4.8 Fedora/4.8.3-1.fc17
+Mozilla/5.0 (compatible; Konqueror/2.2.2; Linux 2.4.14-xfs; X11; i686)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.5 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-19.0.1.el6
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-28.el6
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko) (Kubuntu)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.7.2 (like Gecko) Konqueror/4.7 Fedora/4.7.2-5.fc16
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko) (Kubuntu)
+Mozilla/5.0 (compatible; Konqueror/4.9; Linux) KHTML/4.9.1 (like Gecko) (Debian-1.0~~pre+git120527-1)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.13.3 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.0 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux i686) KHTML/4.8.1 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.14.30 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.9.3 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.1 (like Gecko) Konqueror/4.10 Fedora/4.10.1-1.fc19
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko) (Debian)
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.5 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.5; FreeBSD) KHTML/3.5.10 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.14 (like Gecko) Konqueror/4.14 Fedora/4.14.14-1.fc23
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.8 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.7.2 (like Gecko) Konqueror/4.7 Fedora/4.7.2-5.fc16
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-19.el6
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.12.2 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.20 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux armv7l) KHTML/4.13.3 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (X11; Linux i686) KHTML/4.8.5 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/4.0; Linux) KHTML/4.0.82 (like Gecko)
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.14.10 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.4 (like Gecko) Konqueror/4.8 Fedora/4.8.4-5.fc17
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.14 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.3 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; en_US) KHTML/4.8.3 (like Gecko) Konqueror/4.8 Fedora/4.8.3-1.fc17
+Mozilla/5.0 (compatible; Konqueror/3.5) KHTML/3.5.10 (like Gecko)
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.12.5 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.9.5 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.3 (like Gecko) (Debian)
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/5.45.0 (like Gecko) Konqueror/5 KIO/5.45
+Mozilla/5.0 (X11; Linux i686) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.9.3 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (X11; Linux i686) KHTML/4.9.2 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/4.1; Linux 2.6.27.7-134.fc10.x86_64; X11; x86_64) KHTML/4.1.3 (like Gecko) Fedora/4.1.3-4.fc10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.3 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020926)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-10.el6
+Mozilla/5.0 (X11; Linux armv7l) KHTML/4.8.5 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; KHTML/5.0; FreeBSD) (like Gecko) Konqueror/5.0.97
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-24.el6_7
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.37.0 (like Gecko) Konqueror/5 KIO/5.37
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/5.28.0 (like Gecko) Konqueror/5.28.0
+Mozilla/5.0 (compatible; Konqueror/3.1-rc3; i686 Linux; 20020818)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.7 (like Gecko) (Debian)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux 2.6.18.1-slh-up-2; X11) KHTML/3.5.6 (like Gecko) (Debian package 4:3.5.6.dfsg.1-1)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.13.2 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (compatible; Konqueror/4.6; Linux 2.6.38.8-calculate; en_US) KHTML/4.6.5 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.22 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux 3.19.0-32-generic x86_64; nl-nl) KHTML/4.14.2 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux 3.5.0-44-generic i686) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (compatible; Konqueror/4.3; Windows) KHTML/4.3.0 (like Gecko)
+Mozilla/5.0 (X11; OpenBSD x86_64) KHTML/5.28.0 (like Gecko) Konqueror/5.28.0
+Mozilla/5.0 (compatible; KHTML/5.0; FreeBSD) Konqueror/5.0.97 (like Gecko)
+Mozilla/5.0 (X11; Linux armv7l) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (Macintosh; Darwin x86_64) KHTML/4.9.5 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.33.0 (like Gecko) Konqueror/5 KIO/5.33
+Mozilla/5.0 (X11) KHTML/4.14.26 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux; en_US) KHTML/4.14.16 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; de) KHTML/3.5.8 (like Gecko) (Debian)
+Mozilla/5.0 (X11; OpenBSD x86_64) KHTML/5.0 (like Gecko) Konqueror/5.0.97
+Mozilla/5.0 (X11; en_US) KHTML/4.10.5 (like Gecko) Konqueror/4.10 Fedora/4.10.5-6.el7
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko) SUSE
+Mozilla/5.0 (compatible; Konqueror/4.5) KHTML/4.5.5 (like Gecko)
+Mozilla/5.0 (X11) KHTML/4.14.3 (like Gecko) Konqueror/4.14 Fedora/4.14.3-1.fc20
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux) KHTML/4.12.2 (like Gecko) Konqueror/4.12 SUSE
+Mozilla/5.0 (X11; Linux x86_64; pt_BR) KHTML/4.12.5 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (X11; Linux x86_64; en_US) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (Windows NT 6.1; WOW64;Edition Yx;X11) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; en_US) KHTML/3.5.6 (like Gecko) (Kubuntu)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; X11; i686; en_US) KHTML/3.5.3 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.7.2 (like Gecko) Konqueror/4.7 SUSE
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.9 (like Gecko)
+Mozilla/5.0 (X11; CrOS x86_64 67.0.3396.87) KHTML/5.28.0 (like Gecko) Konqueror/5.28.0
+Mozilla/5.0 (compatible; Konqueror/3.5; Windows NT 6.0) KHTML/3.5.6 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux 3.2.0-54-generic x86_64) KHTML/4.8.5 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/3.1-rc2; i686 Linux; 20020312)
+Mozilla/5.0 (compatible; Windows NT 6.4; SV3; I; Win64; IA64 en) AppleWebKit/9537.53+ Chrome/43.0.2331.0 OPR/12.31 Konqueror/4.14.4
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; SV1; chromeframe/32.0.1700.107; .NET4.0C; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.14.2 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.9; Linux) KHTML/4.9.1 (like Gecko) (Red Hat Enterprise Linux/4.8.2-3.el7)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.3 (like Gecko) Fedora/4.3.3-4.fc10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.5 (like Gecko) Konqueror/4.11 SUSE
+Mozilla/5.0 (compatible; Konqueror/4.9; Linux) KHTML/4.9.1 (like Gecko) Red Hat Enterprise/4.8.2-3.el7
+Mozilla/5.0 (X11; Linux) KHTML/5.4.1 (like Gecko) Konqueror/5.4
+Mozilla/5.0 (compatible; Konqueror/4.9; Linux) KHTML/4.9.1 (like Gecko) Red Hat/4.8.2-3.el7
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko) (Debian)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.23.0 (like Gecko) Konqueror/5.23
+Mozilla/5.0 (X11; Linux 3.1.10-1.16-desktop i686) KHTML/4.7.2 (like Gecko) Konqueror/4.7 SUSE
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.18 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.21 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/3.1-rc5; i686 Linux; 20021001)
+Mozilla/5.0 (X11; Linux 3.7.10-1.1-default i686; zh_CN) KHTML/4.10.2 (like Gecko) Konqueror/4.10 SUSE
+127Zfj9A tgUW69Z7oQ 09rXG3Z59o (Linux; Intel Windows 61.47; rv:1310.9) ALxpfZJxqIx X1epaZgV Konqueror/727510737 wygZ9mZp5ZxOFhL mEgdW79I9a9 Konqueror/7.4 aPdzR9ydZ29Cg
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux; X11; i686; pl) KHTML/4.4.5 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.11.5 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.12.3 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.14.38 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020817)
+Mozilla/5.0 (compatible; Konqueror/3)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.12.3 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (compatible; Konqueror/3.1-rc5; i686 Linux; 20020819)
+Mozilla/5.0 (compatible; Konqueror/3.1-rc5; i686 Linux; 20020711)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.15.0 (like Gecko) Konqueror/5.15
+Mozilla/5.0 (compatible; Konqueror/4.2; Windows) KHTML/4.2.3 (like Gecko)
+Mozilla/5.0 (X11; Linux) KHTML/4.8.2 (like Gecko) Konqueror/4.8 Fedora/4.8.2-1.fc16
+Mozilla/5.0 (compatible; Konqueror/3.5; Darwin) KHTML/3.5.6 (like Gecko)
+Mozilla/5.0 (Macintosh; Darwin x86_64) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.11 (like Gecko) Konqueror/4.14 Fedora/4.14.12-1.fc22
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.10 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (Windows) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.0 (like Gecko) Konqueror/5.0.97
+Mozilla/5.0 (compatible; Konqueror/4.2; Linux) KHTML/4.2.4 (like Gecko) Slackware/14.2
+Mozilla/5.0 (compatible; Konqueror/3.0-rc3; i686 Linux; 20020519)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.12 (like Gecko) Konqueror/4.14
+ZpfBA9Q66VyK X8b9gd9lqS6 93MZwKP99yQXn (Gentoo NT 16.10; Win1010; x1313; rv:1018.9) fr6Z7OA7feZ N9jMvZD99n mZq9RJntfx Opera/106656414 Konqueror/10.1 yYNZAhyYN2 2vfJT9K9f NMIXzZwmVAd0D
+Mozilla/5.0 (X11; Linux x86_64; en_US) KHTML/4.8.5 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; Linux) KHTML/4.12.3 (like Gecko) Konqueror/4.12 SUSE
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.3 (like Gecko) Konqueror/4.11 Fedora/4.11.3-1.fc19
+KlxkZb9r1EGo9na Konqueror/11.3 GCU4YZo9Fl5EeS0 r9Nf9SCj39TKM Firefox/854551077 (X33; Debian x1414_98; rv:1012.3)
+Konqueror/5.0 (Redhat Linux 7.2; en-US;)
+Mozilla/5.0 (X11; Linux) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.30 (like Gecko) Konqueror/4.14 Fedora/4.14.30-2.fc24
+Mozilla/5.0 (X11; FreeBSD amd64; en-US) KHTML/5.45.0 (like Gecko) Konqueror/5 KIO/5.45
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.0 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.2; Linux) KHTML/4.2.4 (like Gecko) Fedora/4.2.4-2.fc11
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.13 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.7.2 (like Gecko) Konqueror/4.7 SUSE
+Mozilla/5.0 (compatible; Konqueror/3.5.1; X11) KHTML/3.5.1 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux 2.6.32-71.el6.i686; X11; i686; en_US) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-10.el6
+Mozilla/5.0 (compatible; Konqueror/3.4; Linux) KHTML/3.4.0 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) konqueror/4.12.40
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux 2.6.31-16-generic; X11) KHTML/4.3.2 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020714)
+Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020913)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.26 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux i686) KHTML/4.8.2 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; NetBSD; en_US) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; NetBSD mips64) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+7mkXaYDE9FHNZhr eMEEqVZ3ZP s5i9f6Md IkZu9pwH3 Konqueror/65475527 iMAbJyZmLh Chrome/7.9 (SUSE NT 10.8; rv:65.3)
+Mozilla/5.0 (X11; Linux) KHTML/4.14.2 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux 4.1.13-5-default) KHTML/4.14.10 (like Gecko) Konqueror/4.14 SUSE
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.4 (like Gecko) Red Hat Enterprise Linux/4.3.4-11.el6_0.2
+909RZZCo 9ZZt9Rr9I (Fedora NT 9.8; Win169; x169; rv:716.3) NxZhFfS9ZDZWz lFsGMlg4uh9ZXgF Firefox/10.8 Konqueror/851065387 99oUPyEZB7L ppZZY9vQUi kHae989ZVt29Z B9Hw2y1oA OVeBTog8qXZq5
+(Linux NT 8.7; Win147; x106; rv:129.2) w7pjwlBrkpJ 5fmRfcuatk0Q9ve2 hsZg9t9MJZAw ZIpEZlDs79cg sX9ZDUnZZZ9D Konqueror/15.2 Opera/106914448 xfOIhw5wovT3h ZZgda9p9Z TLsX4AofRoBT59J
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.14 (like Gecko) Konqueror/4.14 Fedora/4.14.14-4.fc22
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.2 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.19 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.13.1 (like Gecko) Konqueror/4.13
+9T93d9p9e (Linux NT 13.9; WOW119; rv:69.8) Konqueror/11.8 eKZ6RZAQ9 l1bDCKD05a48KZ 3CfWYTJmnwFwd58 Gecko/93101841010 it48TIPq9cyO
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.7 (like Gecko) (Kubuntu)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.13 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; FreeBSD) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/3.2; Linux 2.6.2)
+Mozilla/5.0 (i686) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (X11; Linux x86_64; pl) KHTML/4.11.3 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (compatible; Konqueror/3.0-rc5; i686 Linux; 20021105)
+Mozilla/5.0 (X11; Linux 3.8.11-1-ARCH x86_64) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (compatible; Konqueror/3.4; Moznet) KHTML/3.4.3 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.5) KHTML/3.5.5 (like Gecko)
+Moznet/1.3 (compatible; Konqueror/3.4; Moznet Fire Browser) KHTML/3.4.3 (like Gecko)
+Mozilla/5.0 (X11; Linux 3.10.5-201.fc19.x86_64 x86_64; en_US) KHTML/4.10.5 (like Gecko) Konqueror/4.10 Fedora/4.10.5-1.fc19
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.31.0 (like Gecko) Konqueror/5.31
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.5 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.35 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9 slurp
+Mozilla/5.0 (compatible; Konqueror/1.5; i686 Linux; 20020915)l
+Mozilla/5.0 (compatible; Konqueror/0; i686 Linux; 20020915)l
+Mozilla/0.0 (compatible; Konqueror/0; i686 Linux; 20020915)l
+Konqueror 5: Mozilla/5.0 (compatible; Konqueror/5.0; FreeBSD) KHTML/5.0.97 (like Gecko)
+Mozilla/0.0 (compatible; Konqueror/0;)
+Mozilla/5.0 (X11; Linux 4.0.4-2-ARCH x86_64; French) KHTML/5.10.0 (like Gecko) Konqueror/5.10
+Mozilla/5.0 (X11; Linux i686) KHTML/4.13.1 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.1 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; X11; en_US) KHTML/3.5.13 (like Gecko)
+Chrome/5 (compatible; Konqueror; Chrome)
+Mozilla/5.0 (compatible; Konqueror/3.0-rc1; i686 Linux; 20020917)
+Mozilla/5.0 (compatible; Konqueror/4.14.0; Linux; X11; i686; U; en_US) KHTML/4.14 (like Gecko) (Debian)
+Mozilla/5.0 (Windows; Windows 6.1 x86_64; en_US) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (Windows; Windows 6.1 i686; en_GB) KHTML/4.10.2 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.4 (like Gecko) Mageia Konqueror/4.11
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.14 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.1 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.4 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/3.5; NetBSD 3.0; X11) KHTML/3.5.2 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.13 (like Gecko)
+O9VCvkhwXPa5QHb H9BHMEDZ WLDJqQZoyn (Macintosh NT 78.2; Win1013; x127; rv:128.3) 4ckz2ZXb9r7ekZZ Konqueror/14.3 XkWD6WxLzKI9BS ZYtZ8YJrfST99 8UdPpMZRAD4ogS Chrome/54431344 H9qhZIr1eVZKi1In omeef8IZAXQDZaz
+Mozilla/5.0 (compatible; Konqueror/3.2; Linux)
+Mozilla/5.0 (X11; FreeBSD amd64) KHTML/4.7.4 (like Gecko) Konqueror/4.7
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.6 (like Gecko) Konqueror/4.14 SUSE
+Mozilla/5.0 (X11; Linux) KHTML/5.38.0 (like Gecko) Konqueror/5 KIO/5.38 Fake
+Mozilla/5.0 (X11; Linux i686) KHTML/4.8.3 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (compatible; Konqueror/3.4; Linux) KHTML/3.4.3 (like Gecko) (Kubuntu package 4:3.4.3-0ubuntu2.4)
+Mozilla/5.0 (compatible; Konqueror/3.0-rc2; i686 Linux; 20021014)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.5 (like Gecko) SUSE
+Mozilla/5.0 (X11; Linux) KHTML/4.10.5 (like Gecko) Konqueror/4.10 Fedora/4.10.5-1.fc18
+tEwPiZoqVZJ1Z tPqEWqZZtZiHU 4oVN46ZZ Konqueror/12.3 Jal4m5ZVoZOl Gecko/1019103219 OxAFARZjoIHiwD 9xaJbQi3iK99V (Ubuntu NT 9.5; Win125; x156; rv:1013.5)
+Mozilla/5.0 (compatible; Konqueror/2.1.2; X11)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.29.0 (like Gecko) Konqueror/5.29
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.7.4 (like Gecko) Konqueror/4.7 Fedora/4.7.4-1.fc16
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.3 (like Gecko) Konqueror/4.14 Fedora/4.14.3-1.fc20
+Mozilla/5.0 (X11; SunOS 5.11; sparc64) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.6 (like Gecko)
+Mozilla/5.0 (X11; Linux) KHTML/4.11.2 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (compatible; Konqueror/3.0-rc5; i686 Linux; 20020703)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.12.2 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (X11) KHTML/4.7.2 (like Gecko) Konqueror/4.7 SUSE
+Mozilla/5.0 (X11; FreeBSD i386) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.19 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux i686) KHTML/4.11.5 (like Gecko) Konqueror/4.11 SUSE
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.18 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/3.1-rc2; i686 Linux; 20020808)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.18 (like Gecko) Konqueror/4.14 SUSE
+Mozilla/4.0 (compatible; Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9)
+Mozilla/5.0 (X11; Linux) KHTML/4.14.26 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux 3.13.0-49-generic i686) KHTML/4.13.3 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.1 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; Linux; en_US) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.12.1 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.12.2 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (X11; Linux) KHTML/4.7.2 (like Gecko) Konqueror/4.7 Fedora/4.7.2-5.fc16
+chrome/5.0 (compatible; Konqueror/4.4; Linux 2.6.32-22-generic; X11; en_US) KHTML/4.4.3 (like Gecko) Kubuntu
+Mozilla/5.0 (X11; Linux armv6l) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; FreeBSD i386) KHTML/4.14.2 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux; X11; x86_64; en_US) KHTML/4.4.5 (like Gecko) Kubuntu
+Mozilla/5.0 (compatible; Konqueror/4.0; Windows) KHTML/4.0.83 (like Gecko)
+os linux  version 2  browser konqueror
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.3 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.2 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.13 (like Gecko) PLD/3.0 (Th)
+Mozilla/5.0 (X11; Linux) KHTML/4.9.5 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (compatible; Konqueror/3.0-rc1; i686 Linux; 20020705)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20021124)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.24 (like Gecko) Konqueror/4.14 Fedora/4.14.24-1.fc24
+Mozilla 5.0 (X11; Linux x86_64; U; pt_BR) KHTML/4.8.5 (Gecko/20100101) Firefox/26.0 Konqueror/4.8.5
+Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20021113)
+Mozilla/5.0 (X11) KHTML/4.8.3 (like Gecko) Konqueror/4.8 Fedora/4.8.3-1.fc16
+Mozilla/5.0 (compatible; Konqueror/3.4; Linux) KHTML/3.4.3 (like Gecko)
+Mozilla/5.0 (compatible; Konqueror/4.5; NetBSD 5.0.2; X11; amd64; en_US) KHTML/4.5.4 (like Gecko) slurp slurp
+Mozilla/5.0 (X11; Linux i686) KHTML/4.9.3 (like Gecko) Konqueror/4.9
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.13.0 (like Gecko) Konqueror/4.13
+Mozilla/5.0 (compatible; Konqueror/4.5; FreeBSD) KHTML/4.5.4 (like Gecko) slurp slurp
+Mozilla/5.0 (compatible; Konqueror/3.5 Linux 2.6.15-1.2054_FC5; X11; i686; en_US)
+Mozilla/5.0 (compatible;Konqueror/4.1; OpenBSD) KHTML/4.1.4 (like Gecko)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.14.6 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.5; FreeBSD) KHTML/4.5.4 (like Gecko) slurp
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.2 (like Gecko) Konqueror/4.8 Fedora/4.8.2-1.fc16
+Mozilla/5.0 (X11) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (X11; Linux 3.1.0-1.2-default i686; en_US) KHTML/4.7.2 (like Gecko) Konqueror/4.7 SUSE
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux; x86_64) KHTML/3.5.5 (like Gecko) (Debian)
+Mozilla/5.0 (compatible; Konqueror/3.0-rc3; i686 Linux; 20020506)
+Mozilla/5.0 (X11; Linux x86_64; pl) KHTML/4.11.2 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (Windows; Windows 6.2 i686; en_US) KHTML/4.11.95 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (X11) KHTML/4.10.0 (like Gecko) Konqueror/4.10 SUSE
+Mozilla/5.0 (compatible; Konqueror/3.1-rc3; i686 Linux; 20021110)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.11.0 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.12.5 (like Gecko) Konqueror/4.12
+Mozilla/5.0 (compatible; Konqueror/14.0; Linux) KHTML/TDEHTML/14.0.5 (like Gecko) (Debian)
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux 2.6.19; X11) KHTML/3.5.5 (like Gecko) (Debian package 4:3.5.5a.dfsg.1-5)
+Konqueror/3.18 (Nokia 1.6; en-US;)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.5 (like Gecko) Konqueror/4.8 Fedora/4.8.5-2.fc16
+Mozilla/5.0 (X11; Linux 3.8-6.dmz.1-liquorix-686) KHTML/4.8.4 (like Gecko) Konqueror/4.8 slurp
+4hU5Z19iOu LYlp7aMgkJ F95Z869jWZR 6WUJ9d9iUpFpV YQtrK99q8ZI Konqueror/44296337 btARYutBi3 (Windows NT NT 89.4; Win125; x129; rv:76.9) Mozilla/12.4 SnJuZzZC
+Mozilla/5.0 (X11; FreeBSD i386) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux) KHTML/4.4.5 (like Gecko) Kubuntu
+Mozilla/5.0 (compatible; Konqueror/4.2) KHTML/4.2.4 (like Gecko)
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.7.2 (like Gecko) Konqueror/4.7
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.4 (like Gecko) Konqueror/4.10
+Mozilla/5.0 (compatible; Konqueror/3.1-rc3; i686 Linux; 20020915)
+Mozilla/5.0 (X11; Linux i686) KHTML/4.11.2 (like Gecko) Konqueror/4.11
+Mozilla/5.0 (X11; Linux x86_64) KHTML/5.44.0 (like Gecko) Konqueror/5 KIO/5.44

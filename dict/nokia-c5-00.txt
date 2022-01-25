@@ -1,0 +1,25 @@
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.4.2.387 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaC5-00) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; ar-SA; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaC5-00) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaC5-00) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V3; id; NokiaC5-00) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaC5-00.2) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00.2) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaC5-00) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+NokiaC5-00
+NokiaC5-00/061.005 (SymbianOS/9.3; U; Series60/3.2 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1)
+NokiaC5-00.2/UC Browser7.4.0.65/28/352
+Mozilla/5.0 (Java; U; en-us; nokiac5-00) UCBrowser8.2.1.144/69/352/UCWEB Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac5-00.2) U2/1.0.0 UCBrowser/9.1.0.291 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+nokiac5-00.2/UC Browser8.0.3.107/69/444 UNTRUSTED/1.0 3gpp-gba
+NokiaC5-00.2/UC Browser8.0.4.121/28/352/UCWEB
+nokiac5-00/UC Browser8.0.3.107/69/444 UNTRUSTED/1.0 3gpp-gba

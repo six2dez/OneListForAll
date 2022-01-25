@@ -1,0 +1,7 @@
+nook browser/1.0
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-US; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; zh-CN; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-FR; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-CA; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-US; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-CA; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

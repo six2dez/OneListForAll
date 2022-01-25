@@ -1,0 +1,5 @@
+NokiaC5-03UCBrowser/8.7.1.234/50/444/UCWEB
+NOKIA-C5
+mozilla/5.0 (symbianOS; opera mini/7.2; U; id-en) AppleWebKit/523.41 NokiaC5/FRF91 profile/MIDP-2.0 configuration/CLDC-1.1 opera mini/7.2 presto/2.2.40 version/4.2 UNTRUSTED/1.0
+Nokia C5 03
+mozilla/5.0 (symbianOS; opera mini/7.2; U; id-en) AppleWebKit/523.41 NokiaC5/FRF91  profile/MIDP-2.0 configuration/CLDC-1.1 opera mini/7.2 presto/2.2.40 version/4.2 UNTRUSTED/1.0

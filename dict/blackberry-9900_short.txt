@@ -1,0 +1,9 @@
+BlackBerry; U; Blackberry 9900; en
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; en) AppleWebKit/534.11+ (KHTML
+Mozilla/5.0 (BlackBerry;U;BlackBerry 9900;en-us)AppleWebkit/534.11+(KHTML,likeGecko)Version/9.9.0.0.MobileSafari/534.11+
+Mozilla/5.0 (BlackBerry;U;BlackBerry 9900;en)
+Mozilla/5.0 (BlackBerry; U; Blackberry 9900; en)
+(BlackBerry; U; Blackberry 9900; en)
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; en-US) Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101
+Mozilla/5.0(BlackBerry;U;Blackberry 9900;en)AppleWebKit/534.11+(KHTML,like Gecko)Version/7.10.346 Mobile Safari/534.11+
+Blackberry 9900

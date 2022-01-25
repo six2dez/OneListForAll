@@ -1,0 +1,1 @@
+HTC_V1 Linux/3.4.5 Android/4.2.2 Release/02.05.2014 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.2.2;

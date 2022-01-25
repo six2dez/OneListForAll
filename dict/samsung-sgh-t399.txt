@@ -1,0 +1,1 @@
+AndroidDownloadManager/4.2.2 (Linux; U; Android 4.2.2; SGH-T399 Build/JDQ39)

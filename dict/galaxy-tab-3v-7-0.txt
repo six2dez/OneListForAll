@@ -1,0 +1,1 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T113 Build/KTU84P)

@@ -1,0 +1,5 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T280 Build/LMY47V)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-T285YD) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-T285) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285 Build/LMY47V)

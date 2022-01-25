@@ -1,0 +1,6 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G930F Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G930F Build/R16NW)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G930F Build/MMB29K)
+SM-G930F/V1 Linux/3.4.39 Android/6.0.1 Release/05.25.2016 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 6.0.1
+Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+WebViewTest 2.0 (Android 7.0;normal-xhdpi;pl_PL;samsung / SM-G930F) - unknown udid

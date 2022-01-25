@@ -1,0 +1,2 @@
+Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G9200 Build/LRX22G) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36
+SM-G9200/V1 Linux/3.4.39 Android/5.0.2 Release/12.10.2015 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 5.0.2

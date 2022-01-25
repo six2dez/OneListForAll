@@ -1,0 +1,21 @@
+Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3a) Gecko/20021207 Phoenix/0.5
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2b) Gecko/20021007 Phoenix/0.3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.2b) Gecko/20020923 Phoenix/0.1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.2b) Gecko/20020923 Phoenix/0.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.3a) Gecko/20030101 Phoenix/0.5
+skk Phoenix Linux/3.0.13 Android/4.0.4 Release/03.13.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US; rv:1.2b) Gecko/20020923 Phoenix/0.1
+Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.3a) Gecko/20021207 Phoenix/0.5
+1.2b) Gecko/20021001 Phoenix/0.2" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub=""/>
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4a) Gecko/20030411 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.3a) Gecko/20021207 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.3a) Gecko/20021207 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.3a) Gecko/20021207 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4a) Gecko/20030403 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.3a) Gecko/20030105 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.3a) Gecko/20021207 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.2b) Gecko/20021014 Phoenix/0.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0; en-US; rv:1.3a) Gecko/20030101 Phoenix/0.5
+Mozilla/5.0 (Windows; U; Win95; en-US; rv: 1.3a) Gecko/20021207 Phoenix/0.5
+Mozilla/5.0 (X11; Linux i686; rv:0.1) Pescadero/20020923 Phoenix/0.1

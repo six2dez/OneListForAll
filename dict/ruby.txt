@@ -1,0 +1,24 @@
+Mechanize/2.7.2 Ruby/1.9.3p484 (http://github.com/sparklemotion/mechanize/)
+Ruby/Curb
+Mechanize/2.3 Ruby/1.9.3p125 (http://github.com/tenderlove/mechanize/)
+Mechanize/2.7.2 Ruby/2.1.2p95 (http://github.com/sparklemotion/mechanize/)
+rest-client/2.0.2 (linux-gnu x86_64) ruby/2.3.6p384
+rest-client/2.0.2 (linux-gnu x86_64) ruby/2.5.1p57
+unirest-ruby/1.1
+Mechanize/2.7.1 Ruby/2.0.0p353 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.4 Ruby/2.2.5p319 (http://github.com/sparklemotion/mechanize/)
+rest-client/2.0.0 (darwin15.6.0 x86_64) ruby/2.3.0p0
+Mechanize/2.7.4 Ruby/2.2.3p173 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.3 Ruby/2.1.5p273 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.5 Ruby/2.4.2p198 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.3 Ruby/2.1.2p95 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.2 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.5.1 Ruby/1.9.2p290 (http://github.com/tenderlove/mechanize/)
+Mechanize/2.7.5 Ruby/2.4.1p111 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.1 Ruby/2.1.2p95 (http://github.com/sparklemotion/mechanize/)
+Ruby\n
+Ruby-RDF-Distiller/1.1.12
+Mechanize/2.7.4 Ruby/2.1.6p336 (http://github.com/sparklemotion/mechanize/)
+Nexgate Ruby Client
+Mechanize/2.7.3 Ruby/2.2.2p95 (http://github.com/sparklemotion/mechanize/)
+TwitterIrcGateway/unknown (tig.rb; net-irc) Ruby/2.2.2 (x86_64-linux)

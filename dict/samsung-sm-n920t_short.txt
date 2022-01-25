@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-N920T Build/NRD90M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-N920T) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile

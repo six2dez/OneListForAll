@@ -1,0 +1,17 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; Nexus 5 Build/LRX22C)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; Nexus 5 Build/KOT49H)
+Amazon.com/2.9.2 (Android/4.4.4/Nexus 5)
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1; Nexus 5) Chromium/53.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; Nexus 5 Build/NJH47F)
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 5; rv:35.0) Gecko/35.0 Firefox/35.0
+"Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML
+Mozilla/5.0 (Linux armv7l; Android 5.1; Nexus 5) Chromium/53.0 Mobile
+Mozilla/5.0 (Linux armv7l; Nexus 5) Chromium/53.0 Mobile
+Mozilla/5.0 (Android; Mobile; Android 4.4.4 LGE Nexus 5)  Gecko/21.0 Firefox/21.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 5 Build/M4B30Z)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 5 Build/MMB29Q)
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; Nexus 5 Build/NMF26Q)
+nexus 5
+Dalvik/2.1.0 (Linux; U; Android 5.0; Nexus 5 Build/LPX13D) [FBAN/Orca-Android;FBAV/60.0.0.16.1;FBLC/en_EN;FBBV/2302400;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/GT-I9300;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=720,height=1280};]
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; Nexus 5 Build/LMY48I) U2/1.0.0 UCBrowser/10.3.0.622 Mobile

@@ -1,0 +1,6 @@
+SymbianOS/9.4; NokiaC6-00/41.0.010; Series60/5.0 Profile MIDP2.1 Configuration/CLDC-1.1 Series60/5.0 NokiaC6-00/41.0.010 Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozila Firefox
+UCWEB/2.0 (Symbian; U; S60 V5; id; NokiaC6-00) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC6-00) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokiac6-00) U2/1.0.0 UCBrowser/8.7.0.218 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC6-00) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC6-00) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile

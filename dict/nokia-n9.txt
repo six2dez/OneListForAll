@@ -1,0 +1,1 @@
+Mozilla/5.0 (X11; U; Linux armv7l; EN-GB; rv:1.9.2b6pre) Gecko/20100318 Firefox/26.0 Maemo Browser 1.7.4.7 RX-53 Nokia N9_03 Prototype

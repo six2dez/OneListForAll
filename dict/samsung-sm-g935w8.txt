@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G935W8 Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G935W8 Build/MMB29K)

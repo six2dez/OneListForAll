@@ -1,0 +1,2 @@
+Mozilla/5.0 (Java; U; -; nokiax7-00) UCBrowser8.3.1.161/70/405/UCWEB Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0(Java; U; MIDP-2.0; en-US; nokiax7-00) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba

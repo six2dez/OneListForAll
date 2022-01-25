@@ -1,0 +1,11 @@
+BlackBerry9800/6.0.0.141 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9800/9.169.531.583 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba
+BlackBerry 9800
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/24.705; U; en) Presto/2.5.25 Version/10.54
+BlackBerry9800/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba
+BlackBerry9800/6.0.0.448 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102
+BlackBerry9800/5.0.0.862
+BlackBerry9800/8.0.0.862
+Mozilla/5.0 (Blackberry; U; Blackberry 9800; id) webkit/583 mobile version/6.0.0.195 presto/2.8.99  UNTRUSTED/1.0
+BlackBerry9800/6.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0)
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1 (KHTML

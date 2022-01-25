@@ -1,0 +1,14 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.0.0.556 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I8550L Build/JZO54K)
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I8552 Build/JZO54K) U2/1.0.0 UCBrowser/10.5.0.575 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.4.0.641 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/9.3.0.440 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+[FBAN/FB4A;FBAV/8.0.0.26.24;FBBV/2119853;FBDM/{density=1.5,width=480,height=800};FBLC/tr_TR;FBCR/VODAFONE TR;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8552) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

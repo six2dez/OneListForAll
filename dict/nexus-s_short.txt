@@ -1,0 +1,18 @@
+This is a Nexus smartphone.
+This is an Nexus smartphone.
+I am a Nexus smartphone.
+Mozilla/5.0 (Android 4.0.3; Mobile; Samsung Nexus S; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 4.1.1; haw-US; Nexus S 4G Build/JRO03R) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; Android 5.0.1; Samsung Nexus S 4g/Nexus S 4G) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 4.1.1; en-US; Nexus S 4G Build/JRO03R) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Android 4.0.4; Mobile; Nexus S; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Linux; U; Android 4.1.1; de-DE; Nexus S 4G Build/JRO03R) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; Android 5.0.1; Samsung Nexus S 4g/Nexus S 4G) Gecko/20100101 Firefox/50.1.0
+Mozilla/5.0 (Linux; U; Android 4.0.4; zh-CN; Nexus S 4G Build/IMM76D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Android; Mobile; Google Nexus S; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android; Mobile; Google Nexus S; rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Nexus S/Nexus S) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Android; Mobile; Nexus S; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android; Mobile; Nexus S; rv:13.0) Gecko13.0 Firefox/13.0
+Mozilla/5.0 (Linux; U; Android 4.1.1; oc-FR; Nexus S 4G Build/JRO03R) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; en-CA; Nexus S 4G Build/JRO03R) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

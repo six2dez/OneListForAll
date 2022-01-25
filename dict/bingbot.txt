@@ -1,0 +1,14 @@
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+Mozilla/5.0(compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+Mozilla/5.0 (compatible; bingbot/2.0  http://www.bing.com/bingbot.htm)
+Mozilla / 5.0(compatible; bingbot / 2.0; +http://www.bing.com/bingbot.htm)
+bingbot
+Mozilla/5.0 (compatible; bingbot/2.0 +http://www.bing.com/bingbot.htm)
+Mozilla/5.0 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm)
+Mozilla/5.0 (compatible;bingbot/2.0;+http://www.bing.com/bingbot.htm)
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm
+Mozilla/5.0 (compatible; bingbot/2.0; +https://deepcrawl.com/bot)
+BingBot (Bing's spider)
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) https://deepcrawl.com/bot
+Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)
+Mozilla/5.0 (compatible; bingbot/2.0; http://www.bing.com/bingbot.htm)

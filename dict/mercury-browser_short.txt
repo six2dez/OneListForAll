@@ -1,0 +1,27 @@
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; IE8Mercury; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; IE8Mercury; A9ELIPJT; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; IE8Mercury; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; IE8Mercury; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~bamboo-mercury-156203)
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; IE8Mercury; A9ELIPJT; A6BLDV0J; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; IE8Mercury; rv:11.0) like Gecko
+Mercury/883 CFNetwork/711.1.16 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0; IE8Mercury)
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; IE8Mercury; rv:11.0) like Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; IE8Mercury)
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; IE8Mercury; STRM0713AUTH; GNSTRM0813AUTH; rv:11.0) like Gecko
+Mozilla/5.0 (compatible; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; IE8Mercury; IPASTRM0912) Gecko/20130201 Firefox/20.0.0
+Mercury/7.3 CFNetwork/548.1.4 Darwin/11.0.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; IE8Mercury)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; IE8Mercury; rv:11.0) like Gecko
+Mercury/7.3 CFNetwork/609.1.4 Darwin/13.0.0
+Mercury/894 CFNetwork/711.3.18 Darwin/14.0.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0) IE8Mercury
+Mercury/830 CFNetwork/672.0.8 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; IE8Mercury; A6BLDV0J; A9ELIPJT)
+Mercury/7.4 CFNetwork/609.1.4 Darwin/13.0.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; IE8Mercury; A9ELIPJT; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; DHSI70; IE8Mercury; rv:11.0) like Gecko
+Mercury/830 CFNetwork/609.1.4 Darwin/13.0.0
+Mercury/910 CFNetwork/711.4.6 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; IE8Mercury)

@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; LGLS620 Build/KOT49I.LS620ZV4)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; LGLS620 Build/KOT49I.LS620ZV3)

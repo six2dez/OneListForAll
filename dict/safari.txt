@@ -1,0 +1,656 @@
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Mobile/12A405 Version/7.0 Safari/9537.53
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.71 (KHTML like Gecko) WebVideo/1.0.1.10 Version/7.0 Safari/537.71
+Mozilla/5.0 (iPod touch; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/123E71C
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17
+Mozilla/5.0 (iPad; U; CPU iPad OS 5_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like Gecko) Version/7.2.0.0 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 421 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Safari
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 433 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0(Macintosh;U;Intel Mac OS X 10_6_3;en-us;V55 Build/MASTER)AppleWebKit/534.13(KHTML,like Gecko)Version4.0 Safari/534.13
+Safari/537.36 (Windows NT 6.2; WOW64) AppleWebKit/537.36
+Mozilla/5.0 (Windows; U; Windows NT 6.2; es-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/6.0 Safari/8900.00
+Ipad Iphone Safari
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Trident/5.0 Safari/602.1
+Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari)
+Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Safari/602.1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Safari/602.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.71 (KHTML like Gecko) Version/7.0 Safari/537.71
+Mozilla/5.0 (iPad;U;CPU OS 6_0 like Mac OS X;en-us)AppleWebKit/536.26(KHTML,like Gecko)Version/6.0 Mobile/10A5355d Safari/8536.25
+Safari Mac
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; tr-DE) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.73.11 (KHTML like Gecko) Version/7.0.1 Safari/537.73.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Trident/5.0 Safari/602.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML like Gecko) Version/7.0.5 Safari/537.77.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 41 like Mac OS X; fr-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B118 Safari/6531.22.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 108) AppleWebKit/536.15 (KHTML like Gecko) Version/6.0 Safari/536.16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10102) AppleWebKit/640.3.18 (KHTML like Gecko) Version/10.0.2 Safari/640.3.18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+safari-mac
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML like Gecko) Version/7.0.6 Safari/537.78.2
+Safari/537.36
+Safari/9.1.3
+Safari 10
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; zh-TW) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20
+Mozilla/5.0 (Macintosh; Intel Mac OS X ) AppleWebKit/640.3.18 (KHTML like Gecko) Version/10.0.2 Safari/640.3.18
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/xxx.x (KHTML like Gecko) Safari/12x.x
+Safari/7537.78.2 CFNetwork/520.5.3 Darwin/11.4.2 (i386) (iMac5%2C1)
+Mozilla/iphone 6/Safari
+Mobile Safari 1.1.3 (iPhone; U; CPU like Mac OS X; en)
+safari on mac
+Safari Windows 95
+Safari 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1081) AppleWebKit/536.25 (KHTML like Gecko) Version/6.0 Safari/536.25
+Mozilla/5.0(iPhone;U;CPUiPhoneOS4_0likeMacOSX;en-us)AppleWebKit/532.9(KHTML,likeGecko)Version/4.0.5Mobile/8A293Safari/6531.22.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1067; en-US) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0 (iPad;CPU OS 5_1 like Mac OS X;en-us)AppleWebKit/534.46(KHTML,like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Safari 5.2 (Mac)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1082) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17
+SafariBookmarkChecker/1.30 (+http://www.coriolis.ch/)
+Safari 11.1 on macOS (High Sierra)
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML,like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (Windows 32) Gecko/20100101 Safari
+Mozilla/5.0 (IE 11.0; Windows NT 6.3; Trident/7.0; .NET4.0E; .NET4.0C; rv:11.0) like Gecko Safari/9537.53 DiigoBrowser
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; en-US) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Safari 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1068) AppleWebKit/534.52.7 (KHTML like Gecko) Version/5.1.2 Safari/534.52.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1094) AppleWebKit/537.78.2 (KHTML like Gecko) Version/7.0.6 Safari/537.78.2
+MobileSafari/601.1 CFNetwork/758.0.2 Darwin/15.0.0
+Safari Mobile 4.3.3 (iPhone)
+safari - mac
+Mozilla/5.0 (iPhone; CPU OS 7_0_6 Like Mac OS X) AppleWebKit/602.2.2.46 (KHTML; Like Gecko) Version/11.02 Mobile/10A465 Safari/602.17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10105) AppleWebKit/600.8.9 (KHTML like Gecko) Version/8.0.5 Safari/600.5.17
+Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari; MSIE 9.0)
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X)AppleWebKit/536.26 (KHTML,like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; en-us) AppleWebKit/525.18 (KHTML,like Gecko) Version/3.1.2 Safari/525.20.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; haw-US) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11 Safari/525.20
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 41 like Mac OS X; en-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+Safari5533.22.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac7%2C1)
+Mobile Safari/537.36
+Safari 7
+Mozilla/5.0 (iPhone; iPhone OS 5_0ne OS 5_0; U;)Mobile Safari/7354.4854.48
+Mozilla/5.0 (Windows NT 10.0.10586.1232; WOW64; rv:37.0) Gecko/20100101 Safari/11.0.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1067; es-US) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0 (Intel Mac OS X 10_9_3) Edge/13.10586 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
+http://www.google.com/bot.html; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0
+Safari/XL (Mac OX; Desktop; df:15.4) Sechi/15.4 Safari/15.4.3.2.0.1
+Morzilla/5.0(Windows NT 6.2;WOW64) AppleWebKit/538.1(KHTML,like Gecko) PhantomJS/2.1.1 Safari/538.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/536.30.1 (KHTML like Gecko) Version/6.0.5 Safari/536.30.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A405 Safari/8536.25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 312 like Mac OS X; es-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (iPhone; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.2.2.46 (KHTML; Like Gecko) Version/10.0 Mobile/10A465 Safari/602.1
+Macintosh; U; Intel Mac OS X; es-mx Version/5.0 Safari/537.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/536.29.13 (KHTML like Gecko) Version/6.0.4 Safari/536.29.13
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1065; en-US) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Safari iPod (iOS5.0)
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML like Gecko) Version/10.0.1 Safari/534.57.2
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B147 Safari/8536.25
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+Mozilla/7.01 (Macintosh; U; Intel Mac OS X 10_11_0; en-nz; rv:7.01) Gecko/20150322 Version/8.0.0a Safari/8001A0122A
+Safari/11601.6.17 is the Safari Version for Safari 9.1.1 for Apple OS X
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (Windows NT 6.1) WebKit/5 Version/7.0 Safari/7.0
+Mozilla/5 (Windows NT 6.1) AppleWebKit/5 Version/7.0 Safari/7.0 #OP
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1095) AppleWebKit/600.8.9 (KHTML like Gecko) Version/7.1.8 Safari/537.85.17
+SLG Browser/1.0 Safari/3.0.0
+Safari on Mac Book Pro
+Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/6.0 Safari/8900.00
+MobileSafari/7534.48.3 CFNetwork/548.0.4 Darwin/11.0.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; en-CA) AppleWebKit/533.17.8 (KHTML like Gecko) Version/5.0.1 Safari/533.17.8
+Mozilla/5.0 (iPhone; CPU OS 7_0_6 Like Mac OS X) AppleWebKit/602.2.2.46 (KHTML; Like Gecko) Version/10.1 Mobile/10A465 Safari/602.1
+Mozilla/5.0 (iPhone) AppleWebKit/536.26            leWebKit/536.26                     Mobile/10A405   Safari/8536.2
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 433 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; haw-US) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1095) AppleWebKit/602.1.4+ (KHTML like Gecko) Version/7.1.8 Safari/537.85.17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 107) AppleWebKit/534.48.3 (KHTML like Gecko) Version/5.1 Safari/534.48.3gzip(gfe)
+MobileSafari/8536.25 CFNetwork/609.1.4 Darwin/13.0.0
+Mozilla/4.0 (compatible; Safari 85.6; SunOS 5.5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; fr-CA) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0(Macintosh;U;IntelMacOSX10_6_8;en-us)AppleWebKit/534.50(KHTML,likeGecko)Version/5.1Safari/534.50
+Mozilla/ ()  Version/10.0.2 Safari/602.3.12
+Safari 1.3
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 312 like Mac OS X; fr-CA) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Safari 11.1 on macOS
+Mozilla/5.0 AppleWebKit/537.75.14 Version/7.0.3 Safari/7046A194A
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; es-US) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20
+Safari/5.0(Lad)
+Safari/537.1 QIHU 360SE
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1010) AppleWebKit/600.1.8 (KHTML like Gecko) Version/8.0 Safari/600.1.8
+Mozilla/5.0 (iPod; U; CPU iPhone OS 431 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 312 like Mac OS X; es-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 30 like Mac OS X; haw-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 322 like Mac OS X; en-US) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B500 Safari/531.21.10
+Safari iPhone (IOS 10)
+Mozilla/5.0 (iPod; U; CPU iPhone OS 30 like Mac OS X; haw-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0+(iPad;+CPU+OS+10_3_2+like+Mac+OS+X)+AppleWebKit/603.2.4+(KHTML,+like+Gecko)+Version/10.0+Mobile/14F89+Safari/602.1
+Mozilla/5.0 (Macintosh; PowerPC MorphOS 3.3; Odyssey Web Browser; rv:1.20) AppleWebKit/537.33 (KHTML like Gecko) OWB/1.20 Safari/537.33
+Mozilla/5.0 (iPhone; iPhone OS 6.0.1 like Mac OS X; en_US) AppleWebKit/1 Mobile/1 Safari/1 iPhone/1 EtsyInc/2.3.1
+Mozilla/5.0 (Macintosh; AMD Mac OS X; en-us) Safari
+Mozilla/5.0 (compatible;  ; Version/4.0.5 Mobile/8A293 Safari/6531.22.7; Trident/6.0)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 432 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1099) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mac OS/ Safari
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1094) AppleWebKit/537.77.4 (KHTML like Gecko) Version/7.0.5 Safari/537.77.4
+Mac OS X 1068/Safari 5.1.7:Mozilla/5.0 (Macintosh; Intel Mac OS X 1068) AppleWebKit/537.13+ (KHTML like Gecko) Version/5.1.7 Safari/534.57.2
+Safari/6534.59.10 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook2%2C1)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 30 like Mac OS X; es-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+MobileSafari/9537.53 CFNetwork/672.0.8 Darwin/14.0.0
+Michaels/47.0.2526.73 Safari/537.36
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.1 (KHTML like Gecko) Version/7.0.6 Safari/537.78.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12A366 Safari 600.1.4
+Safari (MAC OS X)
+Mozilla/5.0 (iPad;CPU OS 6_0 like Mac OS X;en-us)AppleWebKit/536.26(KHTML,like Gecko)Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 312 like Mac OS X; fr-FR) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1083) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17
+Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2 Compatible (Safari)
+Safari 6 on Mac OS X (Mountain Lion)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1067; br-FR) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0 (iPhone; CPU iPhone OS 501 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A406 Safari/7534.48.3
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 431 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; fr-FR) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20
+Safari iPhone (iOS 8.4)
+Mozilla/5.0 (iPad; CPU OS 7_0_4) AppleWebKit/537.51.1 (KHTML) Version/7.0 Mobile/11B554a Safari/9537.53
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; fy-DE) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_2)+AppleWebKit/601.3.9+(KHTML,+like+Gecko)+Version/9.0.2+Safari/601.3.9
+Apple Safari
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 426 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E200 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; en-us) AppleWebKit/536.25 (KHTML like Gecko) Version/6.0 Safari/536.25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 30 like Mac OS X; fr-FR) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0 (iPad; CPU OS 613 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Safari/11.0 UNTRUSTED/1.0
+Macintosh; U; Intel Mac OS X; es-mx Version/5.1.7 Safari/537.6
+Macintosh; U; Intel Mac OS X; es-mx Version/7.0.3 Safari/537.6
+Mozilla/5.0 (Mac OS; U; en-US) AppleWebKit/535.3 (KHTML like Gecko) Version/5.0.1 Safari/535.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 402 like Mac OS X; en-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A400 Safari/6531.22.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; haw-US) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 427 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E303 Safari/6533.18.5
+Safari BR
+Mozilla/5.0 (iPod; U; CPU iPhone OS 313 like Mac OS X; fr-FR) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+safariipad1427449895346
+Mozilla/5.0 (iPod; U; CPU iPhone OS 313 like Mac OS X; haw-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+MobileSafari/9537.53 CFNetwork/672.1.14 Darwin/14.0.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; haw-US) AppleWebKit/533.17.8 (KHTML like Gecko) Version/5.0.1 Safari/533.17.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17
+safarixx
+Safari Over 9000!
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+(compatible;Safari 85; Windows 2.1)
+Mozilla/13.37 (Macintosh; Intel Mac OS X 11.0.1; rv:13.37) Gecko/20150322 Version/8.0.0a Safari/8001A0122A
+Safari/12.0 (Mac OS X Mountain; rv:12.0) Gecko/2014122013 Safari/12.0
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_0_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5B108 Safari/525.20
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 313 like Mac OS X; da-DE) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+Mobile Safari/535.19
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537 Safari/7.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1083) AppleWebKit/536.28.2 (KHTML like Gecko) Version/6.0.3 Safari/536.28.2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5 Version/7.0 Safari/5
+Safari/10601.2.7.2 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+safarimac
+Mozilla/5.0 (Windows) AppleWebKit/5 Version/7.0 Safari/7
+Surf/0.5 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari)
+Mobile/11B554a Safari/9537.53
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5 Version/7.0 Safari/7.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; de-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Version/9.0.3 Safari/601.4.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; tr-DE) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5 (Windows NT 6.1) AppleWebKit/5 Version/7.0 Safari/7.0
+Safari/8
+Mozilla/5.0 (iPod; U; CPU iPhone OS 402 like Mac OS X; fr-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A400 Safari/6531.22.7
+Mozilla/5.0 (iPad; U; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+Mozilla/5.0 (iPad; U; CPU OS 32 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X) AppleWebKit/533.17.9 (KHTML like Gecko) Version/4.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (Windows 32) Gecko/20100101 Safari 1.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 431 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU iPhone OS 501 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; fy-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 434 like Mac OS X; en) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/537.48.2 (KHTML like Gecko) Version/6.1 Safari/537.48.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 41 like Mac OS X; fr-FR) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 312 like Mac OS X; haw-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (iPod; U; CPU iPhone OS 43 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.48.2 (KHTML like Gecko) Version/6.1 Safari/537.48.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 312 like Mac OS X; br-FR) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (iPod; U; CPU iPhone OS 43 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Safari/6.0
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 43 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+"Vimprobable2 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari)"
+Mozilla/5.0 (iPhone; CPU iPhone OS 601 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A525 Safari/8536.25
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1065; haw-US) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1082) AppleWebKit/536.30.1 (KHTML like Gecko) Version/6.0.5 Safari/536.30.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 433 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML like Gecko) Version/6.0.5 Safari/536.30.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; fr-CA) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; fr-FR) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11 Safari/525.20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10103) AppleWebKit/600.6.3 (KHTML like Gecko) Version/8.0.6 Safari/600.6.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; de-de) AppleWebKit/534.15+ (KHTML. like Gecko) Version/5.0.3 Safari/533.19.4
+Mozilla/5.0 (iPod; CPU iPhone OS 61 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B144 Safari/8536.25
+Mozilla/5.0 (iPod; U; CPU iPhone OS 313 like Mac OS X; fr-CA) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+Mozilla/5.0 (compatible; Version/5.0.4 Safari/533.20.27; Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 30 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 AlexaToolbar/alxf-2.17
+Mozilla/5.0 (iPhone; U; CPU iPhone 0S 3.0 like Mac 0S X; id-id; compatible; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16J UNTRUSTED/1.0
+Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML,like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 40 like Mac OS X; es-US) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Mozilla/4.0 (Compatible; U; Windows NT 5.2 ; Trident/4.0; Safari/526.8)
+Mobile Safari
+safari_mac
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; en-CA) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1082) AppleWebKit/536.26.14 (KHTML like Gecko) Version/6.0.1 Safari/536.26.14
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1068; fr-CA) AppleWebKit/533.21.1 (KHTML like Gecko) Version/5.0.5 Safari/533.21.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 435 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Safari/7.9 (Windows 3.1 6.3; en-US;)
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; en) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1068) AppleWebKit/534.57.2 (KHTML like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (iPad; CPU OS 71 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.1 Mobile/11D167 Safari
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; ku-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 109) AppleWebKit/537.71 (KHTML like Gecko) Version/7.0 Safari/537.71
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Safari/7534.55.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir3%2C2)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 431 like Mac OS X; ru-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1065; en-CA) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Safari 5.1
+Safari 8.0.3 (Mac OSX)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/537.59 (KHTML like Gecko) Version/6.0 Safari/537.59
+Safari/6534.57.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro1%2C1)
+Mozilla/5.0 (iPad; CPU OS 601 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A8426 Safari/8536.25gzip(gfe)
+Mozilla/5.0 (iPod; U; CPU iPhone OS 41 like Mac OS X; ca-ES) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B118 Safari/6531.22.7
+Safari/601.4.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8)AppleWebKit/537.13+(KHTML,like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/537.59 (KHTML like Gecko) Version/6.1 Safari/537.59
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 435 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/7.0 (JuOS Safari 1.0 WebKit 122.7 L-Browser 0.93)
+Mozilla/5.0 (iPad; U; CPU OS 32 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10gzip(gfe)
+Mozilla/7.0 (JuOS Safari 0.11 WebKit 122.7 L-Browser 0.93)
+Mozilla/5.0 (Windows 95; Win64; x64) Safari/537.36
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Safari on Mac OS X
+Mozilla/5.0 (iPod; U; CPU iPhone OS 402 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A400 Safari/6531.22.7
+Mozilla/5.0 (Windows; U; PPC Mac OS X 10.5; is) Gecko/20100101 Safari/534.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) Version/6.0.2 Safari/536.26.17
+Safari5533.22.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac5%2C2)
+Safari browser
+Mozilla/5.0 (X11; U; FreeBSD i386; ar) Gecko/20100404 Safari/533.16
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; io) Gecko/20090624 Safari/533.16 Gentoo
+Safari/8.0 (Mac OS X Mountain 6.2; rv:8.0) Gecko/2014121911 Safari/8.0
+Mozilla/5.0 (iPad; CPU OS50 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version 5.1 Mobile/9A334 Safari/7534.48.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 108) AppleWebKit/535.18.5 (KHTML like Gecko) Version/5.2 Safari/535.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 43 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Safari/1.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1091) AppleWebKit/537.73.11 (KHTML like Gecko) Version/7.0.1 Safari/537.73.11
+Mozilla/5.0 (Windows NT 5.1;) Version/5.0.4 Safari/533.20.27
+Mozilla/5.0 (iPhone; CPU iPhone OS 712 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; en-US) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20
+Mozilla/5.0 (Windows NT 5.1;) Safari/533.20.27
+Mozilla/5.0 (Macintosh; U; FreeBSD i386; bh) Gecko/20091215 Safari/534.2 Ubuntu/9.10 (karmic)
+Mozilla/5.0 (Windows NT 5.1;) Safari/5.0
+Safari/5.0 (Mac OS X Mountain; rv:5.0) Gecko/2465647657 Safari/5.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 613 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 435 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+iPhone/Safari
+Mozilla/5.0 (Windows NT 6.3;) Version/5.1 Safari/533.20.27
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 43 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 431 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (Windows NT 6.3;) Version/5.1 Safari
+Mozilla/5.0 (Windows NT 5.1;) Version/4.3 Safari
+Mozilla/5.0 (Windows NT 6.2;) Version/5.0 Safari
+Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML,like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+Safari/534.53.10
+Mozilla/5.0 (Safari; Mac OS X)
+Mozilla/5.0 (iPhone; CPU OS 8_0 like Mac OS X) Version/8.0 Safari
+Mozilla/5.0 (Safari; iPad 2)
+Mobile/1A543a Safari/419.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 40 like Mac OS X; en-US) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; en-US) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Mobile/9B206 Version/5.10 Safari/7534.48.3 Mobicip/1748336 UNTRUSTED/1.0
+(FreeBSD NT 9.7; rv:99.8) Mozilla/117385858 m8e9SwefBXtnZsri Safari/7.8 srZ9MKuIZ9ZFJf6O yJ9QOZPx639
+Mozilla/5.0 (iPod; U; CPU iPhone OS 313 like Mac OS X; en-CA) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+safari - max
+Mozilla/5.0 (iPod; U; CPU iPhone OS 433 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 313 like Mac OS X; en-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+7.0.3 Safari/7046A194A
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+b9CUEQO9jTMI Safari/6.5 Mozilla/753810538 9BtZ4Z9QD9V 8gQTqACx (FreeBSD NT 8.3; Win1011; x127; rv:1110.9) dRZjEZKhZZW9v ZoZ99Zkyup96yV
+Safari/7.0 (X11; Mac OSX Yosemite; rv:45.0) Gecko/20100101 Safari/98.0
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 427 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E303 Safari/6533.18.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 lick Mac OS X) AppleWebkit/605.1.15; (Edge 12.0.2.4627; KHTML; Version/12.0 Mobile/15E148 Safari/604.1; Trident/7.0; Touch; rv:11.0) like Gecko
+SpZdYFT916Y e9ZZAR9ZQ1XWj YZ8d9nGDnxiwz BsJmiG9D vSo6SAWpG 6r9kl9TQ9SZ91fT9 CclZ61oP9Z Mozilla/103365769 6fXEY2gOL9792PA 5c9ZyB9GZZZEee (Windows NT 14.7; Win125; x1111; rv:912.7) Safari/6.6
+Mozilla/5.0.8 (iPod touch; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.1 Mobile/11D167 Safari/123E71C.6tygujhb423we ygurwesf2d y983wresfd g8yuterdgf 86y3rwesft6
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 434 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+MobileSafari/7534.48.3 CFNetwork/548.1.4 Darwin/11.0.0
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Safari/5.1.10
+Safari/7.0.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 107) AppleWebKit/534.48.3 (KHTML like Gecko) Version/5.1 Safari/534.48.3
+Safari Mobile
+Mozilla/5.0 (iPod; U; CPU iPhone OS 312 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; es-ES) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; oc-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; ga-ES) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11 Safari/525.20
+Mozilla/5.0 (iPod; U; CPU iPhone OS 313 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 30 like Mac OS X; da-DE) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0(iPhone;U;CPU iPhone OS 3_0 like Mac OS X;en-us)AppleWebkit/528.18(KHTML,likeGecko)Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; el-gr) AppleWebKit/531+ (KHTML,like Gecko)Version/5.0 Safari /531.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 511 like Mac OS X) AppleWebKit/534.46(KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; ku-DE) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11 Safari/525.20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 109) AppleWebKit/537.54.1 (KHTML like Gecko) Version/7.0 Safari/537.54.1
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 434 like Mac OS X; zh-TW) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mobile Safari 8 on iOS 9.2
+"C:\Program Files\Safari\Safari.exe"
+Mozilla/5.0 (iPod; U; CPU iPhone OS 431 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J3 Safari/6533.18.5gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 511 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 431 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Safari 10.1 on Mac OS X 10
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 312 like Mac OS X; fr-CA) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 431 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (Windows; U; Windows NT 6.2; es-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/6.0 Safari/11.03
+Mozilla/5.0 (Windows; U; Windows NT 6.2; es-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/11.03 Safari/11.03
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML; like Gecko) Version/9.0 Mobile/13D15 Safari/601.1
+Mozilla/5.0 (Windows; U; Windows NT 6.2; es-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/11.03 Safari
+$(UX RECOMMEND) Safari/$(SAFARI_VER)
+Safari 12.0
+Mozilla/5.0 (Windows; U; Windows NT 6.2; es-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/11.03 Safari/537.71
+Version/9.0 Mobile/13G36 Safari/601.1
+Mozilla/5.0 (Mac OS X; en-us) Safari
+Mobile Safari 1.1.3 - iPhone
+https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+11_0+like+Mac+OS+X%29+AppleWebKit%2F604.1.21+%28KHTML%2C+like+Gecko%29+Version%2F10.0+Mobile%2F15A5278f+Safari%2F602.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1075) AppleWebKit/536.30.1 (KHTML like Gecko) Version/6.0.5 Safari/536.30.1
+Mozilla/5.0 (Macintosh; PowerPC MorphOS 3.2; Odyssey Web Browser; rv:1.20) AppleWebKit/537.33 (KHTML like Gecko) OWB/1.20 Safari/537.33
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; pl-DE) AppleWebKit/533.17.8 (KHTML like Gecko) Version/5.0.1 Safari/533.17.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1095) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1065; ru-DE) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1011) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Windows; U; Windows NT 6.3; es-AR) AppleWebKit/536.26.14 (KHTML like Gecko) Version/6.1 Safari/536.26.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1010) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1085) AppleWebKit/537.77.4 (KHTML like Gecko) Version/6.1.5 Safari/537.77.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1090) AppleWebKit/600.1.25 (KHTML like Gecko) Version/8.0 Safari/600.1.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1096) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 108) AppleWebKit/536.10.3 (KHTML like Gecko) Version/5.2 Safari/536.10.3
+Mozilla/5.0 (iPhone; U; CPU iPhone 0S 3.0 like Mac 0S X; en-us; compatible; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0
+Mozilla/5.0 (X11; U; FreeBSD amd64 8.18; rv:25.46) Gecko/20100101  Trident/97.18 Safari/25.46;
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1097) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1098) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_13%29+AppleWebKit%2F603.1.13+%28KHTML%2C+like+Gecko%29+Version%2F10.1+Safari%2F603.1.13
+Mozilla/5.0 (iPod; U; CPU iPhone OS 421 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1100) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 401 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A306 Safari/6531.22.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML. like Gecko) Version/11.0 Safari/604.1.38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_00) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1073) AppleWebKit/534.53.11 (KHTML like Gecko) Version/5.1.3 Safari/534.53.10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_00) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1080) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 432 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 312 like Mac OS X; haw-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7D11 Safari/528.16
+MSIE safari
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1090) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1094) AppleWebKit/600.1.17 (KHTML like Gecko) Version/7.0.4 Safari/537.76.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; fy-DE) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; fr-CA) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20
+Mozilla/5.0 (iPod; U; CPU iPhone OS 434 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML. like Gecko) Version/7.0 Safari/537.71
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Velocity/1.0.1 Safari/99
+Mozilla/5.0 (iPod; U; CPU iPhone OS 432 like Mac OS X; oc-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0(iPad; U; CPU OS 32 like Mac OS X; en-us)AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4Mobile/7B334b Safari/531.21.10
+Safari/537.22
+http://www.google.com/bot.html; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0 3gpp-gba
+Mozilla/5.0 (iPod; CPU iPhone OS 501 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; fr-CA) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11 Safari/525.20
+Mozilla/5.0 (iPod; U; CPU iPhone OS 421 like Mac OS X; ga-ES) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Safari/6534.54.16 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac7%2C1)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 109) AppleWebKit/537.43.7 (KHTML like Gecko) Version/7.0 Safari/537.43.7
+Mozilla/5.0 (Intel Mac OS X 0.76; rv:189.62) Gecko/20100101  Safari/189.62;
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1074) AppleWebKit/536.15 (KHTML like Gecko) Version/6.0 Safari/536.16
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML like Gecko) Otter/0.9.03 Safari/538.1
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (Windows NT 1.44; rv:45.16) Gecko/20100101  Trident/117.75 Safari/45.16;
+Safari 10.1.2- Mac
+Safari 8.0.0
+Mozilla/5.0 (Intel Mac OS X 10_9_3) Safari/537.36 Edge/13.10586
+Safari IOS 5.1
+safari/0.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 41 like Mac OS X; en-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+Safari/6000
+Mozilla/5.0 (iPad; CPU OS 61 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 108) AppleWebKit/536.25 (KHTML like Gecko) Version/6.0 Safari/536.25
+Safari 6.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1074) AppleWebKit/534.57.2 (KHTML like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1093) AppleWebKit/537.75.12 (KHTML like Gecko) Version/7.0.3 Safari/537.75.12
+Mozilla/5.0 (iPad; CPU OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10A403 Version/5.1 Safari/7534.48.3 NAVER(inapp; search; 103; 4.0.0)
+Mozilla/5.0 (iPod; U; CPU iPhone OS 433 like Mac OS X; ru-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 434 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 427 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E303 Safari/6533.18.5
+Mozilla / 5.0 (X11; Ubuntu x86_64; rv:10.0) Gecko/20180101 Safari/605.1.15
+Mozilla/5.0 (Windows NT 3.53; rv:15.65) Gecko/20100101  AppleWebKit/212.71 Safari/15.65;
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 427 like Mac OS X; pl-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E303 Safari/6533.18.5
+Safari lol
+Safari 007
+Safari 8
+Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420  (KHTML like Gecko) Version/3.0 Mobile/1A543a Safari/419.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/536.28.10 (KHTML like Gecko) Version/6.0.3 Safari/536.28.10
+Safari (iPhone)
+Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420.1 (KHTML like Gecko) Version/3.0 Mobile/4A102 Safari/419.3
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 43 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4 Mobile/7B314 Safari/531.21.10
+Safari  ios 8.1
+Mozilla/5.0 AppleWebKit/537.51.2 Version/7.0 Mobile/11D257 Safari/9537.53
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4 Safari/531.21.10
+Safari on Mac OSX
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 313 like Mac OS X; de-DE) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+Mozilla/5.0 (iPod; U; CPU iPhone OS 434 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; en-US) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; ru-DE) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1095) AppleWebKit/600.1.10 (KHTML like Gecko) Version/7.1 Safari/537.85.10
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; de-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X)AppleWebKit/604.4.7 (KHTML,like Gecho) Version/11.0 Mobile/15C153 Safari/604.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 421 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPod; CPU iPhone OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; zh-TW) AppleWebKit/533.17.8 (KHTML like Gecko) Version/5.0.1 Safari/533.17.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML like Gecko) Version/8.0.6 Safari/600.6.3
+Safari 5.2
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 22 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5G77 Safari/525.20
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Safari Mobile 4.3.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 30 like Mac OS X; en-CA) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/48 (like Gecko) Safari/48
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; haw-US) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Safari 7 on Mac OS X (Mavericks)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 427 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E303 Safari/6533.18.5
+Mozilla/5.0 (Apple Safari; en) Version/40.0.US
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.71 (KHTML like Gecko) Version/7.0 Safari/537.71
+Mozilla/5.0 (X11; FreeBSD i386 3.76; rv:149.7) Gecko/20100101  AppleWebKit/60.77 Safari/149.7;
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/4.0.5 Mobile/8J2 Safari/6531.22.7
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mac os Safari 10 Mozilla/5.0 (Macintosh; Intel Mac OS X 10102) AppleWebKit/640.3.18 (KHTML like Gecko) Version/10.0.2 Safari/640.3.18
+Mozilla/5.0 (iPhone; U; en)(webOS/2.2.4; U; en-US) AppleWebKit/534.6 Version/1.0 Safari/534.6 webOSBrowser -CET
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 43 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 43 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 511like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3 UNTRUSTED/1.0
+Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+2_2_1+like+Mac+OS+X;+en-us)+AppleWebKit/525.18.1+(KHTML,+like+Gecko)+Version/3.1.1+Mobile/5H11+Safari/525.20
+Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en-us) AppleWebKit/420.1 (KHTML like Gecko) Version/3.0 Mobile/4A102 Safari/419.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1068; de-DE) AppleWebKit/533.21.1 (KHTML like Gecko) Version/5.0.5 Safari/533.21.1
+Safari 7.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; en-CA) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.13) Gecko/20080313 Safari/125
+Mozilla/5.0 (iPod; U; CPU iPhone OS 432 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1068; haw-US) AppleWebKit/533.21.1 (KHTML like Gecko) Version/5.0.5 Safari/533.21.1
+MobileSafari/601.1 CFNetwork/758.5.3 Darwin/15.6.0
+Mozilla/5.0 (iPad; CPU OS 602 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A550 Safari/8536.25
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1065; es-US) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 432 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1095) AppleWebKit/537.78.1 (KHTML like Gecko) Version/7.0.6 Safari/537.78.1
+Safari/11
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 43 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.9.0.4) Version/3.1 Safari/525.13
+safari 22 on mac
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 41 like Mac OS X; da-DE) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 435 like Mac OS X) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1085) AppleWebKit/537.71 (KHTML like Gecko) Version/6.1 Safari/537.71
+safari on macbook pro
+Safari iPhone (iOS 10.3)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1058) AppleWebKit/534.50.2 (KHTML like Gecko) Version/5.0.6 Safari/533.22.3
+hrome/32.0.1667.0 Safari/537.36
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5gzip(gfe)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/537.51.3 (KHTML like Gecko) Version/6.1 Safari/537.51.3
+Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 402 like Mac OS X; ku-DE) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A400 Safari/6531.22.7
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 435 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (Windows NT 6.2) Safari/537.27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8) AppleWebKit/536.30.1(KHTML like Gecko) Version/6.0.5 Safari/536.30.1
+Mozilla/5.0 (iPad; CPU OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 40 like Mac OS X; br-FR) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+Safari 13
+Safari/11.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1068; es-US) AppleWebKit/533.21.1 (KHTML like Gecko) Version/5.0.5 Safari/533.21.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 432 like Mac OS X; ru-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 421 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 40 like Mac OS X; en-US) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+Safari iOS 3.2.2 - iPad
+Safari5526.11.2 CFNetwork/422.11 Darwin/9.6.0 (i386) (MacBook1%2C1)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36; Safari
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; fr-FR) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (iPod; U; CPU iPhone OS 313 like Mac OS X; es-US) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7E18 Safari/528.16
+$MobileSafari/604.1 CFNetwork/975.0.3 Darwin/18.2.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 106; ar) AppleWebKit/531.9 (KHTML like Gecko) Version/4.0.3 Safari/531.9
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 20 like Mac OS X; en-us) AppleWebKit/528.4.1 (KHTML like Gecko) Version/3.1.1 Mobile/5A347 Safari/525.20
+Mozilla/6.0 (Macintosh; U; Amiga-AWeb) Safari 2.9
+Mozilla/10.0 (compatible; SAFARI 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)
+Safari/7534.53.10 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C5)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; es-US) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 432 like Mac OS X; ru-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; es-US) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; pl-DE) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+"Safari/535.7"
+Mozilla/5.0 (iPad; U; CPU OS 712 like Mac OS X; vi-vn) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+Safari/7534.55.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac7%2C1)
+Mozilla/5.0 (Macintosh) Version/7.0 Safari/537.71
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 433 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5..0;(X11; ))Safari
+Mozilla/5.0 (iPod; U; CPU iPhone OS 433 like Mac OS X; en) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Safari/537.36 (Macintosh; Intel Mac OS X 10_9_5)
+Safari/7534.53.10 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro6%2C1)
+Mozilla/5.0 (iPod; U; CPU iPhone OS 43 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; es-US) AppleWebKit/533.17.8 (KHTML like Gecko) Version/5.0.1 Safari/533.17.8
+Mozilla/4.0 (Windows; U; Windows NT; en-Us; rv:2.5.3) Gecko/65158732 Safari/2.2.3,Browser
+Safari 7.0.6 (9537.78.2)
+Mozilla/5.0 (iPhone; CPU OS 7_0_6 Like Mac OS X) AppleWebKit/602.2.2.46 (KHTML; Like Gecko) Version/11.2 Mobile/10A465 Safari/602.17
+Mozilla/5.0 (iPod; U; CPU iPhone OS 40 like Mac OS X; da-DE) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+Safari 7.0.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/536.26.17 (KHTML like Gecko) Version/7.0.2 Safari/536.26.17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1010) AppleWebKit/600.1.25 (KHTML like Gecko) Version/8.0 Safari/600.1.25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Mozilla/9.0 (compatible; Safari 99.0; Apple 11.1)
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+Mozilla/5.0 (Windows NT 6.1) Version/7.0 Safari/537.71
+safari(Mac OS  10.8.2) UNTRUSTED/1.0
+Safari/69
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; fr-CA) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+iPad_U_CPU_OS_8_Safari_7543_48_3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 432 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 40 like Mac OS X; fr-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+Mozilla/5.0 (Macintosh Intel Mac OS X 1094) AppleWebKit/537.77.4 (KHTML like Gecko) Version/7.0.5 Safari/537.77.4
+Mozilla/5.0 (iPod; CPU iPhone OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A406 Safari/8536.25
+Safari 3.12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1093) AppleWebKit/537.75.14 (KHTML like Gecko) Version/7.0.3 Safari/537.75.14
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1066; de-DE) AppleWebKit/533.20.25 (KHTML like Gecko) Version/5.0.4 Safari/533.20.27
+Safari 1.12
+Safari/7534.57.2 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookAir3%2C2)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1068; en-CA) AppleWebKit/533.21.1 (KHTML like Gecko) Version/5.0.5 Safari/533.21.1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.2) Version/3.0.4 Safari/523.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML like Gecko) Version/8.0 Safari/538.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 43 like Mac OS X; da-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 51 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko ) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS 1066; nl-nl) AppleWebKit/6533.19.4 (KHTML like Gecko) Version/5.0.3 Safari/6533.19.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; fr-FR) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPad; CPU iPhone OS 614 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+Mozilla/4.0 (compatible; Safari 85.6; Mac_PowerPC; Trident/4.0; MRA 8.3 (build 7317); .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 109) AppleWebKit/537.66 (KHTML like Gecko) Version/7.0 Safari/537.66
+Mozilla/5.0 (iPhone; CPU iPhone OS 84 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/537.73.11 (khtml  like gecko) version/6.1.1 safari/537.73.11
+MOZILLA/5.0(mackintosh;Intel Mac OS X10 /Safari 600
+mozilla/5.0 (macintosh; intel mac os x 10_9_1) applewebkit/537.73.11 (khtml  like gecko) version/7.0.1 safari/537.73.11
+Safari 5
+Safari iPad Pro (iOS 10.3)
+Mozilla/5.0(Macintosh;U;PPC Mac OS X;en) AppleWebKit/125.2(khtml,like Gecko) Safari/125.8
+Safari 5.1.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 434 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+(KHTML,like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 41 like Mac OS X; oc-FR) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+Mobile Safari 6 on iOS 8
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 434 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+C:\Program Files\Safari\Safari.exe
+Mozilla/5.0 (iPod; U; CPU iPhone OS 221 like Mac OS X; en-CA) AppleWebKit/525.18.1 (KHTML like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mac OS+Safari
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1083) AppleWebKit/536.28.10 (KHTML like Gecko) Version/6.0.3 Safari/536.28.10
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1065; br-FR) AppleWebKit/533.18.1 (KHTML like Gecko) Version/5.0.2 Safari/533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 432 like Mac OS X; tr-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 30 like Mac OS X; en-CA) AppleWebKit/528.18 (KHTML like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0 (iPad; U; CPU OS 431 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; en) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Safari/6534.57.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacPro3%2C1)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 401 like Mac OS X; fr-CA) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A306 Safari/6531.22.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 432 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+Mozilla/5.0 (X11; U; FreeBSD i386 on amd64 3.62; rv:111.3) Gecko/20100101  AppleWebKit/18.72 Safari/111.3;
+Mozilla/5.0 (iPod; U; CPU iPhone OS 434 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Mozilla/5.0 (Macintosh; Intel Mac OS X 1091) AppleWebKit/537.73.11 (KHTML like Gecko) Version/7.0.1 Safari/537.73.11)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 426 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E200 Safari/6533.18.5
+Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_3)+AppleWebKit/600.5.17+(KHTML,+like+Gecko)+Version/8.0.5+Safari/600.5.17 302 0 0 155
+Mozilla/5.0 (iPod; U; CPU iPhone OS 41 like Mac OS X; es-US) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+I_DONT_KNOW_WHAT_OS/4.0 RandomBrowser/1.0 Safari/1
+Safari/537.31
+I_DONT_KNOW_WHAT_OS/4.0 RandomBrowser/1.0 Safari/537.36
+Safari/7534.55.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro4%2C1)
+Safari5533.22.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (Macmini2%2C1)
+Mozilla/5.0 (iPad; CPU OS 71 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Mobile/11D167 Version/7.1 Safari/8536.25
+Mozilla/5.0 (iPad; CPU OS 704 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Safari/7534.53.10 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C2)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1064; zh-CN) AppleWebKit/533.17.8 (KHTML like Gecko) Version/5.0.1 Safari/533.17.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/48 (like Gecko) Safari/48
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) Version/8.0.1a Safari/728.28.19
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; es) AppleWebKit/51 (like Gecko) Safari/51
+Mozilla/5.0 (iPad; U; CPU iPad OS 6_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like   Gecko) Version/7.2.0.0 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML  like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+(Windows NT 10.1; Win64; x64; rv:52.0) Webkit/345533 Safari/52.0
+Mozilla/5.0 (Compatible; U; Mac OS X; Trident/4.0; Safari/526.11.2)
+Safari/10601.3.9 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+Mozilla/5.0 (Macintosh; U; Windows NT 5.1; jv) Gecko/20090624 Safari/533.4 Fedora/3.6.3-4.fc13
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 8_0 like Mac OS X; en-us) AppleWebKit/548.16.1 (KHTML like Gecko) Version/8.0 Mobile/12C1085h Safari/9525.23
+Safari/5.0 (Windows XP; Win64; rv:100.0) Gecko/20100101 Safari/100.0
+Mozilla/5.0 (iPod; U; CPU iPhone OS 435 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 427 like Mac OS X; oc-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8E303 Safari/6533.18.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 402 like Mac OS X; haw-US) AppleWebKit/532.9 (KHTML like Gecko) Version/4.0.5 Mobile/8A400 Safari/6531.22.7
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 421 like Mac OS X; oc-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 1063; de-DE) AppleWebKit/533.16 (KHTML like Gecko) Version/5.0 Safari/533.16
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; ga-ES) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 435 like Mac OS X; ku-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+safari 10.0.2

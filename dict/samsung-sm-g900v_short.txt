@@ -1,0 +1,6 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G900V Build/LRX21T)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G900V Build/MMB29M)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-G900V Build/KTU84P)
+Callpod Keeper for Android 1.0 (11.1.1/295) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G900V Build/MMB29M)
+Mozilla/5.0 (Android; Mobile; SM-G900V; rv:32.0) Gecko/32.0 Firefox/32.0
+Callpod Keeper for Android 1.0 (11.0.0/285) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G900V Build/MMB29M)

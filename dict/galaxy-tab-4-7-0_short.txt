@@ -1,0 +1,18 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T230 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T230NU Build/KOT49H)
+Samsung SM-T230NU stagefright/1.2 (Linux;Android 4.4.2)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; zh-CN; SM-T231) U2/1.0.0 UCBrowser/3.4.3.532  U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux: U; Android 4.4.2; SM-T235 Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; buddies.airtelmoney.in; SM-T231) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T230NU) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/9.1.1.420 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T231 Build/KOT49H)
+Opera/9.80 (Android; Opera Mini/22.0.2254/37.9389; hi-in; sm-t231) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/11.5.2.1188 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux: U; Android 4.4.2; SM-T235
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

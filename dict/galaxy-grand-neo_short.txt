@@ -1,0 +1,18 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; GT-I9060I Build/KTU84P)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9060) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9060) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9060) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; GT-I9060I) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 4.4.4; en-GB; GT-I9060I) U2/1.0.0 UCBrowser/8.6.0.276 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; GT-I9060I) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Mozilla/5.0 Linux Android 4.4.4 GT-I9060C Build/KTU84P AppleWebKit/537.36 KHTML
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9060) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9060) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; GT-I9060I) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9060I) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile

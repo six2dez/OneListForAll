@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows; U; Windows NT 6.1; chrome://navigator/locale/navigator.properties; rv:1.8.1.21) Gecko/20090305 SecondLife/1.23.5.136262 (Imprudence; default skin)

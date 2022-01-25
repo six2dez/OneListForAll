@@ -1,0 +1,13 @@
+Mozilla/5.0 (Linux; U; Android 4.1.1; haw-US; Amazon Kindle Fire Build/JRO03L; CyanogenMod-10) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2; haw-US; Amazon Kindle Fire Build/JOP40C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-US; Amazon Kindle Fire Build/JDQ39) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; br-FR; Amazon Kindle Fire Build/JRO03L; CyanogenMod-10) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.2; fr-CA; Amazon Kindle Fire Build/JDQ39) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2; fr-CA; Amazon Kindle Fire Build/JOP40C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.2; en-US; Amazon Kindle Fire Build/JDQ39) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2; es-US; Amazon Kindle Fire Build/JOP40C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.2; haw-US; Amazon Kindle Fire Build/JDQ39) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; pl-DE; Amazon Kindle Fire Build/JRO03L; CyanogenMod-10) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2; ga-GB; Amazon Kindle Fire Build/JOP40C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2; en-US; Amazon Kindle Fire Build/JOP40C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2; oc-FR; Amazon Kindle Fire Build/JOP40C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

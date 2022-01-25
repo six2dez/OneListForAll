@@ -1,0 +1,7 @@
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE72-1) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaE72-1) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE72-1) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V3; vi; NokiaE72-1) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+Mozilla/5.0 (S60V3; U; id; NokiaE72-1)/UC Browser8.5.0.183/28/352/UCWEB Mobile
+UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokiae72-1) U2/1.0.0 UCBrowser/8.7.0.218 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+MQQBrowser/2.6 (NokiaE72-1;SymbianOS/9.3 Series60/3.2)

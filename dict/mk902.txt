@@ -1,0 +1,3 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; RKM MK902 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; RKM MK902 Build/smic717394)
+Kodi/16.1 (Linux; Android 4.4.2; RKM MK902 Build/KOT49H) Android/4.4.2 Sys_CPU/armv7l App_Bitness/32 Version/16.1-Git:2016-04-24-f6ceced

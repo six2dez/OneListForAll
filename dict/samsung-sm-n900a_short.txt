@@ -1,0 +1,10 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SAMSUNG-SM-N900A Build/LRX21V)
+Chrome 30 on Android Kitkat Samsung SM-N900A
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SAMSUNG-SM-N900A Build/KOT49H)
+Samsung SAMSUNG-SM-N900A stagefright/Beyonce/1.1.9 (Linux;Android 5.0)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SAMSUNG-SM-N900A Build/JSS15J)
+Mozilla/5.0+(Linux;+Android+4.4.2;+SAMSUNG-SM-N900A+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/30.0.0.0+Safari/537.36
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SAMSUNG-SM-N900A) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SAMSUNG-SM-N900A Build/KTU84P)
+Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG-SM-N900A Build/KOT49H) AppleWebKit/537.36 (KHTML,
+Chrome 30 on Android (Kitkat) Samsung SM-N900A

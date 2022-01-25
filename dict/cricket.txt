@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SCH-R970C Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SCH-R970C Build/JSS15J)

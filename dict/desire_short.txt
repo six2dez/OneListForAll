@@ -1,0 +1,4 @@
+Mozilla/5.0 (Android 2.2; zh-cn; HTC Desire)/GoBrowser
+Mozilla/5.0 (Linux; Android 5.0.1; HTC Desire/HTC Desire) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 2.3.4; fr-fr; HTC Desire Build/GRJ22) AppleWebKit/533.1 (KHTML
+Mozilla/5.0 (Linux;u;Android 2.3.7;zh-cn;HTC Desire Build) AppleWebKit/533.1 (KHTML,like Gecko) Version/4.0 Mobile Safari/533.1

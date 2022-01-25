@@ -1,0 +1,19 @@
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy Ace/GT-S5830) Gecko/20100101 Firefox/47.0.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.5; id; GT-S5830) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 2.3.3; en-US; GT-S5830) U2/1.0.0 UCBrowser/9.0.2.299 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.1; haw-US; GT-S5830 Build/ICECREAMSANDWICH) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; GT-S5830 Build/JDQ39) U2/1.0.0 UCBrowser/9.9.2.467 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; id; GT-S5830) U2/1.0.0 UCBrowser/9.3.0.440 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux;U;Android 2.2.1; en-us;GT-S5830 Build/FROYO)AppleWebKit/533.1(KHTML,like Gecko)Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 4.0.1; de-DE; GT-S5830 Build/ICECREAMSANDWICH) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 4.2.2; en-CA; GT-S5830 Build/JDQ39; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5830) U2/1.0.0 UCBrowser/9.3.0.440 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.2; haw-US; GT-S5830 Build/JDQ39; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5830 Build/GRWK74) U2/1.0.0 UCBrowser/10.7.9.856 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.2; fy-DE; GT-S5830 Build/JDQ39; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.1; es-US; GT-S5830 Build/ICECREAMSANDWICH) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5830) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; id; GT-S5830) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.1; en-CA; GT-S5830 Build/ICECREAMSANDWICH) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy Ace/GT-S5830) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (Linux; U; Adr 4.2.2; zh-CN; GT-S5830) U2/1.0.0 UCBrowser/9.6.1.401 U2/1.0.0 Mobile

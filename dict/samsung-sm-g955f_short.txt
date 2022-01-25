@@ -1,0 +1,8 @@
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55)  YaBrowser/2.0 Safari/537.75.14
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G955F Build/R16NW)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G955F Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G955F Build/OPR6)
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55) YaBrowser/2.0 Safari/537.75.14 (like spoof; mods@mys.onl; 'If you believed this you're fooled :b')
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G955F Build/NRD90M) BLAndroid
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55) YaBrowser/2.0 Safari/537.75.14 (mods@mys.onl; 'If you believed this you're fooled :b')
+Mozilla/5.0 (Windows; Win95; Win64; x64; x86_64; U; SAMSUNG SM-G955F Build/NRD90M6; Touch) KHTML/5.0 AppleWebKit/537.75.14 Gecko/20170522 (compatible; like Gecko; rv:55) YaBrowser/2.0 Safari/537.75.14 (mods@mys.onl)

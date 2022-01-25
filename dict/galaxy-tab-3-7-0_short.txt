@@ -1,0 +1,12 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T210 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T210R Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T217S Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SM-T210 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T217S Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SM-T210R Build/JZO54K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; SM-T211) U2/1.0.0 UCBrowser/9.5.1.494 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; SM-T211) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-T210) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-T211) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T211) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; SM-T211) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile

@@ -1,0 +1,6 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; HTC One S Build/JRO03C)
+Mozilla/5.0 (Linux; Android 4.1.1; HTC One S Build/JRO03R) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; HTC One S Build/IML74K) U2/1.0.0 UCBrowser/9.4.1.362 Mobile
+Mozilla/5.0 (Linux; Android 5.1.1; HTC One S/HTC One S) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTC One S Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; Android 5.1.1; HTC One S/HTC One S) Gecko/20100101 Firefox/50.1.0

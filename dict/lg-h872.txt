@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; LG-H872 Build/OPR1.170623.032)
+Dalvik/2.1.0 (Linux; U; Android 7.0; LG-H872 Build/NRD90U)

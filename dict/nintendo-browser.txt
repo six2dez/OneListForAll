@@ -1,0 +1,3 @@
+Mozilla/5.0 (Nintendo WiiU) Gecko/20100101 NX/3.0.4.2.12 NintendoBrowser/4.3.1.11264.US
+Mozilla/5.0 (Nintendo DSi) Gecko/20100101 NintendoBrowser/4.3.1.11264.US
+Mozilla/5.0 (New Nintendo 3DS like iPhone) Apple Webkit/536.30 (KHTML.like Gecko) NX/3.0.0.5.20 Mobile NintendoBrowser/1.9.10160.JP

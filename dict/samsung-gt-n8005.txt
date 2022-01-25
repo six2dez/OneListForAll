@@ -1,0 +1,1 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-N8005 Build/JRO03H)

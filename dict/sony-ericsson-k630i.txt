@@ -1,0 +1,3 @@
+SonyEricssonK630i/R1FA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; SonyEricssonK630i) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile
+SonyEricssonK630i/R1FA Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; id; SonyEricssonK630i) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile
+SonyEricssonK630i/R1FA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1

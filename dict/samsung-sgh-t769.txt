@@ -1,0 +1,1 @@
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Blaze 4g/SGH-T769) Gecko/20100101 Firefox/47.0.1

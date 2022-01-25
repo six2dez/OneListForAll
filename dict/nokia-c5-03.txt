@@ -1,0 +1,11 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC5-03) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; id; NokiaC5-03) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+NokiaC5-03
+NokiaC5-03/UC Browser8.0.4.121/50/444/UCWEB
+Mozilla/5.0 (S60V5; U; en-us; NokiaC5-03)/UC Browser8.4.0.159/50/352/UCWEB Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; id; NokiaC5-03) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+NokiaC5-03/UC Browser8.0.3.107/50/444/UCWEB
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-03/10.0.031; Profile/MIDP-2.1 Configuration/CLDC-1.1)
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC5-03) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; id; NokiaC5-03) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0
+MQQBrowser/Mini2.4 (NokiaC5-03/23.0.015/sw_platform=S60;sw_platform_version=5.0;java_build_version=1.4.43)

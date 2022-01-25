@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; LG-K540 Build/MMB29M)

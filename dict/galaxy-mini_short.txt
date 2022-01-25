@@ -1,0 +1,22 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5570) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; vi; GT-S5570) U2/1.0.0 UCBrowser/10.5.0.668 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.2.1; pt-BR; GT-S5570) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Mini/GT-S5570) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5570) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.4; id; GT-S5570) U2/1.0.0 UCBrowser/9.4.1.482 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5570) U2/1.0.0 UCBrowser/9.1.0.386 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.7; en-US; GT-S5570) U2/1.0.0 UCBrowser/9.1.0.386 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-S5570) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-S5570) U2/1.0.0 UCBrowser/9.1.0.386 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; es-LA; GT-S5570) U2/1.0.0 UCBrowser/9.3.1.344 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.2.1; en-US; GT-S5570) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.2.1; en-US; GT-S5570) U2/1.0.0 UCBrowser/10.0.0.556 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 2.3.7; id; GT-S5570) U2/1.0.0 UCBrowser/8.6.0.276 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.4; en-US; GT-S5570) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5570) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5570) U2/1.0.0 UCBrowser/8.8.0.332 U2/1.0.0 Ponsel
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; id; GT-S5570) U2/1.0.0 UCBrowser/9.3.1.476 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 2.2.1; en-GB; GT-S5570) U2/1.0.0 UCBrowser/8.6.0.276 U2/1.0.0 Mobile
+Dalvik/1.2.0 (Linux; U; Android 2.2.1; GT-S5570 Build/FROYO)
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5570) U2/1.0.0 UCBrowser/8.9.2.373 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.4; id; GT-S5570) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile

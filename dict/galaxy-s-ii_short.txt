@@ -1,0 +1,43 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I9100 Build/JZO54K)
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-US; GT-I9100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-I9100 Build/IMM76D)
+SAMSUNG-GT-I9108_TD/1.0 Android/2.3.3 Release/03.15.2011 Browser/AppleWebKit533.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (Linux; U; Android 4.0.1; haw-US; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-I9100) U2/1.0.0 UCBrowser/10.0.0.996 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.5; en-US; GT-I9100) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+Amazon.com/2.9.0 (Android/2.3.5/GT-I9100)
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy S II/SGH-T989) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 4.0.1; en-CA; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy S II/GT-I9100) Gecko/20100101 Firefox/47.0.1
+Instagram 5.0.8 Android (10/2.3.4; 160dpi; 576x1024; samsung; GT-I9100; GT-I9100; smdk4210; en_US)
+Mozilla/5.0 (Linux; U; Android 4.0.1; fr-FR; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9100) U2/1.0.0 UCBrowser/9.2.0.419 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.1; es-US; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-US; GT-I9100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I9100) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.1; fr-CA; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9100) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0; zh-CN; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Dalvik/1.4.0 (Linux; U; Android 2.3.5; GT-I9100 Build/GINGERBREAD)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; id; GT-I9100) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.1; oc-FR; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9100 Build/JZO54K) U2/1.0.0 UCBrowser/10.6.2.599 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; id; GT-I9100) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0; en-CA; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 4.0; fr-CA; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; en-US; GT-I9100) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.1; lo-TH; GT-I9100 Build/ITL41D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0; en-US; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy S II/GT-I9100) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-FR; GT-I9100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I9100 Build/JZO54K) U2/1.0.0 UCBrowser/10.5.2.582 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0; es-US; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1
+UCWEB/2.0 (Linux; U; Adr 4.1.2; en-US; GT-I9100) U2/1.0.0 UCBrowser/8.2.0.242 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.1; br-FR; GT-I9100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I9100) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.3; vi; GT-I9100) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-CA; GT-I9100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9100) U2/1.0.0 UCBrowser/10.0.0.556 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; SGH-T989 Build/IMM76D)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-I9100) U2/1.0.0 UCBrowser/10.0.0.996 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy S II/SGH-T989) Gecko/20100101 Firefox/47.0.1

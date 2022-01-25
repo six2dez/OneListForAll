@@ -1,0 +1,3 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.1-update1; en-US; HTC_Hero) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.1-update1; en-US; HTC_Hero) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+ZingBrowser (Linux; U; zh-cn; HTC Hero Build/FRF91)

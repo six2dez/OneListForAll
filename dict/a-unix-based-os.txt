@@ -1,0 +1,440 @@
+Mozilla/5.0 (X11; NetBSD amd64; rv:49.0) Gecko/20100101 Firefox/49.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; U; NetBSD amd64; en-US; rv:1.9.2.15) Gecko/20110308 Namoroka/3.6.15
+Mozilla/5.0 (X11; NetBSD amd64; rv:16.0) Gecko/20121102 Firefox/16.0
+Mozilla/5.0 (compatible; Konqueror/4.5; NetBSD 5.0.2; X11; amd64; en_US) KHTML/4.5.4 (like Gecko)
+Hellorer/666 (X11; U; Commodore64; binary)
+Mozilla/5.0 (X11; NetBSD amd64; rv:42.0) Gecko/20100101 Firefox/42.0
+Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari)
+Mozilla/5.0 (X11;) Firefox/38.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0
+Mozilla/5.0 (X11; NetBSD; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Midori/0.5
+Mozilla/5.0 (X11; NetBSD amd64; rv:34.0) Gecko/20100101 Firefox/34.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:36.0) Gecko/20100101 Firefox/36.0
+Mozilla/4.0 (X11; MSIE 6.0; i686; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM)
+Mozilla/5.0 (X11; NetBSD amd64; rv:35.0) Gecko/20100101 Firefox/35.0
+Mozilla/5.0 (X11; NetBSD i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:30.0) Gecko/20100101 Firefox/30.0
+Mozilla/5.0 (compatible; Teleca Q7; Brew 3.1.5; U; en) 480X800 LGE VX11000
+Mozilla/4.75C-ja [ja] (X11; U; OSF1 V5.1 alpha)
+Mozilla/5.0 (X11; compatible; semantic-visions.com crawler; HTTPClient 3.1)
+Mozilla/5.0 (X11; NetBSD i686; rv:61.0) Gecko/20100101 Firefox/61.0
+Mozilla/5.0 (compatible; Konqueror/2.1.1; X11)
+Mozilla/5.0 (X11; Gentoo; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (compatible; Konqueror/2.0.1; X11); Supports MD5-Digest; Supports gzip encoding
+NCSA_Mosaic/2.7b4 (X11;AIX 1 000180663000)
+Mozilla/4.04 [en] (X11; I; HP-UX B.10.20 9000/712)
+MOT-EX115 Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
+Mozilla/5.0 (X11; Gentoo; rv:59.0) Gecko/20100101 Firefox/59.0
+Mozilla/5.0 (X11; NetBSD i686; rv:65.0) Gecko/20100101 Firefox/65.0
+MOT-EX119 MIDP-2.0/CLDC-1.1 Release/31.12.2010 Browser/Opera Sync/SyncClient1.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Opera/9.80 (MTK; U) Presto/2.5.28 Version/10.10
+Opera/9.70 (X11; U; ja)
+Mozilla/5.0 (X11; U; NetBSD i386; en-US; rv:1.9.2.12) Gecko/20101030 Firefox/3.6.12
+Mozilla/3.0 (X11; I; OSF1 V4.0 alpha)
+Mozilla/5.0 (X11; NetBSD amd64; rv:45.0) Gecko/20100101 Firefox/45.0
+Mozilla/5.0 (X11; NetBSD i686; rv:54.0) Gecko/20100101 Firefox/54.0
+Mozilla/5.0 (X11; Gentoo; rv:61.0) Gecko/20100101 Firefox/61.0
+iTunes/8.9;(X11)Safari/5.9
+Mozilla/5.0 (X11; NetBSD i686; rv:59.0) Gecko/20100101 Firefox/59.0
+Mozilla/5.0 (compatible; Konqueror/3.5; NetBSD 4.0_RC3; X11) KHTML/3.5.7 (like Gecko)
+Mozilla/5.0 (X11; NetBSD amd64; rv:41.0) Gecko/20100101 Firefox/41.0
+Mozilla/5.0 (X11; DragonFly x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Mozilla/5.0 (X11; NetBSD i686; rv:62.0) Gecko/20100101 Firefox/62.0
+Mozilla/5.0 (X11; Ewbuntu; SOOOOOO armv7l; rv:1337.0) Gecko/20170101 Firefox/1337.0
+Mozilla/5.0 (X11; Gentoo; rv:64.0) Gecko/20100101 Firefox/64.0
+Mozilla/5.0 (X11; rv:52.0) Gecko/20100101 Firefox/52.0
+/5.0 (X11;  x86_64; rv:45.0) Gecko/20100101
+Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari; MSIE 9.0)
+NCSA_Mosaic/2.6-1(X11;OpenVMS Unknown VAX_ALPHA)
+Mozilla/4.04 (X11; U; Unix)
+Mozilla/5.0 (X11; Gentoo; rv:51.0b) Gecko/20100101 Firefox/51.0b
+Mozilla/5.0 (X11; Unix; rv:58.0.1) Gecko/20100101 Firefox/58.0.1
+Mozilla/5.0 (X11; NetBSD i686; rv:56.0) Gecko/20100101 Firefox/56.0
+Mozilla/5.0 (X11; NetBSD i686; rv:55.0) Gecko/20100101 Firefox/55.0
+Lynx/2.8.7 (X11; DOS; rv: 386) Gecko/20100101 Lynx/2.8.7
+Safari/5.0 (X11;win 32 rv:49.0) Gecko/20100101 Firefox/49.0
+Midori/5.10 (X11; Elementary OS) Webkit/532.0
+Mozilla/5.0 (X11;0;0)
+Mozilla/5.0 (X11; Unix x86_64; rv:39.0) Gecko/20100101 Firefox/39.0
+Netsacpe/0.9 (X11; U; Unix)
+Mozilla/5.0 (X11; Unix x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+Opera/9.80 (X11
+Mozilla/5.0 (X11; BSD x86_64; rv:45.0) Gecko/20140429 Firefox/45.0
+Opera/9.80 (X11)
+Mozilla/5.0 (X11; Gentoo; rv:54.1) Gecko/20100101 Firefox/54.1
+Opera/9.61 (X11; U; hu)
+Mozilla/5.0 (X11; Original ; Minix 3.3 ; rv:3.0)
+Mozilla/5.0 (X11; NetBSD amd64; rv:50.0) Gecko/20100101 Firefox/50.0
+Mozilla/5.0 (X11; U; OpenVMS AlphaServer_ES40_833_MHz; en-US; rv:1.8.1.17) Gecko/20081029 SeaMonkey/1.1.12
+Mozilla/5.0 (X11; Gentoo; rv:62.0) Gecko/20100101 Firefox/62.0
+Mozilla/5.0 (X11; U; DragonFly i386; de; rv:1.9.1) Gecko/20090720 Firefox/3.5.1
+Mozilla/5.0 (X11; GNU i686-AT386; rv:31.0) Gecko/20100101 Firefox/31.0 Iceweasel/31.2.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:59.0) Gecko/20100101 Firefox/59.0
+Mozilla/5.0 (X11; GhostBSD/10.3; x86_64; rv:50.0.1) Gecko/20100101 Firefox/50.0.1
+Mozilla/5.0 (X11; DragonFly x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Opera/5.11 (X11; U; nb)
+Mozilla/5.0 (X11; NetBSD amd64; rv:54.0.1) Gecko/20100101 Firefox/54.0.1
+Mozilla/5.0 (X11; ApexOS; rv:61.0) Gecko/20100101 Firefox/61.0
+Mozilla/5.0 (X11; U; AIX 0048013C4C00; en-US; rv:1.0.1) Gecko/20021009 Netscape/7.0
+Mozilla/5.0 (X11; NetBSD i686; rv:47.0) Gecko/20100101 Firefox/47.0
+Mozilla/5.0 (X11; NetBSD i686; rv:56.1b) Gecko/20100101 Firefox/56.1b
+Mozilla/5.0 (X11; U; NetBSD amd64) Gecko/20150331 Firefox/37.0
+Mozilla/5.0 (X11; Gentoo; rv:55.3a) Gecko/20100101 Firefox/55.3a
+Midori/0.5.10 (X11; Elementary OS) Webkit/537.1
+Mozilla/5.0 (X11; DragonFly x86_64; rv:19.0) Gecko/20130902 Firefox/19.0
+Mozilla/5.0 (X11; Gentoo; rv:54.0) Gecko/20100101 Firefox/54.0
+Midori/5.9 (X11; Elementary OS)
+Mozilla/5.0 (X11) KHTML/4.14.26 (like Gecko) Konqueror/4.14
+Mozilla/5.0 (X11; U; AIX 005A471A4C00; en-US; rv:1.0rc2) Gecko/20020514
+Opera/9.25 (X11; U; nb)
+Mozilla/5.0 (X11; Colossus; Colossus; rv:Mark I) Gecko/20100101 Firefox/26.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
+Mozilla/5.0 (X11; U; JOOS sun4u; en-US; rv:1.8) Gecko/20051130 Firefox/1.5
+Mozilla/5.0 (X11; U; Solaris ultra27; en-US; rv:29.0) Gecko/20100101 SeaMonkey/2.40
+Mozilla/5.0 (X11; U; NetBSD i386; en-US; rv:1.8.0.1) Gecko/20060310 Firefox/1.5.0.1
+Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2 Compatible (Safari)
+Mozilla/5.0 (X11; U; SCO_SV i386; en-US; rv:1.2.1) Gecko/20021214
+Mozilla/5.0 (X11; ? i686; rv:53.0) Gecko/20100101 Firefox/53.0
+Mozilla/5.0 (X11; U; Mac OSX; it; rv:1.9.0.7) Gecko/2009030422 Firefox/3.0.7
+Mozilla/5.0 (X11; Open BSD; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (X11; NetBSD i686; rv:57.0) Gecko/20100101 Firefox/57.0
+Firefox/23.0 (X11; amd64; rv:23.0) Gecko/20100101
+Mozilla/3.0 (X11; I; AIX 2)
+Mozilla/5.0 (X11; Gentoo; rv:53.0) Gecko/20100101 Firefox/53.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; QMobile_X11) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Opera/9.50 (X11; U; br)
+Mozilla/5.0 (X11; U; AIX 6.1; en-US; rv:1.8.0.12) Gecko/20070626 Firefox/1.5.0.12
+Opera/8.01 (X11; U; hu)
+Opera/9.80 (X11;) Presto/2.12.388
+Opera/4.02 (X11; U; uk)
+Mozilla/5.0 (X11; NetBSD i686; rv:58.0) Gecko/20100101 Firefox/58.0
+Mozilla/4.04 (Netscape; X11; U; Unix)
+Opera/7.53 (X11; U; br)
+Opera/7.03 (X11; U; pt)
+Opera/7.21 (X11; U; ru)
+Opera/7.20 (X11; U; ru)
+Surf/0.5 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari)
+Mozilla/5.0 (X11; U; OSF1 alpha; en-US; rv:1.8.1.6) Gecko/20070807 Firefox/2.0.0.6
+Mozilla/5.0 (X11; NetBSD amd64; rv:22.0) Gecko/20100101 Firefox/22.0
+Mozilla/4.04 (X11; U; 2.11BSD)
+Mozilla/5.0 (X11; U; ux armv7l; en-GB; 1.9.2b6pre) Gecko/ 100318 Firefox/3.5 aemo Browser 1.7.4.7 RX-N90
+Mozilla/5.0 (X11; U; AIX 7.1; en-US; rv:1.9.2.25) Gecko/20130116 Firefox/3.6.25
+Mozilla/5.0 (X11; U; OpenVMS AlphaServer_DS10_617_MHz; en-US; rv:1.8.1.17) Gecko/20081029 SeaMonkey/1.1.12
+Mozilla/5.0 (X11; NetBSD amd64; rv:18.0) Gecko/20130120 Firefox/18.0
+Opera/6.01 (X11; U; ja)
+Mozilla/5.0 (X11; U; OpenVMS HP_rx1620__(1.60GHz/3.0MB); en-US; rv:1.8.1.18) Gecko/20081201 BonEcho/2.0.0.18
+Opera/8.54 (X11; U; tw)
+Mozilla/5.0 (X11; NetBSD i386; rv:25.0) Gecko/20100101 Firefox/25.0
+Mozilla/5.0 (X11; Gentoo; rv:55.0) Gecko/20100101 Firefox/55.0
+"Vimprobable2 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari)"
+Mozilla/5.0 (X11; NetBSD i386; rv:33.0) Gecko/20100101 Firefox/33.0
+Opera/8.0 (X11; U; id)
+Opera/7.10 (X11; U; ko)
+Opera/9.51 (X11; U; br)
+Opera/6.03 (X11; U; es)
+Midori/0.1.5 (X11; Elementary OS; en-US) WebKit/532
+Opera/6.01 (X11; U; en)
+Mozilla/5.0 (X11; Bobeli; Lunix x86_64; rv:53.0) Gecko/20100101 LunixBrowser/69.0
+Mozilla/5.0 (X11; U; DragonFly i386; de; rv:1.9.1) Gecko/20090720 Firefox/33
+Mozilla/5.0 (X11; NetBSD i686; rv:57.2) Gecko/20100101 Firefox/57.2
+Opera/9.12 (X11; U; cn)
+Mozilla/?.0 (X11; ? i686; rv:93.0) Gecko/20100101 Firefox/93.0
+Opera/9.30 (X11; U; cn)
+Mozilla/5.0 (X11; NetBSD amd64; rv:46.0) Gecko/20100101 Firefox/46.0
+Mozilla/5.0 (X11; NetBSD sparc64; rv:23.0) Gecko/20130405 Firefox/23.0
+Opera/10.50 (X11; U; lt)
+Mozilla/5.0 (X11; Unknown x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+Mozilla/5.0 (X11; NetBSD i386; rv:17.0) Gecko/20130316 Firefox/17.0
+Mozilla/0.0 (X11; Uyt5 x86_64; rv:2.0b9pre) Gecko/20110111 Trusted/4.0b9pre
+Opera/8.54 (X11; U; bg)
+Mozilla/5.0 (X11; NetBSD i686; rv:64.0) Gecko/20100101 Firefox/64.0
+Opera/8.54 (X11; U; nn)
+Mozilla/5.0 (X11; NetBSD amd64; rv:19.0.2) Gecko/20100101 Firefox/19.0.2
+Mozilla/5.0 (X11; NetBSD sparc64; rv:30.0) Gecko/20100101 Firefox/30.0
+Opera/9.64 (X11; U; ja)
+Opera/7.03 (X11; U; ja)
+Mozilla/5.0 (X11; Watermelon; rv:44.0) Gecko/20100101 Firefox/44.0
+Mozilla/5.0 (X11; Watermelon; rv:44.0) Gecko/20100101 Watermelon/44.0
+Banana/5.0 (X11; Watermelon; rv:44.0) Gecko/20100101 Watermelon/44.0
+Mozilla/5.0 (compatible; Konqueror/3.5.1; X11) KHTML/3.5.1 (like Gecko)
+Opera/5.02 (X11; U; sk)
+Opera/7.51 (X11; U; tr)
+Mozilla/5.0 (X11; NetBSD amd64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.4
+Banana/5.0 (X11; Watermelon; rv:44.0) Orange/20100101 Watermelon/44.0
+Mozilla/5.0 (X11; GhostBSD x86_64; rv:50.0.1) Gecko/20100101 Firefox/50.0.1
+MOT-EX118 MIDP-2.0/CLDC-1.1 Release/31.12.2010 Browser/Opera Sync/SyncClient1.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Opera/9.80 (MTK; U) Presto/2.5.28 Version/10.10
+Opera/9.61 (X11; U; us)
+Mozilla/5.0 (X11; PCBSD x86_64; rv:50.0.1) Gecko/20100101 Firefox/50.0.1
+Mozilla/5.0 (X11; rv:33.0) Gecko/20141021 Firefox/33.0
+Opera/7.50 (X11; U; es)
+Opera/8.10 (X11; U; br)
+NaviMousse/8.0 (X11; Cromanion-Mium x86_64; rv:15.0) VacheFolle/20110303 CaMousse/12.33 NaviMousse/12.33
+Mozilla/5.0 (X11; NetBSD x86_64; rv:50.0.1) Gecko/20100101 Firefox/50.0.1
+Opera/8.10 (X11; U; fi)
+Opera/8.52 (X11; U; nn)
+Opera/9.30 (X11; U; sk)
+Mozilla/4.8 [en] (X11; U; HP-UX B.11.00 9000/785)
+Opera/4.02 (X11; U; fi)
+Opera/8.52 (X11; U; uk)
+Mozilla/5.0 (X11; Xamin x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+Opera/9.30 (X11; U; ja)
+Mozilla/5.0 (X11; XXX; rv:54.0) Gecko/20100101 Firefox/54.0
+Mozilla/5.0 (X11; GhostBSD/10.3 x86_64; rv:50.0.1) Gecko/20100101 Firefox/50.0.1
+Mozilla/5.0 (X11; DragonFly x86_64; rv:33.0) Gecko/20100101 Firefox/33.0
+Mozilla/5.0 (X11; U; Crap amd64; rv:5.0) Gecko/20100101 Firefox/56.0
+Opera/9.02 (X11; U; tw)
+Opera/9.51 (X11; U; ux)
+Opera/9.70 (X11; U; uk)
+Opera/9.22 (X11; U; en)
+Opera/9.30 (X11; U; da)
+Opera/6.12 (X11; U; la)
+Opera/5.0 (X11; U; tr)
+Mozilla/5.0 (X11; DragonFly x86_64; rv:19.0) Gecko/20130530 Firefox/19.0
+Opera/9.27 (X11; U; nn)
+Opera/9.00 (X11; U; tr)
+Mozilla/5.0 (X11; NetBSD; en_US) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+Mozilla/5.0 (X11; U; Solaris sparc; en-US; en; rv:1.9.1.8) Gecko/20140303 Solaris/11.1 (GNU) Superswan/3.5.8 (Byte/me)
+Opera/8.02 (X11; U; cs)
+Mozilla/5.0 (X11; U; NetBSD i386; en-GB; rv:25.6) Gecko/20150723 FGecko/20110622 SeaMonkey/2.4a1
+Opera/9.21 (X11; U; nn)
+Opera/9.00 (X11; U; lt)
+Opera/6.03 (X11; U; bg)
+Opera/7.23 (X11; U; ca)
+Mozilla/5.0 (X11; NetBSD mips64) KHTML/4.14.3 (like Gecko) Konqueror/4.14
+Opera/9.63 (X11; U; fi)
+Opera/5.11 (X11; U; lt)
+Mozilla/5.0 (X11) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+Midori/0.5 (X11; Elementary OS) Webkit/532
+Opera/9.52 (X11; U; ux)
+Mozilla/5.0 (X11; NetBSD i686; rv:54.1a) Gecko/20100101 Firefox/54.1a
+Mozilla/5.0 (X11; NetBSD i686; rv:57.1) Gecko/20100101 Firefox/57.1
+Opera/5.0 (X11; U; es)
+xxx/x (X11; XXX; OS; rv:xx.x) xxxx/xxxxxxxx XXX/xx.x
+Mozilla/5.0 (X11; U; AIX 7.2; en-US; rv:1.9.2.25) Gecko/20130116 Firefox/3.6.25
+Opera/8.00 (X11; U; cn)
+Opera/6.04 (X11; U; ja)
+Opera/9.01 (X11; U; ux)
+Opera/7.52 (X11; U; fr)
+Safari/7.0 (X11; Mac OSX Yosemite; rv:45.0) Gecko/20100101 Safari/98.0
+Mozilla/5.0 (X11; NetBSD i386; rv:17.0) Gecko/20140908 Firefox/17.0
+Opera/9.01 (X11; U; cn)
+Opera/9.99 (X11; U; fi)
+Mozilla/5.0 (X11; DragonFly x86_64; rv:19.0) Gecko/20130424 Firefox/19.0
+Opera/9.22 (X11; U; cn)
+Opera/7.52 (X11; U; sk)
+Mozilla/5.0 (X11; U; Solaris 11 sparc; utf-8; rv:27; en_US; en) Gecko/20140303 Firefox/27.0.1
+Opera/9.52 (X11; U; ru)
+Opera/7.03 (X11; U; cn)
+Mozilla/5.0 (X11; Lunix 1.0.3; rv:55.0) Gecko/20100101 Firefox/55.0 Lunafox/1.0 (compatible; +https://www.craftsmany.net/)
+Opera/9.30 (X11; U; tw)
+Mozilla/5.0 (X11; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+Opera/9.26 (X11; U; hu)
+Opera/8.54 (X11; U; br)
+Mozilla/5.0 (X11; U; OpenVMS COMPAQ_AlphaServer_DS20E_666_MH; en-US; rv:1.8.1.17) Gecko/20081029 SeaMonkey/1.1.12
+NCSA_Mosaic/5.0 (X11;Plan 9 4.0)
+Mozilla/5.0 (X11; NetBSD i686; rv:49.3) Gecko/20100101 Firefox/49.3
+Opera/9.70 (X11; U; fi)
+Opera/7.11 (X11; U; tu)
+Mozilla/5.0 (X11; U; Mac arm81; en-US; rv:1.9.1b2beta) Gecko/24681015 Fennec/1.0
+Opera/8.54 (X11; U; la)
+Opera/9.64 (X11; U; es)
+Opera/6.03 (X11; U; nn)
+Opera/9.12 (X11; U; nl)
+Mozilla/5.0 (X11; U; NetBSD alpha; en-US; rv:1.8) Gecko/20060107 Firefox/1.5
+Opera/9.64 (X11; U; hr)
+Midori/0.5 (X11; Elementary OS) Webkit/537.1
+Opera/7.20 (X11; U; pt)
+Opera/7.02 (X11; U; lt)
+Opera/7.21 (X11; U; nl)
+Mozilla/5.0 (X11; Lunix 1.0.3; rv:56.0) Gecko/20100101 Firefox/56.0 Lunafox/1.0 (compatible; +https://www.craftsmany.net/)
+Opera/7.02 (X11; U; pl)
+Opera/9.80 (X11; U; ja)
+Opera/9.21 (X11; U; es)
+Mozilla/5.0 (X11; U; Unknown; en-US; rv:1.8.0.4) Gecko/20060628 Firefox/15.0.1
+Opera/8.52 (X11; U; fi)
+Mozilla/5.0 (compatible; MSIE 10.0; X11; NetBSD amd64; rv:16.0; Trident/7.0; rv:11.0) like Gecko
+Opera/8.00 (X11; U; pl)
+Opera/9.61 (X11; U; br)
+Opera/5.0 (X11; U; en)
+Opera/7.53 (X11; U; es)
+Opera/6.0 (X11; U; de)
+Mozilla/5.0 (X11 ) Gecko/20100101
+Opera/9.22 (X11; U; uk)
+Opera/9.50 (X11; U; tw)
+Opera/8.51 (X11; U; fr)
+Mozilla/5.0 (X11; DragonFly x86_64; rv:51.0) Gecko/20100101 Firefox/51.0 SeaMonkey/2.48 Lightning/5.3
+Opera/9.22 (X11; U; nl)
+Midori 5.9 (X11; Elementary OS)
+Mozilla/5.0 (X11; DragonFly x86_64; rv:51.0) Gecko/20100101 SeaMonkey/2.48 Lightning/5.3
+Mozilla/5.0 (X11; Elementary OS x86_64; rv:28.0) Gecko/20100101 Midori/0.5.9
+Opera/8.53 (X11; U; bg)
+Mozilla/5.0 (X11; Dragonfly x86_64; rv:32.0) Gecko/20100101 Firefox/32.0
+Opera/7.0 (X11; U; nl)
+Mozilla/5.0 (compatible; Konqueror/3.5; NetBSD 3.0; X11) KHTML/3.5.2 (like Gecko)
+Opera/8.52 (X11; U; sk)
+Mozilla/5.0 (X11; NetBSD i686; rv:53.2b) Gecko/20100101 Firefox/53.2b
+Opera/7.22 (X11; U; br)
+Opera/8.52 (X11; U; tu)
+Opera/7.53 (X11; U; ca)
+Mozilla/5.0 (X11; NetBSD i686; rv:53.0a) Gecko/20100101 Firefox/53.0a
+Opera/7.52 (X11; U; es)
+Opera/9.02 (X11; U; pl)
+Opera/9.24 (X11; U; hu)
+Opera/5.11 (X11; U; sk)
+Opera/9.99 (X11; U; fr)
+Mozilla/5.0 (X11; IBrowse 3.0; AmigaOS4.0_x64) Gecko/20100101 Firefox/25.0
+Opera/7.11 (X11; U; ca)
+Opera/8.54 (X11; U; ja)
+Opera/6.12 (X11; U; tw)
+Opera/7.11 (X11; U; es)
+Opera/9.00 (X11; U; nn)
+Opera/9.10 (X11; U; es)
+Opera/7.0 (X11; U; fr)
+Opera/7.52 (X11; U; tr)
+Mozilla/5.0 (X11; DragonFly i386; rv:8.0) Gecko/20120322 Firefox/8.0
+Opera/8.53 (X11; U; nl)
+Opera/9.5 (X11; U; cs)
+Mozilla/5.0 (X11; Gentoo; rv:56.0) Gecko/20100101 Firefox/56.0
+Mozilla/5.0 (X11; UNIVAC; UNIVAC 1103; rv:26.0) Gecko/20100101 Firefox/26.0
+Mozilla/5.0 (X11; win7; rv:45.0) Gecko/20100101 Firefox/45.0
+Opera/9.50 (X11; U; id)
+Opera/9.61 (X11; U; tr)
+Mozilla/5.0 (X11; U; NetBSD sparc64; fr-FR; rv:1.8.1.6) Gecko/20070822 Firefox/2.0.0.6
+Opera/9.5 (X11; U; fr)
+Mozilla/5.0 (X11; Gentoo; rv:53.0a) Gecko/20100101 Firefox/53.0a
+Mozilla/5.0 (compatible; Konqueror/2.1.2; X11)
+Opera/9.00 (X11; U; ru)
+Chrome 32 - X11
+Opera/7.51 (X11; U; pl)
+Mozilla/5.0 (X11; U; Solaris sun4u; en-US; rv:29.0) Gecko/20100101 SeaMonkey/2.40
+Opera/9.21 (X11; U; tu)
+Opera/8.0 (X11; U; sk)
+Mozilla/5.0 (X11; DragonFly x86_64; rv:30.0) Gecko/20100101 Firefox/30.0
+Mozilla/5.0 (X11; WOW64) AppleWebKit/537.36 (KHTML
+Opera/7.21 (X11; U; pt)
+Opera/6.0 (X11; U; ux)
+Opera/9.52 (X11; U; tu)
+Opera/7.50 (X11; U; fr)
+Opera/9.25 (X11; U; de)
+Mozilla/5.0 (X11; x86_32; rv:24.0) Gecko/20100101 Firefox/31.0
+Mozilla/5.0 (X11; RemixOS; x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+Mozilla/5.0 (X11; U; DragonFly i386; de; rv:1.9.1b2) Gecko/20081201 Firefox/52.7.0
+Mozilla/5.0 (X11; Ewbuntu; SOOOOOO armv7l; rv:1337.0) Gecko/20170101 Hmm?/1337.0
+Mozilla/5.0 (X11; RemixOS; x86_64; rv:50.0) Gecko/50 Firefox/50.0
+Opera/9.63 (X11; U; id)
+Opera/7.03 (X11; U; bg)
+Opera/9.63 (X11; U; bg)
+Opera/8.54 (X11; U; lt)
+Mozilla/5.0 (X11; NetBSD i686; rv:56.3) Gecko/20100101 Firefox/56.3
+Opera/6.02 (X11; U; nl)
+Opera/8.02 (X11; U; es)
+Mozilla/5.0 (X11; Gentoo; rv:47.3) Gecko/20100101 Firefox/47.3
+(X11;
+Mozilla/5.0 (X11) KHTML/4.7.2 (like Gecko) Konqueror/4.7 SUSE
+Midori/0.5.10 (X11; Elementary OS) Webkit/532.1
+Mozilla/5.0 (X11; GNU i686-AT386; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Opera/6.01 (X11; U; nn)
+Opera/7.50 (X11; U; us)
+Opera/8.51 (X11; U; ru)
+Mozilla/5.0 (X11; NetBSD i686; rv:55.2b) Gecko/20100101 Firefox/55.2b
+Mozilla/5.0 (X11; TrueOS; TrueOS x86_64; rv:61.0) Gecko/20100101 Firefox/61.0
+Opera/7.01 (X11; U; ru)
+Opera/8.50 (X11; U; sv)
+Mozilla/5.0 (X11; U; Solaris x86_64; en-US; rv:1.9.1.8) Gecko/20140303 Solaris/11.1 (GNU) Superswan/3.5.8 (Byte/me)
+Opera/8.01 (X11; U; tr)
+Opera/6.05 (X11; U; tu)
+Mozilla/5.0 (X11; NetBSD amd64; rv:38.0) Gecko/20100101 Firefox/38.0
+Opera/9.60 (X11; U; la)
+Hellorer/666 (X11; U; Commodore64; en)
+Mozilla/5.0 (X11; Gentoo; rv:57.2b) Gecko/20100101 Firefox/57.2b
+Mozilla/5.0 (X11; Gentoo; rv:57.1) Gecko/20100101 Firefox/57.1
+Opera/9.80 (X11; U; ru)
+Opera/7.50 (X11; U; nb)
+Opera/6.11 (X11; U; tr)
+Opera/8.52 (X11; U; hu)
+Mozilla/5.0 (X11; Chrome i686; rv:53.0) Gecko/20100101 Firefox/53.0
+Opera/10.50 (X11; U; de)
+Mozilla/5.0 (X11; CheckerOS; CheckerOS x86_64; rv:81.0) Gecko/20190331 Firefox/89.0
+Mozilla/5.0 (X11; GNU i686-AT386; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Opera/7.11 (X11; U; nn)
+Opera/5.11 (X11; U; la)
+Mozilla/5.0 (X11; Gentoo; rv:49.0) Gecko/20100101 Firefox/49.0
+Opera/5.02 (X11; U; ru)
+Opera 9.99  Opera/9.99 (X11; U; sk)
+5LRHfJrZ (X117 NT 77.10; Win811; x1113; rv:135.3) Zerbd4LO31 W9GPl9C9vi R29ZeAn49x T81RX96b4QZgyf eR9BX5jpAsCrO Og9Gxhd4m qZGmZLS9gTn9v Opera/12.10 Firefox/5610281177 U1q9AWFrRYXG99 jZb3Z9dQZ896Ggs
+Opera/9.00 (X11; U; en)
+Opera/7.54 (X11; U; fi)
+Opera/7.22 (X11; U; hu)
+Mozilla/5.0 (X11; U; DragonFly i386; de; rv:1.9.1) Gecko/20190720 Firefox/69.0
+Opera/6.11 (X11; U; sk)
+Opera/8.52 (X11; U; bg)
+Opera/5.11 (X11; U; cn)
+Mozilla/5..0;(X11; ))Safari
+Opera/9.60 (X11; U; en)
+Mozilla/5.0 (X11; Unix x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+Opera/7.53 (X11; U; nb)
+Mozilla/5.0 (X11; LinuGecko/20120502 Firefox/12.0 SeaMonkey/2.9.1x i686; rv:12.0)
+Mozilla/5.0 (compatible; Konqueror/4.5; NetBSD 5.0.2; X11; amd64; en_US) KHTML/4.5.4 (like Gecko) slurp slurp
+Mozilla/5.0 (X11; LGE-ActiveDP/0.9 x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+Opera/9.27 (X11; U; it)
+Opera/7.21 (X11; U; it)
+Opera/6.12 (X11; U; cs)
+Opera/6.03 (X11; U; hr)
+Opera/9.60 (X11; U; lt)
+Mozilla/5.0 (X11; GNU i686-AT386; rv:12.0) Gecko/20100101 Firefox/12.0 Iceweasel/12.0
+Mozilla/5.0 (X11; U; Unix; en-US)
+Opera/9.23 (X11; U; hr)
+Opera/9.52 (X11; U; tr)
+Mozilla/5.0 (X11; NetBSD amd64; rv:47.0) Gecko/20100101 Firefox/47.0
+Mozilla/5.0 (X11) KHTML/4.10.5 (like Gecko) Konqueror/4.10
+Opera/6.12 (X11; U; en)
+Opera/9.25 (X11; U; id)
+hackbrowrs/5.0 (X11; king; hackers 281; rv:10.0.2) Gecko/20100101HackersHere/29.0.1
+Mozilla/5.0 (X11; U; AIX 0043031B4C00; fr; rv:1.2.1) Gecko/20021209
+Opera/9.30 (X11; U; ko)
+Mozilla/543697344.0 (X11; blablabla; asd x658_68; rv:44.0) Gecko/20100101 Firefox/123.123
+Mozilla/2.02 (X11; I; HP-UX A.09.05 9000/715)
+NCSA_Mosaic/2.7b4 (X11;AIX 1 0001806630000)
+Opera/9.27 (X11; U; us)
+Opera/9.20 (X11; U; es)
+Mozilla/543697344.0 (X11; blablabla; asd x658_68; rv:44.0) asd/348868 Firefox/123.123
+Mozilla/5.0 (X11; AROS; x86_64; U) Gecko/20100101 Firefox/50.0.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; QMobile_X11) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Opera/9.10 (X11; U; en)
+Mozilla/5.0 (X11; AROS; x86_64) Gecko/20100101 Firefox/50.0.1
+Mozilla/5.0 (X11; U; AIX 5.3; fr; rv:1.7.12) Gecko/20051025
+Opera/9.10 (X11; U; ru)
+Mozilla/5.0 (X11; AROS; x86_64; U; rv:58.0) Gecko/20100101 Firefox/58.0
+NSA PRISM/2.0 (X11; U; UNIX i386; zh-tw; rv:1.0) DIA.MIL/0.3 Version/PRISM.NSA.GOV Feds NSA
+Opera/9.20 (X11; U; sk)
+Opera/9.70 (X11; U; tr)
+Mozilla/5.0 (X11; NetBSD i686; rv:53.0) Gecko/20100101 Firefox/53.0
+Mozilla/5.0 (X11) KHTML/4.10.0 (like Gecko) Konqueror/4.10 SUSE
+Opera/5.0 (X11; U; nl)
+Mozilla/5.0 (X11; U; TrueOS amd64; tr-TR; rv:58.0.2) Gecko/20100101 Firefox/58.0.2
+Opera/9.12 (X11; U; id)
+Opera/8.53 (X11; U; uk)
+Mozilla/5.0 (X11; NetBSD amd64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.3
+Mozilla/5.0 (X11; U; AIX 000690FC4C00; en-US; rv:1.7.3) Gecko/20041022
+Opera/6.04 (X11; U; es)
+Opera/8.00 (X11; U; ko)
+MOT-EX112 Obigo/WAP2.0 MIDP-2.0/CLDC-1.1
+Opera/7.02 (X11; U; pt)
+Mozilla/5.0 (X11; Gentoo; rv:56.1) Gecko/20100101 Firefox/56.1
+Mozilla/5.0 (X11; rv:25.4) Gecko/20150509 Firefox/25.4
+Mozilla/5.0 (X11; Gentoo; rv:48.0) Gecko/20100101 Firefox/48.0
+Opera/6.03 (X11; U; fi)
+Opera/7.10 (X11; U; tr)
+Opera/9.99 (X11; U; nb)
+Opera/7.03 (X11; U; da)
+Opera/8.10 (X11; U; es)
+Opera/9.23 (X11; U; tw)
+Mozilla/5.0 (X11; NetBSD i686; rv:55.2) Gecko/20100101 Firefox/55.2
+Mozilla/5.0 (ChoX11; U; RISC OS; en-US; rv:1.8.1.20) Gecko/20090803 BonEcho/2.0.0.20
+Opera/8.51 (X11; U; es)
+Mozilla/5.0 (X11; NetBSD i686; rv:52.0) Gecko/20100101 Firefox/52.0
+Mozilla/5.0 (X11; Gentoo; rv:47.0) Gecko/20100101 Firefox/47.0
+Opera/9.64 (X11; U; us)
+Mozilla/5.0 (X11; DragonFly x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+Mozilla/5.0 (X11; Gentoo; rv:48.3) Gecko/20100101 Firefox/48.3
+Opera/9.23 (X11; U; id)

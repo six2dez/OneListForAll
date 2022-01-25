@@ -1,0 +1,2 @@
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HTC Desire 816G dual sim Build/KOT49H) AppleWebKit/534.30 (KHTML,like Gecko) Version/4.0 UCBrowser/10.6.0.586 U3/0.8.0 Mobile Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; HTC_Desire_816G_dual_sim) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile

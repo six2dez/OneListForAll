@@ -1,0 +1,4 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; HTC_Desire_620G_dual_sim) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; HTC_Desire_620G_dual_sim) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; HTC_Desire_620G_dual_sim) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; HTC_Desire_620G_dual_sim) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
