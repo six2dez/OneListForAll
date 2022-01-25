@@ -35,3 +35,4 @@ xml xml
 nginx nginx
 bypass bypass
 joomla joomla
+subdomains subdomain
