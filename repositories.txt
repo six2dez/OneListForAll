@@ -1,2 +1,3 @@
 https://github.com/1N3/IntruderPayloads.git
 https://github.com/swisskyrepo/PayloadsAllTheThings.git
+https://github.com/danielmiessler/SecLists.git

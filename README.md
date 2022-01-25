@@ -62,3 +62,4 @@ ffuf -c -w automatic/wordpress_short.txt -u [target.com]/FUZZ
 
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads.git)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings.git)
+- [SecLists](https://github.com/danielmiessler/SecLists.git)
