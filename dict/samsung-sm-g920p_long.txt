@@ -1,0 +1,5 @@
+Callpod Keeper for Android 1.0 (10.3.1/246) Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G920P Build/NRD90M)
+Mozilla/5.0 (Android; Mobile; SM-G920P; rv:32.0) Gecko/32.0 Firefox/32.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G920P Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-G920P Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G920P Build/MMB29K)

@@ -1,0 +1,5 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5250) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5250) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; Nokia5250) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+Nokia5250/UC Browser7.0.0.41/50/351
+Mozilla/5.0 (S60V5; U; en-us; Nokia5250)/UC Browser8.2.0.132/50/355/UCWEB Mobile

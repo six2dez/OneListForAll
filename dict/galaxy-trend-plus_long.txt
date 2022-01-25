@@ -1,0 +1,6 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-S7580 Build/JDQ39)
+UCWEB/2.0 (Linux; U; Adr 4.2.2; en-US; GT-S7580) U2/1.0.0 UCBrowser/9.3.1.344 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; es-LA; GT-S7580L) U2/1.0.0 UCBrowser/10.1.5.583 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-S7580) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-S7580) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-S7580) U2/1.0.0 UCBrowser/10.1.5.583 U2/1.0.0 Mobile

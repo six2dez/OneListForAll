@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; LG-D325) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; LG-D325 Build/KOT49I.A1394044271) U2/1.0.0 UCBrowser/10.3.0.552 Mobile

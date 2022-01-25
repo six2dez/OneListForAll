@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-N7105 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N7105 Build/KOT49H)

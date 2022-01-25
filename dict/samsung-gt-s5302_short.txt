@@ -1,0 +1,6 @@
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5302) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5302) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+Mozilla/5.0+(Linux;+U;+Android+2.3.6;+bg-bg;+GT-S5302+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S5302) U2/1.0.0 UCBrowser/8.9.2.373 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5302) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-S5302) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile

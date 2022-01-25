@@ -1,0 +1,13 @@
+Callpod Keeper for Android 1.0 (10.2.1/243) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SAMSUNG-SM-N910A Build/KTU84P)
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.1.0/239) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X)
+Callpod Keeper for Android 1.0 (10.4.3/255) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X)
+Callpod Keeper for Android 1.0 (10.5.8/273) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-N910A Build/MMB29M)
+Callpod Keeper for Android 1.0 (10.5.8/273) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X)
+Callpod Keeper for Android 1.0 (10.5.0/264) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X)
+Callpod Keeper for Android 1.0 (10.6.1/278) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.6.0/277) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-N910A Build/MMB29M)
+Callpod Keeper for Android 1.0 (10.4.5/257) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SAMSUNG-SM-N910A) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile

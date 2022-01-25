@@ -1,0 +1,119 @@
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0C; .NET4.0E; Sleipnir/2.9.9)
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36 Sleipnir/4.3.4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/2.9.9)
+Sleipnir
+Sleipnir/2.xx
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; Sleipnir/2.8.5)
+Sleipnir Version 1.xx
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en; rv:1.9.2.24) Gecko/20111115 Firefox/3.6.24 Sleipnir/3.0.10
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en; rv:1.9.2.27) Gecko/20120229 Firefox/3.6.27 Sleipnir/3.0.17
+Sleipnir/4.5.3 CFNetwork/760.6.3 Darwin/15.6.0 (x86_64)
+Sleipnir/4.5.3 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0;NOKIA;Lumia 610; SleipnirMobile)
+Sleipnir/4.5.1 CFNetwork/673.4 Darwin/13.2.0 (x86_64) (MacBookPro7%2C1)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; WOW64; Trident/7.0; Sleipnir6/6.2.9; SleipnirSiteUpdates/6.2.9)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.2.24) Gecko/20111115 Firefox/3.6.24 Sleipnir/3.0.9
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/3.0.10)
+Sleipnir/4.5.4.5 CFNetwork/807.2.14 Darwin/16.3.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/3.0.17)
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0; Sleipnir/2.9.19) like Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727) Sleipnir/2.8.4
+Sleipnir/4.5.1 CFNetwork/673.3 Darwin/13.2.0 (x86_64) (MacBookPro11%2C1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/3.0.16)
+Sleipnir%20Browser/4.5.1 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook4%2C1)
+Sleipnir/4.5.1 CFNetwork/673.3 Darwin/13.3.0 (x86_64) (MacBookPro6%2C2)
+Apple/12.0 (iPod; iOS 12.0 beta like macOS High Sierra) WebKit/604.1.31 (unlike Blink especially Chrome) Safari/604.1.31 Sleipnir/4.3.5m
+Sleipnir/4.5.2 CFNetwork/760.2.6 Darwin/15.3.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; Sleipnir/3.0.17)
+Sleipnir/4.5.1 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; Sleipnir/3.8.1)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; WOW64; Trident/7.0; Sleipnir6/6.2.4; SleipnirSiteUpdates/6.2.4)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.9.9)
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0; Sleipnir/2.9.19) like Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; HPNTDF; .NET4.0C; Sleipnir/2.9.17)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; Sleipnir/2.9.16)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; NP06; Sleipnir/4.3.9)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Sleipnir/3.0.17)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; Sleipnir5/5.2.0)
+Sleipnir%20Browser/4.5.1 CFNetwork/520.5.1 Darwin/11.4.2 (x86_64) (MacBookPro8%2C2)
+Sleipnir/4.5.3 CFNetwork/807.0.3 Darwin/16.0.0 (x86_64)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Sleipnir/2.9.19)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Sleipnir/3.9.1)
+Sleipnir/4.5.8019 CFNetwork/811.5.4 Darwin/16.7.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; YTB730; Sleipnir/2.9.8)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; NP09; NP09; MAAU; Sleipnir/2.9.9)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Sleipnir/4.3.2)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.2.27) Gecko/20120229 Firefox/3.6.27 (.NET CLR 3.5.30729) Sleipnir/3.0.13
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Sleipnir/2.9.18)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; Sleipnir/3.0.9)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/4.1.1)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/3.0.10)
+Sleipnir/4.5.3 CFNetwork/807.0.1 Darwin/16.0.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 10.0; WOW64; Trident/7.0; Sleipnir6/6.3.1; SleipnirSiteUpdates/6.3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Sleipnir/3.0.10)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; SleipnirSiteUpdates/6.1.6) like Gecko
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0; SleipnirSiteUpdates/6.1.6) like Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Sleipnir6/6.2.4; SleipnirSiteUpdates/6.2.4)
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; SleipnirSiteUpdates/6.1.7) like Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; MathPlayer 2.10d; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; OfficeLivePatch.1.3; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 1.1.4322) Sleipnir/2.8.4
+"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648) Sleipnir/2.7.0"
+Sleipnir/4.5.2 CFNetwork/802.1 Darwin/16.0.0 (x86_64)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Sleipnir/2.9.10)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0; Sleipnir/4.3.9) like Gecko
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; MAMIJS; rv:11.0; Sleipnir/2.9.19) like Gecko
+Sleipnir/4.5.5012 CFNetwork/673.6 Darwin/13.4.0 (x86_64) (iMac12%2C1)
+Sleipnir/4.5.1 CFNetwork/673.3 Darwin/13.3.0 (x86_64) (MacBookAir5%2C2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; Sleipnir/2.9.6)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS99958; .NET4.0C; .NET CLR 2.0.50727; .NET4.0E; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/4.3.2)
+"Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; Sleipnir/2.9.4)"
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Sleipnir6/6.1.6; SleipnirSiteUpdates/6.1.6)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/3.0.15)
+Mozilla/5.0 (iPod; CPU iPhone OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10A403 Safari/7534.48.3 Sleipnir/2.1.2m
+Sleipnir/4.5.2 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+Sleipnir/4.5.1 CFNetwork/673.4 Darwin/13.1.0 (x86_64) (MacBookPro9%2C1)
+Mozilla/4.0 (compatible; Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) Sleipnir/2.6.0; Windows NT 5.1; Trident/4.0)
+Sleipnir%20Browser/4.5.1 CFNetwork/720.3.13 Darwin/14.3.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0) Sleipnir/2.7.2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0;SAMSUNG;SGH-i917; SleipnirMobile)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET4.0C; .NET4.0E; Sleipnir/4.5.10)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E) Sleipnir/2.47
+Sleipnir%20Browser/4.5.1 CFNetwork/760.1.2 Darwin/15.0.0 (x86_64)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; ASU2JS; Sleipnir/2.9.17)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Sleipnir/2.9.18)
+Sleipnir%20Browser/4.5.1 CFNetwork/673.3 Darwin/13.4.0 (x86_64) (MacBookPro5%2C5)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; SleipnirSiteUpdates/6.1.10) like Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB0.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; Sleipnir/2.9.6)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Trident/8.0; Sleipnir6/6.2.14; SleipnirSiteUpdates/6.2.14)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; FunWebProducts; Sleipnir/3.0.12)
+Mozilla/4.0 (compatible; MSIE 9.1; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Sleipnir/2.9.1)
+Sleipnir/4.5.9020 CFNetwork/897.15 Darwin/17.5.0 (x86_64)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0;   WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;   Sleipnir/2.9.4)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; Sleipnir/2.9.18)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 8.0 (build 6017); .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; Sleipnir/4.5.4)
+Sleipnir%20Browser/4.5.1 CFNetwork/673.3 Darwin/13.3.0 (x86_64) (MacBookAir6%2C2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; Sleipnir/2.9.17)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; Sleipnir/2.9.17)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MAMI; Sleipnir/3.0.17)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; Sleipnir/2.9.19)
+Sleipnir%20Browser/4.5.1 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+Sleipnir/4.5.1 CFNetwork/673.6 Darwin/13.4.0 (x86_64) (MacBookPro8%2C1)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; WOW64; Trident/7.0; LCTE; Sleipnir6/6.2.10; SleipnirSiteUpdates/6.2.10)
+Sleipnir/4.5.4.5 CFNetwork/811.4.8 Darwin/16.5.0 (x86_64)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; SleipnirSiteUpdates/6.2.4) like Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; Sleipnir/2.9.17)
+Sleipnir%20Browser/4.5.1 CFNetwork/760.2.6 Darwin/15.3.0 (x86_64)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Sleipnir/3.0.17)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Sleipnir/2.9.16)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS129225; .NET CLR 2.0.50727; .NET CLR 3.5.21022; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.9.17)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Sleipnir/2.9.7)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; Sleipnir/3.8.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; Sleipnir/2.9.2)
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0; Sleipnir/4.5.10) like Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; Sleipnir/2.9.1)
+Sleipnir/4.5.1 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook1%2C1)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.27) Gecko/20120229 Firefox/3.6.27 Sleipnir/3.0.17
+Sleipnir%20Browser/4.5.1 CFNetwork/720.0.9 Darwin/14.0.0 (x86_64)
+Mozilla/5.0 (iPad; CPU OS 51 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Mobile/9B176 Safari/7534.48.3 Sleipnir/1.9.2m
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Tablet PC 2.0) Sleipnir/2.8.3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Sleipnir/2.9.15)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; Sleipnir/4.5.9) like Gecko

@@ -1,0 +1,20 @@
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J320F
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/AndroidSampleApp;FBAV/148.0.051.62;FBLC/en_GB;FBBV/14274161;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=1080,height=1920};FB_FW/1;]
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-J320F) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; ru; SM-J320F) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-G900F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/lycamobile LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/lycamobile LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/lycamobile LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBDV/SM-J320F;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBDV/SM-J320F;]
+Mozilla/5.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBDV/SM-J320F;]
+Dalvik/1.6.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/AndroidSampleApp;FBAV/17.0.0.1.16;FBLC/en_US;FBBV/4084560;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=800,height=1216};FB_FW/1;]
+Mozilla/5.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/AndroidSampleApp;FBAV/17.0.0.1.16;FBLC/en_US;FBBV/4084560;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=800,height=1216};FB_FW/1;]
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-J320F) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-J320F) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile

@@ -1,0 +1,7 @@
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0; GomezAgent 3.0) Gecko/20100101 Firefox/24.0
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0; GomezAgent 3.0) like Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GomezAgent 3.0)
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0; GomezAgent 3.0) like Gecko
+UCWEB/2.0 (iOS; U; iPad OS 7_0_6; en-US; iPad3,3; GomezAgent 3.0) U2/1.0.0 UCBrowser/9.0.0.260 U2/1.0.0 Mobile
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0; GomezAgent 3.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; GomezAgent 3.0)

@@ -1,0 +1,4 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-I9100G) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-I9100G) U2/1.0.0 UCBrowser/9.0.1.379 U2/1.0.0 Mobile
+Mozilla/5.0(Linux;U;Android4.0.3;Zh_cn;GT-I9100G;480*800;)AppleWebKit/528.5+ (KHTML) Version/3.1.2/UCWEB7.8.0.95/139/444
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I9100G) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

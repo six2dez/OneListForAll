@@ -1,0 +1,5 @@
+NokiaN97 mini/UCWEB8.9.0.253/50/999
+NokiaN97/GoBrowser
+UCWEB/2.0 (Symbian; U; S60 V5; id; NokiaN97 mini) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; id; NokiaN97) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; id; NokiaN97) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile

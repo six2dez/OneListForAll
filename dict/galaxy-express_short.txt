@@ -1,0 +1,1 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I8730T Build/JZO54K)

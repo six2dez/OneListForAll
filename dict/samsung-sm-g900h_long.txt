@@ -1,0 +1,6 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G900H Build/LRX21T)
+SM-G900H/V1 Linux/3.4.39 Android/4.4.2 Release/08.23.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.2
+SM-G900H/V1 Linux/3.4.39 Android/4.4.4 Release/09.20.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.4
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; id; SM-G900H) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+SM-G900H/V1 Linux/3.4.39 Android/4.4.4 Release/12.18.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.4
+SM-G900H/V1 Linux/3.4.39 Android/4.4.2 Release/07.26.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.2

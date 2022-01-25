@@ -1,0 +1,5 @@
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaN97-1) U2/1.0.0 UCBrowser/9.3.0.326 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+NokiaN97-1/3.0545.5.1 Series60/2.8 Profile/MIDP-1.0 Configuration/CLDC-1.1
+NokiaN97-1/3.0545.5.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS 9.4; Series60/5.0 NokiaN97-1/10.0.012
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaN97-1) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile UNTRUSTED/1.0

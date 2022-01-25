@@ -1,0 +1,3 @@
+NOKIAN82 UCWEB
+UCWEB/2.0 (Symbian; U; S60 V3; id; NOKIAN82) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+Mozilla/5.0 (Java; U; en-us; nokian82) UCBrowser8.2.0.132/69/452/UCWEB Mobile UNTRUSTED/1.0

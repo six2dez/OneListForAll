@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-J110F Build/KTU84P)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-J110F) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile

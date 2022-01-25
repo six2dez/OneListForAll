@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-N900W8 Build/KOT49H)
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-N900W8 Build/LRX21V)

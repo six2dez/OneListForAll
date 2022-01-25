@@ -1,0 +1,15 @@
+Mozilla/5.0 (Android; Mobile; Galaxy Nexus; rv:13.0) Gecko13.0 Firefox/13.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.1; Galaxy Nexus Build/JOP40D)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; Galaxy Nexus Build/JDQ39)
+Mozilla/5.0 (Linux; U; Android 4.2.1; oc-FR; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.2.1; hu-hu; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30
+Dalvik/1.6.0 (Linux; U; Android 4.3; Galaxy Nexus Build/JWR66Y)
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-US; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) Gecko/20100101 Firefox/25.0
+Mozilla/5.0 (Mobile; Galaxy Nexus ; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Mobile; Galaxy Nexus ; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-CA; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; Galaxy Nexus Build/JDQ39) Chrome/58.0.3029.110
+Mozilla/5.0 (Android 4.0.3; Mobile; Galaxy Nexus; rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B)
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-FR; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

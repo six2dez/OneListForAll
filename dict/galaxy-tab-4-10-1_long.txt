@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T530 Build/LRX22G)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T530 Build/KOT49H)

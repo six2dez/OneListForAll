@@ -1,0 +1,7 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-N900V Build/LRX21V)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-N900V Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-N900V Build/KTU84P)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SM-N900V Build/JSS15J)
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy Note III/SM-N900V) Gecko/20100101 Firefox/47.0.1
+AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; SM-N900V Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-N900V) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile

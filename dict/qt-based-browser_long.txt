@@ -1,0 +1,8 @@
+Mozilla/5.0(QtEmbedded; U; Linuxl C) Apple Webkit 533.3(KHTML like Gecko) Mag 200 stbapp ver: 3 rev: 656 Mobile Safari 533.3
+Mozilla/5.0 (Linux mips; U;HbbTV/1.1.1 (+RTSP;Dream Property GmbH;Dreambox;0.1a;1.0;) CE-HTML/1.0; en) AppleWebKit/535.19 no/Volksbox QtWebkit/2.2
+Mozilla/5.0+(QtEmbedded;+U;+Linux;+ru-RU;+ID={3efc2986-66f4-4d8c-9e3c-f4f81c8146b7};+V=1.8 20130407;+SID=)+AppleWebKit/533.3+(KHTML,+like+Gecko,+Safari/533.3)+GALAXY+web_browser
+Mozilla/5.0+(X11;+Linux)+X2G_4.8.4_534.34_010_01.01.00+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Version/534.34+Safari/534.34
+Mozilla/5.0+(QtEmbedded;+U;+Linux;+ru-RU;+ID={8ea395c5-5d7f-47c3-b275-6732ac166cf4};+V=1.8 20131030;+SID=)+AppleWebKit/533.3+(KHTML,+like+Gecko,+Safari/533.3)+GALAXY+web_browser
+Mozilla/5.0+(QtEmbedded;+U;+Linux;+ru-RU;+ID={89837b3b-7a9e-4e58-a3f9-de8553e18a22};+V=1.7 20120913;+SID=)+AppleWebKit/533.3+(KHTML,+like+Gecko,+Safari/533.3)+GALAXY+web_browser
+Qt-Creator/2.5.0 (QNetworkAccessManager 4.8.3; Linux 3.2.0-27-generic; ru_RU; 64 bit)
+Mozilla/5.0 (Linux) Qt/4.8.5

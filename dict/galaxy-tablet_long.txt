@@ -1,0 +1,8 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5113 Build/JDQ39)
+Dalvik/1.5.1 (Linux; U; Android 3.1; GT-P7510 Build/HMJ37)
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-P7510 Build/IMM76D)
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-P5113 Build/JRO03C)
+Dalvik/1.5.1 (Linux; U; Android 3.2; GT-P7500 Build/HTJ85B)
+Dalvik/1.6.0 (Linux; U; Android 4.2.1; GT-P7510 Build/JOP40D)
+UCWEB/2.0 (MIDP-2.0; U; Adr 3.2; en-US; GT-P7500) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 3.1; en-US; GT-P7500) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile

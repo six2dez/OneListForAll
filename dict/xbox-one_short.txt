@@ -1,0 +1,18 @@
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; Xbox; Xbox One)
+Mozilla/5.0(compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One)
+Mozilla / 5.0(compatible; MSIE 10.0; Windows NT 6.2; Trident / 6.0; Xbox; Xbox One)
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Trident/7.0; Xbox; Xbox One)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One; Trident/7.0)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0;   Xbox; Xbox One)
+Mozilla/5.0 (Xbox; Xbox One) Gecko/20101104 Netscape/9.1.0285
+Xbox One :)
+Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML
+Mozilla5.1 (Xbox;Xbox One; x32;Win32)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (Xbox; Xbox One)) Gecko/20101104 Netscape/9.1.0285
+Xbox One
+Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Xbox; Xbox One) Trident/8.0 (Compatible; MSIE 12.0; rv:12.0; Chrome/98.0.7029.110 Mobile Safari/942.76 Edge/86.23518; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Microsoft Surface; Xbox; Xbox One) Trident/8.0 (Compatible; MSIE 12.0; rv:12.0; Chrome/98.0.7029.110 Mobile Safari/942.76 Edge/86.23518; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Trident/7.0; Xbox; Xbox One X)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/10.0; Xbox; Xbox One)

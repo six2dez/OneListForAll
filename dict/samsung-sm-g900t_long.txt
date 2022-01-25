@@ -1,0 +1,6 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G900T Build/KOT49H)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G900T Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G900T Build/MMB29M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4; id; SM-G900T) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/537.36 (KHTML,
+OperaMini/7.1 (Linux; SM-G900T)

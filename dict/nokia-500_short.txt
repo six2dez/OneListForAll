@@ -1,0 +1,16 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia500) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+nokia500/UC Browser7.4.0.65/69/351 UNTRUSTED/1.0 3gpp-gba
+Nokia500
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; Nokia500) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia500) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; Nokia500) U2/1.0.0 UCBrowser/9.3.0.326 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V5; ru; Nokia500) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokia500) U2/1.0.0 UCBrowser/8.7.0.218 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia500) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; en-US; Nokia500) U2/1.0.0 UCBrowser/8.8.0.245 U2/1.0.0
+UCWEB/2.0 (Java; U; MIDP-2.0; ru; Nokia500) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; Nokia500) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokia500) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Java; U; MIDP-2.0; hi; Nokia500) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0(Symbian; U; S60 V5; en-US; Nokia500) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile
+Mozilla/5.0 (S60V5; U; vi; Nokia500)/UC Browser8.5.0.183/50/352/UCWEB Mobile

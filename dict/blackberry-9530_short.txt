@@ -1,0 +1,5 @@
+BlackBerry9530/4.7.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 UP.Link/6.3.1.20.0
+BlackBerry9530/5.0.0.419 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9530/4.7.0.76 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/126
+BlackBerry9530/4.7.0.148 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105
+BlackBerry9530/5.0.0.797 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/105

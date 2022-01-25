@@ -1,0 +1,3 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G360T1 Build/LMY47X)
+AndroidDownloadManager/5.1.1 (Linux; U; Android 5.1.1; SM-G360T1 Build/LMY47X)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-G360T1) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile

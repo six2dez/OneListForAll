@@ -1,0 +1,11 @@
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; ONEPLUS A5000 Build/OPM1.171019.011)
+Dalvik/1.5.1 (Linux; U; Android 3.2.1; A500 Build/HTK55D)
+Dalvik/2.0.0 (Linux; U; Android 4.4.4; A500 Build/KTU84P)
+Mozilla/5.0 (Linux; U; Android 3.0.1; en-us; A500 Build/HRI66) AppleWebKit/534.13 (KHTML
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; A500s) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; A500CG) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; en-US; A500) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; A500 Club Build/JDQ39) U2/1.0.0 UCBrowser/10.3.0.552 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; A500s) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; ONEPLUS A5000 Build/OPR1.170623.032)
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; A500s Build/JDQ39) U2/1.0.0 UCBrowser/10.5.2.582 Mobile

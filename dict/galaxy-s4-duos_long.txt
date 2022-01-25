@@ -1,0 +1,5 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9502 Build/JDQ39)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.1; en-US; GT-I9502) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; zh-CN; GT-I9502) U2/1.0.0 UCBrowser/9.9.7.500  U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9502) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; zh-CN; GT-I9508V) U2/1.0.0 UCBrowser/9.9.5.489  U2/1.0.0 Mobile

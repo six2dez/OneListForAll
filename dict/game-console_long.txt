@@ -1,0 +1,94 @@
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Xbox)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One)
+Opera/9.30 (Nintendo Wii; U; ; 3642; en)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; en)
+Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Mozilla/5.0 (PLAYSTATION 3; 2.00)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; Xbox; Xbox One)
+Mozilla/5.0 (PLAYSTATION 3; 1.00)
+Opera/9.30 (Nintendo Wii; U; ; 3642; es-ES)
+Opera/9.10 (Nintendo Wii; U; ; 1621; en)
+Opera/9.30 (Nintendo Wii; U; ; 3642; fr)
+Mozilla/5.0(compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One)
+Mozilla/5.0 (PLAYSTATION 3; 1.10)
+Mozilla / 5.0(compatible; MSIE 10.0; Windows NT 6.2; Trident / 6.0; Xbox; Xbox One)
+Opera/9.30 (Nintendo Wii; U; ; 3642; en) b
+Mozilla/5.0(compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Xbox)
+Mozilla/5.0 (PLAYSTATION 3 2.00)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; de)
+Mozilla/4.0 (PS3 (PlayStation 3); 1.00)
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Trident/7.0; Xbox; Xbox One)
+Opera/9.30 (Nintendo Wii; U; ; 3642; it)
+Opera/9.10 (Nintendo Wii; U; ; 1621; ja)
+Mozilla/5.0 (PlayStation 4 5.55) AppleWebKit/601.2(KHTML,like Gecko)
+Opera/9.23 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)
+Opera/9.30 (Nintendo Wii; U; ; 2071; Wii Shop Channel/1.0; en)
+Opera/9.30 (Nintendo Wii; U; ; 3642; de)
+Mozilla/5.0 (PlayStation 4 4.70)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One; Trident/7.0)
+Opera/9.00 (Nintendo Wii; U; ; 1309-9; en)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; es-Es)
+Mozilla/5.0 (PLAYSTATION 3; 1.0)
+LinksBoks/0.99 (Xbox; d3dx)
+Opera/9.30 (Nintendo Wii; U; ; 3642; nl)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7;en)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0;   Xbox; Xbox One)
+Mozilla/5.0 (PLAYSTATION 3; 1.70)
+Xbox Live Client/2.0.16202.0
+XBMC/3.3-DEV-r31572 (Xbox; http://www.xbmc.org)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; fr)
+Mozilla/5.0 (PLAYSTATION 3; 1.5)
+Mozilla/4.0 (compatible; MSIE 2.0 XB360; Xbox 360 Dashboard 12.6435761; WOW64; Trident/4.0)
+Opera/9.30 (Nintendo Wii; U; ; 3642; en) b"
+Opera/9.30 (Nintendo Wii; U; ; 2047-7;pt-br)
+Mozilla/5.0 (Xbox; Xbox One) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (compatible; MSIE 9.0; Trident/5.0; Xbox) Gecko/20101104 Netscape/9.1.0285
+Xbox One :)
+wii libnup/1.0 (PLAYSTATION 3; 1.0)
+Opera/9.00 (Nintendo Wii; U; ; 1038-58; Internet Channel/1.0; en)
+Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Xbox; Xbox One) AppleWebKit/537.36 (KHTML
+Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73
+Mozilla/5.0 (PLAYSTATION 3; 1.90)
+Opera/9.30 (Nintendo Wii; U; ; 2077-4; Wii Shop Channel/21.0(A); en)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0; Xbox)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/7.0; Xbox)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7;es)
+Nintendo Wii
+Mozilla/5.0 (PlayStation 4 4.71)
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10.5; FPR2; rv:45.0) Gecko/20100101 NewFoxBox/1.0.1 TenFourFox/G5
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/5.0; Xbox)
+Mozilla/5.0 (PlayStation 4 Pro 5.0)
+Mozilla5.1 (Xbox;Xbox One; x32;Win32)
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1; Trident/7.0; Xbox)
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1; Trident/5.0; Xbox)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;   Xbox)
+Mozilla/5.0 (compatible; PlayStation 4; +	http://www.us.playstation.com/PS4)
+Mozilla/5.0 (PLAYSTATION 3; 3.55; Windows 98)
+Mozilla/5.0 (PlayStation 4.0) AppleWebKit/537.73 (KHTML like Gecko)
+Mozilla / 5.0(compatible; MSIE 9.0; Windows NT 6.1; Trident / 5.0; Xbox)
+Mozilla/5.0 (PlayStation 4 5.78) AppleWebKit/601.2 (Sony Development; KHTML; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (PlayStation 4 5.78) Microsoft Edge 43.19352.3 (Sony Development; KHTML; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (Xbox; Xbox One)) Gecko/20101104 Netscape/9.1.0285
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Xbox) Gecko/20101104 Netscape/9.1.0285
+MassiveAdClient/5.2.523.0 (Xbox360; Retail)
+Xbox One
+Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Shop Channel/1.0; en)
+Mozilla / 5.0(compatible; MSIE 9.0; Windows NT 6.1; Trident / 5.0; Xbox
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Xbox; Trident/6.0; Touch)
+Mozilla/5.0 (PLAYSTATION 3; 4.66)
+Mozilla/5.0 (Windows; ; Windows NT 5.1; rv:1.9.1.2) Gecko/20090729 Mozilla/5.0 (PLAYSTATION 3; 3.55)
+Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en
+Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Xbox; Xbox One) Trident/8.0 (Compatible; MSIE 12.0; rv:12.0; Chrome/98.0.7029.110 Mobile Safari/942.76 Edge/86.23518; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Microsoft Surface; Xbox; Xbox One) Trident/8.0 (Compatible; MSIE 12.0; rv:12.0; Chrome/98.0.7029.110 Mobile Safari/942.76 Edge/86.23518; Trident/7.0; Touch; rv:11.0) like Gecko
+Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)
+Opera/9.30 (Nintendo Wii; U; ; 2071; Wii Shop Channel/13.0(A); en)
+Opera/9.30 (Nintendo Wii; U; ; 1309-9; en)
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Trident/7.0; Xbox; Xbox One X)
+Mozilla/5.0(compatible;MSIE9.0;WindowsNT6.1;Trident/5.0;Xbox)
+Opera/9.30 (Nintendo Wii; U; ; 3642; ja)
+Xbox 360
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/10.0; Xbox; Xbox One)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.1; Xbox)
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10.4; FPR2; rv:45.0) Gecko/20100101 NewFoxBox/1.0.1 TenFourFox/G5

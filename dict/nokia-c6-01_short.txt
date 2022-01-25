@@ -1,0 +1,4 @@
+UCWEB/2.0(Java; U; MIDP-2.0; ar-sa; nokiac6-01) U2/1.0.0 UCBrowser/8.7.1.234 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC6-01) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+OneBrowser/3.1 (NokiaC6-01/111.030.0610/sw_platform=S60;sw_platform_version=5.3;java_build_version=2.3.24)
+NokiaC6-01

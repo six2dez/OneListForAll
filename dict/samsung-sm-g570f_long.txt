@@ -1,0 +1,7 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G570F) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-G570F) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G570F Build/NRD90M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-G570F) U2/1.0.0 UCBrowser/11.1.1.1091 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G570F Build/MMB29K) [EdmodoAndroid 9.12.8]
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G570F) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G570F) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile

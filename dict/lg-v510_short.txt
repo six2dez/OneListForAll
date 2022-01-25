@@ -1,0 +1,1 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; LG-V510 Build/KTU84P.L002)

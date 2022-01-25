@@ -1,0 +1,5 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G930V Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G930V Build/R16NW)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G930V Build/MMB29M)
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/53

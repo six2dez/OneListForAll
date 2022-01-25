@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; Mi A1 MIUI/8.1.10)
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Mi A1 MIUI/V9.6.7.0.ODHMIFE)

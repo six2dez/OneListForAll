@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; LGMS631 Build/LMY47V)
+Dalvik/2.1.0 (Linux; U; Android 6.0; LGMS631 Build/MRA58K)

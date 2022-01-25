@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SPH-D710BST Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; SPH-D710BST Build/IMM76I)

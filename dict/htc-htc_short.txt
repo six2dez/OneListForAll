@@ -1,0 +1,2 @@
+Mozilla/5.0 (Linux; Android 6.0.99; HTC HTC Vivid/SGH-T679) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 6.0.1; HTC HTC Vivid/HTC PH39100) Gecko/20100101 Firefox/47.0.1

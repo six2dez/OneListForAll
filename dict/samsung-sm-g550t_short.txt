@@ -1,0 +1,1 @@
+Mozilla/5.0 (Android; Mobile; SM-G550T; rv:32.0) Gecko/32.0 Firefox/32.0

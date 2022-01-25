@@ -1,0 +1,1 @@
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy S/SCH-I500) Gecko/20100101 Firefox/50.1.0

@@ -1,0 +1,13 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; SM-G7102) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G7102 Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-G7102) U2/1.0.0 UCBrowser/9.0.2.389 U2/1.0.0 Ponsel
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G7102) U2/1.0.0 UCBrowser/9.4.1.482 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; SM-G7102) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/10.0.0.556 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/10.5.0.668 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-G7102) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G7102) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile

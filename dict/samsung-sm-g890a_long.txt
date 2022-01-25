@@ -1,0 +1,8 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-G890A Build/NRD90M)
+Callpod Keeper for Android 1.0 (10.0.1/235) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-G890A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-G890A Build/MMB29K)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-G890A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SAMSUNG-SM-G890A Build/LRX22G)
+Callpod Keeper for Android 1.0 (10.3.3/248) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-G890A Build/LMY47X)
+AndroidDownloadManager/5.0.2 (Linux; U; Android 5.0.2; SAMSUNG-SM-G890A Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-G890A Build/NRD90M) [EdmodoAndroid 9.7.0]

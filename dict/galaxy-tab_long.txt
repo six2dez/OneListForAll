@@ -1,0 +1,4 @@
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy Tab/GT-P1000) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-P1000) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-P1000) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+samsung-gt-p1000

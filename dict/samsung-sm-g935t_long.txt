@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G935T Build/MMB29M)
+Instagram 51.0.0.20.85 Android (23/6.0.1; 560dpi; 1440x2560; samsung; SM-G935T; hero2qltetmo; qcom; en_US)

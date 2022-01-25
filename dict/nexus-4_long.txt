@@ -1,0 +1,23 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 4 Build/LMY48T)
+Mozilla/5.0 (Linux; Android 6.0.99; Nexus 4 Build/Nexus 4) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Android; Mobile; Google Nexus 4; rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Android 4.4.2; Mobile; Nexus 4; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 4.4; Mobile; Nexus 4; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Linux; Android 4.2.1; Nexus 4 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+Mozilla/5.0 (Linux; Android 4.2.1; haw-US; Nexus 4 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+Mozilla/5.0 (Android 4.4; Mobile; Samsung Nexus 4; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Mobile Nexus 4; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Linux; Android 4.4.4; LG Nexus 4/Nexus 4) Gecko/20100101 Firefox/50.1.0
+Mozilla/5.0 (Android; Mobile; Nexus 4 rv:31.0) Gecko/31.0 Firefox/31.0
+Mozilla/5.0 (Linux; Android 4.2.1; fr-CA; Nexus 4 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+Mozilla/5.0 (Android; Mobile Nexus 4; rv:34.0) Gecko/34.0 Firefox/34.0
+Mozilla/3.0 (Windows;%*%; Android 8.1; en-us; Nexus 4 Build/JOP44G) AppleWebKit/534.30 (KHTML) Version/1.0 Mobile Mozilla/55.1.2
+Mozilla/5.0 (Linux; Android 4.2.1; fr-FR; Nexus 4 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+Mozilla/5.0 (Android 4.4; Mobile; Nexus 4; rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Android; 4.4; Mobile; Nexus 4;  rv:13.0) Gecko/13.0 Firefox/13.0
+Mozilla/5.0 (Android; 4.4; Mobile; Nexus 4;  rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 4; rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Android 3.1.0; Mobile; Nexus 4; rv:37.0) Gecko/37.0 Firefox/37.0
+Mozilla/5.0 (Android 5.3.0; Mobile; Nexus 4; rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) Gecko/33.0 Firefox/33.0
+Mozilla/5.0 (Android; Nexus 4; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0

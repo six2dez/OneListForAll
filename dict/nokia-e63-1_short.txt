@@ -1,0 +1,13 @@
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaE63-1) U2/1.0.0 UCBrowser/9.4.1.377 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; id; NokiaE63-1) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0
+nokiae63-1/UC Browser7.9.0.102/69/352 UNTRUSTED/1.0
+Mozilla/5.0 (Java; U; Id; nokiae63-1) UCBrowser8.4.0.159/70/352/UCWEB Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaE63-1) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokiae63-1) U2/1.0.0 UCBrowser/8.7.1.234 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; id; nokiae63-1) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; id; NokiaE63-1) U2/1.0.0 UCBrowser/9.4.2.387 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; id; nokiae63-1) U2/1.0.0 UCBrowser/9.0.0.260 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (X11; Linux zbov; U; id; nokiae63-1) U2/8.8.1.252 U3/8.7.1.252 UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaE63-1) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiae63-1) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+nokiae63-1

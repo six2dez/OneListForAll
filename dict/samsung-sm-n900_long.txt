@@ -1,0 +1,6 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-N900 Build/LRX21V)
+UCWEB/2.0 (Linux; U; Adr 5.0; en-US; SM-N900) U2/1.0.0 UCBrowser/8.7.0.315 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0; id; SM-N900) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+AndroidDownloadManager/5.0 (Linux; U; Android 5.0; SM-N900 Build/LRX21V)
+UCWEB/2.0 (MIDP-2.0; U; zh-CN; SM-N900) U2/1.0.0 UCBrowser/3.4.3.532  U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-N900) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile

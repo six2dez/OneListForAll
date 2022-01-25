@@ -1,0 +1,2 @@
+Mozilla/5.0 (*Linux*Android?4.0*GT-I9100T Build/*) AppleWebKit/* (KHTML,*like Gecko*) Version/4.0*Safari*
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I9100T Build/JZO54K)

@@ -1,0 +1,7 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; SM-G318HZ) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-G318HZ) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; SM-G318HZ) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; SM-G318HZ) U2/1.0.0 UCBrowser/10.8.0.930 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; SM-G318HZ) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; SM-G318HZ) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; SM-G318HZ) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile

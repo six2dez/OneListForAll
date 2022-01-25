@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; LGLS676 Build/MXB48T)

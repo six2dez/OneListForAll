@@ -1,0 +1,11 @@
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:63.0) Gecko/63.0 Firefox/63.0

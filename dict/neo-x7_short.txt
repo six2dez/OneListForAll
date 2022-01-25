@@ -1,0 +1,1 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; Neo-X7-mini Build/JDQ39)

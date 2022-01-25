@@ -1,0 +1,500 @@
+Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Thunderbird/45.3.0
+Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302015110)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015380)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016380)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016010)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0 Lightning/3.3.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402017020)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014440)
+Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Thunderbird/31.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302013050) Gecko/ /2.0
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0 Lightning/2.6.5
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire UWGM NoTrail; ProE-Datecode:3302012060)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; BOIE9;ENUS; Wildfire NoTrail; ProE-Datecode:3102012090)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016260)
+Mozilla/5.0 (Windows NT 5.0; rv:9.0) Gecko/20111222 Thunderbird/9.0.1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302015110)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENUS; Wildfire NoTrail; ProE-Datecode:3102012090)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20120713 Thunderbird/14.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016240)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502016390)
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016380)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3502017110)
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302016240) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014200)
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.2; Wildfire NoTrail; ProE-Datecode:3102011410) Gecko
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20130620 Thunderbird/17.0.7
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; BOIE9;ENUS; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.4.0 Lightning/4.0.4.1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017260)
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Thunderbird/60.0 Lightning/6.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G900F Build/LRX21T) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-G900F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302016100) Gecko/ /2.0
+Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20110929 Thunderbird/7.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3402016130)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502016390)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.0) Gecko/20100101 Thunderbird/52.2.1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015440) Gecko/ /2.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016380)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3602018100)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0 Lightning/2.6.4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302015200)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016260)
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; FDM; .NET4.0C; .NET4.0E; Wildfire UWGM NoTrail; ProE-Datecode:3302013000)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0 Lightning/3.3.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire UWGM NoTrail; ProE-Datecode:3302013000) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0 Lightning/2.6.6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Tablet PC 2.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Thunderbird/45.4.0 Lightning/4.7.4
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016130)
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.3.0 Lightning/2.6.4
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Thunderbird/52.9.1
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110812 Thunderbird/6.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3402016130)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0 Lightning/2.6.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015480)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017380)
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016050)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402017020)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302014000) Gecko/ /2.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Windows NT 6.3; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+AlienBlue/2.9.10.0.2 CFNetwork/758.4.3 Darwin/15.5.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016050)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015200)
+AlienBlue/2.9.2 CFNetwork/711.1.16 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302016010)
+Mozilla/4.0 (compatible; Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130620 Thunderbird/17.0.7; Windows NT 6.1; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:2902011490)
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302012361) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3602018100)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016240)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302013410) Gecko/ /2.0
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080505 Thunderbird/2.0.0.14
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; EIE10;ENUSWOL; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016050)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Thunderbird/45.2.0 Lightning/4.7.2
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-I9300 Build/IMM76D) [FBAN/Orca-Android;FBAV/5.0.0.16.1;FBLC/tr_TR;FBBV/2302400;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/GT-I9300;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1066,height=552};]
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015200)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MDDRJS; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016010)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302014430)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130107 Thunderbird/17.0.2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.4.0 Lightning/3.3.2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire UWGM NoTrail; ProE-Datecode:3302012240)
+Mozilla/5.0 (Macintosh; U; Macintosh; en-US; Valve Steam GameOverlay/1354925460; ) AppleWebKit/535.15 (KHTML like Gecko) Chrome/18.0.989.0 Safari/535.11
+SupportsFresco=1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J210F Build/MMB29Q) Source/1 [FBAN/EMA;UNITY_PACKAGE/342;FBBV/107586706;FBAV/172.0.0.8.182;FBDV/SM-J210F;FBLC/en_US;FBOP/20]
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402017020)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302016360) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015280) Gecko/ /2.0
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015200) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014310)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013050)
+Mozilla/5.0 (Windows; U; Windows NT 6.2; de-AT; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102015240) Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MALC; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302015440)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502016510)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3102015070)
+Mozilla/4.0 (compatible; Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.24) Gecko/20100317 Thunderbird/2.0.0.24; Windows NT 6.1; Trident/4.0)
+Mozilla/.0 (compatible; Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0; X11; Linux x86_64; rv:38.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016050)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014190)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; F1 Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/Oppo;FBBD/Oppo;FBDV/F1;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=720,height=1280};FB_FW/1;]
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire UWGM NoTrail; ProE-Datecode:3402014440) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014440)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; CNS_UA; AD_LOGON=4C47452E4E4554; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; CNS_UA; AD_LOGON=4C47452E4E4554; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015080)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302014200)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014190)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016130)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:2902011330)
+Mozilla/5.0 (X11; Linux x86) Gecko/20100101 Thunderbird/45.3.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MDDRJS; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014430)
+Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Thunderbird/31.4.0 Lightning/3.3.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302014090) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0
+Mozilla/5.0 (X11; Linux x86_64; rv45.0) Gecko/20100101 Thunderbird/45.8.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:2902012452)
+(null) [FBAN/FBIOS;FBAV/56.0.0.58.135;FBBV/30582859;FBRV/0;FBDV/iPhone5,3;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.3.2;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5]
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.7.5) Gecko/20041206 Thunderbird/1.0
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.4.0 Lightning/2.6.4
+AlienBlue/2.8.2 CFNetwork/609.1.4 Darwin/13.0.0
+AlienBlue/2.9.10.0.2 CFNetwork/811.4.18 Darwin/16.5.0
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.13) Gecko/20101208 Lightning/1.0b2 Thunderbird/3.1.7
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3102012420)
+Mozilla/5.0 (Windows NT 6.1; rv:7.0.1) Gecko/20110929 Thunderbird/7.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014310)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.9) Gecko/20100317 Thunderbird/3.0.4
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.10) Gecko/20050716 Thunderbird/1.0.6
+AlienBlueHD/2.3.1 CFNetwork/672.0.8 Darwin/14.0.0
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Thunderbird/45.6.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402017300)
+AlienBlue/2.9.10.0.2 CFNetwork/758.3.15 Darwin/15.4.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402017170)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302012480)
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015440) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire UWGM NoTrail; ProE-Datecode:3302012060) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Thunderbird/45.2.0 Lightning/4.7.2
+US ARMY ELECTRONIC
+[FBAN/FB4A;FBAV/3.1;FBBV/177847;FBDM/{density=2.0,width=720,height=1280};FBLC/tr_TR;FBCR/VODAFONE TR;FBPN/com.facebook.katana;FBDV/Discovery;FBSV/4.2.1;]
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Wildfire NoTrail; ProE-Datecode:3302016100)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502018300)
+45.0) Gecko/20100101 Thunderbird/45.3.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502018020)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; .NET4.0C; .NET4.0E; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015200)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E; Tablet PC 2.0; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Thunderbird/31.5.0 Lightning/3.3.2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302016010)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3602018010)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0 Lightning/2.6.4
+AlienBlue/2.9.4 CFNetwork/711.3.18 Darwin/14.0.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Thunderbird/45.4.0 Lightning/4.7.4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302015030)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Tablet PC 2.0; InfoPath.3; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3302014000)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/AndroidSampleApp;FBAV/148.0.051.62;FBLC/en_GB;FBBV/14274161;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=1080,height=1920};FB_FW/1;]
+Mozilla/5.0 (Windows NT 6.3; rv:31.0) Gecko/20100101 Thunderbird/31.6.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.4.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3102011410)
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.0 Lightning/2.6b3
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302015280)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3102012200)
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402018070)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402016280)
+thunderbird
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.1.0 Lightning/2.6.1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302013150) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016050)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013230)
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3102012200)
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Thunderbird/38.3.0 Lightning/4.0.3.1
+Mozilla/5.0 (X11; Linux x86-64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2 UNTRUSTED/1.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302014200)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302014310) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0 Lightning/3.3.1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016100)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0 Lightning/3.3.2
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0 Lightning/2.6.6
+itch/25.3.0 (win32; Electron/2.0.8 Chrome/61.0.3163.100)
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102014050) Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Tablet PC 2.0; Wildfire NoTrail; ProE-Datecode:3102012010)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302016010)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402015050)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; InfoPath.3; Wildfire UWGM NoTrail; ProE-Datecode:3302012060)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:38.0) Gecko/20100101 Thunderbird/38.5.1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402015500)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502018190)
+Mozilla/5.0 (Windows NT 6.0; rv:38.0) Gecko/20100101 Thunderbird/38.3.0
+Mozilla/4.0 (compatible; Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.8.1.18) Gecko/20081105 Thunderbird/2.0.0.18; Windows NT 6.1; Trident/4.0)
+Mozilla/4.0 (compatible; Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.18) Gecko/20081105 Thunderbird/2.0.0.18; Windows NT 6.1; Trident/4.0)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402014100)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015110) Gecko/ /2.0
+Mozilla/4.0 (compatible; Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.8.1.22) Gecko/20090605 Thunderbird/2.0.0.22; Windows NT 6.1; Trident/4.0)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.17) Gecko/20080914 Thunderbird/2.0.0.17
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Win64; x64; Trident/8.0; Wildfire NoTrail; ProE-Datecode:3302014430)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016050)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; CNS_UA; AD_LOGON=4C47452E4E4554; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; CNS_UA; AD_LOGON=4C47452E4E4554; Wildfire NoTrail; ProE-Datecode:3302013150)
+1.8.1.17) Gecko/20080914 Thunderbird/2.0.0.17
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire UWGM NoTrail; ProE-Datecode:3302012380)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire UWGM NoTrail; ProE-Datecode:3302013000)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014500)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/6.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:2902010330)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire UWGM NoTrail; ProE-Datecode:3202012020)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+(null) [FBAN/FBIOS;FBAV/16.0.0.13.22;FBBV/4697910;FBDV/iPad2,4;FBMD/iPad;FBSN/iPhone OS;FBSV/8.0.2;FBSS/1; FBCR/;FBID/tablet;FBLC/en_US;FBOP/1]
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MALCJS; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402015500)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Wildfire NoTrail; ProE-Datecode:2902011490)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3402015480)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302012480)
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302017170)
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:17.0) Gecko/20130107 Thunderbird/17.0.2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502018020)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; MALCJS; Wildfire UWGM NoTrail; ProE-Datecode:3402014310)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; MALCJS; Wildfire UWGM NoTrail; ProE-Datecode:3402015150)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302013230)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MALCJS; Wildfire UWGM NoTrail; ProE-Datecode:3402015150)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130509 Thunderbird/17.0.6
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3302013410)
+Mozilla/5.0 (X11; Linux i686; rv:16.0) Gecko/20121011 Thunderbird/16.0.1
+Mozilla/9.0 (X32; Linux i686; rv:56.0) Gecko/20121011 Thunderbird/56.0.1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Wildfire NoTrail; ProE-Datecode:3102009440)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/6.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:2902009460)
+AlienBlue/2.8.2 CFNetwork/672.0.8 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:2902012453)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016380)
+(null) [FBAN/FBIOS;FBAV/63.0.0.37.140;FBBV/37606630;FBRV/0;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.3.5;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5]
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3102010280)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3602018050)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013410)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:2902011490)
+[FBAN/FB4A;FBAV/16.0.0.20.15;FBBV/4061184;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FB_FW/2;FBCR/MY CELCOM;FBPN/com.facebook.katana;FBDV/Lenovo A850+;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017260)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3102012420)
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102013040) Gecko
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3102012010)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; EIE10;ENUSMSN; Wildfire NoTrail; ProE-Datecode:3302013150)
+; Wildfire NoTrail; ProE-Datecode:2902011220)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:2502007250)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:38.0) Gecko/20100101 Thunderbird/38.6.0 Lightning/4.0.6
+Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130510 Thunderbird/17.0.6 Lightning/1.9.1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3102013430)
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015380)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; MS-RTC LM 8; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0
+AlienBlue/2.9.1 CFNetwork/711.1.16 Darwin/14.0.0
+AlienBlue/2.9.0 CFNetwork/711.0.6 Darwin/14.0.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302012230)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302014310)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014200)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302015200)
+Mozilla/5.0 (Electronica; MK61; rv:61.0) Electronica/61
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017380)
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; Tablet PC 2.0; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015380)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire UWGM NoTrail; ProE-Datecode:3302012060)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; SLCC2; Tablet PC 2.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017380)
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.19) Gecko/20081209 Thunderbird/2.0.0.19
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; MS-RTC LM 8; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/5.0 (Windows NT 6.3; rv:38.0) Gecko/20100101 Thunderbird/38.1.0 Lightning/4.0.1.2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302015110)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3502018210)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3102010280)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015380)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Tablet PC 2.0; Wildfire NoTrail; ProE-Datecode:3302015360)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; HRTS; InfoPath.3; Tablet PC 2.0; Wildfire UWGM NoTrail; ProE-Datecode:3402015500)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3202011370)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3402017020)
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.5.1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302017170) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015030) Gecko/ /2.0
+Mozilla/5.0 (Windows; U; Windows NT 6.2; zh-TW; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102014050) Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302012360) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.7.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302012360)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; InfoPath.3; Wildfire NoTrail; ProE-Datecode:2902009460)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire UWGM NoTrail; ProE-Datecode:3302012060)
+AlienBlue/2.9.10.0.2 CFNetwork/808.1.3 Darwin/16.1.0
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; MDDCJS; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130620 Thunderbird/17.0.7
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402017480)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016260)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-G900F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302014200)
+[FBAN/FBIOS;FBAV/20.1.0.15.10;FBBV/5758778;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.1.2;FBSS/2; FBCR/TELEGRL;FBID/phone;FBLC/da_DK;FBOP/5]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.3; Wildfire UWGM NoTrail; ProE-Datecode:3302012060)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3402015200)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Thunderbird/17.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire UWGM NoTrail; ProE-Datecode:3302013000)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/lycamobile LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; wbx 1.0.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016260)
+38.0) Gecko/20100101 Thunderbird/38.2.0 Lightning/4.0.2
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017260)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3102011310)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402017020)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/lycamobile LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;]
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302015440)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; MALCJS; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0 Lightning/2.6.4
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Thunderbird/52.2.1
+EVE-IGB
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/lycamobile LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;]
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302013230) Gecko/ /2.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 8; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3102012010)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;]
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402013460)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBLC/en_GB;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;]
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.5.1 Lightning/4.0.5.1
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;]
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.5.0 Lightning/2.6.5
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBPN/com.facebook.katana;FBDV/SM-J320F;]
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302013410)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBDV/SM-J320F;]
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014200)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8; .NET4.0C; .NET4.0E; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016260)
+Mozilla/5.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/148.0.051.62;FBDV/SM-J320F;]
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302013230) Gecko/ /2.0
+AlienBlue/2.9.4 CFNetwork/711.4.6 Darwin/14.0.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire UWGM NoTrail; ProE-Datecode:3402013460) Gecko/ /2.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302013050)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3402016130)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire UWGM NoTrail; ProE-Datecode:3202012020)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Wildfire NoTrail; ProE-Datecode:2902011330),gzip(gfe) (via translate.google.com)
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302016010) Gecko/ /2.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302015030)
+Mozilla/4.0 (compatible; Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.8.1.21) Gecko/20090302 Thunderbird/2.0.0.21; Windows NT 6.1; Trident/4.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Wildfire NoTrail; ProE-Datecode:2902011330)
+Mozilla/5.0 (Windows NT 6.3; rv:31.0) Gecko/20100101 Thunderbird/31.1.0
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Wildfire NoTrail; ProE-Datecode:3302015280)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire UWGM NoTrail; ProE-Datecode:3402014440)
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-I9300 Build/IMM76D) [FBAN/Orca-Android;FBAV/5.0.0.16.1;FBLC/en_GB;FBBV/2302400;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/GT-I9300;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1066,height=552};]
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014050)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Thunderbird/52.6.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Wildfire NoTrail; ProE-Datecode:3102009360)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Thunderbird/38.3.0 Lightning/4.0.3
+Mozilla/4.0 (compatible; Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.14) Gecko/20080502 Thunderbird/2.0.0.14; Windows NT 6.1; Trident/4.0)
+Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Thunderbird/38.0.1
+Mozilla/5.0 (X11; Linux i686; rv:10.0.2) Gecko/20120216 Thunderbird/10.0.2
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014310)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302015360)
+Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Thunderbird/38.6.0 Lightning/4.0.6
+AlienBlue/2.8.2 CFNetwork/672.1.11 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; MS-RTC LM 8; Wildfire NoTrail; ProE-Datecode:3302013050)
+Dalvik/1.6.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/AndroidSampleApp;FBAV/17.0.0.1.16;FBLC/en_US;FBBV/4084560;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=800,height=1216};FB_FW/1;]
+Mozilla/5.0 (Windows 7; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MALC; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3102010280)
+Mozilla/5.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/AndroidSampleApp;FBAV/17.0.0.1.16;FBLC/en_US;FBBV/4084560;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=800,height=1216};FB_FW/1;]
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3102011410)
+AlienBlue/2.9.1 CFNetwork/672.1.15 Darwin/14.0.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; cs; rv:1.9.1.8) Gecko/20100227 Lightning/1.0b1 Thunderbird/3.0.3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MAAR; InfoPath.3; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:2902007450)
+AlienBlueHD/2.3.1 CFNetwork/672.0.2 Darwin/14.0.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302013230)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; MALCJS; Wildfire UWGM NoTrail; ProE-Datecode:3302013000)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/6.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302014200)
+Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102015240) Gecko
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; MS-RTC LM 8; Wildfire NoTrail; ProE-Datecode:3102012010)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013050)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.6.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015080)
+Mozilla/5.0 (Macintosh; U; Macintosh; en-US; Valve Steam GameOverlay/1352253997; ) AppleWebKit/535.15 (KHTML like Gecko) Chrome/18.0.989.0 Safari/535.11
+AlienBlue/2.8.2 CFNetwork/672.1.13 Darwin/14.0.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130801 Thunderbird/17.0.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; MS-RTC LM 8; Wildfire NoTrail; ProE-Datecode:2902010140)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3102013040)
+SupportsFresco=1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J210F Build/MMB29Q) Source/1 [FBAN/EMA;UNITY_PACKAGE/342;FBBV/107586706;FBAV/94.0.0.8.182;FBDV/SM-J210F;FBLC/en_US;FBOP/20]
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Tablet PC 2.0; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3102010280)
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102013330) Gecko
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire UWGM NoTrail; ProE-Datecode:3402015500)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; NSN; Wildfire NoTrail; ProE-Datecode:3302013050)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302012360)
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3302012480)
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.1.0 Lightning/2.6.2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102012090) Gecko
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015290)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Wildfire NoTrail; ProE-Datecode:3302014090)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3502017110)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302014430)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013410)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.1.0 Lightning/2.6.2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.8) Gecko/20100802 Lightning/1.0b2 Thunderbird/3.1.2 ThunderBrowse/3.3.2
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302016360) Gecko/ /2.0
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0 Lightning/3.3.2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302015360)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Thunderbird/52.5.0 Lightning/5.4.5
+Mozilla/5.0 (X11; Linux i686; rv:17.0) Gecko/20130329 Thunderbird/17.0.5 Lightning/1.9.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Thunderbird/52.4.0 Lightning/5.4.4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302013320)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3302013230)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo BrowserWildfire UWGM NoTrail; ProE-Datecode:3402017290)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire UWGM NoTrail; ProE-Datecode:3402017170) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015480)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302014200)
+[FBAN/FB4A;FBAV/8.0.0.26.24;FBBV/2119853;FBDM/{density=1.5,width=480,height=800};FBLC/tr_TR;FBCR/VODAFONE TR;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Wildfire NoTrail; ProE-Datecode:3302013410)
+Dalvik/2.1.0 (Linux; U; Android 5.0; Nexus 5 Build/LPX13D) [FBAN/Orca-Android;FBAV/60.0.0.16.1;FBLC/en_EN;FBBV/2302400;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/GT-I9300;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=720,height=1280};]
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Wildfire NoTrail; ProE-Datecode:3302012480)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Geck; Wildfire NoTrail; ProE-Datecode:3102014050)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302016360)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3102010280)
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1; Wildfire NoTrail; ProE-Datecode:3102012300) Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302013320) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302015030) Gecko/ /2.0
+FBAN/FBIOS;FBAV/62.0.0.43.141;FBBV/36454510;FBRV/0;FBDV/iPhone6,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.0;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALC; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402015380)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402016380)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Wildfire NoTrail; ProE-Datecode:3302015030)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3302013150)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Wildfire NoTrail; ProE-Datecode:3102010180)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; InfoPath.3; Wildfire NoTrail; ProE-Datecode:3302013320)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302015200)
+[FBAN/FB4A;FBAV/37.0.0.0.109;FBBV/11557663;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Android;FBMF/unknown;FBBD/generic;FBPN/com.facebook.katana;FBDV/google_sdk;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Wildfire NoTrail; ProE-Datecode:3102010280)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire UWGM NoTrail; ProE-Datecode:3402014310) Gecko/ /2.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302012480) Gecko/ /2.0
+itch/25.1.0 (win32; Electron/2.0.8 Chrome/61.0.3163.100)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017110)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014350)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire UWGM NoTrail; ProE-Datecode:3402015420)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0; Wildfire NoTrail; ProE-Datecode:3302014200) Gecko/ /2.0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENUSMSNIP; TheWorld) AppEngine-Google; (+http://code.google.com/appengine; appid: s~foreigntradeelectronics)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; Wildfire NoTrail; ProE-Datecode:3302014000)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3102012300)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Creo Browser; Wildfire NoTrail; ProE-Datecode:3502017110)
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Thunderbird/37.0 Lightning/3.9b1
+24.0) Gecko/20100101 Thunderbird/24.2.0
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20130801 Thunderbird/17.0.8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014440)
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko; Wildfire NoTrail; ProE-Datecode:3302015110)
+(null) [FBAN/FBIOS;FBAV/62.0.0.43.141;FBBV/36454510;FBRV/0;FBDV/iPhone6,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.0;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5]
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; Creo Browser; Wildfire NoTrail; ProE-Datecode:3402014500)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/7.0; Wildfire NoTrail; ProE-Datecode:3302015280)

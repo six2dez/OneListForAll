@@ -1,0 +1,337 @@
+Mozilla/5.0 (iPad; CPU OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Mobile/12A405 Version/7.0 Safari/9537.53
+Mozilla/5.0 (iPad; U; CPU iPad OS 5_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like Gecko) Version/7.2.0.0 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+UCWEB/2.0 (iPad; U; CPU OS 7_1 like Mac OS X; en; iPad3,6) U2/1.0.0 UCBrowser/9.3.1.344
+Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Ipad Iphone Safari
+iOS AppleWebKit Mobile iPad
+MokiTouch/localdev (iPad; iOS 9.3; Scale/2.00)
+Mozilla/5.0 (iPad; CPU OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Mozilla/5.0 (iPad;U;CPU OS 6_0 like Mac OS X;en-us)AppleWebKit/536.26(KHTML,like Gecko)Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (ipad;U;CPU OS 4_3 like Mac OS X;en-us)
+Apple-iPad3C3/1001.523
+MokiTouch/1.4.8+780 (iPad; iOS 9.3; Scale/2.00)
+MokiTouch/1.4.1-alpha+749 (iPad; iOS 9.3; Scale/2.00)
+Apple-iPad/702.367
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8L1
+Opera/9.80 (iPad; Opera Mini/14.0.0/37.9178; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1407; U; en) Presto/2.8.119 Version/11.10
+MokiTouch/1.4.1 (iPad; iOS 9.2.1; Scale/2.00)
+MokiTouch/1.4.1-rc2+734 (iPad; iOS 9.3; Scale/2.00)
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3507; U; en) Presto/2.8.119 Version/11.10
+FX-EWB/5.0 (PCode:TC101035; JFI:3.7.0; IPAddr:13.199.106.153; DConf:113)
+Chrome 57 (ipad)
+Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+AppCake 3.8 (iPad; iPhone OS 5.0.1; hy_AM)
+Opera/9.80 (iPad; Opera Mini/6.5.2.26801/27.1188; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad;CPU OS 5_1 like Mac OS X;en-us)AppleWebKit/534.46(KHTML,like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML,like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+Opera/9.80 (Linux i686; U; iPad; pt) Presto/2.10.287 Version/12.00
+Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us)
+ipad 2 ios 5.1
+MokiTouch/1.4.9+781 (iPad; iOS 9.3; Scale/2.00)
+Mozilla/5.0 (iPad; CPU OS 11_2_5 like Mac OS X) AppleWebKit/604.1.34 (KHTML
+Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3182; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X)AppleWebKit/536.26 (KHTML,like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/11.0.0/37.6711; U; tr) Presto/2.12.423 Version/12.16
+Ipad - los 8
+Mozilla/5.0 (iPad; U; CPU like Mac OS X; en) AppleWebKit/420+
+Apple-iPad1C1/807.4
+Chrome|iphone|Mobile|MSIE|Firefox|opera|vivaldi|edge|ipad|ipod|Safari|Macintosh|OSX|trident|chromium|IOS|CriOS
+Opera/9.80 (iPad; Opera Mini/7.0.1/28.2173; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3590; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/14.0.0/66.318; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.0.2/27.2020; U; en) Presto/2.8.119 Version/11.10
+(iPad)
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.2197; U; ru) Presto/2.8.119 Version/11.10
+Ghostery iOS AppleWebKit Mobile iPad2,5
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.1857; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B147 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/6.5.2/35.5858; U; hu) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/14.0.0/37.9339; U; en) Presto/2.12.423 Version/12.16
+ipad ios 3.1
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.8923; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3234; U; de) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/6.0.1/37.8762; U; pt) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/14.0.0/63.235; U; en) Presto/2.12.423 Version/12.16
+AlienBlueHD/2.3.1 CFNetwork/672.0.8 Darwin/14.0.0
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML like Gecko)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Video Saver 2.0 rv:1 (iPad; iPhone OS 9.3.5; en_US)
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 322 like Mac OS X; en-US) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B500 Safari/531.21.10
+Mozilla/5.0+(iPad;+CPU+OS+10_3_2+like+Mac+OS+X)+AppleWebKit/603.2.4+(KHTML,+like+Gecko)+Version/10.0+Mobile/14F89+Safari/602.1
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.1914; U; en) Presto/2.8.119 Version/11.10
+mozilla/5.0 (Ipad nano; firefox/13.0; U; ID-en) presto/2.8.199 version/11.10 UNTRUSTED/1.0
+FileMaster 5.80 rv:5.58 (iPad; iOS 11.4.1; en_GB)
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1573; U; en) Presto/2.8.119 Version/11.10
+AppleWebKit/534.46 (iPad; CPU OS 5_1_1 like Mac OS X) CriOS/27.0.1453.10 Mobile/9B206 Safari/7534.48
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.3182; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad CPI iPad OS 7.0 Like Mac OS X) Gecko/20100101 Firefox/31.0 Iceweasel/31.4.0
+Mozilla/5.0 (iPad CPI iPad OS 7.0 Like Mac OS X)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Work Browser 1.1.18966 rv:1.1.18966.27 (iPad; iPhone OS 8.3; en_US)
+Opera/9.80 (iPad; Opera Mini/7.30765/27.1350; U; en) Presto/2.8.119 Version/11.10
+Apple-iPad3C2/902.176
+Opera/9.80 (iPad; Opera Mini/7.0.5/75.35; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad;CPU OS 6_0 like Mac OS X;en-us)AppleWebKit/536.26(KHTML,like Gecko)Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML
+Mozilla/5.0(iPad; U; iPhone OS 3_2; en-us) AppleWebKit/531.21.10 Mobile/7B314
+Mozilla/5.0 (iPad; CPU OS 7_0_4) AppleWebKit/537.51.1 (KHTML) Version/7.0 Mobile/11B554a Safari/9537.53
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3821; U; de) Presto/2.8.119 Version/11.10
+Safari iPad (original)
+Mozilla/5.0 (iPad; CPU OS 613 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+monzila 11 on ipad ios 5.1
+FileMaster 3.1 (iPad; iPhone OS 7.0.4; en_CA)
+safariipad1427449895346
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3182; U; nl) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.818; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/16.0.13/115.31; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/10.1.1/81.40; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.2144; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; de-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9093; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (iPad; U; CPU OS 7_1 like Mac OS X; en; iPad3,6) U2/1.0.0 UCBrowser/11.3.2.1094
+Mozilla/5.0 (iPad; U; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.5/75.35; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 32 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X) AppleWebKit/533.17.9 (KHTML like Gecko) Version/4.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU iPhone OS 501 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/8.0.1/35.3527; U; pt) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.5561; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3158; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9154; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/14.0.0/37.8773; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2
+Opera/9.80 (iPad; Opera Mini/8.0.4/35.4530; U; fr) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; N; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4
+Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+Opera/9.80 (iPad; Opera Mini/7.0.5/103.124; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1486; U; en) Presto/2.8.119 Version/11.10
+Quora 4.1.2 rv:262 (iPad4,1; iPhone OS 8.3; en_IN)
+Mozilla/5.0 (iPad; U; CPU OS 50 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/19.0.1084.60 Mobile/9A334 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.6497; U; de) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML,like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.2102; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) Chrome/38
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us)
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+ipad ios 5.1
+Apple-iPad4C2/
+Opera/9.80 (iPad; Opera Mini/7.0.5/87.4; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3709; U; es) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; en) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 71 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.1 Mobile/11D167 Safari
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3643; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.873; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; ku-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Zeusmos 2.6.9 (iPad; iPhone OS 5.0.1; hy_AM)
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1362; U; en) Presto/2.8.119 Version/11.10
+FileMaster 3.3 (iPad; iPhone OS 7.1.1; gu_IN)
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.2883; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1440; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.2003; U; fr) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.8949; U; ja) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 601 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A8426 Safari/8536.25gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+FileMaster 5.3.1 (iPad; iPhone OS 8.1.3; vi_VN)
+Mozilla/5.0 (iPad; U; CPU OS 32 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8L1
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/13.0.1/79.13; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; en) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/19.0.1084.60 Mobile/8K2 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1024; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS50 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version 5.1 Mobile/9A334 Safari/7534.48.3
+Apple-iPad3C3/1001.523Apple-iPad3C3/1001.523
+Opera/9.80 (iPad; opera mini/7.2.28872/27.1407 ;U ;en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+com.vendhq.vendpos/0.7 (iPhone OS; iPad) Version/6.0 Scale/1.000000
+Opera/9.80 (iPad; Opera Mini/16.0.6/83.113; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (Safari; iPad 2)
+Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Mobile/9B206 Version/5.10 Safari/7534.48.3 Mobicip/1748336 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X)
+Mozilla/5.0+(iPad;+CPU+OS+8_1_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B435
+Opera/9.80 (iPad; Opera Mini/7.0.2/27.1993; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/6.0.1/28.3950; U; es) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Wikipad; Mobile 1; rv:29.0alpha3)
+Mozilla/5.0 (iPad; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1499; U; fr) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1 (KHTML,
+Opera/9.80 (iPad; Opera Mini/16.0.9/95.90; U; es) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3558; U; de) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.2.37083/27.1741; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad CPU OS 6_0 like Mac OS X) AppleWebKit 536.26 (KHTML like Gecko) Version/6.0
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3061; U; nb) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3112; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.2152; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.5706; U; ru) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+iPad; CPU OS 5_0 like Mac OS X
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; oc-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+iPad iOS 9
+Mozilla/5.0 (iPad; CPU OS 9.3.5 like Mac OS X)
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.7327; U; it) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/16.0.12/108.98; U; el) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (K
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+FileMaster 3.3 (iPad; iPhone OS 8.3; gu_IN)
+Opera/9.80 (iPad; Opera Mini/7.0.5/31.1475; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (iPad4; I; SunOS 10.4; en) Presto/2.10.229 Version/11.60
+Opera/9.80 (iPad; Opera Mini/8.0.2/35.3781; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1070; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/67.443; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J3 Safari/6533.18.5gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 511 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 431 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/11.0.0/37.7148; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/14.0.0/57.135; U; es) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) CriOS/23.0.1271.96 Mobile/8L1 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.5561; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/8.0.0/35.3114; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.2075; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3234; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; rv:132.25.123.1) Gecko/999999999 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.3997; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.1/32.1528; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/16.0.8/90.140; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 9_9_9_9 Trident/7.0; rv:11.0) like Gecko
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1366; U; en) Presto/2.8.119 Version/11.10
+Mozila/5.0 (ipad; firefox/12.08870/27.1407; u; en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/7.0.5/36.2084; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.30765/27.1324; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/73.114; U; es) Presto/2.12.423 Version/12.16
+Mozilla/5.0(iPad; U; CPU OS 32 like Mac OS X; en-us)AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4Mobile/7B334b Safari/531.21.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3638; U; en) Presto/2.8.119 Version/11.10
+(iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3061; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.2225; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; AppleWebkit/610.1.1; Chrome/77.0.3282.140 Safari/610.36 Edge/43.17134; Trident/7.0; Touch; rv:11.0) like Gecko
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.820; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; firefox/12; en-us; compatible; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/23.411; U; en) Presto/2.5.25 Version/10.54
+Mozilla/5.0 (iPad; CPU OS 61 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+Blackberry iPhone iPad Android Firefox Rockmelt kalkulator sempoa UNTRUSTED/1.0
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10B146
+FileMaster 3.3 (iPad; iPhone OS 8.1; gu_IN)
+FileMaster 3.3 (iPad; iPhone OS 7.0.4; en_AU)
+Mozilla/5.0 (iPad; CPU OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10A403 Version/5.1 Safari/7534.48.3 NAVER(inapp; search; 103; 4.0.0)
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1309; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 613 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10B329
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1153; U; tr) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/58.167; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 601 like Mac OS X; en-us) AppleWebKit/536.26 (KHTML like Gecko) CriOS/23.0.1271.91 Mobile/10A523 Safari/8536.25gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Opera/9.80 (iPad; Opera Mini/6.5.1.23995/27.1350; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4 Mobile/7B314 Safari/531.21.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1853; U; ru) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4 Safari/531.21.10
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4
+Opera/9.80 (iPad; Opera Mini/10.2.0/66.224; U; ar) Presto/2.12.423 Version/12.16
+iPad 6
+AlienBlueHD/2.3.1 CFNetwork/672.0.2 Darwin/14.0.0
+Opera/9.80 (iPad; Opera Mini/8.0.0/35.3088; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/10.0.1/36.1487; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/14.0.0/64.199; U; en) Presto/2.12.423 Version/12.16
+AppCake 3.9 (iPad; iPhone OS 4.3.3; en_US)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/4.0.5 Mobile/8J2 Safari/6531.22.7
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/10.1.1/37.8861; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/14.0.0/65.213; U; tr) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; opera mini/7.28870/27.1407; U; en) presto/2.8.119 version/7.2 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; CPU OS 602 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A550 Safari/8536.25
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML
+Mozilla/5.0 (iPad; CPU OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML
+Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML
+ipad air2
+ipad air 2
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Mozilla/5.0 (iPad; CPU OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5gzip(gfe)
+Opera/9.80 (iPad; Opera Mini/10.0.1/66.299; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 11_0_2 like Mac OS X) AppleWebKit/604.1.38 (KHTML
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3492; U; fi) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 10_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Opera/9.80 (iPad; Opera Mini/16.0.4/73.132; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad)
+Mozilla/5.0 (iPad; CPU OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Safari iOS 3.2.2 - iPad
+Opera/9.80 (iPad; Opera Mini/14.0.0/83.114; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/21.0.1180.82 Mobile/8J2 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1697; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.817; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3442; U; zh) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 712 like Mac OS X; vi-vn) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9285; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.2.37083/27.1813; U; ar) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1654; U; pt) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 10_1_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+iCab (iPad)
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3054; U; ko) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+iPad_U_CPU_OS_8_Safari_7543_48_3
+Opera/9.80 (iPad; Opera Mini/13.0.1/37.8314; U; fi) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML
+Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML
+Mozilla Firefox iPhone iPod iPad Android Mobile Safari Opera MSIE Internet Explorer iOS Windows Phone
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3442; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1394; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.6546; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 51 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko ) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/31.1543; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU iPhone OS 614 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3316; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.2089; U; fr) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/8.0.1/35.3226; U; en) Presto/2.8.119 Version/11.10
+Azul 6.2.1 rv:6.2 (iPad; iPhone OS 11.3; en_US)
+Opera/9.80 (iPad; Opera Mini/9.1.0/35.6998; U; nb) Presto/2.8.119 Version/11.10
+Safari iPad Pro (iOS 10.3)
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1350; U; ar) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/16.0.7/119.127; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; I; MS-DOS 2.6.18; ARM; rv1.4.10) WebKit/20120101
+Opera/9.80 (iPad; Opera Mini/14.0.0/119.127; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3594; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/60.297; U; en) Presto/2.12.423 Version/12.16
+MSIE 6.0 (iPad; I; MS-DOS 2.6.18; ARM; rv1.4.10) WebKit/20120101
+MSIE 11.0 (iPad; I; MS-DOS 2.6.18; ARM; rv1.4.10) WebKit/20120101
+Mozilla/5.0 (iPad; iPhone OS 5) AppleWebKit/1.1
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3234; U; es) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU like Mac OS X) AppleWebKit/420+
+FileMaster 3.6 (iPad; iPhone OS 7.1.2; en_US)
+Mozilla/5.0 (iPad; U; CPU OS 431 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 501 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/21.0.1180.77 Mobile/9A405 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1499; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.788; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/115.31; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 51 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Mobile/9B176 Safari/7534.48.3 Sleipnir/1.9.2m
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1944; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1528; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3214; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 71 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Mobile/11D167 Version/7.1 Safari/8536.25
+Mozilla/5.0 (iPad; CPU OS 704 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3389; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU iPad OS 6_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like   Gecko) Version/7.2.0.0 Safari/6533.18.5
+CitrixReceiver-iPad/201 CFNetwork/889.9 Darwin/17.2.0
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML  like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/8.0.2/35.3997; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; ga-ES) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5

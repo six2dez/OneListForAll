@@ -1,0 +1,11 @@
+Mozilla/4.5 (compatible; OmniWeb/4.1-beta-1; Mac_PowerPC)
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US) AppleWebKit/xx (KHTML like Gecko) OmniWeb/v5xx.xx
+Mozilla/4.5 (compatible; OmniWeb/4.0.5; Mac_PowerPC)
+OmniWeb/2.7-beta-3 OWF/1.0
+Mozilla/4.5 (compatible; OmniWeb/4.0.5; MacPowerPC)
+Mozilla/4.5 (compatible; OmniWeb/4.1-beta-1; MacPowerPC)
+Mozilla/4.5 (compatible; OmniWeb/4.2.1-v435.9; MacPowerPC)
+Mozilla/4.5 (compatible; OmniWeb/4.2-v435.5; Mac_PowerPC )
+(Intel Mac OS X; en-US) OmniWeb/v622.8.0.119941
+Omniweb
+Mozilla/4.5 (compatible; OmniWeb/4.1-v422; Mac_PowerPC)

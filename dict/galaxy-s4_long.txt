@@ -1,0 +1,57 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.3.3/248) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.3.2/247) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; GT-I9505 Build/LRX22C)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9505 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9500 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SGH-M919 Build/KOT49H)
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500 Build/KOT49H)
+Callpod Keeper for Android 1.0 (10.1.2/241) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SAMSUNG-SGH-I337 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9500 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy S4/GT-I9505 ) Gecko/20100101 Firefox/47.0.1
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SGH-M919 Build/KTU84P)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; id; GT-I9505) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+GT-I9500/V1 Linux/3.4.39 Android/4.4.4 Release/12.06.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.4
+Callpod Keeper for Android 1.0 (11.2.1/303) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy S4/GT-I9505 ) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9500) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SAMSUNG-SGH-I337 Build/KTU84P)
+Callpod Keeper for Android 1.0 (10.6.1/278) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.5.7/271) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-I9500 Build/JSS15J)
+Callpod Keeper for Android 1.0 (11.0.1/287) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.5.8/273) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy S4/GT-I9500) Gecko/20100101 Firefox/50.1.0
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; GT-I9500 Build/NJH47F)
+Callpod Keeper for Android 1.0 (11.2.5/315) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Galaxy S4/SPH-L720) Gecko/20100101 Firefox/50.1.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; SGH-M919) U2/1.0.0 UCBrowser/8.9.2.373 U2/1.0.0 Mobile
+Callpod Keeper for Android 1.0 (10.5.3/267) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Callpod Keeper for Android 1.0 (13.0.2/322) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+UCWEB/2.0 (Linux; U; Adr 4.2.2; en-US; GT-I9500) U2/1.0.0 UCBrowser/9.0.2.299 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9507) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; GT-I9505 Build/KOT49H)
+Callpod Keeper for Android 1.0 (10.5.4/268) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; GT-I9505 Build/JDQ39)
+Callpod Keeper for Android 1.0 (10.0.1/235) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Callpod Keeper for Android 1.0 (10.4.6/258) Dalvik/2.1.0 (Linux; U; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C)
+Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy S4/SGH-M919 ) Gecko/20100101 Firefox/50.1.0
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; GT-I9505 Build/NJH47F)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.1; en-US; GT-I9505) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; SPH-L720 Build/LRX22C)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-I9500) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.1; en-US; GT-I9500) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+GT-I9500/V1 Linux/3.4.39 Android/4.4.4 Release/08.05.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.4
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; GT-I9500) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SGH-M919 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy S4/SGH-M919 ) Gecko/20100101 Firefox/47.0.1
+GT-I9500/V1 Linux/3.4.39 Android/4.4.4 Release/11.28.2014 Browser/AppleWebKit534.30 Mobile Safari/534.30 MBBMS/2.2 System/Android 4.4.4
+Mozilla/5.0 (Linux; U; Android 5.0.1; en-US; GT-I9505 Build/LRX22C) AppleWebKit/534.30 (KHTML
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; vi; GT-I9500) U2/1.0.0 UCBrowser/10.3.0.622 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9505 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 5.0.1; Samsung Galaxy S4/GT-I9500) Gecko/20100101 Firefox/47.0.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.1; id; GT-I9500) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; GT-I9500) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy S4/SAMSUNG-SGH-I337) Gecko/20100101 Firefox/47.0.1

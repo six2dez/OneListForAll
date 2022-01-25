@@ -1,0 +1,6 @@
+Mozilla/5.0 (Windows NT 6.4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.89 Vivaldi/1.0.83.38 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.148 Safari/537.36 Vivaldi/1.4.589.38
+Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.55
+Vivaldi/1.0.83.38 Windows NT 6.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14) Chrome/69.0.3492.0 Vivaldi/1.97.1230.3
+Vivaldi/1.14

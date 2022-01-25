@@ -1,0 +1,1 @@
+Mozilla/5.0 (Linux; Android 4.1.1; fr-fr; SonyEricsson; C1505 Build/11.3.A.0.56; rv 21.0) Gecko/20130514 Mobile Firefox/21.0

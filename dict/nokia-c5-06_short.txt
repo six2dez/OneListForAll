@@ -1,0 +1,4 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC5-06) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC5-06) U2/1.0.0 UCBrowser/8.9.0.277 U2/1.0.0 Mobile
+NokiaC5-06/UC Browser7.9.0.102/50/355/UCWEB
+nokiac5-06/UC Browser8.0.3.107/69/352 UNTRUSTED/1.0 3gpp-gba

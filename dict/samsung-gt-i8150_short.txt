@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; id; GT-I8150) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy W/GT-I8150) Gecko/20100101 Firefox/50.1.0

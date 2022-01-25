@@ -1,0 +1,5 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5235) U2/1.0.0 UCBrowser/9.1.0.319 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5235) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia5235) U2/1.0.0 UCBrowser/9.0.0.290 U2/1.0.0 Mobile
+OneBrowser/3.1 (Nokia5235/51.6.002/sw_platform=S60;sw_platform_version=5.0;java_build_version=1.4.43)
+UCWEB/2.0 (Symbian; U; S60 V5; id; Nokia5235) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile

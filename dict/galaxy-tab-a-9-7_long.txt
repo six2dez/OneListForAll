@@ -1,0 +1,9 @@
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T550 Build/NMF26X)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T555 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T550 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T555 Build/MMB29M)
+Callpod Keeper for Android 1.0 (11.1.2/296) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+Callpod Keeper for Android 1.0 (11.0.1/287) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; SM-T555) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Callpod Keeper for Android 1.0 (10.4.5/257) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)

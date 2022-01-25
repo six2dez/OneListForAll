@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-N9500 Build/NMF26X)

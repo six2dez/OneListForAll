@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N920A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-N920A Build/NRD90M)
+Callpod Keeper for Android 1.0 (10.6.1/278) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-N920A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K)

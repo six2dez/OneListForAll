@@ -1,0 +1,1 @@
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; SCH-I905 Build/IMM76D)

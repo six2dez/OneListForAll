@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J500H Build/LMY48B)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-J500H) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile

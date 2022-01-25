@@ -1,0 +1,3 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I9070 Build/JZO54K)
+JUC (Linux; U; 4.1.2; zh-cn; GT-I9070; 480*800) UCWEB7.9.0.94/139/444
+Dalvik/1.4.0 (Linux; U; Android 2.3.6; GT-I9070 Build/GINGERBREAD)

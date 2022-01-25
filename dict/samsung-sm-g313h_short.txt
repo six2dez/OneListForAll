@@ -1,0 +1,6 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G313H) U2/1.0.0 UCBrowser/10.8.0.930 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G313H) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G313H Build/KOT49H) U2/1.0.0 UCBrowser/10.6.2.599 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-G313H) U2/1.0.0 UCBrowser/9.3.1.476 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G313H) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G313H) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile

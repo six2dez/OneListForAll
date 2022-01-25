@@ -1,0 +1,6 @@
+UCWEB/2.0 (Linux; U; en-US; SM-J106H Build/MMB29Q) U2/1.0.0 UCMini/10.7.2.757 (SpeedMode; Android 6.0.1; SM-J106H Build/MMB29Q) Mobile
+UCWEB/2.0 (Linux; U; en-US; SM-J106H Build/MMB29Q) U2/1.0.0 UCMini/11.1.0.1041 (SpeedMode; Android 6.0.1; SM-J106H Build/MMB29Q) Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-J106H) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; en-US; SM-J106H Build/MMB29Q) U2/1.0.0 UCMini/10.4.2.659 (SpeedMode; Android 6.0.1; SM-J106H Build/MMB29Q) Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-J106H) U2/1.0.0 UCBrowser/11.0.2.1024 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-J106H Build/MMB29Q) U2/1.0.0 UCBrowser/11.3.0.1130 Mobile

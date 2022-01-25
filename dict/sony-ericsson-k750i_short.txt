@@ -1,0 +1,8 @@
+SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750i/R1L Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonK750i/R1CA Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1 SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.2 Profile/MIDP-2.0
+SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mozilla/5.0 (Android 8.0; Mobile; rv:62.0) Gecko/62.0 Firefox/62.0

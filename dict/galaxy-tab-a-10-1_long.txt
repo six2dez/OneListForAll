@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T580 Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T580 Build/MMB29K)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T585 Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-P580 Build/NRD90M)

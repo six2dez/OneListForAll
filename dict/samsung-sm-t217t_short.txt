@@ -1,0 +1,2 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T217T Build/KTU84P)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T217T Build/JDQ39)

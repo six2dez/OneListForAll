@@ -1,0 +1,10 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC7-00) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+NokiaC7-00/SymbianOS/9.1 Series60/3.0 3gpp-gba
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC7-00) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0 (Symbian; U; S60 V5; ar-SA; NokiaC7-00) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; fa; NokiaC7-00) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; fa; NokiaC7-00) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0
+UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaC7-00) U2/1.0.0 UCBrowser/9.5.0.449 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0 (Java; U; MIDP-2.0; en; NokiaC7-00) U2/1.0.0 UCBrowser/9.4.0.342 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
+nokiac7-00/UC Browser8.0.3.107/69/352 UNTRUSTED/1.0 3gpp-gba
+UCWEB/2.0(Symbian; U; S60 V5; en-US; NokiaC7-00) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile

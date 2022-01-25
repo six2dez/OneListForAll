@@ -1,0 +1,4 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; en-US; A1601) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; A1601) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; id; A1601) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; A1601) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile

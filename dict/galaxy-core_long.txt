@@ -1,0 +1,17 @@
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I8260 Build/JZO54K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.3.0.622 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-I8262) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I8262B Build/JZO54K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.1.5.583 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-I8262) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; GT-I8262 Build/KTU84Q)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I8262 Build/JZO54K)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/8.2.0.242 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8262) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

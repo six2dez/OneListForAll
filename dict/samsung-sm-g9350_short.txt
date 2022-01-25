@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G9350) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G9350 Build/R16NW)

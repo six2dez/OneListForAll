@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G920W8 Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-G920W8 Build/LRX22G)
+UCWEB/2.0 (Linux; U; en-US; SM-G920W8 Build/NRD90M) U2/1.0.0 UCMini/10.7.8.806 (SpeedMode; Android 7.0; SM-G920W8 Build/NRD90M) Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-G920W8) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile

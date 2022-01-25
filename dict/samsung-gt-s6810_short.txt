@@ -1,0 +1,3 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S6810) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-S6810) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-S6810) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile

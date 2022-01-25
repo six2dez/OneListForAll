@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G800H Build/MMB29M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G800H) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile

@@ -1,0 +1,4 @@
+NokiaE52-1/SymbianOS/9.1 Series60/3.0 3gpp-gba
+NokiaE52-1/UC Browser7.8.0.95/28/355
+UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE52-1) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
+NokiaE52-1/UC Browser8.0.4.121/28/444/UCWEB

@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; es-LA; GT-S5570I) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+OneBrowser/Mini1.2 (Android 2.2.2;  Opera Mini/7.0.30567/28.2555; U; en; GT-S5570I Build/GINGERBREAD.JPLF1) Presto/2.8.119 Version/11.10

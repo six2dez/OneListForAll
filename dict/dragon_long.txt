@@ -1,0 +1,10 @@
+Dragon/5.16 (Unix 3.1; ar;)
+Dragon
+DragonBall
+http.rb/2.2.2 (Mastodon/2.0.0; +https://dragon.style/)
+Dragonfly File Reader
+Feed ReaderCPG Dragonfly RSS ModuleCPG Dragonfly RSS Module Feed Viewer
+Dragonless Phantom
+"C:\Program Files\Comodo\Dragon\dragon.exe"
+KDRAGON61D_GB_11C_HW () Z093_S105_SIMI_HS8269LPA_V06_20170914 Release/2017.09.14 WAP Browser/MAUI Profile/  Q03C1-2.40 en-US
+Mozilla/5.0 (compatible; Chrome/48.0.2564.103; Windows Phone 10.0; Trident/6.0; Safari/600.1.4; Snapdragon; Touch; NOKIA; Lumia 920)

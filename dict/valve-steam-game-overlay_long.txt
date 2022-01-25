@@ -1,0 +1,2 @@
+Mozilla/5.0 (Macintosh; U; Macintosh; en-US; Valve Steam GameOverlay/1354925460; ) AppleWebKit/535.15 (KHTML like Gecko) Chrome/18.0.989.0 Safari/535.11
+Mozilla/5.0 (Macintosh; U; Macintosh; en-US; Valve Steam GameOverlay/1352253997; ) AppleWebKit/535.15 (KHTML like Gecko) Chrome/18.0.989.0 Safari/535.11

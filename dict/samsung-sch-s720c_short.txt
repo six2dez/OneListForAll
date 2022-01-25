@@ -1,0 +1,2 @@
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; SCH-S720C) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+Dalvik/1.4.0 (Linux; U; Android 2.3.6; SCH-S720C Build/GINGERBREAD)

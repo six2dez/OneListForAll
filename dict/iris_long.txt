@@ -1,0 +1,23 @@
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; IRIS_501) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; IRIS402) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; id; iris702) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; iris356) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:35.0) Gecko/20100101 Iris/35.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; iris405+) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; id; iris_758_4G) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; IRIS402 Build/LAVAIRIS402) U2/1.0.0 UCBrowser/9.6.3.413 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; iris465) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; IRIS402) U2/1.0.0 UCBrowser/8.8.1.359 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; Iris_415) U2/1.0.0 UCBrowser/9.6.0.514 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; Iris_415) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; id; iris_870_4G) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; iris505 Build/iris505)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; IRIS402) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-us; iris405+ Build/iris405+) U2/1.0.0 UCBrowser/9.8.9.457 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; Iris_349) U2/1.0.0 UCBrowser/9.5.1.494 Mobile
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; iris 414 Build/KOT49H) AppleWebKit/534.30 (KHTML,like Gecko) Version/4.0 UCBrowser/10.6.0.586 U3/0.8.0 Mobile Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; iris_414) U2/1.0.0 UCBrowser/10.6.5.726 U2/1.0.0 Mobile
+UCWEB/2.0(Linux; U; Opera Mini/7.1.32052/30.3697; en-US; iris 350 Build/KOT49H) U2/1.0.0 UCBrowser/10.5.0.575 Mobile
+UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.0.6.1040 (SpeedMode; Proxy; Android 6.0; iris50 ) U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; id; iris702) U2/1.0.0 UCBrowser/10.7.0.733 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; iris356) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile

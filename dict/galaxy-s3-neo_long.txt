@@ -1,0 +1,5 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9301I Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9301I) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9301I) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9301I Build/KOT49H) [EdmodoAndroid 9.2.1]
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9301I) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile

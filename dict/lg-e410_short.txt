@@ -1,0 +1,3 @@
+UCWEB/2.0 (Linux; U; Adr 4.1.2; id; LG-E410) U2/1.0.0 UCBrowser/9.3.0.321 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; LG-E410) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; LG-E410) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile

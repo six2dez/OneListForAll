@@ -1,0 +1,7 @@
+Callpod Keeper for Android 1.0 (10.0.1/235) Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 6 Build/LMY48T)
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; Nexus 6 Build/N6F27M)
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 6; rv:35.0) Gecko/35.0 Firefox/35.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; Nexus 6 Build/NBD91P)
+Mozilla/5.0 (Android; Mobile; Nexus 6 rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Mozilla/5.0; Chrome/42.0.2311.111 Mobile Safari/537.36; Linux; Android 5.1; Nexus 6 Build/LMY47M; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Android; Mobile Nexus 6; rv:35.0) Gecko/35.0 Firefox/35.0

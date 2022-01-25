@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-N950U Build/R16NW)
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-N950U Build/NMF26X)

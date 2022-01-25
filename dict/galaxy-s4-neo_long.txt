@@ -1,0 +1,4 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; GT-I9515 Build/LRX22C)
+Mozilla/5.0 (Linux; Android 4.3; SAMSUNG GT-I9515 Build/LRX22C) Gecko/22.0 Firefox/22.0
+Mozilla/5.0 (Linux; Android 4.3; SAMSUNG GT-I9515 Build/LRX22C) Gecko/22.0 Firefox/53.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-I9515) U2/1.0.0 UCBrowser/9.3.1.476 U2/1.0.0 Mobile

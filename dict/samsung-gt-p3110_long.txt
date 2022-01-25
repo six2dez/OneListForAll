@@ -1,0 +1,4 @@
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P3110 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-P3110 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-P3110 Build/JSS15J)
+Dalvik/1.6.0 (Linux; U; Android 4.3.1; GT-P3110 Build/JLS36I)

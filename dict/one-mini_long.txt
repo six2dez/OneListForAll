@@ -1,0 +1,3 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; HTC One mini 2 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.3; HTC One mini Build/JSS15Q)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One mini Build/JDQ39)

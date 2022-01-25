@@ -1,0 +1,1468 @@
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; WT19M-FI Build/KTU84Q)
+Dalvik/1.6.0 (Linux; U; Android 4.3.1; WT19M-FI Build/JLS36I)
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Linux; Android 4.4.4; Nexus 7 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.135 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML
+Mozilla/5.0 (Android; Tablet; rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Mobile/12A405 Version/7.0 Safari/9537.53
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N8010 Build/JZO54K)
+Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-P5210 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T310 Build/KOT49H)
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android; Tablet; rv:14.0) Gecko/14.0 Firefox/14.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T530 Build/LRX22G)
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (iPad; U; CPU iPad OS 5_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like Gecko) Version/7.2.0.0 Safari/6533.18.5
+Mozilla/5.0 (Android 7.0; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5113 Build/JDQ39)
+Mozilla/5.0 (Android 7.0; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android; Tablet; rv:20.0) Gecko/20.0 Firefox/20.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T580 Build/NRD90M)
+Mozilla/5.0 (Android; Tablet; rv:34.0) Gecko/34.0 Firefox/34.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T530NU Build/LRX22G)
+Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android; Tablet; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android; Tablet; rv:19.0) Gecko/19.0 Firefox/19.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5110 Build/JDQ39)
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android; Tablet; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Ubuntu; Tablet) WebKit/537.21
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T530 Build/KOT49H)
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T230 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T520 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N8013 Build/JZO54K)
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+UCWEB/2.0 (iPad; U; CPU OS 7_1 like Mac OS X; en; iPad3,6) U2/1.0.0 UCBrowser/9.3.1.344
+Mozilla/5.0 (Android 6.0; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P3110 Build/JDQ39)
+Mozilla/5.0 (Android; Tablet; rv:18.0) Gecko/18.0 Firefox/18.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5210 Build/JDQ39)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SAMSUNG-SM-T377A Build/MMB29K)
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 4.4; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Opera/9.80 (Android 2.3.7; Linux; Opera Tablet/46154) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T210 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P3113 Build/JDQ39)
+Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Ipad Iphone Safari
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T310 Build/JDQ39)
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T560NU Build/MMB29M)
+iOS AppleWebKit Mobile iPad
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+MokiTouch/localdev (iPad; iOS 9.3; Scale/2.00)
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T350 Build/MMB29M)
+Mozilla/5.0 (iPad; CPU OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T550 Build/NMF26X)
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 4.4; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Callpod Keeper for Android 1.0 (10.0.1/235) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T230NU Build/KOT49H)
+Mozilla/5.0 (Android 5.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android; Tablet; rv:21.0) Gecko/21.0 Firefox/21.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T800 Build/MMB29K)
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N5110 Build/KOT49H)
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android; Tablet; rv:16.0) Gecko/16.0 Firefox/16.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (iPad;U;CPU OS 6_0 like Mac OS X;en-us)AppleWebKit/536.26(KHTML,like Gecko)Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (ipad;U;CPU OS 4_3 like Mac OS X;en-us)
+Mozilla/5.0 (Android 5.1; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T210R Build/KOT49H)
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T560 Build/KTU84P)
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 8.0.0; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T350 Build/LRX22G)
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android; Tablet; rv:15.0) Gecko/15.0 Firefox/15.0
+Mozilla/5.0 (Android; Tablet; rv:32.0) Gecko/32.0 Firefox/32.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android; Tablet; rv:23.0) Gecko/23.0 Firefox/23.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android; Tablet; rv:10.0.4) Gecko/10.0.4 Firefox/10.0.4 Fennec/10.0.4
+Apple-iPad3C3/1001.523
+Mozilla/5.0 (Android 6.0; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T217S Build/KOT49H)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android; Tablet; rv:38.0) Gecko/38.0 Firefox/38.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+MokiTouch/1.4.8+780 (iPad; iOS 9.3; Scale/2.00)
+Callpod Keeper for Android 1.0 (10.3.1/246) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-P907A Build/LMY47X)
+Mozilla/5.0 (Android 8.0.0; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SM-T210 Build/JZO54K)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-P5110 Build/JZO54K)
+Mozilla/5.0 (Android; Tablet; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; Tablet; rv:36.0) Gecko/36.0 Firefox/36.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Dalvik/1.6.0 (Linux; U; Android 4.0.3; Sony Tablet S Build/TISU0143)
+Mozilla/5.0 (Android 5.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android; Tablet; rv:33.0) Gecko/33.0 Firefox/33.0
+Mozilla/5.0 (Android; Tablet; rv:37.0) Gecko/37.0 Firefox/37.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android; Tablet; rv:30.0) Gecko/30.0 Firefox/30.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T320 Build/KOT49H)
+Mozilla/5.0 (Android 6.0; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T560NU Build/NMF26X)
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T555 Build/LRX22G)
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T110 Build/JDQ39)
+Mozilla/5.0 (Android 6.0; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android; Tablet; rv:29.0) Gecko/29.0 Firefox/29.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T813 Build/NRD90M)
+Mozilla/5.0 (Android 6.0; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 4.4; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android; Tablet; rv:10.0.5) Gecko/10.0.5 Firefox/10.0.5 Fennec/10.0.5
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T580 Build/MMB29K)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 4.4; Tablet; rv:29.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 8.0.0; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T377R4 Build/LMY47X)
+Mozilla/5.0 (Android 5.1; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; YOGA Tablet 2-830L Build/LRX22C)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T530NU Build/KOT49H)
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android; Tablet; rv:25.9) Gecko/25.9 Firefox/31.9 PaleMoon/25.9.6
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android; Tablet; rv:25.3) Gecko/25.3 Firefox/31.9 PaleMoon/25.3
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T585 Build/NRD90M)
+Opera/9.80 (Linux; U; Android 4.0.3; HU-hu; Transformer Prime TF201 Build/IML74K) Presto/2.9.181 Version/12.00
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+MokiTouch/1.4.1-alpha+749 (iPad; iOS 9.3; Scale/2.00)
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T280 Build/LMY47V)
+Mozilla/5.0 (Android 5.0; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Linux; U; Android 4.2.1; haw-US; GT-P5100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Apple-iPad/702.367
+Samsung SM-T230NU stagefright/1.2 (Linux;Android 4.4.2)
+Mozilla/5.0 (Android 6.0; Tablet; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Android; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8L1
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; Nexus 7 Build/KOT49H)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T710 Build/NRD90M)
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T335 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N8020 Build/JZO54K)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T810 Build/NRD90M)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T800 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.0.3; Transformer TF101 Build/IML74K)
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.3; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Opera/9.80 (iPad; Opera Mini/14.0.0/37.9178; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 6.0; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-P3110 Build/JZO54K)
+Opera/9.80 (Linux i686; Opera Tablet/35779; MeeGo; U; hu) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Opera/9.80 (Android 2.3.7; Linux; Opera Tablet/35779; U; hu) Presto/2.10.254 Version/12.00
+Opera/9.80 (Windows; Opera Tablet/35779; U; hu) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N8010 Build/KOT49H)
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; HP 10 G2 Tablet Build/LRX21M)
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1407; U; en) Presto/2.8.119 Version/11.10
+Dalvik/1.5.1 (Linux; U; Android 3.1; GT-P7510 Build/HMJ37)
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+MokiTouch/1.4.1 (iPad; iOS 9.2.1; Scale/2.00)
+Callpod Keeper for Android 1.0 (10.6.1/278) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Opera/9.80 (Windows NT 6.2; Opera Tablet/11648; U; en) Presto/2.7.81 Version/11.00
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+MokiTouch/1.4.1-rc2+734 (iPad; iOS 9.3; Scale/2.00)
+Mozilla/5.0 (Android 5.0; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3507; U; en) Presto/2.8.119 Version/11.10
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; YOGA Tablet 2 Pro-1380F Build/LRX22C)
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+FX-EWB/5.0 (PCode:TC101035; JFI:3.7.0; IPAddr:13.199.106.153; DConf:113)
+Mozilla/5.0 (Android 5.0; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-P7510 Build/IMM76D)
+Mozilla/5.0 (Android 5.0; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1207241053; U; en) Presto/2.10.254 Version/12.00
+Callpod Keeper for Android 1.0 (10.3.5/250) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 5.0; Nexus 7 Build/LRX21P)
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-P5113 Build/JRO03C)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-P600 Build/KOT49H)
+Mozilla/5.0 (Android 4.4; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Chrome 57 (ipad)
+Mozilla/5.0 (Android; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Mozilla/5.0 (Android 8.0.0; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 4.4; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T217S Build/JDQ39)
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N5110 Build/JZO54K)
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Linux; Android 6.0.99; Nexus 9 Build/NPD56N) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Tablet; rv:26.0) Gecko/26.0 Firefox/26.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T813 Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T535 Build/LRX22G)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T330 Build/LMY47X)
+Mozilla/5.0 (Linux; Android 4.2; es-US; SONY XperiaTablet Build/JOP22F) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.464 Safari/535.19
+Mozilla/5.0 (Android; Tablet; rv:24.0) Gecko/24.0 Firefox/24.0
+Mozilla/5.0 (Android; Tablet; rv:24.0) Gecko/24.0 Firefox/24.0 SCREENRES/1024x768
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 9; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T550 Build/LRX22G)
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; vivo_1603) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T380 Build/NMF26X)
+Opera/9.80 (Linux i686; Opera Tablet/46154; MeeGo) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 6.0; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+QwantMobile/2.0 (Android 5.1.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0 QwantBrowser/59.0.3
+Mozilla/5.0 (Linux; Adroid 8.0; Tablet; en-US) Gecko/20100101 Firefox/61.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; YOGA Tablet 2-1050F Build/LRX22C)
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T330NU Build/KOT49H)
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/ADR-1411061216) Presto/2.11.355 Version/12.10
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T350 Build/NMF26X)
+AppCake 3.8 (iPad; iPhone OS 5.0.1; hy_AM)
+Mozilla/5.0 (gemalto tablet; Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Opera/9.80 (iPad; Opera Mini/6.5.2.26801/27.1188; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 5.1; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; vivo_Y15S) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad;CPU OS 5_1 like Mac OS X;en-us)AppleWebKit/534.46(KHTML,like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Mozilla/5.0 (Android; Tablet; Concierge; rv:25.0) Gecko/25.0 Firefox/25.0
+Callpod Keeper for Android 1.0 (10.3.2/247) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-P905V Build/LMY47X)
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1205181138; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Opera/9.80 (Windows NT 6.1; Opera Tablet/11648; U; en) Presto/2.7.81 Version/11.00
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T719Y Build/NRD90M)
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML,like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Opera/9.80 (S60; SymbOS; Opera Tablet/9174; U; en) Presto/2.7.81 Version/10.5
+Opera/9.80 (Linux i686; U; iPad; pt) Presto/2.10.287 Version/12.00
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T820 Build/NRD90M)
+Opera/9.80 (Windows NT 5.1; Opera Tablet/11648; U; en) Presto/2.7.81 Version/11.00
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-N7105 Build/JSS15J)
+Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T810 Build/LRX22G)
+ipad 2 ios 5.1
+Mozilla/5.0 (Android; Tablet; rv:28.0) Gecko/28.0 Firefox/28.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 7 Build/MOB30X)
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; Nexus 10 Build/KTU84P)
+Mozilla/5.0 (Android; Tablet; rv:14.0) Gecko/14.0 Firefox/14.0.1
+Linux; U; Android 4.2; Nexus 7 Build/JOO92B
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+MokiTouch/1.4.9+781 (iPad; iOS 9.3; Scale/2.00)
+Mozilla/5.0 (Android 6.0; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 5.12; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T555 Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-P900 Build/LRX22G)
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (Android; Tablet; rv:13.0) Gecko/13.0 Firefox/13.0 Fennec/13.0
+Mozilla/5.0 (Android 4.3; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Java; U; Pt-br; zte-g-x990-vivo) UCBrowser8.3.1.161/70/465/UCWEB Mobile UNTRUSTED/1.0
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0,gzip(gfe)
+Dalvik/1.6.0 (Linux; U; Android 4.3; SM-P600 Build/JSS15J)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 5.1; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 4.4; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (iPad; CPU OS 11_2_5 like Mac OS X) AppleWebKit/604.1.34 (KHTML
+Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML
+Mozilla/5.0 (Android 5.0; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1207241053; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; Sony Tablet S Build/TISU0R0110) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T900 Build/LMY47X)
+Opera/9.80 (Windows NT 6.1; Opera Tablet/15165; U; en) Presto/2.8.149 Version/11.1
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3182; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; zh-CN; SM-T231) U2/1.0.0 UCBrowser/3.4.3.532  U2/1.0.0 Mobile
+Opera/9.80 (Android 4.1.2; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X)AppleWebKit/536.26 (KHTML,like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/11.0.0/37.6711; U; tr) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android; Tablet; rv:24.7) Gecko/24.7 PaleMoon/24.7b2
+Mozilla/5.0 (Android; Tablet; rv:26.0) Gecko/26.0 Firefox/26.0
+Ipad - los 8
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T825 Build/NRD90M)
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N7100 Build/KOT49H)
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (iPad; U; CPU like Mac OS X; en) AppleWebKit/420+
+Mozilla/5.0 (Android; Tablet; rv:25.4) Gecko/25.4 Firefox/31.9 PaleMoon/25.4.1
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Linux; U; Android 4.1.1; fr-CA; ASUS Transformer Pad TF300T Build/JRO03C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 6.0; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Android 4.4.4; WT19M-FI Build/KTU84Q)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T315T Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-N8010 Build/JRO03C)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T331C Build/KOT49H)
+Mozilla/5.0 (Android; Tablet; rv:40.0) Gecko/40.0 Firefox/40.0,gzip(gfe)
+Opera/9.80 (Android 4.2.1; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Linux; Android 4.2.1; es-US; Nexus 10 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T315 Build/KOT49H)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.2.0 Waterfox/55.2.0
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Apple-iPad1C1/807.4
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T330NU Build/LMY47X)
+Chrome|iphone|Mobile|MSIE|Firefox|opera|vivaldi|edge|ipad|ipod|Safari|Macintosh|OSX|trident|chromium|IOS|CriOS
+Opera/9.80 (iPad; Opera Mini/7.0.1/28.2173; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1207241053; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.4; Tablet; rv:41.0) Gecko/41.0 Firefox/42.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3590; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 6.0; Tablet; rv:41.0) Gecko/41.0 Firefox/42.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; YOGA Tablet 2 Pro-1380L Build/LRX22C)
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Opera/9.80 (iPad; Opera Mini/14.0.0/66.318; U; en) Presto/2.12.423 Version/12.16
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T113NU Build/KTU84P)
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 4.3; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Opera/9.80 (iPad; Opera Mini/7.0.2/27.2020; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; id; GT-N7005) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+Opera/9.80 (Android 2.3.3; Linux; Opera Tablet/ADR-1205181138; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Linux; U; Android 5.1.1; en-US; vivo V3 Build/LMY47V) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.3.5.972 Mobile Safari/537.36
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Windows RPMWrapper Tablet Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Dalvik/1.5.1 (Linux; U; Android 3.2; GT-P7500 Build/HTJ85B)
+test (test; gemalto tablet; test; Trident/7.0; Touch; rv:11.0) like Gecko
+(iPad)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T810 Build/MMB29K)
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1210241511) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.2197; U; ru) Presto/2.8.119 Version/11.10
+Dalvik/1.6.0 (Linux: U; Android 4.4.2; SM-T235 Build/KOT49H)
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; U1 Build/HCL ME Tablet U1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (X11; U; Linux armv6l; pt-BR; rv:1.9a6pre) Gecko/20080828 Firefox/3.0a1 Tablet browser 0.3.7 RX-34+RX-44+RX-48_DIABLO_5.2008.43-7
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android 9; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; br-FR; Sony Tablet S Build/TISU0077) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; Tablet; rv:12; Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Android 5.1; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0,gzip(gfe)
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 7 Build/LMY47V)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (compatible; MSIE 9.0; Android 2.3.7; Linux; Opera Tablet/ADR-1204201824; en) Opera 12.00
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Ghostery iOS AppleWebKit Mobile iPad2,5
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Tablet; rv:37.0) Gecko/37.0 Firefox/37.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T700 Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T337T Build/KTU84P)
+Mozilla/5.0 (Android 9; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T817V Build/NRD90M)
+Dalvik/1.6.0 (Linux; U; Android 4.2.1; GT-P7510 Build/JOP40D)
+Callpod Keeper for Android 1.0 (10.5.11/276) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 10 Build/LMY49J)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SAMSUNG-SM-T217A Build/KOT49H)
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.1857; U; en) Presto/2.8.119 Version/11.10
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; Nexus 7 Build/KTU84P)2
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B147 Safari/8536.25
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P3100 Build/JDQ39)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T700 Build/LRX22G)
+Callpod Keeper for Android 1.0 (11.1.2/296) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+Opera/9.80 (iPad; Opera Mini/6.5.2/35.5858; U; hu) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.1.2; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1202231246; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Linux; Android 4.2; en-CA; SONY XperiaTablet Build/JOP22F) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.464 Safari/535.19
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-P605 Build/KOT49H)
+Gemalto tablet
+Callpod Keeper for Android 1.0 (11.2.3/313) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (X11; U; Linux armv6l; en-US; rv:1.9a6pre) Gecko/20080828 Firefox/3.0a1 Tablet browser 0.3.7 RX-34+RX-44+RX-48_DIABLO_5.2008.43-7
+Opera/9.80 (iPad; Opera Mini/14.0.0/37.9339; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; vivo Y31L Build/LMY47V) U2/1.0.0 UCBrowser/10.7.9.856 Mobile
+Mozilla/5.0 (Android 7.0; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-CA; U1 Build/HCL ME Tablet U1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; Nexus 7 Build/LRX22G)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; Nexus 7 Build/KTU84P)
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Opera/9.80 (Windows NT 6.1; Opera Tablet/23731; U; en) Presto/2.9.201 Version/11.50
+Mozilla/5.0 (Tablet; rv:18.1) Gecko/18.1 Firefox/18.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; vivo_Y28) U2/1.0.0 UCBrowser/10.5.0.668 U2/1.0.0 Mobile
+ipad ios 3.1
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 7 Build/LMY48I)
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-us; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/5
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Tab 2 7.0/GT-P3100) Gecko/20100101 Firefox/50.1.0
+Windows RPMWrapper Tablet Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T705 Build/MMB29K)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T819 Build/NRD90M)
+Mozilla/5.0 (X11; U; Linux armv6l; en-GB; rv:1.9a6pre) Gecko/20071128 Firefox/3.0a1 Tablet browser 0.2.2 RX-34+RX-44_2008SE_2.2007.50-2
+Mozilla/5.0 (Linux; Android 4.2.1; en-CA; Nexus 7 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Callpod Keeper for Android 1.0 (10.6.0/277) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N5120 Build/KOT49H)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T705) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.1.1; zh-cn; SAMSUNG-GT-N7108_TD/1.0 Android/4.1.1 Release/08.30.2012 Browser/AppleWebKit534.30 Build/JRO03C) ApplelWebkit/534.30 (KHTML,like Gecko) Version/4.0 Mobile Safari/534.30
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.8923; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Linux; Android 4.4.4; Samsung Galaxy Note II/GT-N7100) Gecko/20100101 Firefox/47.0.1
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SAMSUNG-SM-T377A Build/NMF26X)
+Mozilla/5.0 (Android 4.3; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Linux; Android 4.2; en-US; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T705 Build/LRX22G)
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3950; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3234; U; de) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 5.1 ; Mobile; Nexus 9 rv:44.0) Gecko/44.0 Firefox/44.0
+Opera/9.80 (iPad; Opera Mini/6.0.1/37.8762; U; pt) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:55.0) Gecko/55.0 Firefox/55.2.0 Waterfox/55.2.0
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Windows NT 3.1; Tablet; IEMobile/10.0; /trident\/.+rv:\s*11/i),w=i(/chrome|firefox/Gecko/),k=i(/FBAV/i)
+Opera/9.80 (Android 2.2.2; Linux; Opera Tablet/ADR-1111101157; U; en) Presto/2.9.201 Version/11.50
+Dalvik/1.6.0 (Linux; U; Android 4.0.3; GT-N7000 Build/IML74K)
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N7105 Build/KOT49H)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T805M Build/MMB29K)
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy Tab/GT-P1000) Gecko/20100101 Firefox/50.1.0
+Opera/9.80 (iPad; Opera Mini/14.0.0/63.235; U; en) Presto/2.12.423 Version/12.16
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T815Y Build/NRD90M)
+Mozilla/5.0 (Android; Tablet; rv:31.0) Gecko/31.0 Firefox/31.0
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-T311 Build/KOT49H) U2/1.0.0 UCBrowser/10.4.2.659 Mobile
+Tablet Browser 2.1
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML like Gecko)
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0,gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Video Saver 2.0 rv:1 (iPad; iPhone OS 9.3.5; en_US)
+Mozilla/5.0 (Windows 6.0; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Windows 6.0; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 322 like Mac OS X; en-US) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B500 Safari/531.21.10
+Callpod Keeper for Android 1.0 (10.5.9/274) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Linux; Android 4.2; en-US; SONY XperiaTablet Build/JOP22F) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.464 Safari/535.19
+Mozilla/5.0+(iPad;+CPU+OS+10_3_2+like+Mac+OS+X)+AppleWebKit/603.2.4+(KHTML,+like+Gecko)+Version/10.0+Mobile/14F89+Safari/602.1
+Dalvik/2.1.0 (Linux; U; Android 7.0; SHIELD Tablet K1 Build/NRD90M)
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; Allwinner-Tablet) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Dalvik/1.5.1 (Linux; U; Android 3.2; GT-P7310 Build/HTJ85B)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0 f17027
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-P550 Build/MMB29M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-N7100) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 5.0; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.1914; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:55.0) Gecko/55.0 Firefox/55.2.0 Waterfox/55.2.0
+Dalvik/1.5.1 (Linux; U; Android 3.2; GT-P6800 Build/HTJ85B)
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:41.0) Gecko/41.0 Firefox/42.0
+mozilla/5.0 (Ipad nano; firefox/13.0; U; ID-en) presto/2.8.199 version/11.10 UNTRUSTED/1.0
+Mozilla/5.0 (Linux x86_64; Android 8.0; Tablet; en-US) Gecko/20100101 Firefox/61.0
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1203051631; U; ru) Presto/2.10.254 Version/12.00
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-N5110 Build/JDQ39)
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-P555 Build/LRX22G)
+Mozilla/5.0 (Linux; U; Android 4.0.3; br-FR; Sony Tablet S Build/TISU0143) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:52.0) Gecko/52.0 Firefox/52.0
+FileMaster 5.80 rv:5.58 (iPad; iOS 11.4.1; en_GB)
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Linux; Android 6.0.99; Nexus 9 Build/NPD56N) Gecko/20100101 Firefox/50.1.0
+Mozilla/5.0 (Android; Tablet; rv:24.8) Gecko/24.8 Firefox/24.8 PaleMoon/24.7b4
+Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M; Tablet; rv:50.0) Gecko/20100101 Firefox/50.0
+Mozilla/5.0 (Android; Tablet; rv:15.0) Gecko/15.0 Firefox/15.0a2
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1573; U; en) Presto/2.8.119 Version/11.10
+AppleWebKit/534.46 (iPad; CPU OS 5_1_1 like Mac OS X) CriOS/27.0.1453.10 Mobile/9B206 Safari/7534.48
+Mozilla/5.0 (Android; Tablet; rv:25.0) Gecko/25.0 Firefox/25.0
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; YOGA Tablet 2-1050F Build/KOT49H)
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-US; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Android 4.2.2 fa; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.3182; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad CPI iPad OS 7.0 Like Mac OS X) Gecko/20100101 Firefox/31.0 Iceweasel/31.4.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; vivo_Y51L) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad CPI iPad OS 7.0 Like Mac OS X)
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-FR; Sony Tablet S Build/TISU0077) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.4; en-US; GT-N7000) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Work Browser 1.1.18966 rv:1.1.18966.27 (iPad; iPhone OS 8.3; en_US)
+Opera/9.80 (Android 2.3.7; Linux; Opera Tablet/ADR-1205181138; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 7.1.2; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; GT-N7100) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.30765/27.1350; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 7.0; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1207201819; U; en) Presto/2.10.254 Version/12.00
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T111) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADY-1305080823) Presto/2.11.355 Version/12.10
+Apple-iPad3C2/902.176
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 9 Build/MOB30M)
+Opera/9.80 (iPad; Opera Mini/7.0.5/75.35; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad;CPU OS 6_0 like Mac OS X;en-us)AppleWebKit/536.26(KHTML,like Gecko)Version/6.0 Mobile/10A5355d Safari/8536.25
+Mozilla/5.0 (Linux; Android 4.2.1; fr-FR; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/537.22 (KHTML like Gecko) Chrome/25.0.1364.169 Safari/537.22
+Mozilla/5.0 (Android; Tablet; rv:24.7) Gecko/24.7 Firefox/24.7 PaleMoon/24.7.2
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1110071847; U; nl) Presto/2.9.201 Version/11.50
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-P580 Build/NRD90M)
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1502251211) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 6.0; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML
+Dalvik/1.6.0 (Linux; U; Android 4.2.1; ASUS Transformer Pad TF300T Build/JOP40D)
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; YOGA Tablet 2-830F Build/LRX22C)
+Mozilla/5.0(iPad; U; iPhone OS 3_2; en-us) AppleWebKit/531.21.10 Mobile/7B314
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/ADR-1502251211) Presto/2.11.355 Version/12.10
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T113 Build/KTU84P)
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1207201848; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (X11; U; Linux armv6l; en-GB; rv:1.9a6pre) Gecko/20080828 Firefox/3.0a1 Tablet browser 0.3.7 RX-34+RX-44+RX-48_DIABLO_5.2008.43-7
+Callpod Keeper for Android 1.0 (11.0.1/287) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T805 Build/MMB29K)
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (iPad; CPU OS 7_0_4) AppleWebKit/537.51.1 (KHTML) Version/7.0 Mobile/11B554a Safari/9537.53
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3821; U; de) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; buddies.airtelmoney.in; SM-T231) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.1; zh-CN; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Android 8.0; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 4.2.2; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Safari iPad (original)
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-P550 Build/LRX22G)
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1212030906) Presto/2.11.355 Version/12.10
+Dalvik/1.6.0 (Linux; U; Android 4.4; Nexus 7 Build/KRT16S)
+Dalvik/2.1.0 (Linux; U; Android 7.0; Vivo 8 Build/NRD90M)
+Mozilla/5.0 (Android 7.0; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (iPad; CPU OS 613 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-FR; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+monzila 11 on ipad ios 5.1
+Mozilla/5.0 (Linux; U; Android 4.0.3; br-FR; ASUS Transformer Pad TF300T Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-T561) U2/1.0.0 UCBrowser/10.1.4.573 U2/1.0.0 Mobile
+SAMSUNG-GT-P3108_TD/1.0 Android/4.1.2 Release/12.21.2012 Browser/AppleWebKit534.30
+Dalvik/1.6.0 (Linux; U; Android 4.0.3; GT-P5100 Build/IML74K)
+Opera/9.80 (Android 2.2.1; Linux; Opera Tablet/ADR-1205181138; U; fr) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Tablet; rv:26.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; haw-US; ASUS Transformer Pad TF300T Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0 KeyWeb/47.0.17
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Linux; Android 4.2.1; en-CA; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/537.22 (KHTML like Gecko) Chrome/25.0.1364.169 Safari/537.22
+Mozilla/5.0 (Linux; U; Android 4.2.1; oc-FR; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1210091135) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (X11; U; Linux armv6l; en-US; rv:1.9a6pre) Gecko/20071128 Firefox/3.0a1 Tablet browser 0.2.2 RX-34+RX-44_2008SE_2.2007.51-3
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T800 Build/LRX22G)
+FileMaster 3.1 (iPad; iPhone OS 7.0.4; en_CA)
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 9 :rv31.0) Gecko/31.0 Firefox/31.0
+safariipad1427449895346
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; SM-T210R Build/JZO54K)
+Mozilla/80 (Windows OS 14.9;%*%; Android 10.1; en-us; Nexus 10 Build/OOO24O) AppleWebKit/142.03 (KHTML) Version/80 Mobile Mozilla/80
+Mozilla/5.0 (Android; Tablet; Nexus 7 rv:31.0) Gecko/31.0 Firefox/31.0
+Mozilla/5.0 (Linux; U; Android 6.0; en-US; vivo 1601 Build/MRA58K) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.4.6.1017 Mobile Safari/537.36
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1205181158; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.3; en-US; GT-P5100) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; vivo_Y15) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T560NU Build/LMY47X)
+Android tablet
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; vivo_1603) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3182; U; nl) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 9; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 7.0; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Mobile; Nexus 10; rv:18.1) Gecko/18.1 Firefox/18.1
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.818; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Linux; Android 4.2; fy-DE; SONY XperiaTablet Build/JOP22F) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.464 Safari/535.19
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-CA; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_Y31L) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 7; rv:35.0) Gecko/35.0 Firefox/35.0
+Opera/9.80 (iPad; Opera Mini/16.0.13/115.31; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/10.1.1/81.40; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 10; rv:35.0) Gecko/35.0 Firefox/35.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; id; SM-P355) U2/1.0.0 UCBrowser/10.6.0.706 U2/1.0.0 Mobile
+Mozilla/5.0 (Android;  Tablet) Gecko/38.0 Firefox/38.0
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.2144; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-T116) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 7.7.7 ; Mobile Nexus 777; rv:777.0) Gecko/777.0 Firefox/777.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; de-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (Android 6.0; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9093; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (iPad; U; CPU OS 7_1 like Mac OS X; en; iPad3,6) U2/1.0.0 UCBrowser/11.3.2.1094
+Mozilla/5.0 (iPad; U; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.5/75.35; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android; Mobile; Nexus 7 rv:35.0) Gecko/35.0 Firefox/35.0
+Tablet
+Mozilla/5.0 (Android 4.1.1; Mobile; Nexus 7; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (iPad; U; CPU OS 32 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10 UNTRUSTED/1.0
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X) AppleWebKit/533.17.9 (KHTML like Gecko) Version/4.0.2 Mobile/8C148 Safari/6533.18.5
+(null) [FBAN/FBIOS;FBAV/16.0.0.13.22;FBBV/4697910;FBDV/iPad2,4;FBMD/iPad;FBSN/iPhone OS;FBSV/8.0.2;FBSS/1; FBCR/;FBID/tablet;FBLC/en_US;FBOP/1]
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; en-US; vivo_1601) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 4.3; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android; Mobile; Nexus 9 rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (iPad; CPU iPhone OS 501 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/8.0.1/35.3527; U; pt) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.5561; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3158; U; en) Presto/2.8.119 Version/11.10
+"Mozilla/5.0 (Linux; U; Android 2.2; en-US; GT-P1000M Build/FROYO) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1"
+Opera/9.80 (Android 2.3.7; Linux; Opera Tablet/35779; U; en) Presto/2.10.254 Version/12.00
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9154; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Opera/9.80 (iPad; Opera Mini/14.0.0/37.8773; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; SM-T211) U2/1.0.0 UCBrowser/9.5.1.494 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Opera/9.80 (iPad; Opera Mini/8.0.4/35.4530; U; fr) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; N; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4
+Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+Opera/9.80 (iPad; Opera Mini/7.0.5/103.124; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 8.0.0; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-N7000) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Opera/9.80 (Android; Linux; Opera Tablet/ADR-1103250857; U; en) Presto/2.7.81 Version/11.00
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1486; U; en) Presto/2.8.119 Version/11.10
+QwantMobile/2.0 (Android 5.0.1; Tablet; rv:62.0) Gecko/62.0 Firefox/59.0 QwantBrowser/62.0.2
+Quora 4.1.2 rv:262 (iPad4,1; iPhone OS 8.3; en_IN)
+Opera/9.80 (Windows; Opera Tablet/1; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (iPad; U; CPU OS 50 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/19.0.1084.60 Mobile/9A334 Safari/7534.48.3
+Opera/9.80 (Android 2.3.7; Linux; Opera Tablet/1; U; en) Presto/2.10.254 Version/12.00
+Opera/9.80 (Linux i686; Opera Tablet/1; MeeGo; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Linux; U; Android 4.2.1; da-DE; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.6497; U; de) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Linux; U; Android 4.0.3; fy-DE; Sony Tablet S Build/TISU0R0110) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0,gzip(gfe)
+Mozilla/5.0 (Android; Tablet; rv:25.0) Gecko/25.0 Firefox/24.9 PaleMoon/25.0.2
+Mozilla/5.0 (Linux; Android 6.0; vivo 1713 Build/MRA58K
+Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML,like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.2102; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Tablet; rv:33.1) Gecko/33.1 Firefox/33.1
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) Chrome/38
+Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us)
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+Mozilla/5.0 (X11; U; Linux x8664; it-it) AppleWebKit/537.36 (KHTML like Gecko) Chrome/30.0.1599.114 Safari/537.36 Puffin/4.1.2.1212AT
+ipad ios 5.1
+Apple-iPad4C2/
+Opera/9.80 (iPad; Opera Mini/7.0.5/87.4; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Linux; U; Android 4.2.1; ku-DE; Nexus 7 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3709; U; es) Presto/2.8.119 Version/11.10
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T805 Build/LRX22G)
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; en) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 71 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.1 Mobile/11D167 Safari
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_Y31L) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1716 Build/N2G47H)
+Mozilla/5.0 (Linux; U; Android 4.0.3; es-US; ASUS Transformer Pad TF300T Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3643; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.873; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; ku-DE) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T111) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADY-1109201025; U; ru) Presto/2.8.149 Version/11.10
+Mozilla/5.0 (Android; Tablet; rv:22.0) Gecko/22.0 Firefox/22.0
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-P3110 Build/JSS15J)
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Zeusmos 2.6.9 (iPad; iPhone OS 5.0.1; hy_AM)
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1362; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 5.0; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/BuildID) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile 537.36 Safari/
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; SM-T211) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+FileMaster 3.3 (iPad; iPhone OS 7.1.1; gu_IN)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-P585Y Build/NRD90M)
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.2883; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1440; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows NT 6.1; Opera Tablet/46154) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.2003; U; fr) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.8949; U; ja) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:57.0.2) Gecko/57.0.2 Firefox/57.0.2
+Mozilla/5.0 (iPad; CPU OS 601 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A8426 Safari/8536.25gzip(gfe)
+Mozilla/5.0 (Linux; U; Android 4.1.1; en-CA; ASUS Transformer Pad TF300T Build/JRO03C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; Android 4.2; zh-CN; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T900 Build/KOT49H)
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+GT-N7100 Linux/3.0.13 Android/4.1.1 Release/01.31.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 7 Build/MMB29K)
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-US; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+FileMaster 5.3.1 (iPad; iPhone OS 8.1.3; vi_VN)
+Mozilla/5.0 (Linux; Android 4.2.1; fr-CA; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/537.22 (KHTML like Gecko) Chrome/25.0.1364.169 Safari/537.22
+A chocolate teapot (Tablet; Android 4.1.1)
+Mozilla/5.0 (iPad; U; CPU OS 32 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10gzip(gfe)
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8L1
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; vivo_Y15) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_Y21L) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Mozilla/5.0 (Android; 5.0.3 Mobile; Nexus 9 rv:35.0) Gecko/35.0 Firefox/35.0
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1207201819; U; fr) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; vivo_Y15) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 5.0.3; Mobile; Nexus 9 rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android; Tablet; Nexus 7; rv:32.0) Gecko/32.0 Firefox/32.0
+Opera/9.80 (iPad; Opera Mini/13.0.1/79.13; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; en) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/19.0.1084.60 Mobile/8K2 Safari/7534.48.3
+Opera/9.80 (Android 4.1.2; Linux; Opera Tablet/ADR-1207201952; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; ThinkPad Tablet Build/ThinkPadTabletA40003) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T230NU) U2/1.0.0 UCBrowser/9.9.0.543 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1306261156) Presto/2.11.355 Version/12.10
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-P550 Build/NMF26X)
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.6; en-US; GT-P1000) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1024; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Linux; Android 4.2.1; es-US; Nexus 7 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Mozilla/5.0 (Windows NT 3.1; Tablet; IEMobile/10.0; /trident\/.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Mozilla/5.0 (iPad; CPU OS50 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version 5.1 Mobile/9A334 Safari/7534.48.3
+Apple-iPad3C3/1001.523Apple-iPad3C3/1001.523
+Mozilla/5.0 (Windows NT 3.1; Tablet; IEMobile/10.0; /trident/.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Opera/9.80 (iPad; opera mini/7.2.28872/27.1407 ;U ;en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+Mozilla/5.0 (Windows NT 3.1; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; Nexus 7 Build/JDQ39)
+Mozilla/5.0 (Windows NT 10.1; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-CA; Nexus 7 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1207241053; U; es-ES) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 6.0; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/ADR-1410101449) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Windows NT 11.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; vivo_1603) U2/1.0.0 UCBrowser/10.1.2.571 Mobile
+com.vendhq.vendpos/0.7 (iPhone OS; iPad) Version/6.0 Scale/1.000000
+Mozilla/5.0 (Windows NT 6.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Opera/9.80 (iPad; Opera Mini/16.0.6/83.113; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/9.1.1.420 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 4.2.1; haw-US; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/537.22 (KHTML like Gecko) Chrome/25.0.1364.169 Safari/537.22
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/chrome/frefox/Gecko/),k=i(/FBAV/i)
+Mozilla/5.0 (Android; Tablet; rv:27.0) Gecko/27.0 Firefox/27.0
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(MSIE/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Mozilla/5.0 (X11; U; Linux armv5tejl; en-GB; rv:1.9a6pre) Gecko/20071001 Firefox/3.0a1 Tablet browser 0.1.16 SU-18_2007HACKER_4.2007.46-3
+Mozilla/5.0 (Linux; U; Android 4.2.1; fy-DE; Nexus 7 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-N8005 Build/JRO03H)
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/MSIE/chrome/firefox/Gecko/),k=i(/FBAV/i)
+Dalvik/2.1.0 (Linux; U; Android 6.0; Vivo XL2 Build/MRA58K)
+Opera/9.80 (Android 2.2.1; Linux; Opera Tablet/ADR-1309251104) Presto/2.11.355 Version/12.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; vivo_Y51L) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(/MSIE/chrome/firefox/Gecko/MSIE),k=i(/FBAV/i)
+Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1301071546) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(//MSIE/chrome/firefox/Gecko/MSIE),k=i(/FBAV/i)
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Note II/GT-N7100 ) Gecko/20100101 Firefox/50.1.0
+Opera/9.80 (Android 3.2.1; Linux; Opera Tablet/ADR-1111101157; U; en) Presto/2.9.201 Version/11.50
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(///MSIE/chrome/firefox/Gecko/MSIE),k=i(/FBAV/i)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Tablet PC; Trident/2.0)
+Mozilla/5.0 (Safari; iPad 2)
+Mozilla/5.0 (Windows NT 10.0; Tablet; IEMobile/10.0; //.+rv:\s*11/i),w=i(////MSIE/chrome/firefox/Gecko/MSIE),k=i(/FBAV/i)
+Mozilla/5.0 (Android 5.0; Mobile; Nexus 9; rv:35.0) Gecko/35.0 Firefox35.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; GT-P1000) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Mozilla/12.0 (Android 4.4; rv:12.0) Gecko/20100101 Tablet/2014AD1812 Firefox/12.0
+Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Mobile/9B206 Version/5.10 Safari/7534.48.3 Mobicip/1748336 UNTRUSTED/1.0
+Mozilla/5.0 (Linux; Android 4.2.1; br-FR; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/537.22 (KHTML like Gecko) Chrome/25.0.1364.169 Safari/537.22
+Mozilla/5.0 (Android; Tablet; rv:29.0) Gecko/20100101 Firefox/29.0
+Mozilla/5.0 (Android 5.0; Mobile; Nexus 9; rv:31.0) Gecko/31.0 Firefox31.0
+Mozilla/31.0 (Android 4.4; rv:31.0) Gecko/2014121933 Tablet/2014AD1812 Firefox/31.0
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X)
+Mozilla/5.0 (Android; Tablet; rv:36.0.1) Gecko/36.0.1 Firefox/36.0.1
+Mozilla/5.0+(iPad;+CPU+OS+8_1_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B435
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/7.0.2/27.1993; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/6.0.1/28.3950; U; es) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Wikipad; Mobile 1; rv:29.0alpha3)
+Mozilla/5.0 (iPad; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; vivo_V1Max) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.1.1; ku-DE; ASUS Transformer Pad TF300T Build/JRO03C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1301071546) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 4.4; Linux; Opera Tablet/ADR-1410101449) Presto/2.11.355 Version/12.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-CA; Sony Tablet S Build/TISU0124) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1499; U; fr) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1 (KHTML,
+Opera/9.80 (iPad; Opera Mini/16.0.9/95.90; U; es) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Opera/9.80 (Windows; Opera Tablet/35779; U; en) Presto/2.10.254 Version/12.00
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3558; U; de) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.2.37083/27.1741; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad CPU OS 6_0 like Mac OS X) AppleWebKit 536.26 (KHTML like Gecko) Version/6.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-CA; Sony Tablet S Build/TISU0124) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3061; U; nb) Presto/2.8.119 Version/11.10
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T705W Build/LRX22G)
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3112; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-FR; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (Windows NT 6.2; Opera Tablet/46154) Presto/2.11.355 Version/12.10
+QwantMobile/2.0 (Android 4.4.2; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0 QwantBrowser/59.0.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.2152; U; en) Presto/2.8.119 Version/11.10
+Samsung SM-T310 stagefright/1.2 (Linux;Android 4.4.2)
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.5706; U; ru) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+iPad; CPU OS 5_0 like Mac OS X
+Mozilla/5.0 (Android 2.2.1; Linux; Opera Tablet/ADR-1204201842; fr; rv:2.0) Gecko/20100101 Firefox/4.0 Opera 12.00
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+Mozilla/5.0 (Android 7.1.1; Tablet; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; oc-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:55.0) Gecko/55.0 Firefox/55.2.0 Waterfox/55.2.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; vivo_Y21) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+iPad iOS 9
+Mozilla/5.0 (Tablet; rv:18.1) Gecko/18.1 Firefox/54.0
+Mozilla/5.0 (iPad; CPU OS 9.3.5 like Mac OS X)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_Y21L) U2/1.0.0 UCBrowser/11.1.1.1091 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.7327; U; it) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/16.0.12/108.98; U; el) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 4.4; Tablet; rv:56.0) Gecko/41.0 Firefox/56.0
+Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (K
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (Android; 5.0.3; Mobile; Nexus 9; rv:35) Gecko/35.0 Firefox/35.0
+Opera/9.80 (Android 3.2.1; Linux; Opera Tablet/ADR-1205181138; U; en-GB) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 4.3; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; en-US; GT-P3100) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.2.1; zh-CN; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android; Tablet; rv:25.1) Gecko/25.1 Firefox/31.9 PaleMoon/25.1.1
+FileMaster 3.3 (iPad; iPhone OS 8.3; gu_IN)
+Opera/9.80 (Android 3.2.1; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/31.1475; U; en) Presto/2.8.119 Version/11.10
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SAMSUNG-SM-T217A Build/JDQ39)
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Opera/9.80 (Android 4.2.1; Linux; Opera Tablet/ADR-1210091135) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:41.0) Gecko/41.0 KeyWeb/41.0.49
+Android; Tablet
+Mozilla/5.0 (iPad4; I; SunOS 10.4; en) Presto/2.10.229 Version/11.60
+Mozilla/5.0 (Android; Tablet; rv:36.0) Gecko/36.0 Firefox/36.0,gzip(gfe)
+Opera/9.80 (iPad; Opera Mini/8.0.2/35.3781; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1205181138; U; it) Presto/2.10.254 Version/12.00
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1070; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/67.443; U; ru) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 3.2; en-US; GT-P7500) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J3 Safari/6533.18.5gzip(gfe)
+Mozilla/5.0 (Android 9.0; Tablet; rv63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (iPad; U; CPU OS 511 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPad; U; CPU OS 431 like Mac OS X; en-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (Android 4.3; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1203051631; U; en) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1210241511) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/11.0.0/37.7148; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/14.0.0/57.135; U; es) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 5.1; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) CriOS/23.0.1271.96 Mobile/8L1 Safari/6533.18.5
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1207201819; U; ru) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 7.1.2; Tablet; rv63.0) Gecko/63.0 Firefox/63.0
+Callpod Keeper for Android 1.0 (10.4.5/257) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+UCWEB/2.0 (MIDP-2.0; U; Adr 2.3.5; en-US; GT-N7000) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Mozilla/5.0 (gemalto tablet; Windows NT 6.3; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T217T Build/KTU84P)
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.5561; U; ru) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Opera/9.80 (Android 4.4.4; Linux; Opera Tablet/build-1203300859; U; en-GB) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1207201819; U; de) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1207201819; U; pl) Presto/2.10.254 Version/12.00
+Opera/9.80 (iPad; Opera Mini/8.0.0/35.3114; U; en) Presto/2.8.119 Version/11.10
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T805Y Build/LRX22G)
+Mozilla/5.0 (Android; Tablet; Nexus 8.9 rv:31.0) Gecko/31.0 Firefox/31.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; SM-T111) U2/1.0.0 UCBrowser/9.2.0.419 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 4.0.4; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Opera/9.80 (iPad; Opera Mini/7.0.2/28.2075; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3234; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 6.0.1; Tablet; rv:41.0) Gecko/41.0 Firefox/42.0
+Mozilla/5.0 (Android 6.0; Tablet; rv:45.0) Gecko/41.0 Firefox/45.0
+Mozilla/5.0 (iPad; rv:132.25.123.1) Gecko/999999999 Firefox/132.25.123.1 (QupZilla 1.2.0)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Opera/9.80 (iPad; Opera Mini/7.0.5/35.3997; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.1/32.1528; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (X11; U; Linux armv6l; fi-FI; rv:1.9a6pre) Gecko/20080828 Firefox/3.0a1 Tablet browser 0.3.7 RX-34+RX-44+RX-48_DIABLO_5.2008.43-7
+Mozilla/5.0 (Android 4.3; Tablet; rv:42.0.2) Gecko/42.0.2 Firefox/42.0.2
+Mozilla/5.0 (Android; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_V3) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5200 Build/JDQ39)
+Mozilla/5.0 (LuneOS; Tablet) WebKit/538.1
+mozilla/5.0 (TABLET; firefox/13.0; U; ID-en) presto/2.8.199 version/11.10 UNTRUSTED/1.0
+Opera/9.80 (iPad; Opera Mini/16.0.8/90.140; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-CA; ASUS Transformer Pad TF300T Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; Android 4.2.1; en-US; Nexus 7 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Mozilla/5.0 (iPad; CPU OS 9_9_9_9 Trident/7.0; rv:11.0) like Gecko
+Mozilla/5.0 (Android 4.0.3 like Android 8.1 Tablet; rv:52.0) Icecat/52.0 sibling of Firefox/62.0.1
+Dalvik/2.1.0 (Linux; U; Android 6.0; vivo 1609 Build/MRA58K)
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-T285YD) U2/1.0.0 UCBrowser/10.9.5.983 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1366; U; en) Presto/2.8.119 Version/11.10
+Mozila/5.0 (ipad; firefox/12.08870/27.1407; u; en) presto/2.8.119 version/11.10 UNTRUSTED/1.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T805Y Build/MMB29K)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T231 Build/KOT49H)
+Mozilla/5.0 (Android 5.1.1; Tablet; rv:50.1.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; br-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0
+Mozilla/5.0 (Android; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1306261156) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADY-1203051712; U; ru) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (compatible; MSIE 9.0; Android 3.2; Linux; Opera Tablet/ADR-1204201824; en) Opera 12.00
+Mozilla/5.0 (Android 5; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; GT-N7000) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/36.2084; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.30765/27.1324; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1204201824; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 8.1 compatable Tablet; rv:52.0) Icecat/52.0 sibling of Firefox/62.0.1
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (compatible; gemalto tablet; Windows NT 6.1; Trident/7.0; Touch; rv:11.0) like Gecko
+Android 7.1.1 Nexus 7
+Mozilla/5.0 (Android; Tablet; rv:25.9) Gecko/25.9 Firefox/31.9 PaleMoon/25.9.4
+Mozilla/5.0 (Windows NT 6.3; Tablet; Trident/7.0; Touch; rv:11.0) like Gecko
+Opera/9.80 (iPad; Opera Mini/7.0.5/73.114; U; es) Presto/2.12.423 Version/12.16
+Callpod Keeper for Android 1.0 (10.5.3/267) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0(iPad; U; CPU OS 32 like Mac OS X; en-us)AppleWebKit/531.21.10 (KHTML like Gecko) Version/4.0.4Mobile/7B334b Safari/531.21.10
+UCWEB/2.0 (Linux; U; Adr 4.0.4; en-US; GT-N7000) U2/1.0.0 UCBrowser/9.3.0.321 U2/1.0.0 Mobile
+Windows RPMWrapper Tablet Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-P5210) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3638; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+(iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1
+Opera/9.80 (Android 2.2.2; Linux; Opera Tablet/ADR-1210241511) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android; Tablet; rv:15.0) Gecko/15.0 Firefox/15.0.1
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1202011015; U; en) Presto/2.9.201 Version/11.50
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; GT-N7100 Build/JRO03C)
+Opera/9.80 (Android 4.1.0; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; vivo_Y27L) U2/1.0.0 UCBrowser/10.9.8.1006 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3061; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.3/28.2225; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 4.3; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-CA; ThinkPad Tablet Build/ThinkPadTabletA40003) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; de-DE; ASUS Transformer Pad TF300T Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Windows NT 6.1; Tablet; rv:36.0) Gecko/36.0 Firefox/36.0
+Mozilla/5.0 (Android 6.0.1; Tablet) Gecko/52.0 Firefox/52.0
+Dalvik/1.6.0 (Linux; U; Android 4.3.1; GT-P3110 Build/JLS36I)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; es-LA; SM-T220) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; AppleWebkit/610.1.1; Chrome/77.0.3282.140 Safari/610.36 Edge/43.17134; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; Tablet; Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.1916.141 Safari/537.36
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.820; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1306261205) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; U; firefox/12; en-us; compatible; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0
+Mozilla/5.0 (Android 5.0; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 4.4.2; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0,gzip(gfe)
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/23.411; U; en) Presto/2.5.25 Version/10.54
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T311) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; SM-T111) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; CPU OS 61 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1207241053; U; es-ES) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1205181158; U; en-GB) Presto/2.10.254 Version/12.00
+Blackberry iPhone iPad Android Firefox Rockmelt kalkulator sempoa UNTRUSTED/1.0
+Mozilla/5.0 (iPad; CPU OS 612 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10B146
+FileMaster 3.3 (iPad; iPhone OS 8.1; gu_IN)
+FileMaster 3.3 (iPad; iPhone OS 7.0.4; en_AU)
+Mozilla/5.0 (Android 7.0; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+Mozilla/5.0 (Java; U; Pt-br; zte-g-x990-vivo) UCBrowser8.3.1.161/70/465/UCWEB Mobile UNTRUSTED/1.0,gzip(gfe)
+Callpod Keeper for Android 1.0 (11.0.1/287) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1411061216) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android 5.1; Tablet; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (iPad; CPU OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10A403 Version/5.1 Safari/7534.48.3 NAVER(inapp; search; 103; 4.0.0)
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1309; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android; Tablet; rv:38.0) Gecko/38.0 Firefox/38.0,gzip(gfe)
+Mozilla/5.0 (iPad; CPU OS 613 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10B329
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1153; U; tr) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-T235Y) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/58.167; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; CPU OS 601 like Mac OS X; en-us) AppleWebKit/536.26 (KHTML like Gecko) CriOS/23.0.1271.91 Mobile/10A523 Safari/8536.25gzip(gfe)
+Mozilla/5.0 (Android; Mobile; Nexus 9 rv:31.0) Gecko/31.0 Firefox/31.0
+Touch; Tablet PC; Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; Sony Tablet S Build/TISU0077) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; es-US; U1 Build/HCL ME Tablet U1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; es-US) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; zh-CN) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-CA; U1 Build/HCL ME Tablet U1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (compatible; MSIE 4.0; WinNT3.51; Tablet PC; Trident/1.0)
+Mozilla/5.0 (Android; Tablet; rv:19.0) Gecko/19.0 Firefox/19.
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; Nexus 9 Build/NMF26F)
+Mozilla/5.0 (Tablet; rv:38.0) Gecko/20100101 Firefox/38.0
+Opera/9.80 (iPad; Opera Mini/6.5.1.23995/27.1350; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4 Mobile/7B314 Safari/531.21.10
+Mozilla/5.0 (X11; U; Linux armv6l; en-US; rv:1.9a6pre) Gecko/20080828 Firefox/3.0a1 Tablet browser 0.3.7 RX-34
+Mozilla/5.0 (Linux; U; Android; Tablet; it-it; Trident/7.0; rv:11.0) like Gecko
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1853; U; ru) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4 Safari/531.21.10
+Mozilla/5.0 (X11; U; Linux armv6l; it-IT; rv:1.9a6pre) Gecko/20080828 Firefox/3.0a1 Tablet browser 0.3.7 RX-34+RX-44+RX-48_DIABLO_5.2008.43-7
+Opera/9.80 (Android 4.2.1; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android; Tablet; rv:25.9) Gecko/25.9 Firefox/31.9 PaleMoon/25.9.0
+Mozilla/5.0 (iPad; U; Mac OS X; en-us) AppleWebKit/531.21.10 Version/4.0.4
+Mozilla/5.0 (Android 5.0; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+Opera/9.80 (iPad; Opera Mini/10.2.0/66.224; U; ar) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Linux; Android 4.2; ru-DE; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-CA; Sony Tablet S Build/TISU0077) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+iPad 6
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-CA; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Opera/9.80 (iPad; Opera Mini/8.0.0/35.3088; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:60.0) Gecko/60.0 Firefox/60.0
+Mozilla/5.0 (Android 4.3.1; Tablet; rv:43.0) Gecko/43.0 Firefox/43.0
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-US; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Opera/9.80 (iPad; Opera Mini/10.0.1/36.1487; U; en) Presto/2.12.423 Version/12.16
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T817V Build/MMB29K)
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:65.0) Gecko/65.0 Firefox/65.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/10.2.0.584 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T537V Build/LMY47X)
+Opera/9.80 (iPad; Opera Mini/14.0.0/64.199; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-DE; ASUS Transformer Pad TF300T Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Playbook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML,
+Opera/9.80 (Android 2.2; Linux; Opera Tablet/ADR-1301071820) Presto/2.11.355 Version/12.10
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T217T Build/JDQ39)
+AppCake 3.9 (iPad; iPhone OS 4.3.3; en_US)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/4.0.5 Mobile/8J2 Safari/6531.22.7
+Mozilla/5.0 (iPad; U; CPU OS 435 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5
+Mozilla/5.0 (Linux; U; Android 4.0.3; haw-US; Sony Tablet S Build/TISU0077) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T805W Build/LRX22G)
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/10.1.1/37.8861; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android; Tablet; rv:25.8) Gecko/25.8 Firefox/31.9 PaleMoon/25.8.1
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.4; id; GT-P3100) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1305251841) Presto/2.11.355 Version/12.10
+Opera/9.80 (Macintosh; Intel Mac OS X; Opera Tablet/23731; U; en) Presto/2.9.201 Version/11.50
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T713 Build/NRD90M)
+Opera/9.80 (iPad; Opera Mini/14.0.0/65.213; U; tr) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0
+Opera/9.80 (iPad; opera mini/7.28870/27.1407; U; en) presto/2.8.119 version/7.2 UNTRUSTED/1.0
+Mozilla/5.0 (Android 4.2.1; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (iPad; CPU OS 602 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A550 Safari/8536.25
+Mozilla/5.0 (Linux; Android 4.4.2; Nexus 7 Build/KOT49H; Trident/7.0; rv:11.0) like Gecko
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-N8000 Build/JZO54K)
+Mozilla/4.0 (compatible; MSIE 8.0; AOL 9.7; AOLBuild 4343.27; Linux; Android 4.4.2; Nexus 7 Build/KOT49H; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (iPad; CPU OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T700 Build/MMB29K)
+Mozilla/5.0 (iPad; CPU OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML
+Mozilla/5.0 (Android; Tablet; rv:35.0.1) Gecko/35.0.1 Firefox/35.0.1
+Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML
+ipad air2
+Opera/9.80 (Android 2.2.1; Linux; Opera Tablet/build-1203300859; U; en) Presto/2.10.254 Version/12.00
+ipad air 2
+Mozilla/5.0 (Android 5.0.1; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Mozilla/5.0 (Linux; Android 6.0.1; Samsung Galaxy Note/GT-N7000) Gecko/20100101 Firefox/47.0.1
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1207201819; U; pt) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1212031050) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Linux; U; Android 4.2.1; oc-FR; GT-P5100 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; Android 4.2; tr-DE; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Mozilla/5.0 (iPad; CPU OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5gzip(gfe)
+Opera/9.80 (iPad; Opera Mini/10.0.1/66.299; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Tablet; rv:29.0) Gecko/29.0 Firefox/29.0
+Opera/9.80 (Android 4.1.2; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; CPU OS 11_0_2 like Mac OS X) AppleWebKit/604.1.38 (KHTML
+Opera/9.80 (iPad; Opera Mini/7.0.5/28.3492; U; fi) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 10_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+WebView/4.0 (Android; Tablet; rv:20.0) Gecko/20.0 Rits Browser/1.8.3
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; id; vivo_Y28) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Opera/9.80 (Android; Opera Mini/22.0.2254/37.9389; hi-in; sm-t231) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1306261156) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/16.0.4/73.132; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad)
+Mozilla/5.0 (iPad; CPU OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0 (Linux; U; Android 4.2.1; en-US; Nexus 7 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5110
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-P600) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
+Safari iOS 3.2.2 - iPad
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-T285) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5110 Build/SGASA
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Tab 2 7.0/GT-P3100) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Note/GT-N7000) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-FR; Sony Tablet S Build/TISU0124) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T378V Build/NMF26X)
+Opera/9.80 (Android 5.0.2; Linux; Opera Tablet/ADR-1502231212) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/14.0.0/83.114; U; en) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/21.0.1180.82 Mobile/8J2 Safari/7534.48.3
+Mozilla/5.0 (Android 4.3.1; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1697; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1306261156) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 3.1; Linux; Opera Tablet/ADR-1204201824; U; es-ES) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android 8.0.0; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; SM-T555) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.817; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (compatible; MSIE 3.0; 68K; Tablet PC; Trident/1.0)
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3442; U; zh) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Note/GT-N7000) Gecko/20100101 Firefox/50.1.0
+Mozilla/5.0 (Microsoft Surface; Windows NT 6.3; ARM; Tablet; Trident/7.0; Touch; rv:11.0) like Gecko
+Mozilla/5.0 (X11; U; Linux armv6l; en-US; rv:1.9a6pre) Gecko/20070807 Firefox/3.0a1 Tablet browser 0.1.16 RX-34_2007SE_4.2007.26-8
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-P3100) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 712 like Mac OS X; vi-vn) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1202231246; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Linux; Android 4.2; oc-FR; SONY XperiaTablet Build/JOP22F) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.464 Safari/535.19
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9285; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:59.0) Gecko/59.0 Firefox/59.0
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; SM-T210) U2/1.0.0 UCBrowser/9.0.2.389 Mobile
+vivo_Y613/1.0 Linux/3.4.5 Android/4.2.2 Release/01.17.2014 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.2.2
+Mozilla/5.0 (Android 4.2; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+samsung-gt-p1000
+Opera/9.80 (iPad; Opera Mini/7.2.37083/27.1813; U; ar) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 3.1; en-US; GT-P7500) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+Mozilla/5.0 (Android 5.1; Tablet; rv:54.0) Gecko/54.0 Firefox/54.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1654; U; pt) Presto/2.8.119 Version/11.10
+https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28LuneOS%2C+like+webOS%2F3.0.5%3B+Tablet%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+QtWebEngine%2F5.6.2+Chrome%2F45.0.2454.103+Safari%2F537.36
+Mozilla/5.0 (iPad; CPU OS 10_1_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML
+Mozilla/5.0 (Android; Tablet; rv:31.0) Gecko/14.0 Firefox/14.0
+Callpod Keeper for Android 1.0 (10.7.0/280) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+iCab (iPad)
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3054; U; ko) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android; Tablet; rv:31) Gecko/31 Firefox/31
+Mozilla/5.0 (Android 7.0; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0
+Callpod Keeper for Android 1.0 (10.5.8/273) Dalvik/2.1.0 (Linux; U; Android 5.1.1; SAMSUNG-SM-T337A Build/LMY47X)
+Mozilla/5.0 (Android 4.4.4; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android; Tablet; rv:25.9) Gecko/25.9 Firefox/31.9 PaleMoon/25.9.2
+QwantMobile/2.0 (Android 5.1.1; Tablet; rv:61.0) Gecko/61.0 Firefox/59.0 QwantBrowser/61.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/11.5.2.1188 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 511 like Mac OS X; en-us) AppleWebKit/534.35 (KHTML like Gecko)  Chrome/11.0.696.65 Safari/534.35 Puffin/2.0.6104M Mobile
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+iPad_U_CPU_OS_8_Safari_7543_48_3
+Mozilla/5.0 (compatible; MSIE 9.0; Win3.11; Tablet PC; Trident/3.0)
+Mozilla/5.0 (Linux; Android 4.2; en-CA; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; vivo_Y21) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/ADR-1207201848; U; en) Presto/2.10.254 Version/12.00
+Mozilla/5.0 (Android; Tablet; rv:25.3) Gecko/25.3 Firefox/31.9 PaleMoon/25.3.1
+Mozilla/5.0 (Android; Tablet; rv:14.0) Gecko/14.0 Firefox/50.0.1
+Mozilla/5.0 (Android; Tablet; KFTHWI; rv:29.0) Gecko/29.0 Firefox/29.0
+Opera/9.80 (iPad; Opera Mini/13.0.1/37.8314; U; fi) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (iPad; U; CPU OS 501 like Mac OS X; en-us) AppleWebKit/534.35 (KHTML like Gecko)  Chrome/11.0.696.65 Safari/534.35 Puffin/2.0.7193 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-CA; ThinkPad Tablet Build/ThinkPadTabletA40003) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Android 4.3; Tablet; rv:42.0) Gecko/42.0 Firefox/42.0
+Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML
+Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML
+Mozilla Firefox iPhone iPod iPad Android Mobile Safari Opera MSIE Internet Explorer iOS Windows Phone
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3442; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 2.1; Linux; Opera Tablet/ADR-1309251104) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML
+Mozilla/5.0 (Linux; U; Android 4.0.3; haw-US; Sony Tablet S Build/TISU0143) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1394; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 2.3.7; Linux; Opera Tablet/46154) Presto/2.11.355 Version/12.10,gzip(gfe)
+Mozilla/5.0 (Android 6.0; Tablet; rv:55.0) Gecko/55.0 Firefox/55.2.0 Waterfox/55.2.0
+Opera/9.80 (Android 2.2.1; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; U; CPU OS 433 like Mac OS X; fr-FR) AppleWebKit/533.17.9 (KHTML like Gecko) Mobile/8J2
+Dalvik/1.6.0 (Linux: U; Android 4.4.2; SM-T235
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.2; Opera Tablet/11648; en) Opera 11.00
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.6546; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-DE; Sony Tablet S Build/TISU0077) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (Android 4.4.4; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (iPad; CPU OS 51 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko ) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Opera/9.80 (iPad; Opera Mini/7.0.5/31.1543; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; vivo_Y15S) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; vivo_1713) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; CPU iPhone OS 614 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3316; U; en) Presto/2.8.119 Version/11.10
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.0.3; en-US; GT-N9300) U2/1.0.0 UCBrowser/9.8.0.534 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-T111 Build/JDQ39)
+Mozilla/5.0 (Linux; Android 4.2.1; br-FR; Nexus 10 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; vivo_Y15) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-P5100 Build/JZO54K)
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.2089; U; fr) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/8.0.1/35.3226; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.2.2; Linux; Opera Tablet/ADR-1210081231) Presto/2.11.355 Version/12.10
+Android 7.1.1 Nexus 9
+Azul 6.2.1 rv:6.2 (iPad; iPhone OS 11.3; en_US)
+Opera/9.80 (iPad; Opera Mini/9.1.0/35.6998; U; nb) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1111101157; U; en) Presto/2.9.201 Version/11.50
+Mozilla/5.0 (Linux; U; Android 4.2.1; pl-DE; Nexus 7 Build/JOP40D) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1207201921; U; en) Presto/2.10.254 Version/12.00
+Safari iPad Pro (iOS 10.3)
+GT-N7100 Linux/3.0.13 Android/4.1.1 Release/02.01.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-N7000) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-T805 Build/KOT49H)
+Mozilla/5.0 (Android 4.4; Tablet; rv:46.0) Gecko/46.0 Alert/46.0
+Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1350; U; ar) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/16.0.7/119.127; U; en) Presto/2.12.423 Version/12.16
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_V3) U2/1.0.0 UCBrowser/10.9.2.962 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; I; MS-DOS 2.6.18; ARM; rv1.4.10) WebKit/20120101
+Opera/9.80 (iPad; Opera Mini/14.0.0/119.127; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPad; Opera Mini/7.0.5/29.3594; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/60.297; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android 2.3.3; Linux; Opera Tablet/ADR-1202011015; U; en) Presto/2.9.201 Version/11.50
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1204201824; U; en) Presto/2.10.254 Version/12.00
+MSIE 6.0 (iPad; I; MS-DOS 2.6.18; ARM; rv1.4.10) WebKit/20120101
+Mozilla/5.0 (Android N; Tablet; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; Sony Tablet S Build/TISU0124) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+MSIE 11.0 (iPad; I; MS-DOS 2.6.18; ARM; rv1.4.10) WebKit/20120101
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-P5100 Build/JDQ39)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.3; en-US; GT-N7100) U2/1.0.0 UCBrowser/8.9.0.368 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T377P Build/MMB29M)
+Mozilla/5.0 (iPad; iPhone OS 5) AppleWebKit/1.1
+Mozilla/5.0 (iPad; U; CPU OS 434 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADY-1111101223; U; ru) Presto/2.9.201 Version/11.50
+Mozilla/5.0 (Android 4.1.2; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (iPad; CPU like Mac OS X) AppleWebKit/420+
+Mozilla/5.0 (Android 4.1.1; Tablet; rv:45.0) Gecko/45.0 Firefox/45.0
+FileMaster 3.6 (iPad; iPhone OS 7.1.2; en_US)
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; id; SM-T211) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 431 like Mac OS X; haw-US) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android; Tablet; rv:29.0) Gecko/27.0 Firefox/29.0
+Dalvik/1.6.0 (Linux; U; Android 4.0.4; GT-N7000 Build/IMM76D)
+Amazon.com/10.3.0.850 (Android/7.1.1/Nexus 9)
+Mozilla/5.0 (iPad; CPU OS 501 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML like Gecko) CriOS/21.0.1180.77 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (Linux; Android 4.2.1; en-US; Nexus 10 Build/JOP40D) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.166 Safari/535.19
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1499; U; en) Presto/2.8.119 Version/11.10
+SAMSUNG-GT-P3108_TD/1.0 Android/4.0.3 Release/02.15.2012 Browser/AppleWebKit534.30
+Mozilla/5.0 (Android 4.0.3; Tablet; rv:44.0) Gecko/44.0 Firefox/44.0
+Callpod Keeper for Android 1.0 (10.4.5/257) Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T550 Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; GT-N7100 Build/NJH47F)
+Opera/9.80 (Android 2.2.1; Linux; Opera Tablet/ADR-1207201819; U; fr) Presto/2.10.254 Version/12.00
+Dalvik/1.6.0 (Linux; U; Android 4.3; GT-N7100 Build/JSS15J)
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1203051631; U; en) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 4.4.2; Linux; Opera Tablet/OupengHD-1.6/ADR-1301101041) Presto/2.11.355 Version/12.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.788; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/115.31; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android 4.0.4; Linux; Opera Tablet/ADR-1309251116) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 4.1.1; Linux; Opera Tablet/ADR-1212030829) Presto/2.11.355 Version/12.10
+Opera/9.80 (Windows; Opera Tablet/34096; U; en) Presto/2.10.254 Version/12.00
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T810 Build/LMY47X)
+Mozilla/5.0 (compatible; MSIE 9.0; Android 3.2.1; Linux; Opera Tablet/ADR-1207201819; en) Opera 12.00
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T231) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; vivo_Y15S) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 6.0.99; Samsung Galaxy Note II/GT-N7100 ) Gecko/20100101 Firefox/47.0.1
+Mozilla/5.0 (Android 6.0.99; Tablet; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Opera Tablet/11648; en) Opera 11.00
+Opera/9.80 (Android 2.3.1; Linux; Opera Tablet/ADR-1204201824; U; en) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 4.1.2; Linux; Opera Tablet/ADR-1305251841) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; GT-N7100 Build/KOT49H) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.4.6.1017 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 51 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Mobile/9B176 Safari/7534.48.3 Sleipnir/1.9.2m
+Mozilla/5.0 (Android 4.4.3; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T819Y Build/NRD90M)
+Opera/9.80 (iPad; Opera Mini/7.0.5/34.1944; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (iPad; Opera Mini/7.0.5/32.1528; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 4.3; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3214; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android 5.0; Mobile; Nexus 9; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (iPad; CPU OS 71 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Mobile/11D167 Version/7.1 Safari/8536.25
+Mozilla/5.0 (iPad; CPU OS 704 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-FR; Sony Tablet S Build/TISU0143) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; vivo_1603) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-T211) U2/1.0.0 UCBrowser/10.7.5.785 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/7.0.5/30.3389; U; en) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (Android; Tablet; rv:25.2) Gecko/25.2 Firefox/31.9 PaleMoon/25.2.1
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285 Build/LMY47V)
+Mozilla/5.0 (iPad; U; CPU iPad OS 6_0_1 like Mac OS X; en-us) AppleWebKit/535.1+ (KHTML like   Gecko) Version/7.2.0.0 Safari/6533.18.5
+CitrixReceiver-iPad/201 CFNetwork/889.9 Darwin/17.2.0
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML  like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (Linux; Android 4.4.2; Nexus 7 Build/KOT49H) Gecko/33.0 Firefox/33.0
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; Transformer Prime TF201 Build/JRO03C)
+Opera/9.80 (Android 2.3.4; Linux; Opera Tablet/ADR-1203051651; U; en) Presto/2.10.254 Version/12.00
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; SM-T211) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; id; GT-P3100) U2/1.0.0 UCBrowser/9.1.1.420 U2/1.0.0 Ponsel
+Mozilla/5.0 (iPad; U; CPU OS 421 like Mac OS X; fr-CA) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; vivo_Y21L) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+Opera/9.80 (iPad; Opera Mini/8.0.2/35.3997; U; en) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android 4.4; Linux; Opera Tablet/ADR-1411061201) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Android; Mobile; Nexus 98 rv:98.0) Gecko/98.0 Firefox/98.0
+Mozilla/5.0 (Android; Mobile; Nexus 10 rv:40.0) Gecko/40.0 Firefox/40.0
+Mozilla/5.0 (iPad; U; CPU OS 432 like Mac OS X; ga-ES) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H8 Safari/6533.18.5
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1301080958) Presto/2.11.355 Version/12.10
+Mozilla/5.0 (Linux; U; Android 4.2.1; fr-CA; Barnes & Noble Nook Tablet Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Android; Tablet; rv:28.0) Gecko/26.0 Firefox/28.0

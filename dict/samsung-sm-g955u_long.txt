@@ -1,0 +1,7 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G955U Build/R16NW)
+Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G955U Build/NRD90M)
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G955U Build/NRD90M) AppleWebKit/537.36 (KHTML
+Callpod Keeper for Android 1.0 (11.2.6/316) Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G955U Build/R16NW)
+Callpod Keeper for Android 1.0 (11.1.1/295) Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G955U Build/NRD90M)
+Callpod Keeper for Android 1.0 (11.0.1/287) Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G955U Build/NRD90M)
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; SM-G955U) U2/1.0.0 UCBrowser/11.0.6.1040 U2/1.0.0 Mobile

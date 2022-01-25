@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; HTC6545LVW Build/OPR1.170623.027)

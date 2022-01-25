@@ -1,0 +1,17 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1; XT1039 Build/LPBS23.13-17.3-1)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; XT1032 Build/KXB20.9-1.10-1.9)
+Dalvik/2.1.0 (Linux; U; Android 5.1; XT1032 Build/LPBS23.13-56-2)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; XT1032 Build/KXB21.14-L1.61)
+Dalvik/2.1.0 (Linux; U; Android 5.1; XT1031 Build/LPB23.13-51-R.14)
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; XT1033) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; XT1045 Build/KXB21.14-L1.45)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; XT1032 Build/KLB20.9-1.10-1.9)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; XT1031 Build/KXB20.9-1.10-1.43)
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; XT1033) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+Dalvik/2.1.0 (Linux; U; Android 5.1; XT1039 Build/LPB23.13-17.3)
+Mozilla/5.0 (Android; Mobile; XT1031; rv:29.0) Gecko/29.0 Firefox/29.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; XT1033) U2/1.0.0 UCBrowser/10.2.1.612 U2/1.0.0 Mobile
+Mozilla/5.0 (Android; Mobile; XT1032; rv:32.0) Gecko/32.0 Firefox/32.0
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; XT1033) U2/1.0.0 UCBrowser/10.4.2.659 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; XT1033) U2/1.0.0 UCBrowser/9.4.0.460 U2/1.0.0 Mobile
+UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; en-US; XT1033 Build/LPB23.13-56) U2/1.0.0 UCBrowser/10.4.2.659 Mobile

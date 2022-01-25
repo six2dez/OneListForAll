@@ -1,0 +1,1 @@
+Nokia6/2.0 (5.0509.0) SymbianOS/7.0s Series6/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0

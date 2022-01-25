@@ -1,0 +1,8 @@
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G900F Build/LRX21T)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G900F Build/KOT49H)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G900F Build/MMB29M)
+Dalvik/2.1.0 (Linux; U; Android 5.0; SM-G900F Build/LRX21T) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-G900F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G900F Build/JDQ39)
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-G900F) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG SM-G900F Build/KOT49H) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.2; en-US; SM-G900F) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile

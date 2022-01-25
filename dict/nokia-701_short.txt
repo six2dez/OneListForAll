@@ -1,0 +1,2 @@
+UCWEB/2.0 (Symbian; U; S60 V5; en-US; Nokia701) U2/1.0.0 UCBrowser/9.0.1.317 U2/1.0.0 Mobile
+UCWEB/2.0(Symbian; U; S60 V5; en-US; Nokia701) U2/1.0.0 UCBrowser/8.8.1.252 U2/1.0.0 Mobile

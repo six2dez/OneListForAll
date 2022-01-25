@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 7.0; SAMSUNG-SM-J727A Build/NRD90M)
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SAMSUNG-SM-J727A Build/M1AJQ)

@@ -1,0 +1,3 @@
+Mozilla/5.0 (Linux; U; Android 4.0.3; fr-CA; HTCPH39100/3.26.502.56 Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-CA; HTCPH39100/3.26.502.56 Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; es-US; HTCPH39100/3.26.502.56 Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30

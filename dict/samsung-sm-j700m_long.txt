@@ -1,0 +1,2 @@
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J700M Build/LMY48B)
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J700M Build/MMB29K)
