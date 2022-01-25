@@ -34,3 +34,4 @@ ldap ldap
 xml xml
 nginx nginx
 bypass bypass
+joomla joomla
