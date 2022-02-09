@@ -3611,6 +3611,11 @@ api/v1/swagger-ui.json
 api/v1/swagger.json
 api/v1/swagger.yaml
 api/v1/targets
+api/v1/user/all
+api/v1/user/list
+api/v1/users
+api/v1/users/all
+api/v1/users/list
 api/v2
 api/v2/api-docs
 api/v2/apidocs
@@ -3621,6 +3626,11 @@ api/v2/swagger-ui.html
 api/v2/swagger-ui.json
 api/v2/swagger.json
 api/v2/swagger.yaml
+api/v2/user/all
+api/v2/user/list
+api/v2/users
+api/v2/users/all
+api/v2/users/list
 api/v3
 api/vendor/phpunit/phpunit/phpunit
 api/whoami
