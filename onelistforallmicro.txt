@@ -2054,6 +2054,7 @@ account/logon
 account/register
 account/set_up
 account/set-up
+account/settings
 account/setup
 account/sign_up
 account/signin
@@ -3583,6 +3584,8 @@ api/swagger/swagger
 api/swagger/ui/index
 api/timelion/run
 api/user
+api/users
+api/users/all
 api/v1
 api/v1/
 api/v1/api-docs
@@ -12513,6 +12516,7 @@ settings.sql
 settings.swp
 settings.txt
 settings.xml
+settings/profile
 settings/ui.plist
 setup
 setup_env.sh
@@ -14218,7 +14222,9 @@ user/admin/addnewuser.jsp
 user/join
 user/login
 user/login.php
+user/profile
 user/register
+user/settings
 user/signup
 useradmin
 usercontent
@@ -14241,6 +14247,7 @@ userlogin.do
 userlogin.htm
 userlogin.html
 userlogin.php
+username
 usernames.txt
 usernote.php
 userportal/webpages/myaccount/login.jsp
@@ -15180,6 +15187,7 @@ wp-admin
 wp-admin.php
 wp-admin/admin-ajax.php
 wp-admin/admin-post.php
+wp-admin/admin.php
 wp-admin/c99.php
 wp-admin/install.php
 wp-admin/plugin-install.php?tab=upload
