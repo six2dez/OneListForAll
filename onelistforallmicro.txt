@@ -14617,6 +14617,7 @@ var/log/test.log
 var/logs
 var/logs/.gitkeep
 var/package
+var/resource_config.json
 var/sessions
 var/sessions/.gitkeep
 var/symfonyrequirements.php
