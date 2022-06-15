@@ -1,7 +1,7 @@
 # OneListForAll
 **Rockyou for web fuzzing**
 
-This is a projectt to generate huge wordlists for web fuzzing, if you just want to fuzz with a good wordlist use the file [onelistforallmicro.txt](https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt).
+This is a project to generate huge wordlists for web fuzzing, if you just want to fuzz with a good wordlist use the file [onelistforallmicro.txt](https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt).
 
 ## Usage
 
@@ -41,14 +41,13 @@ ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 
 ## Wordlists summary
 
-- **onelistforall.txt** basically everything, launch it and go to sleep. 6950906 lines, 113M
-- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 396038 lines, 5.6M
-- **onelistforallmicro.txt** almost 10K lines of the best paths you can find, just juicy and important stuff: 9688 lines, 141K
-
+- **onelistforallmicro.txt** manally crafted wordlist for low hanging fruits: 18109 lines, 298K
+- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 822115 lines, 12M
+- **onelistforall.txt** basically everything, launch it and go to sleep. 55684781 lines, 1.1G
 
 ## Sources
 
-This is a wordlist for fuzzing purposes made from the best wordlists currently available, lowercased and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut), added cleaner from [BonJarber](https://github.com/BonJarber/SecUtils/tree/master/clean_wordlist). The lists used have been some selected within these repositories:
+This is a wordlists project for fuzzing purposes made from the best word lists currently available,merged and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut), adding cleaner from [BonJarber](https://github.com/BonJarber/SecUtils/tree/master/clean_wordlist). The lists used have been selected from these repositories:
 
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 - [SecLists](https://github.com/danielmiessler/SecLists)
@@ -70,6 +69,7 @@ This is a wordlist for fuzzing purposes made from the best wordlists currently a
 - [commonspeak2](https://github.com/assetnote/commonspeak2-wordlists)
 - [bruteforce-list](https://github.com/random-robbie/bruteforce-lists)
 - [assetnote](https://wordlists.assetnote.io/)
+- [brutas](https://github.com/tasooshi/brutas)
+- [werdlists](https://github.com/decal/werdlists)
 
 Feel free to contribute, PR are welcomed.
-
