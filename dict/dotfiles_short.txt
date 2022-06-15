@@ -1342,3 +1342,5 @@
 .zshrc.pre-oh-my-zsh
 .zuul.yaml
 .zuul.yml
+.ssh/pi_rsa  
+.virtualenvs/postrmvirtualenv	

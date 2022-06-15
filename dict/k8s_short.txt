@@ -54,3 +54,9 @@ etcd-peer.crt
 kube-addon-manager.log
 kube-apiserver-audit.log
 glbc.log
+data/configdb/mongod.conf
+/var/run/secrets/eks.amazonaws.com/serviceaccount/
+/host/var/log/aws-routed-eni/ipamd.log
+/var/run/secrets/eks.amazonaws.com/serviceaccount/token
+etc/grafana/grafana.ini
+etc/grafana/provisioning/datasources/datasources.yaml
