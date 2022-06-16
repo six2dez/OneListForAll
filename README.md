@@ -3,11 +3,17 @@
 
 This is a project to generate huge wordlists for web fuzzing, if you just want to fuzz with a good wordlist use the file [onelistforallmicro.txt](https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt).
 
+The wordlists mentioned at the bottom of this pages are merged by technology/type and differenced by _sort and _long suffixes. So you can search by any technology or software and fuzz the target site with a small list or the long one. Also, this projects provides three of all-in-one wordlists:
+
+- onelistforall.txt (everything merged, both _sort.txt and _long.txt files, cleaned and deduplicated)
+- onelistforallshort.txt (merged only _sort.txt files, cleaned and deduplicated)
+- onelistforallmicro.txt (my favorite, manually crafted and constantly updated, with interesting files and low-hanging fruits findings)
+
 ## Usage
 
 ### Method 1
 
-1. Go to [releases](https://github.com/six2dez/OneListForAll/releases) and download
+1. Go to [releases](https://github.com/six2dez/OneListForAll/releases) and download the latest
 
 2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
@@ -15,18 +21,6 @@ ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ```
 
 ### Method 2
-
-1. Git clone and extract:
-```bash
-git clone https://github.com/six2dez/OneListForAll && cd OneListForAll
-7z x onelistforall.7z.001
-```
-2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
-```bash
-ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
-```
-
-### Method 3
 
 **Build your own wordlists!**
 
@@ -42,8 +36,8 @@ ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 ## Wordlists summary
 
 - **onelistforallmicro.txt** manally crafted wordlist for low hanging fruits: 18109 lines, 298K
-- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 822115 lines, 12M
-- **onelistforall.txt** basically everything, launch it and go to sleep. 55684781 lines, 1.1G
+- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 892361 lines, 15M
+- **onelistforall.txt** basically everything, launch it and go to sleep. 59076819 lines, 1.2G
 
 ## Sources
 
