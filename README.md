@@ -65,5 +65,6 @@ This is a wordlists project for fuzzing purposes made from the best word lists c
 - [assetnote](https://wordlists.assetnote.io/)
 - [brutas](https://github.com/tasooshi/brutas)
 - [werdlists](https://github.com/decal/werdlists)
+- [tk0-bugbounty](https://github.com/tomikoski/tk0-bugbounty)
 
 Feel free to contribute, PR are welcomed.
