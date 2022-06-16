@@ -1,28 +1,3 @@
-readme_en
-readme.1st
-readme.pdf
-readme.php
-readme.htm
-readme.xml
-readme-v1_0
-readme.txt~
-readme.html
-readme2.txt
-readme-v1_0_1
-readme.cs.txt
-readme-es.html
-readme-en.html
-readme.svn-base
-readme.Auth.txt
-readme-ar_AR.txt
-readme-it_IT.txt
-readme_first.txt
-.versions-readme
-readme-tech.html
-readme.demos.txt
-readme-pt_br.html
-readme-pt_pt.html
-getid3.readme.txt
-phpthumb.readme.txt
-readme.pdf.svn-base
-readme.php.svn-base
+version https://git-lfs.github.com/spec/v1
+oid sha256:9972d73fbdacf2b20a85fba69b69fe84f6fdc947aba47b34bbf8afa2d50c0550
+size 419

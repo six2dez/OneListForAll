@@ -1,27 +1,3 @@
-c
-cn
-co
-commonName
-dc
-facsimileTelephoneNumber
-givenName
-gn
-homePhone
-id
-jpegPhoto
-l
-mail
-mobile
-name
-o
-objectClass
-ou
-owner
-pager
-password
-sn
-st
-surname
-uid
-username
-userPassword
+version https://git-lfs.github.com/spec/v1
+oid sha256:97cbbc3295d3b171677a415eebab7bb55d213476459d6ad76e96f07787ec37de
+size 180

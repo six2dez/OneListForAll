@@ -1,14 +1,3 @@
-admin
-manager
-root
-cisco
-apc
-pass
-security
-user
-system
-sys
-wampp
-newuser
-xampp-dav-unsecure
-vagrant
+version https://git-lfs.github.com/spec/v1
+oid sha256:68fc4711646f3cab6d3cd434e21cbab6ff3b84c6007aa7853567795f55e87b78
+size 99

@@ -1,9 +1,3 @@
-AWSECommerceService.wsdl
-UserService.wsdl
-Authentication.wsdl
-ProjectService.wsdl
-customer.wsdl
-domain.wsdl
-domaincontact.wsdl
-domainuscontact.wsdl
-fund.wsdl
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9de817745bb04ad0503c374026d6c2110cd56aaacf8b8ce8cc60dad09c17447
+size 158

@@ -1,19 +1,3 @@
-static.conf
-lang.conf
-7464c5a6be703fcfed77f7e73c879198.js
-themes.conf
-entry.count.image
-app.prod.conf
-embed
-www+django.conf
-named.conf
-js.conf
-.nginx.conf
-a1a013190e45c263c029ae5e27edcdb7.js
-analytics.conf
-monpaiement.conf
-config.conf
-xmRouteB.conf
-django.conf
-generated.conf
-apps_groups.conf
+version https://git-lfs.github.com/spec/v1
+oid sha256:c083e72bc86b00835fdf0e2fcff6b7cd437475ce80847d70741dfc02dab51eaa
+size 293

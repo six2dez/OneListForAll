@@ -1,11 +1,3 @@
-ASP.NET_SessionId
-ASPSESSIONID
-SITESERVER
-cfid
-cftoken
-jsessionid
-sessid
-sid
-viewstate
-zenid
-PHPSESSID
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6ecf28674a6d41450032a74296e7c2304a0370538a9ce90c79b6d4c12a02ae
+size 103

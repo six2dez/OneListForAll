@@ -1,8 +1,3 @@
-etc/apache2/httpd.conf
-Library/WebServer/Documents/index.html
-private/var/log/appstore.log
-var/log/apache2/error_log
-var/log/apache2/access_log
-usr/local/nginx/conf/nginx.conf
-var/log/nginx/error_log
-var/log/nginx/access_log
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc4ae553830e5950d8b2d05f704f0dd2d3a7ca303d87f99cf1a89e5265555d95
+size 224

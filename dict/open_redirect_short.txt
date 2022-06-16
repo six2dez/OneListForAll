@@ -1,29 +1,3 @@
-.example.com
-////example.com
-////example.com/
-///\;@example.com
-///example.com/
-///example.com//
-//\;@example.com
-//example.com
-//example.com/
-//example.com//
-/example.com
-/example.com/
-/example.com//
-/https://example.com//
-<>//example.com
-\/\/example.com/
-\/example.com/
-http://example.com
-http:/example.com
-https://example.com
-https://example.com/
-https://example.com//
-https:example.com
-redirect?url=//example.com&next=//example.com&redirect=//example.com&redir=//example.com&rurl=//example.com
-redirect?url=//example.com&next=//example.com&redirect=//example.com&redir=//example.com&rurl=//example.com&redirect_uri=//example.com
-redirect?url=/\/example.com&next=/\/example.com&redirect=/\/example.com&redir=/\/example.com&rurl=/\/example.com
-redirect?url=/\/example.com&next=/\/example.com&redirect=/\/example.com&redir=/\/example.com&rurl=/\/example.com&redirect_uri=/\/example.com
-redirect?url=http://example.com&next=http://example.com&redirect=http://example.com&redir=http://example.com&rurl=http://example.com
-redirect?url=Https://example.com&next=Https://example.com&redirect=Https://example.com&redir=Https://example.com&rurl=Https://example.com&redirect_uri=Https://example.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a78c927d18be59db11f8174496b2053131f262efdf0d9aa89ad77aa960e6141
+size 1190

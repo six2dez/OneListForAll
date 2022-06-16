@@ -1,17 +1,3 @@
-*.jws
-AdminServlet
-AxisServlet
-EchoHeaders.jws
-SOAPMonitor
-StockQuoteService.jws
-fingerprint.jsp
-happyaxis.jsp
-i18nLib.jsp
-index.html
-index.jsp
-index.jws
-services
-services/*
-servlet
-servlet/AdminServlet
-servlet/AxisServlet
+version https://git-lfs.github.com/spec/v1
+oid sha256:3224f93d58637b2f32b0b0407f44f9dae09eda4411030a388b53248693e7e7d2
+size 240

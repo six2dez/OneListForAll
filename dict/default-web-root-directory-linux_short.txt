@@ -1,13 +1,3 @@
-var/www/html/
-var/www/
-var/www/sites/
-var/www/public/
-var/www/public_html/
-var/www/html/default/
-srv/www/
-srv/www/html/
-srv/www/sites/
-home/www/
-home/httpd/
-home/$USER/public_html/
-home/$USER/www/
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd90b4a7a507481cca7d66fc8d9637508c517d0a18f16e49c312ed1ba050da6
+size 197

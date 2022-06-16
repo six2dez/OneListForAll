@@ -1,26 +1,3 @@
-admin-serv
-admin-serv/config/admpw
-admpw
-agents
-bin
-ca
-ca
-cgi-bin
-config
-dirb_random.cgi
-dirb_random.jsp
-dirb_random.shtml
-docs
-dsgw
-help
-index.html
-jsp
-manual
-mc-icons
-netshare
-ns-icons
-publisher
-search
-search-ui
-servlet
-servlets
+version https://git-lfs.github.com/spec/v1
+oid sha256:cef7feb783d892d0161a325d7898b62734c36b991351b120cd223e54890dc8a2
+size 231

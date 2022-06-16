@@ -1,11 +1,3 @@
-view/All/builds
-view/All/newjob
-asynchPeople/
-userContent/
-computer/
-pview/
-systeminf
-systemInfo
-script
-signup
-securityRealm/createAccount
+version https://git-lfs.github.com/spec/v1
+oid sha256:449fe6a62f7c9a123256ce258e347ef60a0d427712eb649408f9553c1c1e73d2
+size 139

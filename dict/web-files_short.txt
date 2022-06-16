@@ -1,14 +1,3 @@
-robots.txt
-humans.txt
-style.css
-configuration.php
-wp-login.php
-wp-admin.php
-wp-content/plugins
-include/config.php
-inc/config.php
-include/mysql.php
-inc/mysql.php
-sites/defaults/settings.php
-phpmyadmin/changelog.php
-web.config
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1423c01b17889c3cd615ea568567780d250a601442eeac7a1fcc0ee223d71c5
+size 224

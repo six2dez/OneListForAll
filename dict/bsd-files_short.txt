@@ -1,13 +1,3 @@
-usr/pkg/etc/httpd/httpd.conf
-usr/local/etc/apache22/httpd.conf
-usr/local/etc/apache2/httpd.conf
-var/www/conf/httpd.conf
-var/www/logs/error_log
-var/www/logs/access_log
-etc/apache2/httpd2.conf
-var/apache2/logs/error_log
-var/apache2/logs/access_log
-var/log/httpd-error.log
-var/log/httpd-access.log
-var/log/httpd/error_log
-var/log/httpd/access_log
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9c94a363cb173abd0078ac1a173a49f14fe28726965b1b675f3bc8eb626af25
+size 343

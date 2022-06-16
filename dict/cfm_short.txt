@@ -1,25 +1,3 @@
-spellchecker.cfm
-connector.cfm
-config.cfm
-upload.cfm
-fckeditor.cfm
-cf5_connector.cfm
-cf5_upload.cfm
-cf_basexml.cfm
-cf_commands.cfm
-cf_connector.cfm
-cf_io.cfm
-cf_upload.cfm
-cf_util.cfm
-fckutils.cfm
-sample01.cfm
-sample02_mx.cfm
-sample01_mx.cfm
-sample02.cfm
-sample03.cfm
-sample03_mx.cfm
-sample04.cfm
-sample04_mx.cfm
-sampleposteddata.cfm
-Application.cfm
-index.cfm
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e48b52a370fcbaf313f19c2c77779425efdef889f8f302c00de9871e0ecf76
+size 360

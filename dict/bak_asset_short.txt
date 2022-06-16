@@ -1,14 +1,3 @@
-3-1_thumb.jpg.bak
-3-0_thumb.jpg.bak
-jquery.eislideshow.js.bak
-custom.css.bak.ver1460730841.bak
-Masthead-Background.bak
-style.css.bak
-bg3.png.bak
-bg.jpg.bak
-bg4.png.bak
-ua.png.bak
-Footer-Gradient.bak
-bg_barousel_content.bak
-animals_full.png.bak
-timer.png.bak
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f1e84a2427de505cb136983eb6b8cc681bd8451b379f1c4f1e9e3e52e92955
+size 258

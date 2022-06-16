@@ -1,16 +1,3 @@
-flex2gateway/
-flex2gateway/http
-flex2gateway/httpsecure
-flex2gateway/cfamfpoolling
-flex2gateway/amf
-flex2gateway/amfpolling
-messagebroker/http
-messagebroker/httpsecure
-blazeds/messagebroker/http
-blazeds/messagebroker/httpsecure
-samples/messagebroker/http
-samples/messagebroker/httpsecure
-lcds/messagebroker/http
-lcds/messagebroker/httpsecure
-lcds-samples/messagebroker/http
-lcds-samples/messagebroker/httpsecure
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e6bd6f35f94ea0296ae24c3e75cfcb23546dcd7aea7df1a9e14e92c5c29dd92
+size 411

@@ -1,33 +1,3 @@
-var/lib/cloud/instance/boot-finished
-var/lib/cloud/instance/cloud-config.txt
-var/lib/cloud/instance/datasource
-var/lib/cloud/instance/handlers/
-var/lib/cloud/instance/obj.pkl
-var/lib/cloud/instance/scripts/
-var/lib/cloud/instance/sem/
-var/lib/cloud/instance/user-data.txt
-var/lib/cloud/instance/user-data.txt.i
-var/lib/cloud/instance/vendor-data.txt
-var/lib/cloud/instance/vendor-data.txt.i
-boot-finished
-cloud-config.txt
-datasource
-handlers/
-obj.pkl
-scripts/
-sem/
-user-data.txt
-user-data.txt.i
-vendor-data.txt
-vendor-data.txt.i
-/var/lib/cloud/instance/boot-finished
-/var/lib/cloud/instance/cloud-config.txt
-/var/lib/cloud/instance/datasource
-/var/lib/cloud/instance/handlers/
-/var/lib/cloud/instance/obj.pkl
-/var/lib/cloud/instance/scripts/
-/var/lib/cloud/instance/sem/
-/var/lib/cloud/instance/user-data.txt
-/var/lib/cloud/instance/user-data.txt.i
-/var/lib/cloud/instance/vendor-data.txt
-/var/lib/cloud/instance/vendor-data.txt.i
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eaa2656c7d607cad376094e434071d311480bcb4b037d45986d959c927f41b1
+size 931

@@ -1,5 +1,3 @@
-swagger/index.html
-swagger/v1/swagger.json
-swagger-ui.html
-swagger-resources
-swagger/static/index.html
+version https://git-lfs.github.com/spec/v1
+oid sha256:795b9192cccd0286dd039d321f7abb0389b6de4fb49b323db538c5a14ef40120
+size 103

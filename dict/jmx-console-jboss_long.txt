@@ -1,15 +1,3 @@
-admin-console
-css
-css/
-css/jboss.css
-images
-images/
-images/logo.gif
-jbossws
-jmx-console
-jmx-console/
-jmx-console/filterView.jsp
-jmx-console/HtmlAdaptor
-jmx-console/HtmlAdaptor?action=displayMBeans
-jmx-console/style_master.css
-robots.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe8b9ab4ea099d9d1bbd53623ab565039ad13d5939702b1623dc6645208820ae
+size 236

@@ -1,20 +1,3 @@
-invoker/
-invoker/EJBInvokerServlet
-invoker/JMXInvokerServlet
-jbossmq-httpil/
-jbossws/services
-jmx-console
-jmx-console/
-jmx-console/HtmlAdaptor
-status
-web-console
-web-console/
-web-console/AOPBinding.jsp
-web-console/applet.jsp
-web-console/Invoker
-web-console/listMonitors.jsp
-web-console/ServerInfo.jsp
-web-console/status
-web-console/SysProperties.jsp
-web-console/WebModule.jsp
-WEB-INF/jboss-web.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b7ed2b8505498e9e0312b0c391957a2824ac3fa341ebac0f1d293eaf9844a7
+size 416

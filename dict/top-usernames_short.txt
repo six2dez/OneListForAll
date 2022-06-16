@@ -1,17 +1,3 @@
-root
-admin
-test
-guest
-info
-adm
-mysql
-user
-administrator
-oracle
-ftp
-pi
-puppet
-ansible
-ec2-user
-vagrant
-azureuser
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc44775d12dcdb4027017623ffaa935a018944839ce4b204ccb0c6ef566db5dd
+size 112
