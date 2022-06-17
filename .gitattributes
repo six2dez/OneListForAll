@@ -1,2 +1,0 @@
-*.txt filter=lfs diff=lfs merge=lfs -text
-dict/*.txt filter=lfs diff=lfs merge=lfs -text
