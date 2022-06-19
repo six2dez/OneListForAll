@@ -3,11 +3,15 @@
 
 This is a project to generate huge wordlists for web fuzzing, if you just want to fuzz with a good wordlist use the file [onelistforallmicro.txt](https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt).
 
+>**Due to GitHub's size file limitations I had to split all the files bigger than 50M in different files with the following taxonomy _technology_[1-99]_long.txt**
+>**If you want to recreate the original file just run, for example the apache long dict `cat dict/apache* > dict/apache_long.txt`**
+
 The wordlists mentioned at the bottom of this pages are merged by technology/type and differenced by _sort and _long suffixes. So you can search by any technology or software and fuzz the target site with a small list or the long one. Also, this projects provides three of all-in-one wordlists:
 
-- onelistforall.txt (everything merged, both _sort.txt and _long.txt files, cleaned and deduplicated)
+- onelistforall.txt (everything merged, both _sort.txt and _long.txt files, cleaned and deduplicated, zipped 7z multi)
 - onelistforallshort.txt (merged only _sort.txt files, cleaned and deduplicated)
 - onelistforallmicro.txt (my favorite, manually crafted and constantly updated, with interesting files and low-hanging fruits findings)
+
 
 ## Usage
 
