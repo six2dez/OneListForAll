@@ -24928,6 +24928,7 @@ api/v1
 .generators
 credits
 uddilistener
+sym404
 bsd-games
 kaffeine
 active6
@@ -25037,6 +25038,7 @@ api/put
 api/api-docs
 glossary
 ipc%24
+cox_sym/root
 element
 sourcecodeviewer
 borland
@@ -25066,6 +25068,7 @@ multicssql2.sql
 script/about
 data/database_dev.sqlite
 ecw-cart
+000~ROOT~000
 exploits
 marbry
 dat.sql
