@@ -25121,6 +25121,7 @@ slocate
 druid/coordinator/v1/metadata/datasources
 clanportal
 webalizer
+sym404/root/
 admin_area/login.htm
 wp-config.txt
 bomberclone
