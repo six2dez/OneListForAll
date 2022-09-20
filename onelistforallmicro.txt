@@ -62,7 +62,7 @@ adsl
 evil%e3%80%82com
 includes/tiny_mce
 desinsecta.sql
-evil.com/
+evil.com
 login/img/nyyh/chkjs.js
 pma2021/index.php
 content.tidy.-1.blubber.json
@@ -23495,7 +23495,6 @@ crond
 livre
 cidr.txtа
 addall.sql
-evil.com
 mssql.sql
 accont.sql
 arcane
@@ -25068,7 +25067,7 @@ multicssql2.sql
 script/about
 data/database_dev.sqlite
 ecw-cart
-000~ROOT~000
+000~root~000
 exploits
 marbry
 dat.sql
@@ -25121,7 +25120,7 @@ slocate
 druid/coordinator/v1/metadata/datasources
 clanportal
 webalizer
-sym404/root/
+sym404/root
 admin_area/login.htm
 wp-config.txt
 bomberclone
@@ -25320,3 +25319,14 @@ wp-config-backup.txt
 swagger-resources
 api/swagger.yml
 dede_houtai/login.php
+.devcontainer
+__bx_log.log
+api_log.txt
+eemadminservice/eemadmin?wsdl
+framework/yiic.php
+installer-backup.php
+installer-data.sql
+proxy_config.json
+svn/wc.db
+test/php/test.html
+testfile.php
