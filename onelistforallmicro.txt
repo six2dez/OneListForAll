@@ -1,6 +1,10 @@
 aastra.cfg
 snoop2
 config/banned_words.txt
+Colts20049
+Colts2020
+Colts4488
+Colts3049
 client_secrets.json
 _cat/health
 adm/scripts/setup.php
