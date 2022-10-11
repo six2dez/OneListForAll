@@ -28,6 +28,8 @@ ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
 
 **Build your own wordlists!**
 
+> Requirement: install [duplicut](https://github.com/nil0x42/duplicut) by yourself :)
+
 1. Add your wordlists to dict/ folder with suffix **_short.txt** for short wordlist and **_long.txt** for the full wordlist.
 
 2. Run ./olfa.sh (olfa -> One List For All) and you will have onelistforall.txt file and onelistforallshort.txt.
