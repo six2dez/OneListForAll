@@ -25332,3 +25332,5 @@ svn/wc.db
 test/php/test.html
 testfile.php
 central_config.json
+matomo
+matomo/.travis.yml
