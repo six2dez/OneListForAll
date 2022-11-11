@@ -216,7 +216,6 @@ leipi_qrcode.sql
 site.txt
 robot.txt
 openid/connect/jwks.json
-?xxnew2018_url2=2
 sphinx
 index.tmp
 mobai.php
@@ -4407,7 +4406,6 @@ gtksee
 modelsearch/admin.cfm
 cgi-bin/a1stats/a1disp.cgi
 auth/login/google
-?author=1
 jersey-ejb/app/messages
 index.sh
 ad_admin.php
@@ -6999,7 +6997,6 @@ intersoft
 siemens
 .blg
 winter
-/evil.com/%2f..
 apiserver-aggregator.key
 webbuilder/script/locale/wb-lang-zh_cn.js
 cgi-bin/config.exp
@@ -7831,7 +7828,7 @@ njstar
 header_admin
 brad
 aims/ps
-//evil.com/%2f..
+evil.com/%2f..
 ronald
 silc
 super_index.php
@@ -8028,6 +8025,19 @@ phpmybackuppro
 openmosix
 stylesheets/application.css
 bcbtest/start.jsp
+test/storage/framework/sessions/
+symfony/conf1g
+graphql/subscription
+admin/json
+git-jira-log
+db.frm
+common.crt
+ca.crt
+global.asa
+proxy.pac
+proxy.pac.bak
+mysql-router
+owncloud/config/
 config.inc.php______
 xiaoxia.php
 counters
@@ -8154,6 +8164,7 @@ myphpcalendar
 solr/admin/info/system?wt=json
 kvm.sh
 tinyfilemanager-2.0.1
+tinyfilemanager.php
 war
 super_index.aspx
 phpmyadmin3333/index.php
@@ -10469,7 +10480,6 @@ gerrit
 new/wp-includes/wlwmanifest.xml
 infinetsoftware
 okkj2015/config.js
-ca.crt
 i-drive
 axis2-web//happyaxis.jsp
 hbdx_baseinfo.sql
@@ -11348,7 +11358,6 @@ adminer-4.1.0.php
 ascended
 citrix//accessplatform/auth/clientscripts/cookies.js
 hellowml.jsp
-?author=2
 localhost.tag.gz
 21-6
 isadmin
@@ -11878,9 +11887,7 @@ watchguard
 confluence/pages/templates/createpagetemplate.action
 web.config.uk
 verify-all.sh
-global.asa
 cryo_project/.env
-?cavit
 local_bd_new.txt
 admin_smilies.tpl
 admin_super
@@ -11934,7 +11941,7 @@ phpfoto.sql
 vorod.htm
 mod_ssl
 config.inc.php.c
-///../../data/config/microsrv.cfg
+../../data/config/microsrv.cfg
 list.php
 kryloff
 docker-compose.yml
@@ -12124,7 +12131,6 @@ php-gastebuch
 cdrtools
 content/usergenerated
 send
-?a=echo%20-n%20hellonginx%7cmd5sum
 data/adminer.php
 fichot
 app/config/routes/dev/framework.php
@@ -13270,7 +13276,6 @@ lkio.php
 easymoblog
 graphql.php
 util-linux
-?xdebug_session_start=phpstorm
 members.7z
 bestellvorgang.php
 actuator/resolveattributes
@@ -13861,7 +13866,6 @@ prod.txt.gz
 rthl221b1008_manual.pdf
 create_db_tables_1.sql
 person.sql
-?c=whoami&ppp=whoami
 .gitconfig
 bld
 credentials.xml
@@ -13936,7 +13940,6 @@ new.tar
 login.py
 gracenote
 adaptcms/admin.php?view=/&view=settings
-/admin
 terminatorx
 m.api
 learn/ruubikcms/ruubikcms/cms/includes/dbconnection.php
@@ -14489,7 +14492,6 @@ adaptcms/admin.php?view=/&view=stats
 removenodelistener
 edit/spaw2/dialogs/dialog.php
 networking
-proxy.pac
 segue
 assets../.git/config
 actuate
@@ -14867,7 +14869,6 @@ sock
 web-inf/conf/jpa_context.xml
 infos.php
 admin-wjg
-?a=fetch&content=<php>die(@md5(hellothinkcmf))</php>
 .coffee_history
 xinboekj/boekj/boekj/config.js
 geshi
@@ -16473,7 +16474,6 @@ dummy
 db/myadmin/index.php
 admin_story.php
 myweblan
-?feed=rss2
 supervise/login.aspx
 sql.sql.tgz
 anaconda/.env
@@ -16685,7 +16685,6 @@ autoload.php
 xxx2
 admins.htm
 bucoffea/.env
-tinyfilemanager.php
 musicqueue
 rsync
 postfixadmin
@@ -16870,7 +16869,7 @@ supersmashbrothers
 .nojekyll
 phpmyadmin2017/index.php
 update.txt
-/evil.com/..;/css
+evil.com/..;/css
 test/python/test.py
 home.cfm
 backend.sql.tar.gz
@@ -17078,7 +17077,7 @@ postinstall.sh
 vendor/composer/license
 dbweb/scripts/setup.php
 censtore
-/admin/config.php
+admin/config.php
 arbitroweb
 h.txt
 startbbs.sql
@@ -17455,7 +17454,7 @@ var/lib/cloud/instance/datasource
 web-inf/portlet-custom.xml
 sane.php
 cdomain
-/anything/admin
+anything/admin
 care
 config/app_env.yml
 new_rails_defaults.rb
@@ -20506,7 +20505,6 @@ outfront
 adminxp
 debugger
 .playground
-admin/config.php
 logon.php3
 template/mobile/js/main.js
 newsadmin
@@ -24129,7 +24127,6 @@ fabric.properties
 apache2triad
 access_logs
 env/dockers/mariadb-test/.env
-////evil.com
 .git/info/exclude
 laitcg
 forum/install/install.php
@@ -24431,6 +24428,10 @@ admincontrol/login.cfm
 jkstatus-auth
 data.txt
 system/console
+admin/console
+admin/config
+config/sql
+system/config
 caiwu.sql
 data.sqlite
 buy
