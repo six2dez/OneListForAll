@@ -100,3 +100,14 @@ v4/playground
 v4/subscriptions
 v4/api/graphql
 v4/graph
+api/v1/playground
+api/v2/playground
+api/v3/playground
+console
+api/graphiql
+api/v1/graphql
+api/v2/graphql
+api/v3/graphql
+api/v1/graphiql
+api/v2/graphiql
+api/v3/graphiql
