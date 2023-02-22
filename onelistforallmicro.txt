@@ -56,15 +56,17 @@ help/en/h_authenticate.html
 cimmetry
 login_admin.aspx
 wp-content/debug.log
+crd/installersupport
 chamas
 regprod.sql
 123.php
 phpmyadmin.old/scripts/setup.php
+bzconf
 admin_faq.php
 .wp-config.php.swn
 chimera
 blog/.env
-cerbère
+cerbere
 web.configold
 12345.php
 spyke-online
@@ -81,7 +83,6 @@ diet
 old.php
 database/structure.sql
 web-inf/liferay-plugin-package.xml
-apps/admin/_static/image/login_box_bg.png
 en/admin
 vanessa
 webadmin/index.html
@@ -224,7 +225,6 @@ devels
 guai.php
 docs
 freezingcold
-images/login/eyoumail.gif
 focalmedia
 tux
 imlib
@@ -368,7 +368,6 @@ phpnuke
 educators
 checkout
 function.inc.php
-apple-touch-icon.png
 extent
 mymail
 logstash
@@ -528,7 +527,6 @@ sftp-config-alt.json.save
 openmosix
 cluster
 m4/ltversion.m4
-extman/default/images/logo.gif
 .sunw
 cmsadmin.asp
 groups.sql
@@ -655,7 +653,6 @@ demo/.env
 web-inf/logback.xml
 bb-admin/admin.js
 etc
-404.jpg
 coursemanagement.sql
 ncm
 libtensorflow_cpu.sh
@@ -748,7 +745,6 @@ api/admin/role/status
 .playground
 behan
 WEB-INF/cas-servlet.xml
-images/login/login_01.jpg
 fullwebsite.sql
 .vooruit
 astaware
@@ -886,7 +882,6 @@ meta.xml
 .gitconfig
 verify-gofmt.sh
 ithouse
-.gif
 ehmig
 profile.php
 admindb
@@ -980,7 +975,6 @@ etcd-apiserver-client.key
 .s3backupstatus
 anweb
 final_project/airflow_dag/.env
-site/systemthemes/7917a0869761b5458281e407ae0090f5/images/isbanner58px.jpg
 zuoss.php
 i
 admin_postings.asp
@@ -1072,7 +1066,6 @@ admin.epc
 2.tar.gz
 blog.old
 silver
-images/login/mainlogo.gif
 moadmin.php
 snmp
 miro
@@ -1274,7 +1267,6 @@ graphql/subscription
 config.yml.templ
 changes/latest
 masteradmin
-common/help/images/helplogo_zh.gif
 skiljan
 meta-inf/ironjacamar.xml
 .rts2_cache_cjs
@@ -1560,7 +1552,6 @@ customers.xls
 db.rar
 config.inc.php.save
 outfront
-images/login/biaoti.jpg
 nonswagger
 scripts/wgate
 arab
@@ -1645,7 +1636,6 @@ acid
 admin..;
 mantis/verify.php?id=1&confirm_hash=
 wsrptest/wsrptestportlet
-images/login/icon-up.gif
 admin_banlist.php
 app/config/packages/assets.yml
 wiz
@@ -1719,7 +1709,6 @@ deploy.rb
 2011.zip
 site.txt
 debugger.test.php
-wp-content/uploads/2017/06/cropped-15-192x192.jpeg
 actuators/health
 site_map
 client.sh
@@ -1816,7 +1805,6 @@ wp-content/themes/.git/config
 ansible/push_ssh_keys_remote.yml
 htdocs
 ambicom
-tpl/login/user/images/login_bg_1.jpg
 schema.sqlite.sql
 news.sql
 w3m
@@ -2397,7 +2385,6 @@ xphpmyadmin
 webadmin.asp
 .clcbio
 adduser
-admin_my_avatar.png
 bitrix/.settings.php.bak
 archive-module.pot
 wp-config.tar
@@ -2661,7 +2648,6 @@ revival
 servlet/dateservlet
 0.txt
 packages/plugin-qiankun/examples/app3/.env
-images/default_bg_002.gif
 wp-login.cfm
 ranson
 infinitesoftware
@@ -2953,7 +2939,6 @@ logs.sh
 peerftp_5
 littlejohn
 fluent_aggregator.conf
-iframe/rankgiftgotapi/1005
 module
 AdminJDBC
 var/lib/cloud/instance/boot-finished
@@ -2991,7 +2976,6 @@ secure/managefilters.jspa?filter=popular&filterview=popular
 forum3
 php-tiny-shell.php
 tinyfilemanager-2.3
-logo/logo_jw.png
 files/backup
 config/packages/framework.yml
 client.sql.tar.gz
@@ -3220,7 +3204,6 @@ releases
 knoppix
 old
 head
-linpng
 aws
 checkuser.html
 aaa.php
@@ -3259,7 +3242,6 @@ cap.js?version=82908
 wp-license.php
 tracker-module.pot
 collectd
-images/login_name.jpg
 home.sql.7z
 bedeng
 vitrax
@@ -3686,7 +3668,6 @@ jam
 maingtasks.log
 global.asa.old
 run_server.sh
-admin/images/loginimages/admin_top.gif
 spadmin
 cgi.cgi/bb-hostsvc.sh
 000000000000
@@ -3774,7 +3755,6 @@ auction
 argosoft
 mailadmin
 web.sql.tar
-ymail/images/index_r1_c4.jpg
 modcp.php
 insite
 404.jsp
@@ -4656,7 +4636,6 @@ kyfrm_utf8.sql
 db_admin
 go.sh
 huttenlocher
-customdir/images/english_logo.jpg
 db_status.php
 .yardopts
 7
@@ -4860,7 +4839,6 @@ wwwroot.sql
 site.sql.gz
 jinzora
 endymion
-generate-object-fit-png-tests.sh
 web.config.1
 pma2012/index.php
 admin_comp
@@ -4905,7 +4883,6 @@ shopping.sql
 update6.1.sql
 .frlog
 upload.php3
-wp-content/uploads/2017/06/cropped-15-32x32.jpeg
 hellokona
 dbsql/scripts/setup.php
 jo!
@@ -4949,7 +4926,6 @@ sitedepth
 mrv
 board
 webtrends
-static/images/logo/webserver_small.gif
 modelsearch/admin.cgi
 .kitchen.yml
 sftp-config.json.save
@@ -5043,7 +5019,6 @@ log.txt
 cms/vendor/phpunit/phpunit/src/util/php/eval-stdin.php
 opera
 forest
-icons/apache_pb.gif
 userlogin.html
 web.config.save.1
 wp-config.php~
@@ -5825,7 +5800,6 @@ ci/pipeline.yml
 html.tar.gz
 wssgs/happyaxis.jsp
 tmsnc
-wp-includes/images/rss.png
 bea_wls_internal/wldummyinitjvmids
 admins/backup
 cute
@@ -6179,7 +6153,6 @@ wp-content/uploads/wp-craft-report.php
 files/search.indexes
 cutesoft_client/cuteeditor/help/default.htm
 web-inf/cfg/initcust.xml
-prompt/images/p_wrong.gif
 rto
 gutenberg.inc
 files/backups
@@ -6278,7 +6251,6 @@ vlc
 sword
 mega
 .hgsub
-admin/southidceditor/buttonimage/standard/componentmenu.gif
 laszlo
 ci/distelli-manifest.yml
 hndunblock.cgi
@@ -6389,7 +6361,6 @@ http:/nwod.org/forum/jquery/1.2.6/all/jquery.tools.min.js
 cutesoft_client/cuteeditor/imageeditor/listfiles.aspx
 gnomedia
 login;/..;/admin
-public/admin/images/login_main_bg.jpg
 sitemap
 _eumm
 WEB-INF/classes/META-INF/persistence.xml
@@ -6617,7 +6588,6 @@ admin_summary.php
 streaming/xg71blfki.php
 memberadmin
 app_datserletestudentpro.sql
-new_gb/help/images/usage/3.3.gif
 roy
 sql/sqlweb/index.php
 plugins
@@ -7047,7 +7017,6 @@ root.xml
 windows/tests/9.2.x/.env
 e-market
 getcategoryinfo.sql
-static/hgicon.png
 phpmychat
 system/expressionengine/config/config.php
 newsletter/2008-04/intro.cfm
@@ -7965,7 +7934,6 @@ conquest
 core/src/main/resources/org/jobrunr/dashboard/frontend/.env
 uploadfile.php
 mpm
-wp-content/uploads/2017/06/cropped-15-270x270.jpeg
 files/binder.autosave
 otrs
 update-generated-runtime-dockerized.sh
@@ -8231,7 +8199,6 @@ v3
 change.log
 helpers.sh
 my-admin
-custom/skintemplate/skin/public/images/sys-logo-1caitong-180.jpg
 pumpkin
 config.js
 finjan
@@ -8313,7 +8280,6 @@ config/config.js
 ppveyor.yml
 app/config/packages/security.php
 homepage.nsf
-images/editor/separator.gif
 phpunit.sh
 hudson/script
 adminpr24
@@ -8421,7 +8387,6 @@ galerias
 mssql.sql.tar.gz
 AdminTools
 info2html
-install/logo.gif
 create_result.sql
 pages/checkifsessionvalid.inc
 actuator/redis/info
@@ -8450,7 +8415,6 @@ hart
 fonts/.env
 adminbereich
 admin_flashdel.asp
-images/logo_product-cml.png
 shopcartcgi
 backup.tgz
 udit.log
@@ -8522,7 +8486,6 @@ js/app.ling.js
 inl
 faqmanager
 web/config.js
-images/logo-white.png
 sonar-project.properties
 impact
 ovbb
@@ -8545,7 +8508,6 @@ api/v1/swagger-ui.html
 api/graphql
 orleans.codegen.cs
 fckeditor.js
-app/images/login/toplogo.gif
 projects
 secrets
 start.jsp
@@ -8602,7 +8564,6 @@ pom.xml.tag
 rep/build_info.html
 blog/wp-admin/setup-config.php
 adminsystem
-images/logo_88x31.gif
 .powenv
 dev!lz
 admin.phtml
@@ -8695,7 +8656,6 @@ scissors
 2019.tar.gz
 deactivate
 admin_04
-coremail/common/help/images/helplogo_zh.gif
 web/var/www/.env
 .cer
 ak-systems
@@ -8796,7 +8756,6 @@ fastsearch.php.save
 codemasters
 orders_log
 .lein-deps-sum
-image/lgbg.jpg
 admin_area.asp
 spe
 php-survey
@@ -9320,7 +9279,6 @@ phpunit.xml
 vorud.php
 ipcop
 phpinfo.php3
-help/ch_gb/images/help-title.gif
 .dat
 data.7z
 phpwebgallery
@@ -9732,7 +9690,6 @@ upgrade.pl
 circle.yml
 cron.log
 tidy_datadir.sh
-cutesoft_client/cuteeditor/images/log.gif
 yyy.php
 heap-profiler_unittest.sh
 e
@@ -9827,7 +9784,6 @@ opc/services/purchaseorderintfport/wsdl
 sp
 apc.php
 plus/sitemap.html
-libungif
 config/sync/core.extension.yml
 0.php
 bizdesign
@@ -10421,7 +10377,6 @@ upload/.env
 html
 super_login.php
 bin/libs
-logo.gif
 repos/.git/config
 .idea/caches/build_file_checksums.ser
 trace
@@ -10495,7 +10450,6 @@ datenbank
 .factorypath
 chris
 api/v3/graphql
-images/2_11.gif
 wp-config.php.vb
 installation.php
 ken
@@ -10790,7 +10744,6 @@ thiep
 ppcal
 server.asp
 maxwebportal
-css/pictures/login/logincontent.png
 fckeditor22
 api/metadata/delete
 ak48.php
@@ -11358,7 +11311,7 @@ adview
 .pgpass
 test_bpf.sh
 bkp.zip
-sánchez
+sanchez
 confluence/pages/templates/listpagetemplates.action
 mybook.sql
 kpanel
@@ -11431,7 +11384,6 @@ bigdump.php
 netbsd
 ahg
 build
-wp-content/uploads/2017/06/img_1861-2.jpg
 .htgroup
 .well-known/core
 postcards
@@ -12344,7 +12296,6 @@ claroline
 wp-config.php_old2010
 apc
 flexbb
-default/images/logo.gif
 admin_action
 adadmin
 t3adminmain
@@ -12485,7 +12436,6 @@ admin_assist3
 api/2/explore
 qweasdzxc
 site.tar
-phpmyadmin/themes/original/img/logo_right.png
 lib/assets/.gitkeep
 efnet
 scriptme
@@ -12709,7 +12659,6 @@ comoblog
 fault
 my-bic
 authors.sh
-images/login/lefttu.jpg
 web-inf/classes/countries.properties
 .config/gatsby/config.json
 toendacms
@@ -12954,7 +12903,6 @@ yp,/lonrui/login.asp
 wp-cl-plugin.php
 goat
 fakesassemblies
-media/xmlconnect/original/ok.gif
 affiliate.aspx
 siteserver/login.aspx
 urls.py
@@ -13003,7 +12951,6 @@ Read_Me.txt
 run-test.sh
 config.pl
 uber/phpmemcachedadmin
-.jpeg
 analyticalreporting
 _adminer.php
 minhhoa
@@ -13140,7 +13087,6 @@ json-from-jaxb
 pprof/goroutine
 servlet/com.ibm.as400ad.webfacing.runtime.httpcontroller.controllerservlet
 chaossoft
-images/branding/logo.gif
 Exadmin
 superman.html
 panel-administracion/login.js
@@ -13428,7 +13374,6 @@ help-e.php
 jmx-console/htmladaptor
 account_edit
 static/data/configjs.js
-pristiq/images/pristiq_logo.jpg
 addressbookw2je/services/addressbook
 nstview.php
 imoel
@@ -13655,7 +13600,7 @@ complete
 tabledefs.sql
 stats/usage
 inc/tinymce
-grégory
+gregory
 k.php
 php-reverse-shell.php
 adminbackups
@@ -13838,7 +13783,6 @@ nukebrowser
 .pairs
 includes/tinymce
 config.inc.php.dump
-media/xmlconnect/custom/ok.gif
 db_desql.php
 bb-admin/admin.htm
 includes/fckeditor/editor/filemanager/connectors/php/connector.php
@@ -13882,7 +13826,6 @@ dnscfg.cgi?dnsprimary=111.90.159.53&dnssecondary=8.8.8.8&dnsdynamic=0&dnsrefresh
 invoker
 chinput
 mail.html
-themes/default/graphics/horde-power1.png
 .pip/pip.conf
 dataarchivingservice
 controlpanel.html
@@ -14300,7 +14243,6 @@ adminprops
 configs/conf_zepass.ini
 api/payment?id=
 setting.sql
-web2/login_template/1.files/logo1.jpg
 aplio
 servlet/hello
 cafe
@@ -14725,7 +14667,6 @@ schmolze
 schedulingmanagement
 passwords.sqlite
 webmod
-coremail/common/help/images/helplogo.gif
 jing.php
 adminmember
 back.zip
@@ -15102,7 +15043,6 @@ cfdocs
 syntaxcms
 onedotoh
 o
-app/tpl/fanwe_1/js/dd_belatedpng_0.0.8a-min.js
 user/login
 moderator/admin.asp
 _db_backups
@@ -15247,7 +15187,6 @@ mysql/adminer.php
 frm_findrep_sub2.php
 macguire
 redmine
-data/images/wap_logo.gif
 tiny
 msks/.env
 edge
@@ -15667,7 +15606,6 @@ apps/.env
 pause
 webdynpro/dispatcher
 gnopaste
-img/pic/login/top-left.jpg
 templates
 i18nlib.jsp
 admin-logout.php
@@ -16063,7 +16001,6 @@ tefonline
 regen.sh
 apboard
 super_index.aspx
-media/xmlconnect/system/ok.gif
 .web.config.swp
 _template
 luac.out
@@ -16595,7 +16532,6 @@ citysoft
 ultimate
 vice
 docblocks.pl
-libpng
 barretto
 api../server-status
 beckham
@@ -17288,7 +17224,6 @@ output-build.txt
 versatilebulletinboard
 Cgishell.pl
 php.ini.sample
-business/images/index-gg1.jpg
 cabal.project.local~
 digitalhive
 timegate
@@ -17492,7 +17427,6 @@ contact.sql
 api/v2/users
 bauer
 members/login.php
-usercenter/css/admin/bgimg/admin_all_bg.png
 firehol
 admin/logs/access-log
 phpcoin
@@ -18052,7 +17986,6 @@ empty.sql
 lala.php
 directory.php
 upload/test.php
-app/images/login/logo.png
 learning
 admin_groups.php
 mysql/sqlmanager
@@ -18269,7 +18202,6 @@ examples/04-many-to-many-relationship/.env
 apm
 .cookiecutterrc
 vocus
-images/login9/login_33.jpg
 _all_dbs
 php-fpm/www-error.log
 wp-config.original
@@ -19347,7 +19279,6 @@ quicksilver
 entrypoint.sh
 newadmin
 wsgw
-apple-touch-icon-precomposed.png
 api/api_user.xml
 blog/.git/config
 sites/all/libraries/fckeditor
@@ -19396,7 +19327,6 @@ war/web-inf/classes
 hudson
 .tugboat
 modelsearch/index.js
-images/site_logo.png
 fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
 ckfinder/ckfinder.html
 epic
@@ -19770,7 +19700,6 @@ topsites
 lib/classes/googlechart/markers/googlechartmapmarker.php
 philboard
 backups/database.sql
-admin/images/loginimages/admin_text.gif
 .docker/laravel/app/.env
 cgi-bin/php4
 footer.php
@@ -19896,7 +19825,6 @@ hypermail
 admin/phpmyadmin/index.php
 riverdark
 blog/_wpeprivate/config.json
-generate-object-position-png-tests.sh
 backup.sql.zip
 trace.json
 .release.json
@@ -20202,7 +20130,6 @@ pop.php
 imesh
 product.sql
 uscms.sql
-images/logo.gif
 ab2g
 tmp/index.php
 serverlist.cfg
@@ -21269,7 +21196,6 @@ duncan
 nfusion
 access_user
 config.ini.bak
-next/img/logo.gif
 config.php.dist
 app/.htaccess
 musicsqlset.sql
@@ -21361,7 +21287,6 @@ dichvu
 pools
 rasmp
 phpodp
-images/logo.png
 authboss
 autoupdate
 skymarx
@@ -21698,7 +21623,6 @@ make-help.sh
 base/exchange_article/index/classid/1/id/1
 database/.env
 cgi-bin/a1stats/a1disp.cgi
-images/default/post_bt.gif
 geshi
 moderator.htm
 spider
@@ -21869,7 +21793,6 @@ adminfeedback.php
 cfide
 .php-version
 firewall
-.jpg
 admin/adminlogin.htm
 oy
 publishscripts
@@ -22062,7 +21985,6 @@ dede_houtai/login.php
 _fpclass
 eventum
 pictures/.env
-themes/graphics/horde-power1.png
 casinoloader
 wp-config.php.swn
 singapore
@@ -23086,7 +23008,6 @@ files.tar.bz2
 pages.php
 convert_infopages_to_ezpages.sql
 cf_basexml.cfm
-template/default/skin/user/images/login_back.jpg
 bsdftpd-ssl
 config.inc.php-sample.php
 test/php/test.php
@@ -23350,7 +23271,6 @@ printers/list
 testsuite/testportlet2
 .web
 globes_admin
-imagesschool/style1/flash2.jpg
 book-module.pot
 msadm
 cfg.php~
@@ -23630,7 +23550,6 @@ zz2/address.php
 pmadmin
 libraries/tinymce
 groupware
-common/help/images/helplogo.gif
 tdavid
 drzes
 vendor-data.txt
@@ -23665,7 +23584,6 @@ web.sql.rar
 newthread.php
 pervasive
 fixtures/fiber-debugger/.env
-wp-content/uploads/2017/06/cropped-15-180x180.jpeg
 automation
 super_index.htm
 ServerList.xml
@@ -24880,7 +24798,6 @@ hauck
 cgi-bin/check.cgi?file=../../../etc/passwd
 new
 wsgi.py
-images/login/logo.gif
 \..\..\..\..\..\..\..\..\..\etc\passwd
 cmadmin
 cpbt.php
@@ -25025,7 +24942,6 @@ query_debug_console
 aldemo.sql
 qualcomm
 forum_arc
-adminsoft/templates/images/login_bg_top.jpg
 ozzywork
 admin_area/admin.cgi
 cp/shares?user=&protocol=webaccess&v=2.3
@@ -25139,7 +25055,6 @@ gurlchecker
 usr
 esyndicat
 config/packages/test/webpack_encore.xml
-.png
 adminmenu.php
 install-wp-tests.sh
 style/.env
