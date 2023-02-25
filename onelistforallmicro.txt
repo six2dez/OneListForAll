@@ -11311,7 +11311,6 @@ adview
 .pgpass
 test_bpf.sh
 bkp.zip
-sanchez
 confluence/pages/templates/listpagetemplates.action
 mybook.sql
 kpanel
@@ -13600,7 +13599,6 @@ complete
 tabledefs.sql
 stats/usage
 inc/tinymce
-gregory
 k.php
 php-reverse-shell.php
 adminbackups
@@ -25609,3 +25607,5 @@ wp-register.php
 worldmusic/action/cdlist
 rentalsadmin
 app/config/packages/dev/debug.yaml
+.DS_Store
+service?Wsdl
