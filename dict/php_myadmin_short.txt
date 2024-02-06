@@ -197,3 +197,4 @@
 /wp-phpmyadmin/phpmyadmin/
 /www/phpMyAdmin/
 /xampp/phpmyadmin/
+/phpmyadmin/
