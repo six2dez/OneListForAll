@@ -8198,6 +8198,7 @@ debug.zip
 system-diagnostics
 beheer
 api/src/.env
+netws
 clusterrollout
 head.php
 id
@@ -8535,6 +8536,7 @@ admin_paylog
 css/info.css
 dbadmin.sql.sql
 harpia
+frwk
 fishnet
 meta-inf/openwebbeans/openwebbeans.properties
 Gemfile.lock
@@ -8547,6 +8549,7 @@ build
 temp/.env
 jmx-console/checkjndi.jsp
 .nodeset.yml
+jndi
 wp-content/uploads/wp-craft-report.php
 sentry
 admin/login.cgi
