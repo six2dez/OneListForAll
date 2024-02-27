@@ -15889,6 +15889,7 @@ admin_add.ctp
 webticket
 dump.zip
 test.ini
+SetupWizard.aspx/
 siteserver/publishing/viewcode.asp
 pdc
 cgi.cgi/bb-hist.sh
