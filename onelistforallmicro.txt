@@ -31,6 +31,7 @@ config.inc.php.2
 old.htaccess
 global.inc.php.bak
 readme.php
+ganglia/
 moinmail
 imoel
 vincent-leclercq
