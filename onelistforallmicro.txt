@@ -8001,6 +8001,7 @@ gopy
 phpwishlist
 tcsh
 ldap.prop
+home/000~ROOT~000/
 factory
 debug/pprof/profile
 cherokee
