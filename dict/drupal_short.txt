@@ -1,5 +1,8 @@
 authorize.php
 CHANGELOG.txt
+config/sync/core.extension.yml
+core/core.services.yml
+config/sync/swiftmailer.transport.yml
 COPYRIGHT.txt
 cron.php
 files.txt
@@ -910,6 +913,9 @@ modules/user/user.pages.inc
 modules/user/user.permissions.js
 modules/user/user.test
 modules/user/user.tokens.inc
+node/1
+node/2
+node/3
 profiles/minimal/minimal.info
 profiles/minimal/minimal.install
 profiles/minimal/minimal.profile
@@ -939,6 +945,7 @@ scripts/generate-d7-content.sh
 scripts/password-hash.sh
 scripts/run-tests.sh
 scripts/test.script
+sitemap.xml
 sites/all/modules/README.txt
 sites/all/themes/README.txt
 sites/default/default.settings.php
@@ -1051,5 +1058,7 @@ themes/stark/screenshot.png
 themes/stark/stark.info
 update.php
 UPGRADE.txt
+user/register
+user/1
 web.config
 xmlrpc.php
