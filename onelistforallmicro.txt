@@ -34,6 +34,7 @@ figwheel_server.log
 mkimage-arch.sh
 .fishsrv.pl
 web.config-
+assets/environments/environment.json
 benjamin
 debug/schemaz
 fastlink
