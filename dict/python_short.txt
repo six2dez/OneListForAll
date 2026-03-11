@@ -1,0 +1,688 @@
+/.python_history
+/admin/login/
+/app/requirements.txt
+/metrics
+/render/info.html
+/requirements.txt
+/requirements/requirements.txt
+/setup.py
+/src/requirements.txt
+/venv/
+/webadmin/out
+1. Lxml is protected against billion laughs attacks and doesn't do network lookups by default.
+3. xml.etree doesn't expand entities and raises a ParserError when an entity occurs.
+4. minidom doesn't expand entities and simply returns the unexpanded entity verbatim.
+?url=ws://example.com/
+ADDITEMS         = b'\x90'  # modify set by adding topmost stack items
+APPEND         = b'a'   # append stack top to list below it
+APPENDS        = b'e'   # extend list on stack by topmost stack slice
+BINBYTES       = b'B'   # push bytes; counted binary string argument
+BINBYTES8        = b'\x8e'  # push very long bytes string
+BINFLOAT       = b'G'   # push float; arg is 8-byte float encoding
+BINGET         = b'h'   #   "    "    "    "   "   "  ;   "    " 1-byte arg
+BININT         = b'J'   # push four-byte signed int
+BININT1        = b'K'   # push 1-byte unsigned int
+BININT2        = b'M'   # push 2-byte unsigned int
+BINPERSID      = b'Q'   #  "       "         "  ;  "  "   "     "  stack
+BINPUT         = b'q'   #   "     "    "   "   " ;   "    " 1-byte arg
+BINSTRING      = b'T'   # push string; counted binary string argument
+BINUNICODE     = b'X'   #   "     "       "  ; counted UTF-8 string argument
+BINUNICODE8      = b'\x8d'  # push very long string
+BeautifulSoup.py
+C library	expat	expat	expat	expat	expat	libxml2	expat
+DICT           = b'd'   # build a dict from stack items
+DUP            = b'2'   # duplicate top stack item
+EMPTY_DICT     = b'}'   # push empty dict
+EMPTY_LIST     = b']'   # push empty list
+EMPTY_SET        = b'\x8f'  # push empty set on the stack
+EMPTY_TUPLE    = b')'   # push empty tuple
+EXT1           = b'\x82'  # push object from extension registry; 1-byte index
+FALSE          = b'I00\n'  # not an opcode; see INT docs in pickletools.py
+FLOAT          = b'F'   # push float object; decimal string argument
+FRAME            = b'\x95'  # indicate the beginning of a new frame
+FROZENSET        = b'\x91'  # build frozenset from topmost stack items
+GET            = b'g'   # push item from memo on stack; index is string arg
+INST           = b'i'   # build & push class instance
+INT            = b'I'   # push integer or bool; decimal string argument
+LIST           = b'l'   # build list from topmost stack items
+LONG           = b'L'   # push long; decimal string argument
+LONG1          = b'\x8a'  # push long from < 256 bytes
+LONG4          = b'\x8b'  # push really big long
+LONG_BINGET    = b'j'   # push item from memo on stack; index is 4-byte arg
+LONG_BINPUT    = b'r'   #   "     "    "   "   " ;   "    " 4-byte arg
+MEMOIZE          = b'\x94'  # store top of the stack in memo
+NEWFALSE       = b'\x89'  # push False
+NEWOBJ         = b'\x81'  # build object by applying cls.__new__ to argtuple
+NEWOBJ_EX        = b'\x92'  # like NEWOBJ but work with keyword only arguments
+NEWTRUE        = b'\x88'  # push True
+NONE           = b'N'   # push None
+OBJ            = b'o'   # build & push class instance
+PERSID         = b'P'   # push persistent object; id is taken from string arg
+POP            = b'0'   # discard topmost stack item
+POP_MARK       = b'1'   # discard stack top through topmost markobject
+PROTO          = b'\x80'  # identify pickle protocol
+PUT            = b'p'   # store stack top in memo; index is string arg
+Python-urllib/1.16
+Python-urllib/1.17
+Python-urllib/2.0a1
+Python-urllib/2.4
+Python-urllib/2.5
+Python-urllib/2.6
+Python-urllib/2.7
+Python-urllib/3.0
+Python-urllib/3.1
+Python-urllib/3.2
+Python-urllib/3.3
+Python-urllib/3.4
+Python-urllib/3.5
+Python-urllib/3.6
+Python-urllib/3.7
+SETITEM        = b's'   # add key+value pair to dict
+SETITEMS       = b'u'   # modify dict by adding topmost key+value pairs
+SHORT_BINBYTES = b'C'   #  "     "   ;    "      "       "      " < 256 bytes
+SHORT_BINSTRING= b'U'   #  "     "   ;    "      "       "      " < 256 bytes
+SHORT_BINUNICODE = b'\x8c'  # push short string; UTF-8 length < 256 bytes
+STACK_GLOBAL     = b'\x93'  # same as GLOBAL but using names on the stacks
+STOP           = b'.'   # every pickle ends with STOP
+STRING         = b'S'   # push string; NL-terminated string argument
+TRUE           = b'I01\n'  # not an opcode; see INT docs in pickletools.py
+TUPLE          = b't'   # build tuple from topmost stack items
+TUPLE1         = b'\x85'  # build 1-tuple from stack top
+TUPLE2         = b'\x86'  # build 2-tuple from two topmost stack items
+TUPLE3         = b'\x87'  # build 3-tuple from three topmost stack items
+UNICODE        = b'V'   # push Unicode string; raw-unicode-escaped'd argument
+__init__.py
+admin.py
+affine
+alabaster
+alpaca_static
+anaconda-clean
+anaconda-client
+anaconda-navigator
+anaconda-project
+anaconda-verify
+ansi2html
+anyqt
+api.py
+app.py
+appdirs
+appnope
+appscript
+apptools
+apr
+asn1crypto
+astroid
+astropy
+atom
+attrs
+autoconf
+automake
+automat
+azure
+babel
+backports
+backports_abc
+base.py
+basemap
+basic.py
+bcolz
+bcrypt
+beautifulsoup4
+biopython
+bitarray
+bkcharts
+blaze
+bleach
+blist
+bokeh
+boost
+boto
+boto3
+botocore
+bottlechest
+bottleneck
+bsddb
+bsdiff4
+btrees
+build.py
+bz2file
+bzip2
+cachecontrol
+cached-property
+cairo
+casuarius
+cdecimal
+certifi
+cffi
+chalmers
+chameleon
+chardet
+cheetah
+cherrypy
+chest
+chrpath
+click
+click-plugins
+client.py
+cligj
+cloudpickle
+clyent
+cmake
+colander
+colorama
+colorcet
+comtypes
+conda
+conda-build
+conda-build-all
+conda-env
+conda-verify
+conf.py
+config.py
+configargparse
+configobj
+configparser
+connector.py
+constantly
+constants.py
+constructor
+contextlib2
+cookies
+core.py
+cornice
+coverage
+create_languages_js.py
+cryptography
+cssselect
+csvkit
+cubes
+curl
+cvxcanon
+cvxopt
+cycler
+cymem
+cython
+cytoolz
+dask
+datashader
+datashape
+datrie
+db
+dbf
+dbus
+debug.py
+decoder.py
+decorator
+dill
+distributed
+django
+dnspython
+docopt
+docutils
+ecdsa
+ecos
+encoder.py
+entrypoints
+enum34
+envisage
+ephem
+essbasepy
+et_xmlfile
+examples.py
+exception.py
+execnet
+expat
+expressions
+ez_setup.py
+fabric
+fastcache
+fckcommands.py
+fckconnector.py
+fckeditor.py
+fckoutput.py
+fckutil.py
+feedparser
+feedparser.py
+filelock
+fiona
+flake8
+flask
+flask-cors
+flask-login
+flask-wtf
+fontconfig
+forms.py
+freeglut
+freeimage
+freetype
+fuel
+funcsigs
+functools32
+future
+futures
+gdal
+gdata
+gdbm
+gensim
+genson
+geos
+geotiff
+get_terminal_size
+gevent
+gevent-websocket
+git
+gitdb2
+gitpython
+glib
+glueviz
+googlecl
+googlecode_upload.py
+grako
+graphite-web
+graphviz
+greenlet
+grin
+gst-plugins-base
+gstreamer
+gunicorn
+h5py
+harfbuzz
+hdf4
+hdf5
+heapdict
+holoviews
+hs2client
+html5lib
+humanize
+idna
+imagesize
+iminuit
+impyla
+incremental
+inflection
+ipaddress
+ipykernel
+ipyparallel
+ipython
+ipython_genutils
+ipywidgets
+isort
+itsdangerous
+javabridge
+jbig
+jdcal
+jedi
+jinja2
+jmespath
+joblib
+jpeg
+jsonschema
+jupyter
+jupyter_client
+jupyter_console
+jupyter_core
+kealib
+kerberos-sspi
+keyring
+kind	sax	etree	minidom	pulldom	xmlrpc	lxml	genshi
+kiwisolver
+krb5
+lancet
+lazy-object-proxy
+ldap3
+libconda
+libevent
+libffi
+libgcc
+libgdal
+libgfortran
+libgpuarray
+libhs2client
+libiconv
+libnetcdf
+libpng
+libpq
+libprotobuf
+libsodium
+libtiff
+libtool
+libxcb
+libxml2
+libxslt
+lighttpd
+line_profiler
+llvmlite
+locket
+lockfile
+logger.py
+luigi
+lxml
+lz4
+m4
+main.py
+mainform.py
+mako
+manage.py
+markdown
+markdown2
+markupsafe
+matplotlib
+mayavi
+mccabe
+mdp
+meld3
+memory_profiler
+menuinst
+mercurial
+messages.py
+mingw
+misc.py
+mistune
+mkl
+mkl-service
+mock
+model.py
+models.py
+more-itertools
+mpi4py
+mpich2
+mpmath
+msgpack-python
+mtq
+multipledispatch
+munch
+murmurhash
+mysql-connector-python
+mysql-python
+natsort
+navigator-updater
+nbconvert
+nbformat
+ncurses
+ndg-httpsclient
+neon
+netcdf4
+networkx
+nltk
+nose
+notebook
+nsis
+numba
+numexpr
+numpy
+numpydoc
+odo
+olefile
+openblas
+openmpi
+openpyxl
+openssl
+orange3
+packagexml.py
+packaging
+page.py
+pandas
+pandas-datareader
+pandasql
+pandocfilters
+pango
+param
+paramiko
+parsel
+parser.py
+partd
+passlib
+paste
+pastedeploy
+patchelf
+path.py
+pathlib2
+patsy
+pbr
+pcre
+pep381client
+pep8
+persistent
+petl
+pexpect
+phantomjs
+phpaliases.py
+picklable-itertools
+pickleshare
+pillow
+pip
+pivottablejs
+pixman
+pkginfo
+plac
+plotly
+ply
+pomegranate
+posix_ipc
+postgresql
+preshed
+progressbar2
+proj4
+prompt_toolkit
+protobuf
+psutil
+psycopg2
+ptyprocess
+py
+pyamg
+pyasn1
+pyasn1-modules
+pyaudio
+pycairo
+pycodestyle
+pycosat
+pycparser
+pycrypto
+pycurl
+pydispatcher
+pyface
+pyflakes
+pygments
+pygpu
+pykerberos
+pylint
+pymc
+pymongo
+pymysql
+pyodbc
+pyopengl
+pyopengl-accelerate
+pyopenssl
+pyparsing
+pyproj
+pyqt
+pyqtgraph
+pyramid
+pyreadline
+pysal
+pysam
+pyserial
+pysnmp
+pysocks
+pystan
+pytables
+pytest
+pytest-cache
+pytest-cov
+pytest-pep8
+pytest-runner
+pytest-timeout
+python
+python-daemon
+python-dateutil
+python-gdbm
+python-graphviz
+python-ntlm
+python-utils
+pytz
+pywavelets
+pywget
+pywin32
+pyyaml
+pyzmq
+qgrid
+qt
+qtawesome
+qtconsole
+qtpy
+quandl
+queue.py
+queuelib
+rasterio
+readline
+redis
+redis-py
+regression.py
+reportlab
+repoze.lru
+requests
+requests-file
+requests-kerberos
+responses
+roman.py
+rope
+routes
+ruamel_yaml
+runipy
+s3fs
+s3transfer
+sample01.py
+sampleposteddata.py
+sas7bdat
+scandir
+scanner.py
+scikit-bio
+scikit-image
+scikit-learn
+scikit-rf
+scipy
+scrapy
+seaborn
+search.py
+semantic_version
+semver
+serf
+server.py
+service.py
+service_identity
+settings.py
+setup.py
+setuptools
+setuptools_scm
+sh
+shapely
+simplegeneric
+simplejson
+singledispatch
+sip
+six
+smart_open
+smmap2
+snakeviz
+snappy
+snowballstemmer
+snuggs
+sockjs-tornado
+sortedcollections
+sortedcontainers
+spacy
+sphinx
+sphinx_rtd_theme
+sputnik
+spyder
+sqlalchemy
+sqlite
+sqlparse
+ssh
+ssl_match_hostname
+statsmodels
+stripe
+subprocess32
+suds-jurko
+supervisor
+svn
+swig
+sympy
+tabpy-client
+tabpy-server
+tag.py
+tblib
+tempita
+template.py
+teradata
+terminado
+test.py
+testpath
+thinc
+tk
+tool.py
+toolz
+tornado
+tornado-json
+tqdm
+traitlets
+traits
+traitsui
+transaction
+translationstring
+trollius
+twisted
+ujson
+unicodecsv
+unidecode
+unixodbc
+unxutils
+upload.py
+urls.py
+util.py
+utils.py
+uuid
+vc
+vcversioner
+venusian
+views.py
+vtk
+w3lib
+waitress
+wcwidth
+webob
+websocket
+webtest
+werkzeug
+wget
+wheel
+whisper
+whoosh
+widgetsnbextension
+win_inet_pton
+win_unicode_console
+workerpool
+wrapt
+wsgi.py
+wtforms
+xarray
+xerces-c
+xlrd
+xlsxwriter
+xlutils
+xlwings
+xlwt
+xmlconfig.py
+xz
+yaml
+yt
+zeromq
+zict
+zlib
+zope
+zope.deprecation
+zope.interface
+zope.py
+zope.sqlalchemy
+{{ ''.__class__.__mro__ }}
+{{ '7'*7 }}

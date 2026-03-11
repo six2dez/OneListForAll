@@ -1,3 +1,6 @@
+/admin
+/backend
+/public/recovery/install/index.php
 backend/
 composer.json
 composer.lock

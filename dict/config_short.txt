@@ -1,48 +1,1556 @@
+._wp-config.php
+.wp-config.php.swm
+.wp-config.php.swn
+.wp-config.php.swo
+.wp-config.php.swp
+.wp-config.swm
+.wp-config.swn
+.wp-config.swo
+.wp-config.swp
+/
+/../../web.config
+/.DS_Store
+/.Dockerfile
+/._machine.config
+/._web.config
+/.appveyor.yml
+/.authorized_keys
+/.aws/config
+/.aws/credentials
+/.azure-pipelines.yml
+/.bash_profile
+/.bashrc
+/.buildpath
+/.bzr/branch/branch.conf
+/.chef/config.rb
+/.circleci/config.yml
+/.circleci/ssh-config
+/.codeclimate.yml
+/.composer/composer.json
 /.config.php
+/.config/karma.conf.js
+/.cpbackup-exclude.conf
+/.credentials
+/.docker/config.json
+/.dockercfg
+/.dockerfile
+/.drone.yml
+/.editorconfig
+/.esmtprc
+/.flowconfig
+/.forward
+/.ftpconfig
+/.gcloudignore
+/.gem/credentials
+/.gem/credentials.yaml
+/.git-credentials
 /.git/config
-////../../data/config/microsrv.cfg
+/.git2/config
+/.github/renovate.json
+/.github/renovate.json5
+/.gitignore
+/.gitlab-ci.yml
+/.gitlab-ci/variables.yml
+/.gitlab/renovate.json
+/.gitlab/renovate.json5
+/.gitpod.Dockerfile
+/.gitpod.dockerfile
+/.hg/hgrc
+/.hgignore
+/.htaccess
+/.htpasswd
+/.idea/WebServers.xml
+/.idea/dataSources.xml
+/.idea/webServers.xml
+/.idea/webservers.xml
+/.irb_history
+/.lesshst
+/.mailmap
+/.mcp.json
+/.my.cnf
+/.mysql_history
+/.netrc
+/.npm/anonymous-cli-metrics.json
+/.npmignore
+/.pgpass
+/.phpunit.result.cache
+/.postgresql_history
+/.pre-commit-config.yaml
+/.prettierignore
+/.prettierrc
+/.profile
+/.project
+/.pry_history
+/.psql_history
+/.python_history
+/.remote-sync.json
+/.renovaterc
+/.renovaterc.json
+/.renovaterc.json5
+/.rubocop.yml
+/.s3cfg
+/.scrutinizer.yml
+/.ssh/authorized_keys
+/.ssh/known_hosts
+/.ssh/known_hosts.old
+/.stestr.conf
+/.styleci.yml
+/.stylelintignore
+/.svn/entries
+/.svn/wc.db
+/.travis.yml
+/.tugboat
+/.user.ini
+/.viminfo
+/.vscode-server/data/Machine/settings.json
+/.vscode/launch.json
+/.vscode/settings.json
+/.vscode/tasks.json
+/.well-known/openid-configuration
+/.wp-env.json
+/.zshrc
+///../app.js
 //admin/config.php
-/admin/config.php
-/administrator/webconfig.txt.php
-/app.config
-/audit.config
+/?phpinfo=-1
+/?pp=env
+/AWSconf.git/config
+/BitKeeper/etc/config
+/CGI/Java/Serviceability?adapter=device.statistics.configuration
+/Cakefile
 /Cassini.exe.config
-/ccnet.config
-/cgi-bin/config.exp
-/conceptual.config
-/config
-/config.inc
-/config.inc.php
-/config.php
-/config/000000000000.cfg
-/config/y000000000000.cfg
-/dashboard.config
-/default.config
+/Copy of Web.config
+/Dockerfile
+/Dockerrun.aws.json
 /Gallio.Ambience.Server.exe.config
 /Gallio.Echo.exe.config
+/Gruntfile.coffee
+/Gruntfile.js
+/Guardfile
+/Jakefile
+/Jakefile.js
+/MagicInfo/config.js
+/Makefile
+/MicroStrategyWS/happyaxis.jsp
 /NCoverExplorer.exe.config
 /NHibernate.Caches.SysCache.Tests.dll.config
 /NHibernate.config
 /NLog.config
+/OA_HTML/jtfwrepo.xml
+/Procfile
+/Properties/launchSettings.json
+/Rakefile
+/Rexfile
+/Rhino.Commons.NHibernate.dll.config
+/SQLiteInMemory.Nhibernate.config
+/SSI/info_configuration.htm
+/Server/.git/config
+/SetupConfig.xml
+/StateNameServer.exe.config
+/StudioServer/.git/config
+/Sysindex.config
+/System.config
+/Vagrantfile
+/WEB-INF/classes/jolokia-access.xml
+/WEB-INF/classes/jolokia-agent.properties
+/Web - Copia.config
+/Web - Copy.config
+/Web - Sav.config
+/Web - копия.config
+/Web - 复制.config
+/Web - 복사본.config
+/Web C drive.config
+/Web D drive.config
+/Web-----.config
+/Web-.config
+/Web-copy.config
+/Web-old.config
+/Web.Config.new.txt
+/Web.Config.old.txt
+/Web.Config.save.txt
+/Web.Debug.config
+/Web.Release.config
+/Web.config
+/Web.config - 副本.bak
+/Web.config.bak.bak
+/Web.config.bk
+/Web.config.latest.bak
+/Web.config.new
+/Web.config.oo
+/Web.config.txt
+/Web.config.xml
+/Web.config_1
+/Web.sitemap
+/Web.working.config
+/Web1.config
+/Web11.config
+/Web11.config.lnk
+/Web123.txt
+/Web2.config
+/Web22.config
+/Web_AppServer.Config
+/Web_Original.config
+/Web_Production.Debug.config
+/Web_Production.Release.config
+/Web_Production.config
+/Web_QAServer.Config
+/Web_back.config
+/Web_backup.config
+/Web_dev.config
+/Web_jan.config
+/Web_messages.svclog
+/Web_prod.config
+/Web_windows.config
+/Web_单院版.config
+/_.htaccess
+/_/.ssh/authorized_keys
+/__ENV.js
+/__MACOSX/.git/config
+/_config.yml
+/_darcs/prefs/binaries
+/_debug/_profiler/empty/search/results?limit=10
+/_fragment
+/_framework/blazor.boot.json
+/_headers
+/_netrc
+/_profiler/empty/search/results?limit=10
+/_vti_bin/Authentication.asmx?op=Mode
+/_vti_bin/lists.asmx?WSDL
+/a.htaccess
+/a/.git/config
+/admin/.git/config
+/admin/config.php
+/admin/main/console/config
+/admin/master/console/config
+/admin/setup
+/administrator/webconfig.txt.php
+/airflow.cfg
+/amphtml/.git/config
+/anonymous-cli-metrics.json
+/ansible.cfg
+/aomanalyzer/.git/config
+/apache.conf
+/apc.php
+/apc/apc.php
+/api/.git/config
+/api/.npmignore
+/api/config
+/api/metrics
+/api/v1/canal/config/1/1
+/api/v1/status/config
+/api_dev.php/_profiler/empty/search/results?limit=10
+/api_smartapp/storage/
+/app.config
+/app.php/_profiler/empty/search/results?limit=10
+/app/.git/config
+/app/Cakefile
+/app/collibra.properties
+/app/config/security.yml
+/app/etc/local.xml
+/app/etc/local.xml.additional
+/app/requirements.txt
+/app_dev.php/_profiler/empty/search/results?limit=10
+/app_test.php/_profiler/empty/search/results?limit=10
+/appconfigs
+/application/.git/config
+/application/down.php?dw=config/config.php
+/appspec.yaml
+/appspec.yml
+/appveyor.yml
+/assets/.gitignore
+/assets/config.rb
+/assets/js/config.codekit3
+/assets/pubspec.yaml
+/audit.config
+/auth.json
+/auth/admin/main/console/config
+/auth/admin/master/console/config
+/auth/realms/master/.well-known/openid-configuration
+/authenticationserverservlet
+/authorized_keys
+/awstats.conf
+/awstats.pl
+/awstats/
+/awstats/awstats.pl
+/awstats/awstats.pl?config=
+/azure-pipelines.yml
+/babel.config.js
+/backend/.npmignore
+/backend_dev.php/_profiler/empty/search/results?limit=10
+/backup/.git/config
+/backup/ovh-backups.json
+/beta/.git/config
+/blog/.git/config
+/blog/wp-content/themes/.git/config
+/build.properties
+/build/.git/config
+/build/Cakefile
+/build/build.properties
+/buildspec.yaml
+/buildspec.yml
+/calendar.php?do[]=[test.dll]
+/ccnet.config
+/cgi-bin-hax/ExportSettings.sh
+/cgi-bin/ExportSettings.sh
+/cgi-bin/awstats.pl
+/cgi-bin/awstats/awstats.pl
+/cgi-bin/config.exp
+/cgi-bin/printenv
+/cgi-bin/privatekey.pem
+/ckeditor/.travis.yml
+/client_secrets.json
+/cms/.git/config
+/codeception.yml
+/collibra.properties
+/common/.git/config
+/composer.json
+/composer.lock
+/conceptual.config
+/conf
+/config
+/config.cgi
+/config.codekit
+/config.codekit3
+/config.dat
+/config.inc
+/config.inc.php
+/config.js
+/config.json
+/config.php
+/config.properties
+/config.properties.bak
+/config.rb
+/config.ru
+/config/
+/config/config.json
+/config/database.yml
+/config/databases.yml
+/config/default.json
+/config/development.sphinx.conf
+/config/env.js
+/config/fastcgi.conf
+/config/list
+/config/ovh-backups.json
+/config/packages/security.yaml
+/config/production.sphinx.conf
+/config/runtime-env.js
+/config/user.xml
+/configs/sphinx.conf
+/configuration.php-dist
+/core/vb5/route/channel.php
+/core/vb5/route/conversation.php
+/cpanel.config
+/cpbackup-exclude.conf
+/credentials
+/credentials/config.json
+/dashboard.config
+/data/.git/config
+/database/.git/config
+/database_credentials.inc
+/db/robomongo.json
+/debug.php/_profiler/empty/search/results?limit=10
+/debug/_profiler/empty/search/results?limit=10
+/default.config
+/demo/.git/config
+/deployment-config.json
+/desktop.ini
+/dev.php/_profiler/empty/search/results?limit=10
+/dev/.git/config
+/dev/_profiler/empty/search/results?limit=10
+/developer/.git/config
+/dnsmasq.conf
+/docker-compose-dev.yml
+/docker-compose.dev.yml
+/docker-compose.override.yml
+/docker-compose.prod.yml
+/docker-compose.production.yml
+/docker-compose.staging.yml
+/docker-compose.yml
+/dompdf/dompdf/www/setup.php
+/dot.git/config
+/elocker_old/storage/
+/env-config.js
+/env.dev.js
+/env.development.js
+/env.js
+/env.prod.js
+/env.production.js
+/env.test.js
+/equipbid/storage/
+/example.htaccess
+/fastcgi.conf
+/files/FileZilla.xml
+/filezilla.xml
+/flock/.git/config
+/forumdisplay.php?do[]=[test.dll]
+/forumrunner/include/album.php
+/frontend_dev.php/_profiler/empty/search/results?limit=10
+/ftpsync.settings
+/git/.git/config
+/gitlab-ci.yml
+/go/add-on/business-continuity/api/cruise_config
+/headers
+/host.json
+/hosts
+/hp/device/this.LCDispatcher?nav=hp.Config
+/htaccess_for_page_not_found_redirects.htaccess
+/httpd.conf
+/icecast.xml
+/imcat/root/tools/adbug/binfo.php?phpinfo1
+/includes/.gitignore
+/includes/api/interface/collapsed.php
+/includes/api/interface/noncollapsed.php
+/index.php
+/index.php/_profiler/empty/search/results?limit=10
+/index_dev.php/_profiler/empty/search/results?limit=10
+/info_configuration.html?tab=Home&menu=DevConfig
+/installer/
+/installer/index.php?_step=2
+/intikal/storage/
+/jdkstatus
+/jk-status
+/jkmanager
+/jkmanager-auth
+/jkstatus
+/jkstatus-auth
+/jolokia-access.xml
+/jolokia-agent.properties
+/js/dompdf/www/setup.php
+/jsconfig.json
+/karma.conf.js
+/keycloak.json
+/kibana.yml
+/kustomization.yml
+/launchSettings.json
+/lib/Cakefile
+/live/.git/config
+/llms.txt
+/loadtextfile.htm#programinfo
+/login
+/login.php
+/logs/awstats.pl
+/m/.git/config
+/machine.config
+/mailsms/s?func=ADMIN:appState&dumpConfig=/
+/makefile
+/manual/style/build.properties
+/matomo/.travis.yml
+/mcp.json
+/metrics
+/monitoring
+/mysql.initial.sql
+/mysql_config.ini
+/nbproject/project.properties
+/netlify.toml
+/new/.git/config
+/nginx.conf
+/node_modules/.npmignore
+/node_modules/Cakefile
+/node_modules/whet.extend/Cakefile
+/npm-shrinkwrap.json
 /nunit-agent.exe.config
 /nunit-gui.exe.config
 /nunit-x86.exe.config
 /nunit.exe.config
-/Rhino.Commons.NHibernate.dll.config
+/old-cuburn/.git/config
+/opcache-status/
+/opcache-status/opcache.php
+/ovh-backups.json
+/owncloud/config/
+/package-lock.json
+/package.json
+/pantheon.upstream.yml
+/perl-status
+/phinx.yaml
+/phinx.yml
+/php-fpm.conf
+/php-opcache-status/
+/php.ini
+/phpsysinfo/index.php?disp=bootstrap
+/platformio.ini
+/plesk-stat/
+/portal/application/libraries/dompdf/www/setup.php
+/pre-commit-config.yaml
+/prod.git/config
+/profiler/empty/search/results?limit=10
+/proftpd.conf
+/protractor.conf.js
+/psalm.xml
+/psql_history
+/public/.git/config
+/public/_profiler/empty/search/results?limit=10
+/public/config.js
+/pubspec.yaml
+/qa/.git/config
+/recentservers.xml
+/redfish/v1/
+/redis.conf
+/renovate.json
+/renovate.json5
+/repos/.git/config
+/repository/.git/config
+/requirements.txt
+/requirements/requirements.txt
+/resizer.debug
+/resizer.debug.ashx
+/rest/GetAutologin
+/rest/GetUserlogin
+/robomongo.json
 /runFile.exe.config
+/s3/.git/config
+/s3cmd.ini
+/sample.htaccess
+/samples/.git/config
 /sconfig.php
+/search.php?do[]=[test.dll]
+/search/configs/sphinx.conf
+/sensorlist.htm
+/server/storage/
 /services.config
+/services/getFile.cmd?userfile=config.xml
+/settings.json
+/sftp-config.json
+/shop/.git/config
+/site/.git/config
+/sites/all/libraries/dompdf/www/setup.php
+/smb.conf
+/snoop
 /soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
-/SQLiteInMemory.Nhibernate.config
-/StateNameServer.exe.config
-/Sysindex.config
-/System.config
-/Web.config
+/sphinx.conf
+/sphinx/sphinx.conf
+/sphinxsearch/sphinx.conf
+/src/.npmignore
+/src/Cakefile
+/src/collibra.properties
+/src/requirements.txt
+/staging/.git/config
+/static/.git/config
+/static/Dockerrun.aws.json
+/status
+/status?full
+/storage/
+/storage/ovh-backups.json
+/store/.git/config
+/store/app/etc/local.xml
+/svnserve.conf
+/symfony.lock
+/symfony/_profiler/empty/search/results?limit=10
+/tcpconfig.html
+/test.php/_profiler/empty/search/results?limit=10
+/tool/view/phpinfo.view.php
+/tox.ini
+/ui_config.properties
+/user.ini
+/user_secrets.yml
+/user_secrets.yml.old
+/v1/cs/configs?export=true&group=&tenant=&appName=&ids=&dataId=
+/vbseo_sitemap/addons/vbseo_sm_vba.php
+/vbseo_sitemap/addons/vbseo_sm_vba_links.php
+/vendor/.git/config
+/vendor/composer/installed.json
+/vendor/dompdf/dompdf/www/setup.php
+/ventrilo_srv.ini
+/vite.config.js
+/wc.db
+/web - 3.5.config
+/web - 副本.config
+/web.config
+/web.config.bak
+/web.config.local
+/web.config.lockbit
+/web.config.old
+/web.config.orig
+/web.config.waiting4keys
+/web.config1
+/web.config2
+/web.external.appsettings.config
+/web.external.qlibs.config
+/web.external.qlibsreports.config
+/web/.git/config
+/web/_profiler/empty/search/results?limit=10
+/web_caps/webCapsConfig
+/web_old.config
+/webapi/v1/system/accountmanage/account
 /webconfig.php
 /webconfig.txt.php
+/webpack.config.js
+/webpack.mix.js
+/webstats/awstats.pl
+/wiki/.git/config
+/wizard.htm
+/wp-admin/maint/repair.php
+/wp-cli.yml
 /wp-config.php
+/wp-content/.git/config
+/wp-content/plugins/.git/config
+/wp-content/themes/.git/config
+/wp-content/wflogs/config-synced.php
+/wp-content/wflogs/config.php
 /wp-includes/css/wp-config.php
 /wp-includes/fonts/wp-config.php
+/wp-includes/js/.git/config
 /wp-includes/modules/wp-config.php
+/wpad.dat
+/ws-config.example.json
+/ws-config.json
+/www/setup.php
 /xamlSyntax.config
+/xmldata?item=CpqKey
+/xprober.php
 /xunit.console.exe.config
+/zipkin/config.json
+APT "";
+APT::Architecture "amd64";
+APT::Architectures "";
+APT::Architectures:: "amd64";
+APT::Archives "";
+APT::Archives::MaxAge "30";
+APT::Archives::MaxSize "500";
+APT::Archives::MinAge "2";
+APT::Build-Essential "";
+APT::Build-Essential:: "build-essential";
+APT::Compressor "";
+APT::Compressor::. "";
+APT::Compressor::.::Binary "";
+APT::Compressor::.::Cost "0";
+APT::Compressor::.::Extension "";
+APT::Compressor::.::Name ".";
+APT::Compressor::bzip2 "";
+APT::Compressor::bzip2::Binary "bzip2";
+APT::Compressor::bzip2::CompressArg "";
+APT::Compressor::bzip2::CompressArg:: "-6";
+APT::Compressor::bzip2::Cost "300";
+APT::Compressor::bzip2::Extension ".bz2";
+APT::Compressor::bzip2::Name "bzip2";
+APT::Compressor::bzip2::UncompressArg "";
+APT::Compressor::bzip2::UncompressArg:: "-d";
+APT::Compressor::gzip "";
+APT::Compressor::gzip::Binary "gzip";
+APT::Compressor::gzip::CompressArg "";
+APT::Compressor::gzip::CompressArg:: "-6n";
+APT::Compressor::gzip::Cost "100";
+APT::Compressor::gzip::Extension ".gz";
+APT::Compressor::gzip::Name "gzip";
+APT::Compressor::gzip::UncompressArg "";
+APT::Compressor::gzip::UncompressArg:: "-d";
+APT::Compressor::lz4 "";
+APT::Compressor::lz4::Binary "false";
+APT::Compressor::lz4::Cost "50";
+APT::Compressor::lz4::Extension ".lz4";
+APT::Compressor::lz4::Name "lz4";
+APT::Compressor::lzma "";
+APT::Compressor::lzma::Binary "xz";
+APT::Compressor::lzma::CompressArg "";
+APT::Compressor::lzma::CompressArg:: "--format=lzma";
+APT::Compressor::lzma::CompressArg:: "-6";
+APT::Compressor::lzma::Cost "400";
+APT::Compressor::lzma::Extension ".lzma";
+APT::Compressor::lzma::Name "lzma";
+APT::Compressor::lzma::UncompressArg "";
+APT::Compressor::lzma::UncompressArg:: "--format=lzma";
+APT::Compressor::lzma::UncompressArg:: "-d";
+APT::Compressor::xz "";
+APT::Compressor::xz::Binary "xz";
+APT::Compressor::xz::CompressArg "";
+APT::Compressor::xz::CompressArg:: "-6";
+APT::Compressor::xz::Cost "200";
+APT::Compressor::xz::Extension ".xz";
+APT::Compressor::xz::Name "xz";
+APT::Compressor::xz::UncompressArg "";
+APT::Compressor::xz::UncompressArg:: "-d";
+APT::Install-Recommends "1";
+APT::Install-Suggests "0";
+APT::Move-Autobit-Sections "";
+APT::Move-Autobit-Sections:: "contrib/oldlibs";
+APT::Move-Autobit-Sections:: "multiverse/oldlibs";
+APT::Move-Autobit-Sections:: "non-free/oldlibs";
+APT::Move-Autobit-Sections:: "oldlibs";
+APT::Move-Autobit-Sections:: "restricted/oldlibs";
+APT::Move-Autobit-Sections:: "universe/oldlibs";
+APT::Never-MarkAuto-Sections "";
+APT::Never-MarkAuto-Sections:: "contrib/metapackages";
+APT::Never-MarkAuto-Sections:: "metapackages";
+APT::Never-MarkAuto-Sections:: "multiverse/metapackages";
+APT::Never-MarkAuto-Sections:: "non-free/metapackages";
+APT::Never-MarkAuto-Sections:: "restricted/metapackages";
+APT::Never-MarkAuto-Sections:: "universe/metapackages";
+APT::NeverAutoRemove "";
+APT::NeverAutoRemove:: "^.*-kernel-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^.*-kernel-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^.*-modules-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^.*-modules-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^firmware-linux.*";
+APT::NeverAutoRemove:: "^gnumach-image-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^gnumach-image-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^kfreebsd-headers-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^kfreebsd-headers-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^kfreebsd-image-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^kfreebsd-image-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^linux-backports-modules-.*-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^linux-backports-modules-.*-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^linux-firmware$";
+APT::NeverAutoRemove:: "^linux-headers-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^linux-headers-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^linux-image-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^linux-image-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^linux-image-extra-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^linux-image-extra-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^linux-signed-image-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^linux-signed-image-4\.4\.0-71-generic$";
+APT::NeverAutoRemove:: "^linux-tools-4\.4\.0-70-generic$";
+APT::NeverAutoRemove:: "^linux-tools-4\.4\.0-71-generic$";
+APT::Periodic "";
+APT::Periodic::AutocleanInterval "0";
+APT::Periodic::Download-Upgradeable-Packages "0";
+APT::Periodic::Unattended-Upgrade "1";
+APT::Periodic::Update-Package-Lists "1";
+APT::Sandbox "";
+APT::Sandbox::User "_apt";
+APT::Update "";
+APT::Update::Post-Invoke-Success "";
+APT::VersionedKernelPackages "";
+APT::VersionedKernelPackages:: ".*-kernel";
+APT::VersionedKernelPackages:: ".*-modules";
+APT::VersionedKernelPackages:: "gnumach-image";
+APT::VersionedKernelPackages:: "kfreebsd-headers";
+APT::VersionedKernelPackages:: "kfreebsd-image";
+APT::VersionedKernelPackages:: "linux-backports-modules-.*";
+APT::VersionedKernelPackages:: "linux-headers";
+APT::VersionedKernelPackages:: "linux-image";
+APT::VersionedKernelPackages:: "linux-image-extra";
+APT::VersionedKernelPackages:: "linux-signed-image";
+APT::VersionedKernelPackages:: "linux-tools";
+Acquire "";
+Acquire::AllowDowngradeToInsecureRepositories "0";
+Acquire::AllowInsecureRepositories "1";
+Acquire::Changelogs "";
+Acquire::Changelogs::AlwaysOnline "true";
+Acquire::Changelogs::AlwaysOnline::Origin "";
+Acquire::Changelogs::AlwaysOnline::Origin::Ubuntu "1";
+Acquire::Changelogs::URI "";
+Acquire::Changelogs::URI::Origin "";
+Acquire::IndexTargets "";
+Acquire::IndexTargets::deb "";
+Acquire::IndexTargets::deb-src "";
+Acquire::IndexTargets::deb-src::Sources "";
+Acquire::IndexTargets::deb-src::Sources::Optional "0";
+Acquire::IndexTargets::deb-src::Sources::ShortDescription "Sources";
+Acquire::IndexTargets::deb-src::Sources::flatMetaKey "Sources";
+Acquire::IndexTargets::deb::Packages "";
+Acquire::IndexTargets::deb::Packages::Optional "0";
+Acquire::IndexTargets::deb::Packages::ShortDescription "Packages";
+Acquire::IndexTargets::deb::Packages::flatMetaKey "Packages";
+Acquire::IndexTargets::deb::Translations "";
+Acquire::Languages "";
+Acquire::Languages:: "en";
+Acquire::Languages:: "en_US";
+Acquire::Languages:: "none";
+Acquire::cdrom "";
+Acquire::cdrom::mount "/media/cdrom/";
+Acquire::http "";
+Acquire::http::Pipeline-Depth "0";
+Binary "apt-config";
+Binary::apt "";
+Binary::apt::APT "";
+Binary::apt::APT::Cache "";
+Binary::apt::APT::Cache::AllVersions "0";
+Binary::apt::APT::Cache::Search "";
+Binary::apt::APT::Cache::Search::Version "2";
+Binary::apt::APT::Cache::Show "";
+Binary::apt::APT::Cache::Show::Version "2";
+Binary::apt::APT::Cache::ShowDependencyType "1";
+Binary::apt::APT::Cache::ShowVersion "1";
+Binary::apt::APT::Cache::ShowVirtuals "1";
+Binary::apt::APT::Cmd "";
+Binary::apt::APT::Cmd::Show-Update-Stats "1";
+Binary::apt::APT::Color "1";
+Binary::apt::APT::Get "";
+Binary::apt::APT::Get::Upgrade-Allow-New "1";
+Binary::apt::APT::Keep-Downloaded-Packages "0";
+Binary::apt::Acquire "";
+Binary::apt::Acquire::AllowInsecureRepositories "0";
+Binary::apt::DPkg "";
+Binary::apt::DPkg::Progress-Fancy "1";
+Cassini.exe.config
+CommandLine "";
+CommandLine::AsString "apt-config dump";
+ConsoleExample.config
+DICT
+DPkg "";
+DPkg::Post-Invoke "";
+DPkg::Pre-Install-Pkgs "";
+DPkg::Pre-Install-Pkgs:: "/usr/sbin/dpkg-preconfigure --apt || true";
+DPkg::Tools "";
+DPkg::Tools::Options "";
+DPkg::Tools::Options::/usr/bin/whatmaps "";
+DPkg::Tools::Options::/usr/bin/whatmaps::Version "2";
+Dir "/";
+Dir::Bin "";
+Dir::Bin::bzip2 "/bin/bzip2";
+Dir::Bin::dpkg "/usr/bin/dpkg";
+Dir::Bin::lz4 "/usr/bin/lz4";
+Dir::Bin::lzma "/usr/bin/xz";
+Dir::Bin::methods "/usr/lib/apt/methods";
+Dir::Bin::solvers "";
+Dir::Bin::solvers:: "/usr/lib/apt/solvers";
+Dir::Bin::xz "/usr/bin/xz";
+Dir::Cache "var/cache/apt/";
+Dir::Cache::archives "archives/";
+Dir::Cache::pkgcache "pkgcache.bin";
+Dir::Cache::srcpkgcache "srcpkgcache.bin";
+Dir::Etc "etc/apt/";
+Dir::Etc::main "apt.conf";
+Dir::Etc::netrc "auth.conf";
+Dir::Etc::parts "apt.conf.d";
+Dir::Etc::preferences "preferences";
+Dir::Etc::preferencesparts "preferences.d";
+Dir::Etc::sourcelist "sources.list";
+Dir::Etc::sourceparts "sources.list.d";
+Dir::Etc::trusted "trusted.gpg";
+Dir::Etc::trustedparts "trusted.gpg.d";
+Dir::Ignore-Files-Silently "";
+Dir::Ignore-Files-Silently:: "\.bak$";
+Dir::Ignore-Files-Silently:: "\.disabled$";
+Dir::Ignore-Files-Silently:: "\.distUpgrade$";
+Dir::Ignore-Files-Silently:: "\.dpkg-[a-z]+$";
+Dir::Ignore-Files-Silently:: "\.orig$";
+Dir::Ignore-Files-Silently:: "\.save$";
+Dir::Ignore-Files-Silently:: "~$";
+Dir::Log "var/log/apt";
+Dir::Log::History "history.log";
+Dir::Log::Terminal "term.log";
+Dir::Media "";
+Dir::Media::MountPath "/media/apt";
+Dir::State "var/lib/apt/";
+Dir::State::cdroms "cdroms.list";
+Dir::State::extended_states "extended_states";
+Dir::State::lists "lists/";
+Dir::State::mirrors "mirrors/";
+Dir::State::status "/var/lib/dpkg/status";
+Dv_NewsSetting.config
+FILE
+FTP
+FTPS
+FxCopCmd.exe.config
+GOPHER
+Gallio.Ambience.Server.exe.config
+Gallio.Echo.exe.config
+Gallio.Host.exe.config
+Gallio.Host.x86.exe.config
+Gallio.Icarus.exe.config
+Gallio.Navigator.exe.config
+HTTP
+HTTPS
+IMAP
+IMAPS
+LDAP
+LDAPS
+Log4Net.config
+MRefBuilder.config
+MbUnit.Cons.exe.config
+MbUnit.GUI.exe.config
+NAnt.exe.config
+NCover.Console.exe.config
+NCoverExplorer.exe.config
+NDepend.Console.exe.config
+NHQG.exe.config
+NHibernate.Caches.SysCache.Tests.dll.config
+NHibernate.Examples.dll.config
+NHibernate.Test.Performance.dll.config
+NHibernate.Test.dll.config
+NHibernate.config
+NLog.config
+NUnitTests.config
+POP3
+POP3S
+RTSP
+Rhino.Commons.NHibernate.dll.config
+SCP
+SFTP
+SMB
+SMBS
+SMTP
+SMTPS
+SQLiteInMemory.Nhibernate.config
+StateNameServer.exe.config
+StructureMap.config
+Sysindex.config
+System.config
+TELNET
+TFTP
+Tarantino.Daemon.Console.exe.config
+Tarantino.Daemon.exe.config
+Tarantino.DatabaseManager.exe.config
+Tarantino.Deployer.Console.exe.config
+Tarantino.Deployer.exe.config
+Tarantino.IntegrationTests.dll.config
+Temp_Dv_ForumNews.config
+Unattended-Upgrade "";
+Unattended-Upgrade::Allowed-Origins "";
+Unattended-Upgrade::Allowed-Origins:: "${distro_id}:${distro_codename}";
+Unattended-Upgrade::Allowed-Origins:: "${distro_id}:${distro_codename}-security";
+Unattended-Upgrade::Allowed-Origins:: "${distro_id}ESM:${distro_codename}";
+Web.config
+WebSite.config
+Whatmaps "";
+Whatmaps::Enable-Restart "0";
+Whatmaps::Security-Update-Origins "";
+Whatmaps::Security-Update-Origins:: "${distro_id} ${distro_codename}-security";
+Whatmaps::Security-Update-Origins:: "${distro_id} stable";
+Windsor-AR.config
+Windsor.config
+app.config
+applypatch
+audit.config
+auto_commit
+backup.wp-config.php
+build_cache
+build_dir
+build_dir_reuse
+build_requires_install_policy
+bzip2
+cache_metadata
+candle.exe.config
+castle.config
+ccnet.config
+check_sigs
+cleanup_after_install
+colorize_debug
+colorize_output
+colorize_print
+colorize_warn
+commandnumber_in_prompt
+commands_quote
+commit
+conceptual.config
+connect_to_internet_ok
+cpan
+cpan_home
+curl
+dashboard.config
+decal@UFO:~/code/c$
+default.config
+defaults
+dontload_hash
+dontload_list
+event.description.addrmap New address mapping for our DNS cache.
+event.description.buildtimeout_set Indicates the timeout value for a circuit has changed.
+event.description.bw Event emitted every second with the bytes sent and received by tor.
+event.description.descchanged Indicates that our descriptor has changed.
+event.description.hs_desc Received a hidden service descriptor that wasn't yet cached.
+event.description.hs_desc_content Content of a hidden service descriptor we've fetched.
+event.description.network_liveness Emitted when the network becomes reachable or unreachable.
+event.description.newconsensus Received a new hourly consensus of relays in the tor network.
+event.description.newdesc Indicates that a new descriptor is available.
+event.description.orconn Change in our connections as a relay.
+event.description.status_general Notification of a change in tor's state.
+event.description.status_server Notification of a change in tor's state as a relay.
+event.description.transport_launched Emitted when a pluggable transport is launched.
+facilities.config
+ftp
+ftp_passive
+ftp_proxy
+ftpstats_period
+ftpstats_size
+getcwd
+gpg
+gzip
+halt_on_failure
+help
+histfile
+histsize
+html2ps.config
+inactivity_timeout
+index_expire
+inhibit_startup_message
+init
+keep_source_where
+light.exe.config
+load_module_verbosity
+lynx
+make
+make_arg
+make_install_arg
+make_install_make_command
+makepl_arg
+manual.important AccountingMax
+manual.important AccountingStart
+manual.important BandwidthBurst
+manual.important BandwidthRate
+manual.important Bridge
+manual.important BridgeRelay
+manual.important ContactInfo
+manual.important ControlPort
+manual.important CookieAuthentication
+manual.important DataDirectory
+manual.important DirPort
+manual.important DirPortFrontPage
+manual.important ExcludeNodes
+manual.important ExitPolicy
+manual.important HashedControlPassword
+manual.important HiddenServiceDir
+manual.important HiddenServicePort
+manual.important Log
+manual.important MaxCircuitDirtiness
+manual.important MyFamily
+manual.important Nickname
+manual.important ORPort
+manual.important RelayBandwidthBurst
+manual.important RelayBandwidthRate
+manual.important RunAsDaemon
+manual.important SocksPort
+manual.important UseBridges
+manual.important User
+manual.summary.AccelDir Crypto acceleration library path
+manual.summary.AccelName OpenSSL engine name for crypto acceleration
+manual.summary.AccountingMax Amount of traffic before hibernating
+manual.summary.AccountingRule Method to determine when the accounting limit is reached
+manual.summary.AccountingStart Duration of an accounting period
+manual.summary.Address Overwrites address others will use to reach this relay
+manual.summary.AllowNonRFC953Hostnames Toggles blocking invalid characters in hostname resolution
+manual.summary.AndroidIdentityTag Tag when logging to android subsystem
+manual.summary.AssumeReachable Skips reachability test at startup
+manual.summary.AuthDirBadExit Relays to be flagged as bad exits
+manual.summary.AuthDirBadExitCCs Countries for which to flag all relays as bad exits
+manual.summary.AuthDirFastGuarantee Advertised rate at which the Fast flag is granted
+manual.summary.AuthDirGuardBWGuarantee Advertised rate necessary to be a guard
+manual.summary.AuthDirInvalid Relays from which the valid flag is withheld
+manual.summary.AuthDirInvalidCCs Countries for which the valid flag is withheld
+manual.summary.AuthDirListBadExits Toggles if we provide an opinion on bad exits
+manual.summary.AuthDirMaxServersPerAddr Limit on the number of relays accepted per ip
+manual.summary.AuthDirPinKeys Don't accept descriptors with conflicting identity keypairs
+manual.summary.AuthDirReject Relays to be dropped from the consensus
+manual.summary.AuthDirRejectCCs Countries for which relays aren't accepted into the consensus
+manual.summary.AuthDirSharedRandomness Participates in shared randomness voting
+manual.summary.AuthoritativeDirectory Act as a directory authority
+manual.summary.AutomapHostsOnResolve Map addresses ending with special suffixes to virtual addresses
+manual.summary.AutomapHostsSuffixes Address suffixes recognized by AutomapHostsOnResolve
+manual.summary.AvoidDiskWrites Toggles if tor avoids frequently writing to disk
+manual.summary.BandwidthBurst Maximum bandwidth usage limit
+manual.summary.BandwidthRate Average bandwidth usage limit
+manual.summary.Bridge Available bridges
+manual.summary.BridgeAuthoritativeDir Acts as a bridge authority
+manual.summary.BridgeDistribution Distribution method BrideDB should provide our address by
+manual.summary.BridgePassword Password for requesting bridge information
+manual.summary.BridgeRecordUsageByCountry Tracks geoip information on bridge usage
+manual.summary.BridgeRelay Act as a bridge
+manual.summary.CacheDirectory Directory where information is cached
+manual.summary.CacheDirectoryGroupReadable Group read permissions for the cache directory
+manual.summary.CellStatistics Toggles storing circuit queue duration to disk
+manual.summary.CircuitBuildTimeout Initial timeout for circuit creation
+manual.summary.CircuitStreamTimeout Timeout for shifting streams among circuits
+manual.summary.CircuitsAvailableTimeout Time to keep circuits open and unused for
+manual.summary.ClientOnionAuthDir Path containing hidden service authorization files
+manual.summary.ClientOnly Ensures that we aren't used as a relay or directory mirror
+manual.summary.ClientPreferIPv6DirPort Perfer relays with IPv6 when fetching consensus
+manual.summary.ClientPreferIPv6ORPort Prefer a guard's IPv6 rather than IPv4 endpoint
+manual.summary.ClientRejectInternalAddresses Disables use of Tor for internal connections
+manual.summary.ClientTransportPlugin Proxy when establishing bridge connections
+manual.summary.ClientUseIPv4 Allow IPv4 connections to guards and fetching consensus
+manual.summary.ClientUseIPv6 Allow IPv6 connections to guards and fetching consensus
+manual.summary.ConnDirectionStatistics Toggles storing connection use to disk
+manual.summary.ConnLimit Minimum number of file descriptors for Tor to start
+manual.summary.ConnectionPadding Pad traffic to help prevent correlation attacks
+manual.summary.ConsensusParams Params entry of the networkstatus vote
+manual.summary.ConstrainedSockSize Limit for the received and transmit buffers of sockets
+manual.summary.ConstrainedSockets Shrinks sockets to ConstrainedSockSize
+manual.summary.ContactInfo Contact information for this relay
+manual.summary.ControlPortFileGroupReadable Group read permissions for the control port file
+manual.summary.ControlPortWriteToFile Path for a file tor writes containing its control port
+manual.summary.ControlSocket Socket providing controller access
+manual.summary.ControlSocketsGroupWritable Group read permissions for the control socket
+manual.summary.CookieAuthFile Location of the authentication cookie
+manual.summary.CookieAuthFileGroupReadable Group read permissions for the authentication cookie
+manual.summary.CountPrivateBandwidth Applies rate limiting to private IP addresses
+manual.summary.DNSPort Port from which DNS responses are fetched instead of tor
+manual.summary.DataDirectoryGroupReadable Group read permissions for the data directory
+manual.summary.DirAuthority Alternative directory authorities
+manual.summary.DirAuthorityFallbackRate Rate at which to use fallback directory
+manual.summary.DirCache Provide cached descriptor information to other tor users
+manual.summary.DirPolicy Access policy for the DirPort
+manual.summary.DirPort Port for directory connections
+manual.summary.DirPortFrontPage Publish this html file on the DirPort
+manual.summary.DirReqStatistics Toggles storing network status counts and performance to disk
+manual.summary.DisableAllSwap Locks all allocated memory so they can't be paged out
+manual.summary.DisableNetwork Don't accept non-controller connections
+manual.summary.DisableOOSCheck Don't close connections when running out of sockets
+manual.summary.DoSCircuitCreationBurst Accept burst of circuit creation up to this rate
+manual.summary.DoSCircuitCreationDefenseTimePeriod Duration of DoS mitigation
+manual.summary.DoSCircuitCreationDefenseType Method for mitigating circuit creation DoS
+manual.summary.DoSCircuitCreationEnabled Enables circuit creation DoS mitigation
+manual.summary.DoSCircuitCreationMinConnections Connection rate when clients are a suspected DoS
+manual.summary.DoSCircuitCreationRate Acceptable rate for circuit creation
+manual.summary.DoSConnectionDefenseType Method for mitigating connection DoS
+manual.summary.DoSConnectionEnabled Enables connection DoS mitigation
+manual.summary.DoSConnectionMaxConcurrentCount Acceptable number of connections
+manual.summary.DownloadExtraInfo Toggles fetching of extra information about relays
+manual.summary.EntryNodes Preferred first hops for circuits
+manual.summary.EntryStatistics Toggles storing client connection counts to disk
+manual.summary.ExcludeExitNodes Relays or locales never to be used for exits
+manual.summary.ExcludeNodes Relays or locales never to be used in circuits
+manual.summary.ExitNodes Preferred final hop for circuits
+manual.summary.ExitPolicy Traffic destinations that can exit from this relay
+manual.summary.ExitPolicyRejectPrivate Prevent exiting on the local network
+manual.summary.ExitPortStatistics Toggles storing traffic and port usage data to disk
+manual.summary.ExitRelay Allow relaying of exit traffic
+manual.summary.ExtORPort Endpoint for extended ORPort connections
+manual.summary.ExtORPortCookieAuthFile Location of the ExtORPort's authentication cookie
+manual.summary.ExtendAllowPrivateAddresses Allow circuits to be extended to the local network
+manual.summary.ExtraInfoStatistics Publishes statistic data in the extra-info documents
+manual.summary.FallbackDir Fallback when unable to retrieve descriptor information
+manual.summary.FascistFirewall Only make outbound connections on FirewallPorts
+manual.summary.FetchDirInfoExtraEarly Updates consensus information when it's first available
+manual.summary.FetchServerDescriptors Toggles if the consensus is fetched automatically or not
+manual.summary.FirewallPorts Ports used by FascistFirewall
+manual.summary.GeoIPExcludeUnknown Don't use relays with an unknown locale in circuits
+manual.summary.GeoIPFile Path to file containing IPv4 geoip information
+manual.summary.GeoIPv6File Path to file containing IPv6 geoip information
+manual.summary.GuardLifetime Minimum time to keep entry guards
+manual.summary.GuardfractionFile File containing information with duration of our guards
+manual.summary.HSLayer2Nodes permissible relays for the second hop of HS circuits
+manual.summary.HSLayer3Nodes permissible relays for the third hop of HS circuits
+manual.summary.HTTPProxy HTTP proxy for connecting to tor
+manual.summary.HTTPProxyAuthenticator Authentication credentials for HTTPProxy
+manual.summary.HTTPSProxy SSL proxy for connecting to tor
+manual.summary.HTTPSProxyAuthenticator Authentication credentials for HTTPSProxy
+manual.summary.HTTPTunnelPort Port on which to allow 'HTTP CONNECT' connections
+manual.summary.HardwareAccel Toggles if tor attempts to use hardware acceleration
+manual.summary.HashedControlPassword Hash of the password for authenticating to the control port
+manual.summary.HeartbeatPeriod Rate at which an INFO level heartbeat message is sent
+manual.summary.HidServAuth Authentication credentials for connecting to a hidden service
+manual.summary.HiddenServiceAllowUnknownPorts Allow rendezvous circuits on unrecognized ports
+manual.summary.HiddenServiceAuthorizeClient Restricts access to the hidden service
+manual.summary.HiddenServiceDir Directory contents for the hidden service
+manual.summary.HiddenServiceDirGroupReadable Group read permissions for the hidden service directory
+manual.summary.HiddenServiceExportCircuitID Exposes incoming client circuits via the given protocol
+manual.summary.HiddenServiceMaxStreams Maximum streams per rendezvous circuit
+manual.summary.HiddenServiceNonAnonymousMode Enables HiddenServiceSingleHopMode to be set
+manual.summary.HiddenServicePort Port the hidden service is provided on
+manual.summary.HiddenServiceSingleHopMode Allow non-anonymous single hop hidden services
+manual.summary.HiddenServiceStatistics Toggles storing hidden service stats to disk
+manual.summary.HiddenServiceVersion Version for published hidden service descriptors
+manual.summary.IPv6Exit Allow clients to use us for IPv6 traffic
+manual.summary.KISTSchedRunInterval Scheduling interval if using KIST
+manual.summary.KISTSockBufSizeFactor Multiplier for per-socket limit if using KIST
+manual.summary.KeepBindCapabilities Retain permission for binding to low valued ports
+manual.summary.KeepalivePeriod Rate at which to send keepalive packets
+manual.summary.KeyDirectory Directory where secret keys reside
+manual.summary.KeyDirectoryGroupReadable Group read permissions for the secret key directory
+manual.summary.LearnCircuitBuildTimeout Toggles adaptive timeouts for circuit creation
+manual.summary.Log Runlevels and location for tor logging
+manual.summary.LogMessageDomains Includes a domain when logging messages
+manual.summary.LogTimeGranularity limits granularity of log message timestamps
+manual.summary.LongLivedPorts Ports requiring highly reliable relays
+manual.summary.MainloopStats Include development information from the main loop with heartbeats
+manual.summary.MapAddress Alias mappings for address requests
+manual.summary.MaxCircuitDirtiness Duration for reusing constructed circuits
+manual.summary.MaxClientCircuitsPending Number of circuits that can be in construction at once
+manual.summary.MaxConsensusAgeForDiffs Time to generate consensus caches for
+manual.summary.MaxUnparseableDescSizeToLog Size of the dedicated log for unparseable descriptors
+manual.summary.MinUptimeHidServDirectoryV2 Required uptime before accepting hidden service directory
+manual.summary.MyFamily Other relays this operator administers
+manual.summary.NATDPort Port for forwarding ipfw NATD connections
+manual.summary.NewCircuitPeriod Period for considering the creation of new circuits
+manual.summary.Nickname Identifier for this relay
+manual.summary.NoExec Prevents any launch of other executables
+manual.summary.NodeFamily Define relays as belonging to a family
+manual.summary.NumCPUs Number of processes spawned for decryption
+manual.summary.NumDirectoryGuards Pool size of directory guards we'll select from
+manual.summary.NumEntryGuards Pool size of guard relays we'll select from
+manual.summary.NumPrimaryGuards Pool size of strongly preferred guard relays we'll select from
+manual.summary.ORPort Port used to accept relay traffic
+manual.summary.OfflineMasterKey Don't generate the master secret key
+manual.summary.OptimisticData Use exits without confirmation that prior connections succeeded
+manual.summary.OutboundBindAddress Sets the IP used for connecting to tor
+manual.summary.OutboundBindAddressExit Make outbound exit connections originate from this address
+manual.summary.OutboundBindAddressOR Make outbound non-exit connections originate from this address
+manual.summary.PaddingStatistics Toggles storing padding counts
+manual.summary.PathBiasCircThreshold Number of circuits through a guard before applying bias checks
+manual.summary.PathBiasDropGuards Drop guards failing to establish circuits
+manual.summary.PathBiasExtremeRate Fraction of circuits that must succeed before logging an error
+manual.summary.PathBiasExtremeUseRate Fraction of streams that must succeed before logging an error
+manual.summary.PathBiasNoticeRate Fraction of circuits that must succeed before logging a notice
+manual.summary.PathBiasNoticeUseRate Fraction of streams that must succeed before logging a notice
+manual.summary.PathBiasScaleThreshold Circuits through a guard before scaling past observations down
+manual.summary.PathBiasUseThreshold Number of streams through a circuit before applying bias checks
+manual.summary.PathBiasWarnRate Fraction of circuits that must succeed before logging a warning
+manual.summary.PerConnBWBurst Maximum relayed bandwidth limit per connection
+manual.summary.PerConnBWRate Average relayed bandwidth limit per connection
+manual.summary.PidFile Path for a file tor writes containing its process id
+manual.summary.ProtocolWarnings Toggles if protocol errors give warnings or not
+manual.summary.PublishServerDescriptor Types of descriptors published
+manual.summary.ReachableAddresses Rules for bypassing the local firewall
+manual.summary.RecommendedClientVersions Tor versions believed to be safe for clients
+manual.summary.RecommendedPackages Suggested versions of applications other than tor
+manual.summary.RecommendedServerVersions Tor versions believed to be safe for relays
+manual.summary.RecommendedVersions Suggested versions of tor
+manual.summary.ReducedExitPolicy Customized reduced exit policy
+manual.summary.RefuseUnknownExits Prevents relays not in the consensus from using us as an exit
+manual.summary.RejectPlaintextPorts Prevents connections on risky ports
+manual.summary.RelayBandwidthBurst Maximum bandwidth usage limit for relaying
+manual.summary.RelayBandwidthRate Average bandwidth usage limit for relaying
+manual.summary.RendPostPeriod Period at which the rendezvous service descriptors are refreshed
+manual.summary.RunAsDaemon Toggles if tor runs as a daemon process
+manual.summary.SSLKeyLifetime Lifetime for our link certificate
+manual.summary.SafeLogging Toggles if logs are scrubbed of sensitive information
+manual.summary.SafeSocks Toggles rejecting unsafe variants of the socks protocol
+manual.summary.Sandbox Run within a syscall sandbox
+manual.summary.Schedulers Scheduling algorithm by which to send outbound data
+manual.summary.ServerDNSDetectHijacking Toggles testing for DNS hijacking
+manual.summary.ServerDNSRandomizeCase Toggles DNS query case randomization
+manual.summary.ServerDNSResolvConfFile Overriding resolver config for DNS queries we provide
+manual.summary.ServerTransportListenAddr Endpoint for bridge's pluggable transport proxy
+manual.summary.ServerTransportOptions Additional arguments for bridge's proxy
+manual.summary.ServerTransportPlugin Proxy when servicing bridge connections
+manual.summary.ShutdownWaitLength Delay before quitting after receiving a SIGINT signal
+manual.summary.Socks4Proxy SOCKS 4 proxy for connecting to tor
+manual.summary.Socks5Proxy SOCKS 5 for connecting to tor
+manual.summary.Socks5ProxyPassword Password for connecting to the Socks5Proxy
+manual.summary.Socks5ProxyUsername Username for connecting to the Socks5Proxy
+manual.summary.SocksPolicy Access policy for the pocks port
+manual.summary.SocksPort Port for using tor as a Socks proxy
+manual.summary.SocksTimeout Time until idle or unestablished socks connections are closed
+manual.summary.StrictNodes Never uses notes outside of Entry/ExitNodes
+manual.summary.SyslogIdentityTag Tag logs appended to the syslog as being from tor
+manual.summary.TestSocks Provide notices for if socks connections are of the safe or unsafe variants
+manual.summary.TestingBridgeDownloadInitialDelay Delay before downloading bridge descriptors
+manual.summary.TestingClientDownloadInitialDelay Delay before downloading resources for client usage
+manual.summary.TestingDirAuthVoteExit Relays to give the Exit flag to
+manual.summary.TestingDirAuthVoteGuard Relays to give the Guard flag to
+manual.summary.TestingDirAuthVoteHSDir Relays to give the HSDir flag to
+manual.summary.TestingEnableCellStatsEvent Allow controllers to request CELL_STATS events
+manual.summary.TestingEnableConnBwEvent Allow controllers to request CONN_BW events
+manual.summary.TestingMinExitFlagThreshold Lower bound for assigning the Exit flag
+manual.summary.TestingMinFastFlagThreshold Minimum value for the Fast flag
+manual.summary.TestingServerDownloadInitialDelay Delay before downloading resources for relaying
+manual.summary.TestingTorNetwork Overrides other options to be a testing network
+manual.summary.TestingV3AuthVotingStartOffset Offset for the point at which the authority votes
+manual.summary.TrackHostExits Maintains use of the same exit whenever connecting to this destination
+manual.summary.TrackHostExitsExpire Time until use of an exit for tracking expires
+manual.summary.TransPort Port for transparent proxying if the OS supports it
+manual.summary.TransProxyType Proxy type to be used
+manual.summary.TruncateLogFile Overwrites log file rather than appending when restarted
+manual.summary.UnixSocksGroupWritable Group write permissions for the socks socket
+manual.summary.UpdateBridgesFromAuthority Toggles fetching bridge descriptors from the authorities
+manual.summary.UseBridges Make use of configured bridges
+manual.summary.UseDefaultFallbackDirs Use hard-coded fallback directory authorities when needed
+manual.summary.UseEntryGuards Use guard relays for first hop
+manual.summary.UseGuardFraction Take guardfraction into account for path selection
+manual.summary.UseMicrodescriptors Retrieve microdescriptors rather than server descriptors
+manual.summary.User UID for the process when started
+manual.summary.V3AuthDistDelay Wait time to collect the signatures of other authorities
+manual.summary.V3AuthNIntervalsValid Number of voting intervals a consensus is valid for
+manual.summary.V3AuthUseLegacyKey Signs consensus with both the current and legacy keys
+manual.summary.V3AuthVoteDelay Wait time to collect votes of other authorities
+manual.summary.V3AuthVotingInterval Consensus voting interval
+manual.summary.V3AuthoritativeDirectory Generates a version 3 consensus
+manual.summary.V3BandwidthsFile Path to a file containing measured relay bandwidths
+manual.summary.VersioningAuthoritativeDirectory Provides opinions on recommended versions of tor
+manual.summary.VirtualAddrNetworkIPv4 IPv4 address range to use when needing a virtual address
+manual.summary.VirtualAddrNetworkIPv6 IPv6 address range to use when needing a virtual address
+manual.summary.WarnPlaintextPorts Toggles warnings for using risky ports
+mbuild_arg
+mbuild_install_arg
+mbuild_install_build_command
+mbuildpl_arg
+mock-assembly.dll.config
+ncftp
+ncftpget
+nknown
+no_proxy
+nunit-agent.exe.config
+nunit-console-x86.exe.config
+nunit-console.exe.config
+nunit-gui.exe.config
+nunit-x86.exe.config
+nunit.exe.config
+pager
+password
+patch
+patches_dir
+perl5lib_verbosity
+plugin_list
+prefer_external_tar
+prefer_installer
+prefs_dir
+prerequisites_policy
+proxy_pass
+proxy_user
+randomize_urllist
+recommends_policy
+runFile.exe.config
+sandcastle-scbuild.config
+sandcastle-webref.config
+sandcastle.config
+scan_cache
+services.config
+shell
+show_unparsable_versions
+show_upload_date
+show_zero_versions
+site.config
+suggests_policy
+tar
+tar_verbosity
+term_is_latin
+term_ornaments
+test_report
+trust_test_report_history
+unzip
+urllist
+use_prompt_default
+use_sqlite
+usercat.config
+username
+version_timeout
+wait_list
+wget
+wp-config
+wp-config - Copy.php
+wp-config copy.php
+wp-config-backup
+wp-config-backup.php
+wp-config-backup.txt
+wp-config-backup1.txt
+wp-config-good
+wp-config-sample.bak
+wp-config-sample.php
+wp-config-sample.php.bak
+wp-config-sample.php~
+wp-config.
+wp-config.0
+wp-config.1
+wp-config.2
+wp-config.3
+wp-config.4
+wp-config.5
+wp-config.6
+wp-config.7
+wp-config.8
+wp-config.9
+wp-config.ORG
+wp-config._1
+wp-config._2
+wp-config._backup
+wp-config.a
+wp-config.aws
+wp-config.azure
+wp-config.b
+wp-config.bac
+wp-config.back
+wp-config.backup
+wp-config.backup.txt
+wp-config.bak
+wp-config.bak1
+wp-config.bk
+wp-config.bkp
+wp-config.c
+wp-config.cache
+wp-config.cfg
+wp-config.com
+wp-config.conf
+wp-config.cs
+wp-config.csproj
+wp-config.cust
+wp-config.data
+wp-config.dev
+wp-config.dif
+wp-config.disabled
+wp-config.dist
+wp-config.dump
+wp-config.err
+wp-config.good
+wp-config.gz
+wp-config.htm
+wp-config.html
+wp-config.in
+wp-config.inc
+wp-config.ini
+wp-config.java
+wp-config.local
+wp-config.local.php
+wp-config.log
+wp-config.lst
+wp-config.maj
+wp-config.map
+wp-config.new
+wp-config.old
+wp-config.old.old
+wp-config.org
+wp-config.orig
+wp-config.original
+wp-config.part
+wp-config.php
+wp-config.php#
+wp-config.php-
+wp-config.php-backup
+wp-config.php-bak
+wp-config.php-n
+wp-config.php-o
+wp-config.php-old
+wp-config.php-original
+wp-config.php-save
+wp-config.php-work
+wp-config.php.
+wp-config.php.0
+wp-config.php.1
+wp-config.php.2
+wp-config.php.3
+wp-config.php.4
+wp-config.php.5
+wp-config.php.6
+wp-config.php.7
+wp-config.php.8
+wp-config.php.9
+wp-config.php.a
+wp-config.php.aws
+wp-config.php.azure
+wp-config.php.b
+wp-config.php.bac
+wp-config.php.backup
+wp-config.php.backup.txt
+wp-config.php.bak
+wp-config.php.bak1
+wp-config.php.bk
+wp-config.php.bkp
+wp-config.php.c
+wp-config.php.cache
+wp-config.php.cfg
+wp-config.php.com
+wp-config.php.conf
+wp-config.php.cs
+wp-config.php.csproj
+wp-config.php.cust
+wp-config.php.data
+wp-config.php.dev
+wp-config.php.dif
+wp-config.php.disabled
+wp-config.php.dist
+wp-config.php.dump
+wp-config.php.err
+wp-config.php.gz
+wp-config.php.html
+wp-config.php.in
+wp-config.php.inc
+wp-config.php.ini
+wp-config.php.java
+wp-config.php.local
+wp-config.php.log
+wp-config.php.lst
+wp-config.php.maj
+wp-config.php.map
+wp-config.php.new
+wp-config.php.old
+wp-config.php.org
+wp-config.php.orig
+wp-config.php.original
+wp-config.php.part
+wp-config.php.php-bak
+wp-config.php.prod
+wp-config.php.production
+wp-config.php.rej
+wp-config.php.sample
+wp-config.php.sass-cache
+wp-config.php.sav
+wp-config.php.save
+wp-config.php.save.1
+wp-config.php.save.2
+wp-config.php.save.3
+wp-config.php.stage
+wp-config.php.staging
+wp-config.php.sublime-project
+wp-config.php.sublime-workspace
+wp-config.php.swn
+wp-config.php.swo
+wp-config.php.swp
+wp-config.php.tar
+wp-config.php.tar.gz
+wp-config.php.temp
+wp-config.php.templ
+wp-config.php.tmp
+wp-config.php.txt
+wp-config.php.uk
+wp-config.php.un~
+wp-config.php.us
+wp-config.php.vb
+wp-config.php.vbproj
+wp-config.php.vi
+wp-config.php.zip
+wp-config.php0
+wp-config.php1
+wp-config.php2
+wp-config.php3
+wp-config.php4
+wp-config.php5
+wp-config.php6
+wp-config.php=
+wp-config.php_
+wp-config.php_1
+wp-config.php__
+wp-config.php______
+wp-config.php__olds
+wp-config.php_backup
+wp-config.php_bak
+wp-config.php_bk
+wp-config.php_new
+wp-config.php_old
+wp-config.php_orig
+wp-config.php_original
+wp-config.phpa
+wp-config.phpb
+wp-config.phpbak
+wp-config.phpc
+wp-config.phpd
+wp-config.phpn
+wp-config.phpnew
+wp-config.phpold
+wp-config.phporiginal
+wp-config.phps
+wp-config.phptmp
+wp-config.php~
+wp-config.php~1
+wp-config.php~bk
+wp-config.php~~~
+wp-config.prod
+wp-config.prod.php.txt
+wp-config.prod.txt
+wp-config.production
+wp-config.rar
+wp-config.rej
+wp-config.sample
+wp-config.sass-cache
+wp-config.sav
+wp-config.save
+wp-config.save.1
+wp-config.save.2
+wp-config.save.3
+wp-config.stage
+wp-config.staging
+wp-config.sublime-project
+wp-config.sublime-workspace
+wp-config.swn
+wp-config.swo
+wp-config.swp
+wp-config.tar
+wp-config.tar.gz
+wp-config.temp
+wp-config.templ
+wp-config.tmp
+wp-config.txt
+wp-config.uk
+wp-config.un~
+wp-config.us
+wp-config.vb
+wp-config.vbproj
+wp-config.vi
+wp-config.wp-config.php.swo
+wp-config.wp-config.php.swp
+wp-config.zip
+wp-config_backup
+wp-config_good
+wp-config~
+xamlSyntax.config
+xunit.console.exe.config
+yaml_load_code
+yaml_module
+{{paths}}
+{{path}}

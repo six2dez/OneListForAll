@@ -1,0 +1,137 @@
+/.aws/config
+/.aws/credentials
+/.s3cfg
+/?list-type=2
+/?torrent
+/Dockerrun.aws.json
+/_dashboards/app/login
+/awstats/data
+/buildspec.yaml
+/buildspec.yml
+/index.html
+/static/Dockerrun.aws.json
+/v1/metadata
+/v1/tasks
+/wp-config.php-backup
+API Gateway	apigateway
+AWS AppSync	appsync
+AWS Application Discovery Service	discovery
+AWS Artifact	artifact
+AWS Batch	batch
+AWS Billing and Cost Management	aws-portal
+AWS Budgets	budgets
+AWS Cloud Map	servicediscovery
+AWS Cloud9	cloud9
+AWS CloudFormation	cloudformation
+AWS CloudHSM	cloudhsm
+AWS CloudTrail	cloudtrail
+AWS CodeBuild	codebuild
+AWS CodeCommit	codecommit
+AWS CodeDeploy	codedeploy
+AWS CodePipeline	codepipeline
+AWS CodeStar	codestar
+AWS Config	config
+AWS Data Pipeline	datapipeline
+AWS Device Farm	devicefarm
+AWS Direct Connect	directconnect
+AWS Directory Service	ds
+AWS Elastic Beanstalk	elasticbeanstalk
+AWS Elemental MediaConnect	mediaconnect
+AWS Elemental MediaConvert	mediaconvert
+AWS Elemental MediaLive	medialive
+AWS Elemental MediaPackage	mediapackage
+AWS Elemental MediaStore	mediastore
+AWS Elemental MediaTailor	mediatailor
+AWS Firewall Manager	fms
+AWS Glue	glue
+AWS Health / Personal Health Dashboard	health
+AWS Import/Export	importexport
+AWS IoT	iot
+AWS IoT Greengrass	greengrass
+AWS Lambda	lambda
+AWS Marketplace	aws-marketplace
+AWS Marketplace Management Portal	aws-marketplace-management
+AWS Migration Hub	mgh
+AWS Mobile Hub	mobilehub
+AWS OpsWorks	opsworks
+AWS OpsWorks for Chef Automate	opsworks-cm
+AWS Organizations	organizations
+AWS Resource Groups	resource-groups
+AWS Secrets Manager	secretsmanager
+AWS Serverless Application Repository	serverlessrepo
+AWS Service Catalog	servicecatalog
+AWS Shield	shield
+AWS Shield Advanced	DDoSProtection
+AWS Step Functions	states
+AWS Storage Gateway	storagegateway
+AWS Support	support
+AWS Systems Manager	ssm
+AWS Trusted Advisor	trustedadvisor
+AWS WAF	waf
+AWS X-Ray	xray
+AWS_ACCESS_KEY_ID
+AWS_CA_BUNDLE
+AWS_CONFIG_FILE
+AWS_DEFAULT_OUTPUT
+AWS_DEFAULT_REGION
+AWS_METADATA_SERVICE_NUM_ATTEMPTS
+AWS_METADATA_SERVICE_TIMEOUT
+AWS_PROFILE
+AWS_SECRET_ACCESS_KEY
+AWS_SESSION_TOKEN
+AWS_SHARED_CREDENTIALS_FILE
+Alexa for Business	a4b
+Amazon AppStream	appstream
+Amazon Athena	athena
+Amazon Chime	chime
+Amazon Cloud Directory	clouddirectory
+Amazon CloudFront	cloudfront
+Amazon CloudSearch	cloudsearch
+Amazon CloudWatch	cloudwatch
+Amazon CloudWatch Events	events
+Amazon CloudWatch Logs	logs
+Amazon Cognito Federated Identities	cognito-identity
+Amazon Cognito Sync	cognito-sync
+Amazon Cognito Your User Pools	cognito-idp
+Amazon Comprehend	comprehend
+Amazon Connect	connect
+Amazon DynamoDB	dynamodb
+Amazon EC2 Auto Scaling	autoscaling
+Amazon EMR	elasticmapreduce
+Amazon ElastiCache	elasticache
+Amazon Elastic Transcoder	elastictranscoder
+Amazon FreeRTOS	freertos
+Amazon GameLift	gamelift
+Amazon Glacier	glacier
+Amazon GuardDuty	guardduty
+Amazon Inspector	inspector
+Amazon Kinesis Data Analytics	kinesisanalytics
+Amazon Kinesis Data Firehose	firehose
+Amazon Kinesis Data Streams	kinesis
+Amazon Kinesis Video Streams	kinesisvideo
+Amazon Lex	lex
+Amazon Lightsail	lightsail
+Amazon MQ	mq
+Amazon Machine Learning	machinelearning
+Amazon Macie	macie
+Amazon Mobile Analytics	mobileanalytics
+Amazon Personalize	personalize
+Amazon Pinpoint	mobiletargeting
+Amazon Polly	polly
+Amazon QuickSight	quicksight
+Amazon Redshift	redshift
+Amazon Rekognition	rekognition
+Amazon Route 53	route53
+Amazon Route 53 Domains	route53domains
+Amazon Route 53 Resolver	route53resolver
+Amazon SageMaker	sagemaker
+Amazon SimpleDB	sdb
+Amazon Sumerian	sumerian
+Amazon Textract	textract
+Amazon Transcribe	transcribe
+Amazon Translate	translate
+Amazon WorkDocs	workdocs
+Amazon WorkMail	workmail
+Amazon WorkSpaces	workspaces
+Elastic Load Balancing	elasticloadbalancing
+Service	Namespace

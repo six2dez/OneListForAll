@@ -1,8 +1,43 @@
-etc/apache2/httpd.conf
-Library/WebServer/Documents/index.html
-private/var/log/appstore.log
-var/log/apache2/error_log
-var/log/apache2/access_log
-usr/local/nginx/conf/nginx.conf
-var/log/nginx/error_log
-var/log/nginx/access_log
+/Library/WebServer/Documents/index.html
+/etc/apache2/httpd.conf
+/private/var/log/appstore.log
+/usr/local/nginx/conf/nginx.conf
+/var/log/apache2/access_log
+/var/log/apache2/error_log
+/var/log/nginx/access_log
+/var/log/nginx/error_log
+Chrome 26 Mac OS X Lion
+Chrome 36.0 Mac OS X
+Chrome Mac OS X
+Firefox 24 on Mac OS X
+Firefox 34 Mac OS X
+Ghostlab 3.1.1; Mac OS X/www; it
+Google Chrome Mac OS X
+Google Chrome version 36.0 Mac OS X
+MSIE 9.0; Macintosh
+Mac OS X
+Mac OS X 10.11
+Mac OS X 10_10 Firefox 40
+Mac OS X 10_10 Firefox 41
+Mac OS X 10_10 Firefox 42
+Mac OS X 10_10 Firefox 44
+Mac OS X 10_10 Firefox 48
+Mac OS X; en
+Macintosh; Firefox/27
+Macintosh; Intel Mac OS X 10.10; rv:41.0
+Macintosh; Intel Mac OS X 10.8
+Macintosh; Intel Mac OS X 10_8_5; Trident/6.0
+Macintosh; MSIE 9.0
+Macintosh; Mac OS; en-US; Firefox/27
+Macintosh; Mac; en-US; Firefox/27
+Macintosh; U; Intel Mac OS X; en-US; Firefox/27
+Macintosh; U; Intel Mac OS X; es-mx Version/5.0 Safari/537.6
+Macintosh; U; Intel Mac OS X; es-mx Version/5.1.7 Safari/537.6
+Macintosh; U; Intel Mac OS X; es-mx Version/7.0.3 Safari/537.6
+Mozilla/5.0; MSIE 10; Mac OS X
+Mozilla/5.0; MSIE 10; Mac OS X Mavericks
+Mozilla/5.0; MSIE 9.0; Mac OS X
+Mozilla/5.0; MSIE 9.0; Macintosh
+Safari 10.1 on Mac OS X 10
+Safari on Mac OS X
+open help:///System/Applications/Calculator.app

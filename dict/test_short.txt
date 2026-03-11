@@ -1,114 +1,1952 @@
-classes
-css
-docs
-environment
-images
-includes
-master
-prueba
-scripts
-test
-teste
 .test
-_test
-test2
-tests
-test3
-test1
-testdb
 .tests
-testes
-_tests
-contest
-testdir
-test.db
-test.py
-test.vm
-test.pl
-yuitest
-testing
-testdox
-test.sh
-testlib
-test.rb
-testApp
-test.xls
-test.cgi
-test.inc
-treetest
-test.mdb
-test.log
-test.php
-test.bat
-testdata
-test.asp
-testCase
-test.sql
-test.htm
-test.rar
-test.tpl
-test.xml
-test.txt
-runtests
-test_app
-test.ini
-test.csv
-testpage
-test2.tpl
-test.aspx
-test3.xml
-testFiles
-teste.php
-unit_test
-testB.sql
-tests.php
-test2.php
-test.php4
-test1.php
-test.conf
-test.php3
-test4.php
-test5.php
-_test.bat
-test3.php
-test.html
-test2.xml
-test1.xml
-tests.xml
-_test.php
 00-test.t
-test.ascx
-test.yaml
-teste.htm
-test2.zip
-_testcases
-test00
-test01
-tst
-tsts
-probando
-prueba1
-prueba2
-prueba00
-prueba01
-pruebas
-prova
-prova1
-prova2
-provas
-TEST
-TESTS
-Test
-Tests
-tester
-Pruebas
+002A 20E3                                  ; non-fully-qualified # *⃣ keycap: *
+002A FE0F 20E3                             ; fully-qualified     # *️⃣ keycap: *
+00A9                                       ; non-fully-qualified # © copyright
+00A9 FE0F                                  ; fully-qualified     # ©️ copyright
+00AE                                       ; non-fully-qualified # ® registered
+00AE FE0F                                  ; fully-qualified     # ®️ registered
+1F004                                      ; fully-qualified     # 🀄 mahjong red dragon
+1F0CF                                      ; fully-qualified     # 🃏 joker
+1F17F                                      ; non-fully-qualified # 🅿 P button
+1F17F FE0F                                 ; fully-qualified     # 🅿️ P button
+1F191                                      ; fully-qualified     # 🆑 CL button
+1F192                                      ; fully-qualified     # 🆒 COOL button
+1F193                                      ; fully-qualified     # 🆓 FREE button
+1F194                                      ; fully-qualified     # 🆔 ID button
+1F195                                      ; fully-qualified     # 🆕 NEW button
+1F196                                      ; fully-qualified     # 🆖 NG button
+1F197                                      ; fully-qualified     # 🆗 OK button
+1F198                                      ; fully-qualified     # 🆘 SOS button
+1F19A                                      ; fully-qualified     # 🆚 VS button
+1F1EA 1F1EA                                ; fully-qualified     # 🇪🇪 Estonia
+1F1EA 1F1EC                                ; fully-qualified     # 🇪🇬 Egypt
+1F1EA 1F1ED                                ; fully-qualified     # 🇪🇭 Western Sahara
+1F1EA 1F1FA                                ; fully-qualified     # 🇪🇺 European Union
+1F1EB 1F1EE                                ; fully-qualified     # 🇫🇮 Finland
+1F1EB 1F1EF                                ; fully-qualified     # 🇫🇯 Fiji
+1F1EC 1F1EA                                ; fully-qualified     # 🇬🇪 Georgia
+1F1EC 1F1EB                                ; fully-qualified     # 🇬🇫 French Guiana
+1F1EC 1F1EC                                ; fully-qualified     # 🇬🇬 Guernsey
+1F1EC 1F1ED                                ; fully-qualified     # 🇬🇭 Ghana
+1F1EC 1F1EE                                ; fully-qualified     # 🇬🇮 Gibraltar
+1F1EC 1F1FA                                ; fully-qualified     # 🇬🇺 Guam
+1F1EC 1F1FC                                ; fully-qualified     # 🇬🇼 Guinea-Bissau
+1F1EC 1F1FE                                ; fully-qualified     # 🇬🇾 Guyana
+1F1ED 1F1FA                                ; fully-qualified     # 🇭🇺 Hungary
+1F1EE 1F1EA                                ; fully-qualified     # 🇮🇪 Ireland
+1F1EF 1F1EA                                ; fully-qualified     # 🇯🇪 Jersey
+1F1FA 1F1EC                                ; fully-qualified     # 🇺🇬 Uganda
+1F1FA 1F1FE                                ; fully-qualified     # 🇺🇾 Uruguay
+1F1FA 1F1FF                                ; fully-qualified     # 🇺🇿 Uzbekistan
+1F1FB 1F1EA                                ; fully-qualified     # 🇻🇪 Venezuela
+1F1FB 1F1EC                                ; fully-qualified     # 🇻🇬 British Virgin Islands
+1F1FB 1F1EE                                ; fully-qualified     # 🇻🇮 U.S. Virgin Islands
+1F1FB 1F1FA                                ; fully-qualified     # 🇻🇺 Vanuatu
+1F1FC 1F1EB                                ; fully-qualified     # 🇼🇫 Wallis & Futuna
+1F1FE 1F1EA                                ; fully-qualified     # 🇾🇪 Yemen
+1F1FF 1F1FC                                ; fully-qualified     # 🇿🇼 Zimbabwe
+1F201                                      ; fully-qualified     # 🈁 Japanese “here” button
+1F300                                      ; fully-qualified     # 🌀 cyclone
+1F301                                      ; fully-qualified     # 🌁 foggy
+1F302                                      ; fully-qualified     # 🌂 closed umbrella
+1F303                                      ; fully-qualified     # 🌃 night with stars
+1F304                                      ; fully-qualified     # 🌄 sunrise over mountains
+1F305                                      ; fully-qualified     # 🌅 sunrise
+1F306                                      ; fully-qualified     # 🌆 cityscape at dusk
+1F307                                      ; fully-qualified     # 🌇 sunset
+1F308                                      ; fully-qualified     # 🌈 rainbow
+1F309                                      ; fully-qualified     # 🌉 bridge at night
+1F30A                                      ; fully-qualified     # 🌊 water wave
+1F30B                                      ; fully-qualified     # 🌋 volcano
+1F30C                                      ; fully-qualified     # 🌌 milky way
+1F30D                                      ; fully-qualified     # 🌍 globe showing Europe-Africa
+1F30E                                      ; fully-qualified     # 🌎 globe showing Americas
+1F30F                                      ; fully-qualified     # 🌏 globe showing Asia-Australia
+1F310                                      ; fully-qualified     # 🌐 globe with meridians
+1F311                                      ; fully-qualified     # 🌑 new moon
+1F312                                      ; fully-qualified     # 🌒 waxing crescent moon
+1F313                                      ; fully-qualified     # 🌓 first quarter moon
+1F314                                      ; fully-qualified     # 🌔 waxing gibbous moon
+1F315                                      ; fully-qualified     # 🌕 full moon
+1F316                                      ; fully-qualified     # 🌖 waning gibbous moon
+1F317                                      ; fully-qualified     # 🌗 last quarter moon
+1F318                                      ; fully-qualified     # 🌘 waning crescent moon
+1F319                                      ; fully-qualified     # 🌙 crescent moon
+1F31A                                      ; fully-qualified     # 🌚 new moon face
+1F31B                                      ; fully-qualified     # 🌛 first quarter moon face
+1F31C                                      ; fully-qualified     # 🌜 last quarter moon face
+1F31D                                      ; fully-qualified     # 🌝 full moon face
+1F31E                                      ; fully-qualified     # 🌞 sun with face
+1F31F                                      ; fully-qualified     # 🌟 glowing star
+1F320                                      ; fully-qualified     # 🌠 shooting star
+1F321                                      ; non-fully-qualified # 🌡 thermometer
+1F321 FE0F                                 ; fully-qualified     # 🌡️ thermometer
+1F324                                      ; non-fully-qualified # 🌤 sun behind small cloud
+1F324 FE0F                                 ; fully-qualified     # 🌤️ sun behind small cloud
+1F325                                      ; non-fully-qualified # 🌥 sun behind large cloud
+1F325 FE0F                                 ; fully-qualified     # 🌥️ sun behind large cloud
+1F326                                      ; non-fully-qualified # 🌦 sun behind rain cloud
+1F326 FE0F                                 ; fully-qualified     # 🌦️ sun behind rain cloud
+1F327                                      ; non-fully-qualified # 🌧 cloud with rain
+1F327 FE0F                                 ; fully-qualified     # 🌧️ cloud with rain
+1F328                                      ; non-fully-qualified # 🌨 cloud with snow
+1F328 FE0F                                 ; fully-qualified     # 🌨️ cloud with snow
+1F329                                      ; non-fully-qualified # 🌩 cloud with lightning
+1F329 FE0F                                 ; fully-qualified     # 🌩️ cloud with lightning
+1F32A                                      ; non-fully-qualified # 🌪 tornado
+1F32A FE0F                                 ; fully-qualified     # 🌪️ tornado
+1F32B                                      ; non-fully-qualified # 🌫 fog
+1F32B FE0F                                 ; fully-qualified     # 🌫️ fog
+1F32C                                      ; non-fully-qualified # 🌬 wind face
+1F32C FE0F                                 ; fully-qualified     # 🌬️ wind face
+1F32D                                      ; fully-qualified     # 🌭 hot dog
+1F32E                                      ; fully-qualified     # 🌮 taco
+1F32F                                      ; fully-qualified     # 🌯 burrito
+1F330                                      ; fully-qualified     # 🌰 chestnut
+1F331                                      ; fully-qualified     # 🌱 seedling
+1F332                                      ; fully-qualified     # 🌲 evergreen tree
+1F333                                      ; fully-qualified     # 🌳 deciduous tree
+1F334                                      ; fully-qualified     # 🌴 palm tree
+1F335                                      ; fully-qualified     # 🌵 cactus
+1F336                                      ; non-fully-qualified # 🌶 hot pepper
+1F336 FE0F                                 ; fully-qualified     # 🌶️ hot pepper
+1F337                                      ; fully-qualified     # 🌷 tulip
+1F338                                      ; fully-qualified     # 🌸 cherry blossom
+1F339                                      ; fully-qualified     # 🌹 rose
+1F33A                                      ; fully-qualified     # 🌺 hibiscus
+1F33B                                      ; fully-qualified     # 🌻 sunflower
+1F33C                                      ; fully-qualified     # 🌼 blossom
+1F33D                                      ; fully-qualified     # 🌽 ear of corn
+1F33E                                      ; fully-qualified     # 🌾 sheaf of rice
+1F33F                                      ; fully-qualified     # 🌿 herb
+1F340                                      ; fully-qualified     # 🍀 four leaf clover
+1F341                                      ; fully-qualified     # 🍁 maple leaf
+1F342                                      ; fully-qualified     # 🍂 fallen leaf
+1F343                                      ; fully-qualified     # 🍃 leaf fluttering in wind
+1F344                                      ; fully-qualified     # 🍄 mushroom
+1F345                                      ; fully-qualified     # 🍅 tomato
+1F346                                      ; fully-qualified     # 🍆 eggplant
+1F347                                      ; fully-qualified     # 🍇 grapes
+1F348                                      ; fully-qualified     # 🍈 melon
+1F349                                      ; fully-qualified     # 🍉 watermelon
+1F34A                                      ; fully-qualified     # 🍊 tangerine
+1F34B                                      ; fully-qualified     # 🍋 lemon
+1F34C                                      ; fully-qualified     # 🍌 banana
+1F34D                                      ; fully-qualified     # 🍍 pineapple
+1F34E                                      ; fully-qualified     # 🍎 red apple
+1F34F                                      ; fully-qualified     # 🍏 green apple
+1F350                                      ; fully-qualified     # 🍐 pear
+1F351                                      ; fully-qualified     # 🍑 peach
+1F352                                      ; fully-qualified     # 🍒 cherries
+1F353                                      ; fully-qualified     # 🍓 strawberry
+1F354                                      ; fully-qualified     # 🍔 hamburger
+1F355                                      ; fully-qualified     # 🍕 pizza
+1F356                                      ; fully-qualified     # 🍖 meat on bone
+1F357                                      ; fully-qualified     # 🍗 poultry leg
+1F358                                      ; fully-qualified     # 🍘 rice cracker
+1F359                                      ; fully-qualified     # 🍙 rice ball
+1F35A                                      ; fully-qualified     # 🍚 cooked rice
+1F35B                                      ; fully-qualified     # 🍛 curry rice
+1F35C                                      ; fully-qualified     # 🍜 steaming bowl
+1F35D                                      ; fully-qualified     # 🍝 spaghetti
+1F35E                                      ; fully-qualified     # 🍞 bread
+1F35F                                      ; fully-qualified     # 🍟 french fries
+1F360                                      ; fully-qualified     # 🍠 roasted sweet potato
+1F361                                      ; fully-qualified     # 🍡 dango
+1F362                                      ; fully-qualified     # 🍢 oden
+1F363                                      ; fully-qualified     # 🍣 sushi
+1F364                                      ; fully-qualified     # 🍤 fried shrimp
+1F365                                      ; fully-qualified     # 🍥 fish cake with swirl
+1F366                                      ; fully-qualified     # 🍦 soft ice cream
+1F367                                      ; fully-qualified     # 🍧 shaved ice
+1F368                                      ; fully-qualified     # 🍨 ice cream
+1F369                                      ; fully-qualified     # 🍩 doughnut
+1F36A                                      ; fully-qualified     # 🍪 cookie
+1F36B                                      ; fully-qualified     # 🍫 chocolate bar
+1F36C                                      ; fully-qualified     # 🍬 candy
+1F36D                                      ; fully-qualified     # 🍭 lollipop
+1F36E                                      ; fully-qualified     # 🍮 custard
+1F36F                                      ; fully-qualified     # 🍯 honey pot
+1F370                                      ; fully-qualified     # 🍰 shortcake
+1F371                                      ; fully-qualified     # 🍱 bento box
+1F372                                      ; fully-qualified     # 🍲 pot of food
+1F373                                      ; fully-qualified     # 🍳 cooking
+1F374                                      ; fully-qualified     # 🍴 fork and knife
+1F375                                      ; fully-qualified     # 🍵 teacup without handle
+1F376                                      ; fully-qualified     # 🍶 sake
+1F377                                      ; fully-qualified     # 🍷 wine glass
+1F378                                      ; fully-qualified     # 🍸 cocktail glass
+1F379                                      ; fully-qualified     # 🍹 tropical drink
+1F37A                                      ; fully-qualified     # 🍺 beer mug
+1F37B                                      ; fully-qualified     # 🍻 clinking beer mugs
+1F37C                                      ; fully-qualified     # 🍼 baby bottle
+1F37D                                      ; non-fully-qualified # 🍽 fork and knife with plate
+1F37D FE0F                                 ; fully-qualified     # 🍽️ fork and knife with plate
+1F37E                                      ; fully-qualified     # 🍾 bottle with popping cork
+1F37F                                      ; fully-qualified     # 🍿 popcorn
+1F380                                      ; fully-qualified     # 🎀 ribbon
+1F381                                      ; fully-qualified     # 🎁 wrapped gift
+1F382                                      ; fully-qualified     # 🎂 birthday cake
+1F383                                      ; fully-qualified     # 🎃 jack-o-lantern
+1F384                                      ; fully-qualified     # 🎄 Christmas tree
+1F385                                      ; fully-qualified     # 🎅 Santa Claus
+1F386                                      ; fully-qualified     # 🎆 fireworks
+1F387                                      ; fully-qualified     # 🎇 sparkler
+1F388                                      ; fully-qualified     # 🎈 balloon
+1F389                                      ; fully-qualified     # 🎉 party popper
+1F38A                                      ; fully-qualified     # 🎊 confetti ball
+1F38B                                      ; fully-qualified     # 🎋 tanabata tree
+1F38C                                      ; fully-qualified     # 🎌 crossed flags
+1F38D                                      ; fully-qualified     # 🎍 pine decoration
+1F38E                                      ; fully-qualified     # 🎎 Japanese dolls
+1F38F                                      ; fully-qualified     # 🎏 carp streamer
+1F390                                      ; fully-qualified     # 🎐 wind chime
+1F391                                      ; fully-qualified     # 🎑 moon viewing ceremony
+1F392                                      ; fully-qualified     # 🎒 school backpack
+1F393                                      ; fully-qualified     # 🎓 graduation cap
+1F396                                      ; non-fully-qualified # 🎖 military medal
+1F396 FE0F                                 ; fully-qualified     # 🎖️ military medal
+1F397                                      ; non-fully-qualified # 🎗 reminder ribbon
+1F397 FE0F                                 ; fully-qualified     # 🎗️ reminder ribbon
+1F399                                      ; non-fully-qualified # 🎙 studio microphone
+1F399 FE0F                                 ; fully-qualified     # 🎙️ studio microphone
+1F39A                                      ; non-fully-qualified # 🎚 level slider
+1F39A FE0F                                 ; fully-qualified     # 🎚️ level slider
+1F39B                                      ; non-fully-qualified # 🎛 control knobs
+1F39B FE0F                                 ; fully-qualified     # 🎛️ control knobs
+1F39E                                      ; non-fully-qualified # 🎞 film frames
+1F39E FE0F                                 ; fully-qualified     # 🎞️ film frames
+1F39F                                      ; non-fully-qualified # 🎟 admission tickets
+1F39F FE0F                                 ; fully-qualified     # 🎟️ admission tickets
+1F3AA                                      ; fully-qualified     # 🎪 circus tent
+1F3AB                                      ; fully-qualified     # 🎫 ticket
+1F3AC                                      ; fully-qualified     # 🎬 clapper board
+1F3AD                                      ; fully-qualified     # 🎭 performing arts
+1F3AE                                      ; fully-qualified     # 🎮 video game
+1F3AF                                      ; fully-qualified     # 🎯 direct hit
+1F3BA                                      ; fully-qualified     # 🎺 trumpet
+1F3BB                                      ; fully-qualified     # 🎻 violin
+1F3BC                                      ; fully-qualified     # 🎼 musical score
+1F3BD                                      ; fully-qualified     # 🎽 running shirt
+1F3BE                                      ; fully-qualified     # 🎾 tennis
+1F3BF                                      ; fully-qualified     # 🎿 skis
+1F3CA                                      ; fully-qualified     # 🏊 person swimming
+1F3CB                                      ; non-fully-qualified # 🏋 person lifting weights
+1F3CB FE0F                                 ; fully-qualified     # 🏋️ person lifting weights
+1F3CC                                      ; non-fully-qualified # 🏌 person golfing
+1F3CC FE0F                                 ; fully-qualified     # 🏌️ person golfing
+1F3CD                                      ; non-fully-qualified # 🏍 motorcycle
+1F3CD FE0F                                 ; fully-qualified     # 🏍️ motorcycle
+1F3CE                                      ; non-fully-qualified # 🏎 racing car
+1F3CE FE0F                                 ; fully-qualified     # 🏎️ racing car
+1F3CF                                      ; fully-qualified     # 🏏 cricket game
+1F3DA                                      ; non-fully-qualified # 🏚 derelict house
+1F3DA FE0F                                 ; fully-qualified     # 🏚️ derelict house
+1F3DB                                      ; non-fully-qualified # 🏛 classical building
+1F3DB FE0F                                 ; fully-qualified     # 🏛️ classical building
+1F3DC                                      ; non-fully-qualified # 🏜 desert
+1F3DC FE0F                                 ; fully-qualified     # 🏜️ desert
+1F3DD                                      ; non-fully-qualified # 🏝 desert island
+1F3DD FE0F                                 ; fully-qualified     # 🏝️ desert island
+1F3DE                                      ; non-fully-qualified # 🏞 national park
+1F3DE FE0F                                 ; fully-qualified     # 🏞️ national park
+1F3DF                                      ; non-fully-qualified # 🏟 stadium
+1F3DF FE0F                                 ; fully-qualified     # 🏟️ stadium
+1F3EA                                      ; fully-qualified     # 🏪 convenience store
+1F3EB                                      ; fully-qualified     # 🏫 school
+1F3EC                                      ; fully-qualified     # 🏬 department store
+1F3ED                                      ; fully-qualified     # 🏭 factory
+1F3EE                                      ; fully-qualified     # 🏮 red paper lantern
+1F3EF                                      ; fully-qualified     # 🏯 Japanese castle
+1F3FA                                      ; fully-qualified     # 🏺 amphora
+1F3FB                                      ; fully-qualified     # 🏻 light skin tone
+1F3FC                                      ; fully-qualified     # 🏼 medium-light skin tone
+1F3FD                                      ; fully-qualified     # 🏽 medium skin tone
+1F3FE                                      ; fully-qualified     # 🏾 medium-dark skin tone
+1F3FF                                      ; fully-qualified     # 🏿 dark skin tone
+1F400                                      ; fully-qualified     # 🐀 rat
+1F401                                      ; fully-qualified     # 🐁 mouse
+1F402                                      ; fully-qualified     # 🐂 ox
+1F403                                      ; fully-qualified     # 🐃 water buffalo
+1F404                                      ; fully-qualified     # 🐄 cow
+1F405                                      ; fully-qualified     # 🐅 tiger
+1F406                                      ; fully-qualified     # 🐆 leopard
+1F407                                      ; fully-qualified     # 🐇 rabbit
+1F408                                      ; fully-qualified     # 🐈 cat
+1F409                                      ; fully-qualified     # 🐉 dragon
+1F40A                                      ; fully-qualified     # 🐊 crocodile
+1F40B                                      ; fully-qualified     # 🐋 whale
+1F40C                                      ; fully-qualified     # 🐌 snail
+1F40D                                      ; fully-qualified     # 🐍 snake
+1F40E                                      ; fully-qualified     # 🐎 horse
+1F40F                                      ; fully-qualified     # 🐏 ram
+1F410                                      ; fully-qualified     # 🐐 goat
+1F411                                      ; fully-qualified     # 🐑 ewe
+1F412                                      ; fully-qualified     # 🐒 monkey
+1F413                                      ; fully-qualified     # 🐓 rooster
+1F414                                      ; fully-qualified     # 🐔 chicken
+1F415                                      ; fully-qualified     # 🐕 dog
+1F416                                      ; fully-qualified     # 🐖 pig
+1F417                                      ; fully-qualified     # 🐗 boar
+1F418                                      ; fully-qualified     # 🐘 elephant
+1F419                                      ; fully-qualified     # 🐙 octopus
+1F41A                                      ; fully-qualified     # 🐚 spiral shell
+1F41B                                      ; fully-qualified     # 🐛 bug
+1F41C                                      ; fully-qualified     # 🐜 ant
+1F41D                                      ; fully-qualified     # 🐝 honeybee
+1F41E                                      ; fully-qualified     # 🐞 lady beetle
+1F41F                                      ; fully-qualified     # 🐟 fish
+1F420                                      ; fully-qualified     # 🐠 tropical fish
+1F421                                      ; fully-qualified     # 🐡 blowfish
+1F422                                      ; fully-qualified     # 🐢 turtle
+1F423                                      ; fully-qualified     # 🐣 hatching chick
+1F424                                      ; fully-qualified     # 🐤 baby chick
+1F425                                      ; fully-qualified     # 🐥 front-facing baby chick
+1F426                                      ; fully-qualified     # 🐦 bird
+1F427                                      ; fully-qualified     # 🐧 penguin
+1F428                                      ; fully-qualified     # 🐨 koala
+1F429                                      ; fully-qualified     # 🐩 poodle
+1F42A                                      ; fully-qualified     # 🐪 camel
+1F42B                                      ; fully-qualified     # 🐫 two-hump camel
+1F42C                                      ; fully-qualified     # 🐬 dolphin
+1F42D                                      ; fully-qualified     # 🐭 mouse face
+1F42E                                      ; fully-qualified     # 🐮 cow face
+1F42F                                      ; fully-qualified     # 🐯 tiger face
+1F430                                      ; fully-qualified     # 🐰 rabbit face
+1F431                                      ; fully-qualified     # 🐱 cat face
+1F432                                      ; fully-qualified     # 🐲 dragon face
+1F433                                      ; fully-qualified     # 🐳 spouting whale
+1F434                                      ; fully-qualified     # 🐴 horse face
+1F435                                      ; fully-qualified     # 🐵 monkey face
+1F436                                      ; fully-qualified     # 🐶 dog face
+1F437                                      ; fully-qualified     # 🐷 pig face
+1F438                                      ; fully-qualified     # 🐸 frog face
+1F439                                      ; fully-qualified     # 🐹 hamster face
+1F43A                                      ; fully-qualified     # 🐺 wolf face
+1F43B                                      ; fully-qualified     # 🐻 bear face
+1F43C                                      ; fully-qualified     # 🐼 panda face
+1F43D                                      ; fully-qualified     # 🐽 pig nose
+1F43E                                      ; fully-qualified     # 🐾 paw prints
+1F43F                                      ; non-fully-qualified # 🐿 chipmunk
+1F43F FE0F                                 ; fully-qualified     # 🐿️ chipmunk
+1F440                                      ; fully-qualified     # 👀 eyes
+1F441                                      ; non-fully-qualified # 👁 eye
+1F441 FE0F                                 ; fully-qualified     # 👁️ eye
+1F442                                      ; fully-qualified     # 👂 ear
+1F442 1F3FB                                ; fully-qualified     # 👂🏻 ear: light skin tone
+1F442 1F3FD                                ; fully-qualified     # 👂🏽 ear: medium skin tone
+1F442 1F3FF                                ; fully-qualified     # 👂🏿 ear: dark skin tone
+1F443                                      ; fully-qualified     # 👃 nose
+1F443 1F3FB                                ; fully-qualified     # 👃🏻 nose: light skin tone
+1F443 1F3FD                                ; fully-qualified     # 👃🏽 nose: medium skin tone
+1F443 1F3FF                                ; fully-qualified     # 👃🏿 nose: dark skin tone
+1F444                                      ; fully-qualified     # 👄 mouth
+1F445                                      ; fully-qualified     # 👅 tongue
+1F446                                      ; fully-qualified     # 👆 backhand index pointing up
+1F447                                      ; fully-qualified     # 👇 backhand index pointing down
+1F448                                      ; fully-qualified     # 👈 backhand index pointing left
+1F44A                                      ; fully-qualified     # 👊 oncoming fist
+1F44B                                      ; fully-qualified     # 👋 waving hand
+1F44C                                      ; fully-qualified     # 👌 OK hand
+1F44C 1F3FB                                ; fully-qualified     # 👌🏻 OK hand: light skin tone
+1F44C 1F3FF                                ; fully-qualified     # 👌🏿 OK hand: dark skin tone
+1F44D                                      ; fully-qualified     # 👍 thumbs up
+1F44E                                      ; fully-qualified     # 👎 thumbs down
+1F44F                                      ; fully-qualified     # 👏 clapping hands
+1F450                                      ; fully-qualified     # 👐 open hands
+1F451                                      ; fully-qualified     # 👑 crown
+1F452                                      ; fully-qualified     # 👒 woman’s hat
+1F453                                      ; fully-qualified     # 👓 glasses
+1F454                                      ; fully-qualified     # 👔 necktie
+1F455                                      ; fully-qualified     # 👕 t-shirt
+1F456                                      ; fully-qualified     # 👖 jeans
+1F457                                      ; fully-qualified     # 👗 dress
+1F458                                      ; fully-qualified     # 👘 kimono
+1F459                                      ; fully-qualified     # 👙 bikini
+1F45A                                      ; fully-qualified     # 👚 woman’s clothes
+1F45B                                      ; fully-qualified     # 👛 purse
+1F45C                                      ; fully-qualified     # 👜 handbag
+1F45D                                      ; fully-qualified     # 👝 clutch bag
+1F45E                                      ; fully-qualified     # 👞 man’s shoe
+1F45F                                      ; fully-qualified     # 👟 running shoe
+1F460                                      ; fully-qualified     # 👠 high-heeled shoe
+1F461                                      ; fully-qualified     # 👡 woman’s sandal
+1F462                                      ; fully-qualified     # 👢 woman’s boot
+1F463                                      ; fully-qualified     # 👣 footprints
+1F464                                      ; fully-qualified     # 👤 bust in silhouette
+1F465                                      ; fully-qualified     # 👥 busts in silhouette
+1F466                                      ; fully-qualified     # 👦 boy
+1F466 1F3FB                                ; fully-qualified     # 👦🏻 boy: light skin tone
+1F466 1F3FD                                ; fully-qualified     # 👦🏽 boy: medium skin tone
+1F466 1F3FF                                ; fully-qualified     # 👦🏿 boy: dark skin tone
+1F467                                      ; fully-qualified     # 👧 girl
+1F467 1F3FB                                ; fully-qualified     # 👧🏻 girl: light skin tone
+1F467 1F3FD                                ; fully-qualified     # 👧🏽 girl: medium skin tone
+1F467 1F3FF                                ; fully-qualified     # 👧🏿 girl: dark skin tone
+1F468                                      ; fully-qualified     # 👨 man
+1F468 1F3FB                                ; fully-qualified     # 👨🏻 man: light skin tone
+1F468 1F3FD                                ; fully-qualified     # 👨🏽 man: medium skin tone
+1F468 1F3FF                                ; fully-qualified     # 👨🏿 man: dark skin tone
+1F468 200D 1F33E                           ; fully-qualified     # 👨‍🌾 man farmer
+1F468 200D 1F373                           ; fully-qualified     # 👨‍🍳 man cook
+1F468 200D 1F393                           ; fully-qualified     # 👨‍🎓 man student
+1F468 200D 1F3EB                           ; fully-qualified     # 👨‍🏫 man teacher
+1F468 200D 1F3ED                           ; fully-qualified     # 👨‍🏭 man factory worker
+1F468 200D 1F4BB                           ; fully-qualified     # 👨‍💻 man technologist
+1F468 200D 1F4BC                           ; fully-qualified     # 👨‍💼 man office worker
+1F468 200D 1F527                           ; fully-qualified     # 👨‍🔧 man mechanic
+1F468 200D 1F52C                           ; fully-qualified     # 👨‍🔬 man scientist
+1F468 200D 1F680                           ; fully-qualified     # 👨‍🚀 man astronaut
+1F468 200D 1F692                           ; fully-qualified     # 👨‍🚒 man firefighter
+1F469                                      ; fully-qualified     # 👩 woman
+1F469 1F3FB                                ; fully-qualified     # 👩🏻 woman: light skin tone
+1F469 1F3FD                                ; fully-qualified     # 👩🏽 woman: medium skin tone
+1F469 1F3FF                                ; fully-qualified     # 👩🏿 woman: dark skin tone
+1F469 200D 1F33E                           ; fully-qualified     # 👩‍🌾 woman farmer
+1F469 200D 1F373                           ; fully-qualified     # 👩‍🍳 woman cook
+1F469 200D 1F393                           ; fully-qualified     # 👩‍🎓 woman student
+1F469 200D 1F3EB                           ; fully-qualified     # 👩‍🏫 woman teacher
+1F469 200D 1F3ED                           ; fully-qualified     # 👩‍🏭 woman factory worker
+1F469 200D 1F4BB                           ; fully-qualified     # 👩‍💻 woman technologist
+1F469 200D 1F4BC                           ; fully-qualified     # 👩‍💼 woman office worker
+1F469 200D 1F527                           ; fully-qualified     # 👩‍🔧 woman mechanic
+1F469 200D 1F52C                           ; fully-qualified     # 👩‍🔬 woman scientist
+1F469 200D 1F680                           ; fully-qualified     # 👩‍🚀 woman astronaut
+1F469 200D 1F692                           ; fully-qualified     # 👩‍🚒 woman firefighter
+1F46A                                      ; fully-qualified     # 👪 family
+1F46B                                      ; fully-qualified     # 👫 man and woman holding hands
+1F46C                                      ; fully-qualified     # 👬 two men holding hands
+1F46D                                      ; fully-qualified     # 👭 two women holding hands
+1F46E                                      ; fully-qualified     # 👮 police officer
+1F46F                                      ; fully-qualified     # 👯 people with bunny ears
+1F470                                      ; fully-qualified     # 👰 bride with veil
+1F471                                      ; fully-qualified     # 👱 blond-haired person
+1F472                                      ; fully-qualified     # 👲 man with Chinese cap
+1F473                                      ; fully-qualified     # 👳 person wearing turban
+1F474                                      ; fully-qualified     # 👴 old man
+1F474 1F3FB                                ; fully-qualified     # 👴🏻 old man: light skin tone
+1F474 1F3FF                                ; fully-qualified     # 👴🏿 old man: dark skin tone
+1F475                                      ; fully-qualified     # 👵 old woman
+1F476                                      ; fully-qualified     # 👶 baby
+1F476 1F3FB                                ; fully-qualified     # 👶🏻 baby: light skin tone
+1F476 1F3FD                                ; fully-qualified     # 👶🏽 baby: medium skin tone
+1F476 1F3FF                                ; fully-qualified     # 👶🏿 baby: dark skin tone
+1F477                                      ; fully-qualified     # 👷 construction worker
+1F478                                      ; fully-qualified     # 👸 princess
+1F478 1F3FF                                ; fully-qualified     # 👸🏿 princess: dark skin tone
+1F479                                      ; fully-qualified     # 👹 ogre
+1F47A                                      ; fully-qualified     # 👺 goblin
+1F47B                                      ; fully-qualified     # 👻 ghost
+1F47C                                      ; fully-qualified     # 👼 baby angel
+1F47D                                      ; fully-qualified     # 👽 alien
+1F47E                                      ; fully-qualified     # 👾 alien monster
+1F47F                                      ; fully-qualified     # 👿 angry face with horns
+1F480                                      ; fully-qualified     # 💀 skull
+1F481                                      ; fully-qualified     # 💁 person tipping hand
+1F482                                      ; fully-qualified     # 💂 guard
+1F482 1F3FB                                ; fully-qualified     # 💂🏻 guard: light skin tone
+1F482 1F3FD                                ; fully-qualified     # 💂🏽 guard: medium skin tone
+1F482 1F3FF                                ; fully-qualified     # 💂🏿 guard: dark skin tone
+1F483                                      ; fully-qualified     # 💃 woman dancing
+1F484                                      ; fully-qualified     # 💄 lipstick
+1F485                                      ; fully-qualified     # 💅 nail polish
+1F486                                      ; fully-qualified     # 💆 person getting massage
+1F487                                      ; fully-qualified     # 💇 person getting haircut
+1F488                                      ; fully-qualified     # 💈 barber pole
+1F489                                      ; fully-qualified     # 💉 syringe
+1F48A                                      ; fully-qualified     # 💊 pill
+1F48B                                      ; fully-qualified     # 💋 kiss mark
+1F48C                                      ; fully-qualified     # 💌 love letter
+1F48D                                      ; fully-qualified     # 💍 ring
+1F48E                                      ; fully-qualified     # 💎 gem stone
+1F48F                                      ; fully-qualified     # 💏 kiss
+1F490                                      ; fully-qualified     # 💐 bouquet
+1F491                                      ; fully-qualified     # 💑 couple with heart
+1F492                                      ; fully-qualified     # 💒 wedding
+1F493                                      ; fully-qualified     # 💓 beating heart
+1F494                                      ; fully-qualified     # 💔 broken heart
+1F495                                      ; fully-qualified     # 💕 two hearts
+1F496                                      ; fully-qualified     # 💖 sparkling heart
+1F497                                      ; fully-qualified     # 💗 growing heart
+1F498                                      ; fully-qualified     # 💘 heart with arrow
+1F499                                      ; fully-qualified     # 💙 blue heart
+1F49A                                      ; fully-qualified     # 💚 green heart
+1F49B                                      ; fully-qualified     # 💛 yellow heart
+1F49C                                      ; fully-qualified     # 💜 purple heart
+1F49D                                      ; fully-qualified     # 💝 heart with ribbon
+1F49E                                      ; fully-qualified     # 💞 revolving hearts
+1F49F                                      ; fully-qualified     # 💟 heart decoration
+1F4AA                                      ; fully-qualified     # 💪 flexed biceps
+1F4AB                                      ; fully-qualified     # 💫 dizzy
+1F4AC                                      ; fully-qualified     # 💬 speech balloon
+1F4AD                                      ; fully-qualified     # 💭 thought balloon
+1F4AE                                      ; fully-qualified     # 💮 white flower
+1F4AF                                      ; fully-qualified     # 💯 hundred points
+1F4BA                                      ; fully-qualified     # 💺 seat
+1F4BB                                      ; fully-qualified     # 💻 laptop computer
+1F4BC                                      ; fully-qualified     # 💼 briefcase
+1F4BD                                      ; fully-qualified     # 💽 computer disk
+1F4BE                                      ; fully-qualified     # 💾 floppy disk
+1F4BF                                      ; fully-qualified     # 💿 optical disk
+1F4CA                                      ; fully-qualified     # 📊 bar chart
+1F4CB                                      ; fully-qualified     # 📋 clipboard
+1F4CC                                      ; fully-qualified     # 📌 pushpin
+1F4CD                                      ; fully-qualified     # 📍 round pushpin
+1F4CE                                      ; fully-qualified     # 📎 paperclip
+1F4CF                                      ; fully-qualified     # 📏 straight ruler
+1F4DA                                      ; fully-qualified     # 📚 books
+1F4DB                                      ; fully-qualified     # 📛 name badge
+1F4DC                                      ; fully-qualified     # 📜 scroll
+1F4DD                                      ; fully-qualified     # 📝 memo
+1F4DE                                      ; fully-qualified     # 📞 telephone receiver
+1F4DF                                      ; fully-qualified     # 📟 pager
+1F4EE                                      ; fully-qualified     # 📮 postbox
+1F4EF                                      ; fully-qualified     # 📯 postal horn
+1F4FA                                      ; fully-qualified     # 📺 television
+1F4FB                                      ; fully-qualified     # 📻 radio
+1F4FC                                      ; fully-qualified     # 📼 videocassette
+1F4FD                                      ; non-fully-qualified # 📽 film projector
+1F4FD FE0F                                 ; fully-qualified     # 📽️ film projector
+1F4FF                                      ; fully-qualified     # 📿 prayer beads
+1F500                                      ; fully-qualified     # 🔀 shuffle tracks button
+1F501                                      ; fully-qualified     # 🔁 repeat button
+1F502                                      ; fully-qualified     # 🔂 repeat single button
+1F503                                      ; fully-qualified     # 🔃 clockwise vertical arrows
+1F505                                      ; fully-qualified     # 🔅 dim button
+1F506                                      ; fully-qualified     # 🔆 bright button
+1F507                                      ; fully-qualified     # 🔇 muted speaker
+1F508                                      ; fully-qualified     # 🔈 speaker low volume
+1F509                                      ; fully-qualified     # 🔉 speaker medium volume
+1F50A                                      ; fully-qualified     # 🔊 speaker high volume
+1F50B                                      ; fully-qualified     # 🔋 battery
+1F50C                                      ; fully-qualified     # 🔌 electric plug
+1F50D                                      ; fully-qualified     # 🔍 magnifying glass tilted left
+1F50F                                      ; fully-qualified     # 🔏 locked with pen
+1F510                                      ; fully-qualified     # 🔐 locked with key
+1F511                                      ; fully-qualified     # 🔑 key
+1F512                                      ; fully-qualified     # 🔒 locked
+1F513                                      ; fully-qualified     # 🔓 unlocked
+1F514                                      ; fully-qualified     # 🔔 bell
+1F515                                      ; fully-qualified     # 🔕 bell with slash
+1F516                                      ; fully-qualified     # 🔖 bookmark
+1F517                                      ; fully-qualified     # 🔗 link
+1F518                                      ; fully-qualified     # 🔘 radio button
+1F519                                      ; fully-qualified     # 🔙 BACK arrow
+1F51A                                      ; fully-qualified     # 🔚 END arrow
+1F51C                                      ; fully-qualified     # 🔜 SOON arrow
+1F51D                                      ; fully-qualified     # 🔝 TOP arrow
+1F51E                                      ; fully-qualified     # 🔞 no one under eighteen
+1F51F                                      ; fully-qualified     # 🔟 keycap: 10
+1F520                                      ; fully-qualified     # 🔠 input latin uppercase
+1F521                                      ; fully-qualified     # 🔡 input latin lowercase
+1F522                                      ; fully-qualified     # 🔢 input numbers
+1F523                                      ; fully-qualified     # 🔣 input symbols
+1F524                                      ; fully-qualified     # 🔤 input latin letters
+1F525                                      ; fully-qualified     # 🔥 fire
+1F526                                      ; fully-qualified     # 🔦 flashlight
+1F527                                      ; fully-qualified     # 🔧 wrench
+1F528                                      ; fully-qualified     # 🔨 hammer
+1F529                                      ; fully-qualified     # 🔩 nut and bolt
+1F52A                                      ; fully-qualified     # 🔪 kitchen knife
+1F52B                                      ; fully-qualified     # 🔫 pistol
+1F52C                                      ; fully-qualified     # 🔬 microscope
+1F52D                                      ; fully-qualified     # 🔭 telescope
+1F52E                                      ; fully-qualified     # 🔮 crystal ball
+1F52F                                      ; fully-qualified     # 🔯 dotted six-pointed star
+1F530                                      ; fully-qualified     # 🔰 Japanese symbol for beginner
+1F531                                      ; fully-qualified     # 🔱 trident emblem
+1F532                                      ; fully-qualified     # 🔲 black square button
+1F533                                      ; fully-qualified     # 🔳 white square button
+1F534                                      ; fully-qualified     # 🔴 red circle
+1F535                                      ; fully-qualified     # 🔵 blue circle
+1F536                                      ; fully-qualified     # 🔶 large orange diamond
+1F537                                      ; fully-qualified     # 🔷 large blue diamond
+1F538                                      ; fully-qualified     # 🔸 small orange diamond
+1F539                                      ; fully-qualified     # 🔹 small blue diamond
+1F53A                                      ; fully-qualified     # 🔺 red triangle pointed up
+1F53B                                      ; fully-qualified     # 🔻 red triangle pointed down
+1F53C                                      ; fully-qualified     # 🔼 upwards button
+1F53D                                      ; fully-qualified     # 🔽 downwards button
+1F549                                      ; non-fully-qualified # 🕉 om
+1F549 FE0F                                 ; fully-qualified     # 🕉️ om
+1F54A                                      ; non-fully-qualified # 🕊 dove
+1F54A FE0F                                 ; fully-qualified     # 🕊️ dove
+1F54B                                      ; fully-qualified     # 🕋 kaaba
+1F54C                                      ; fully-qualified     # 🕌 mosque
+1F54D                                      ; fully-qualified     # 🕍 synagogue
+1F54E                                      ; fully-qualified     # 🕎 menorah
+1F550                                      ; fully-qualified     # 🕐 one o’clock
+1F551                                      ; fully-qualified     # 🕑 two o’clock
+1F552                                      ; fully-qualified     # 🕒 three o’clock
+1F553                                      ; fully-qualified     # 🕓 four o’clock
+1F554                                      ; fully-qualified     # 🕔 five o’clock
+1F555                                      ; fully-qualified     # 🕕 six o’clock
+1F556                                      ; fully-qualified     # 🕖 seven o’clock
+1F557                                      ; fully-qualified     # 🕗 eight o’clock
+1F558                                      ; fully-qualified     # 🕘 nine o’clock
+1F559                                      ; fully-qualified     # 🕙 ten o’clock
+1F55A                                      ; fully-qualified     # 🕚 eleven o’clock
+1F55B                                      ; fully-qualified     # 🕛 twelve o’clock
+1F55C                                      ; fully-qualified     # 🕜 one-thirty
+1F55D                                      ; fully-qualified     # 🕝 two-thirty
+1F55E                                      ; fully-qualified     # 🕞 three-thirty
+1F55F                                      ; fully-qualified     # 🕟 four-thirty
+1F560                                      ; fully-qualified     # 🕠 five-thirty
+1F561                                      ; fully-qualified     # 🕡 six-thirty
+1F562                                      ; fully-qualified     # 🕢 seven-thirty
+1F563                                      ; fully-qualified     # 🕣 eight-thirty
+1F564                                      ; fully-qualified     # 🕤 nine-thirty
+1F565                                      ; fully-qualified     # 🕥 ten-thirty
+1F566                                      ; fully-qualified     # 🕦 eleven-thirty
+1F567                                      ; fully-qualified     # 🕧 twelve-thirty
+1F56F                                      ; non-fully-qualified # 🕯 candle
+1F56F FE0F                                 ; fully-qualified     # 🕯️ candle
+1F570                                      ; non-fully-qualified # 🕰 mantelpiece clock
+1F570 FE0F                                 ; fully-qualified     # 🕰️ mantelpiece clock
+1F573                                      ; non-fully-qualified # 🕳 hole
+1F573 FE0F                                 ; fully-qualified     # 🕳️ hole
+1F574                                      ; non-fully-qualified # 🕴 man in suit levitating
+1F574 FE0F                                 ; fully-qualified     # 🕴️ man in suit levitating
+1F575                                      ; non-fully-qualified # 🕵 detective
+1F575 FE0F                                 ; fully-qualified     # 🕵️ detective
+1F576                                      ; non-fully-qualified # 🕶 sunglasses
+1F576 FE0F                                 ; fully-qualified     # 🕶️ sunglasses
+1F577                                      ; non-fully-qualified # 🕷 spider
+1F577 FE0F                                 ; fully-qualified     # 🕷️ spider
+1F578                                      ; non-fully-qualified # 🕸 spider web
+1F578 FE0F                                 ; fully-qualified     # 🕸️ spider web
+1F579                                      ; non-fully-qualified # 🕹 joystick
+1F579 FE0F                                 ; fully-qualified     # 🕹️ joystick
+1F57A                                      ; fully-qualified     # 🕺 man dancing
+1F587                                      ; non-fully-qualified # 🖇 linked paperclips
+1F587 FE0F                                 ; fully-qualified     # 🖇️ linked paperclips
+1F58A                                      ; non-fully-qualified # 🖊 pen
+1F58A FE0F                                 ; fully-qualified     # 🖊️ pen
+1F58B                                      ; non-fully-qualified # 🖋 fountain pen
+1F58B FE0F                                 ; fully-qualified     # 🖋️ fountain pen
+1F58C                                      ; non-fully-qualified # 🖌 paintbrush
+1F58C FE0F                                 ; fully-qualified     # 🖌️ paintbrush
+1F58D                                      ; non-fully-qualified # 🖍 crayon
+1F58D FE0F                                 ; fully-qualified     # 🖍️ crayon
+1F590                                      ; non-fully-qualified # 🖐 hand with fingers splayed
+1F590 FE0F                                 ; fully-qualified     # 🖐️ hand with fingers splayed
+1F595                                      ; fully-qualified     # 🖕 middle finger
+1F596                                      ; fully-qualified     # 🖖 vulcan salute
+1F5BC                                      ; non-fully-qualified # 🖼 framed picture
+1F5BC FE0F                                 ; fully-qualified     # 🖼️ framed picture
+1F5DC                                      ; non-fully-qualified # 🗜 clamp
+1F5DC FE0F                                 ; fully-qualified     # 🗜️ clamp
+1F5DD                                      ; non-fully-qualified # 🗝 old key
+1F5DD FE0F                                 ; fully-qualified     # 🗝️ old key
+1F5DE                                      ; non-fully-qualified # 🗞 rolled-up newspaper
+1F5DE FE0F                                 ; fully-qualified     # 🗞️ rolled-up newspaper
+1F5EF                                      ; non-fully-qualified # 🗯 right anger bubble
+1F5EF FE0F                                 ; fully-qualified     # 🗯️ right anger bubble
+1F5FA                                      ; non-fully-qualified # 🗺 world map
+1F5FA FE0F                                 ; fully-qualified     # 🗺️ world map
+1F5FB                                      ; fully-qualified     # 🗻 mount fuji
+1F5FC                                      ; fully-qualified     # 🗼 Tokyo tower
+1F5FD                                      ; fully-qualified     # 🗽 Statue of Liberty
+1F5FE                                      ; fully-qualified     # 🗾 map of Japan
+1F5FF                                      ; fully-qualified     # 🗿 moai
+1F600                                      ; fully-qualified     # 😀 grinning face
+1F602                                      ; fully-qualified     # 😂 face with tears of joy
+1F603                                      ; fully-qualified     # 😃 grinning face with big eyes
+1F605                                      ; fully-qualified     # 😅 grinning face with sweat
+1F606                                      ; fully-qualified     # 😆 grinning squinting face
+1F607                                      ; fully-qualified     # 😇 smiling face with halo
+1F608                                      ; fully-qualified     # 😈 smiling face with horns
+1F609                                      ; fully-qualified     # 😉 winking face
+1F60B                                      ; fully-qualified     # 😋 face savoring food
+1F60C                                      ; fully-qualified     # 😌 relieved face
+1F60D                                      ; fully-qualified     # 😍 smiling face with heart-eyes
+1F60E                                      ; fully-qualified     # 😎 smiling face with sunglasses
+1F60F                                      ; fully-qualified     # 😏 smirking face
+1F610                                      ; fully-qualified     # 😐 neutral face
+1F611                                      ; fully-qualified     # 😑 expressionless face
+1F612                                      ; fully-qualified     # 😒 unamused face
+1F613                                      ; fully-qualified     # 😓 downcast face with sweat
+1F614                                      ; fully-qualified     # 😔 pensive face
+1F615                                      ; fully-qualified     # 😕 confused face
+1F616                                      ; fully-qualified     # 😖 confounded face
+1F617                                      ; fully-qualified     # 😗 kissing face
+1F618                                      ; fully-qualified     # 😘 face blowing a kiss
+1F61B                                      ; fully-qualified     # 😛 face with tongue
+1F61C                                      ; fully-qualified     # 😜 winking face with tongue
+1F61D                                      ; fully-qualified     # 😝 squinting face with tongue
+1F61E                                      ; fully-qualified     # 😞 disappointed face
+1F61F                                      ; fully-qualified     # 😟 worried face
+1F620                                      ; fully-qualified     # 😠 angry face
+1F621                                      ; fully-qualified     # 😡 pouting face
+1F622                                      ; fully-qualified     # 😢 crying face
+1F623                                      ; fully-qualified     # 😣 persevering face
+1F624                                      ; fully-qualified     # 😤 face with steam from nose
+1F625                                      ; fully-qualified     # 😥 sad but relieved face
+1F627                                      ; fully-qualified     # 😧 anguished face
+1F628                                      ; fully-qualified     # 😨 fearful face
+1F629                                      ; fully-qualified     # 😩 weary face
+1F62A                                      ; fully-qualified     # 😪 sleepy face
+1F62B                                      ; fully-qualified     # 😫 tired face
+1F62C                                      ; fully-qualified     # 😬 grimacing face
+1F62D                                      ; fully-qualified     # 😭 loudly crying face
+1F62E                                      ; fully-qualified     # 😮 face with open mouth
+1F62F                                      ; fully-qualified     # 😯 hushed face
+1F630                                      ; fully-qualified     # 😰 anxious face with sweat
+1F631                                      ; fully-qualified     # 😱 face screaming in fear
+1F632                                      ; fully-qualified     # 😲 astonished face
+1F633                                      ; fully-qualified     # 😳 flushed face
+1F634                                      ; fully-qualified     # 😴 sleeping face
+1F635                                      ; fully-qualified     # 😵 dizzy face
+1F636                                      ; fully-qualified     # 😶 face without mouth
+1F637                                      ; fully-qualified     # 😷 face with medical mask
+1F639                                      ; fully-qualified     # 😹 cat face with tears of joy
+1F63A                                      ; fully-qualified     # 😺 grinning cat face
+1F63C                                      ; fully-qualified     # 😼 cat face with wry smile
+1F63D                                      ; fully-qualified     # 😽 kissing cat face
+1F63E                                      ; fully-qualified     # 😾 pouting cat face
+1F63F                                      ; fully-qualified     # 😿 crying cat face
+1F640                                      ; fully-qualified     # 🙀 weary cat face
+1F641                                      ; fully-qualified     # 🙁 slightly frowning face
+1F642                                      ; fully-qualified     # 🙂 slightly smiling face
+1F643                                      ; fully-qualified     # 🙃 upside-down face
+1F644                                      ; fully-qualified     # 🙄 face with rolling eyes
+1F645                                      ; fully-qualified     # 🙅 person gesturing NO
+1F646                                      ; fully-qualified     # 🙆 person gesturing OK
+1F647                                      ; fully-qualified     # 🙇 person bowing
+1F648                                      ; fully-qualified     # 🙈 see-no-evil monkey
+1F649                                      ; fully-qualified     # 🙉 hear-no-evil monkey
+1F64A                                      ; fully-qualified     # 🙊 speak-no-evil monkey
+1F64B                                      ; fully-qualified     # 🙋 person raising hand
+1F64C                                      ; fully-qualified     # 🙌 raising hands
+1F64D                                      ; fully-qualified     # 🙍 person frowning
+1F64E                                      ; fully-qualified     # 🙎 person pouting
+1F64F                                      ; fully-qualified     # 🙏 folded hands
+1F680                                      ; fully-qualified     # 🚀 rocket
+1F681                                      ; fully-qualified     # 🚁 helicopter
+1F682                                      ; fully-qualified     # 🚂 locomotive
+1F683                                      ; fully-qualified     # 🚃 railway car
+1F684                                      ; fully-qualified     # 🚄 high-speed train
+1F685                                      ; fully-qualified     # 🚅 bullet train
+1F686                                      ; fully-qualified     # 🚆 train
+1F687                                      ; fully-qualified     # 🚇 metro
+1F688                                      ; fully-qualified     # 🚈 light rail
+1F689                                      ; fully-qualified     # 🚉 station
+1F68A                                      ; fully-qualified     # 🚊 tram
+1F68B                                      ; fully-qualified     # 🚋 tram car
+1F68C                                      ; fully-qualified     # 🚌 bus
+1F68D                                      ; fully-qualified     # 🚍 oncoming bus
+1F68E                                      ; fully-qualified     # 🚎 trolleybus
+1F68F                                      ; fully-qualified     # 🚏 bus stop
+1F690                                      ; fully-qualified     # 🚐 minibus
+1F691                                      ; fully-qualified     # 🚑 ambulance
+1F692                                      ; fully-qualified     # 🚒 fire engine
+1F693                                      ; fully-qualified     # 🚓 police car
+1F694                                      ; fully-qualified     # 🚔 oncoming police car
+1F695                                      ; fully-qualified     # 🚕 taxi
+1F696                                      ; fully-qualified     # 🚖 oncoming taxi
+1F697                                      ; fully-qualified     # 🚗 automobile
+1F698                                      ; fully-qualified     # 🚘 oncoming automobile
+1F699                                      ; fully-qualified     # 🚙 sport utility vehicle
+1F69A                                      ; fully-qualified     # 🚚 delivery truck
+1F69B                                      ; fully-qualified     # 🚛 articulated lorry
+1F69C                                      ; fully-qualified     # 🚜 tractor
+1F69D                                      ; fully-qualified     # 🚝 monorail
+1F69E                                      ; fully-qualified     # 🚞 mountain railway
+1F69F                                      ; fully-qualified     # 🚟 suspension railway
+1F6AA                                      ; fully-qualified     # 🚪 door
+1F6AB                                      ; fully-qualified     # 🚫 prohibited
+1F6AC                                      ; fully-qualified     # 🚬 cigarette
+1F6AD                                      ; fully-qualified     # 🚭 no smoking
+1F6AE                                      ; fully-qualified     # 🚮 litter in bin sign
+1F6AF                                      ; fully-qualified     # 🚯 no littering
+1F6BA                                      ; fully-qualified     # 🚺 women’s room
+1F6BB                                      ; fully-qualified     # 🚻 restroom
+1F6BC                                      ; fully-qualified     # 🚼 baby symbol
+1F6BD                                      ; fully-qualified     # 🚽 toilet
+1F6BE                                      ; fully-qualified     # 🚾 water closet
+1F6BF                                      ; fully-qualified     # 🚿 shower
+1F6CB                                      ; non-fully-qualified # 🛋 couch and lamp
+1F6CB FE0F                                 ; fully-qualified     # 🛋️ couch and lamp
+1F6CC                                      ; fully-qualified     # 🛌 person in bed
+1F6CD                                      ; non-fully-qualified # 🛍 shopping bags
+1F6CD FE0F                                 ; fully-qualified     # 🛍️ shopping bags
+1F6CE                                      ; non-fully-qualified # 🛎 bellhop bell
+1F6CE FE0F                                 ; fully-qualified     # 🛎️ bellhop bell
+1F6CF                                      ; non-fully-qualified # 🛏 bed
+1F6CF FE0F                                 ; fully-qualified     # 🛏️ bed
+1F6EB                                      ; fully-qualified     # 🛫 airplane departure
+1F6EC                                      ; fully-qualified     # 🛬 airplane arrival
+1F910                                      ; fully-qualified     # 🤐 zipper-mouth face
+1F911                                      ; fully-qualified     # 🤑 money-mouth face
+1F912                                      ; fully-qualified     # 🤒 face with thermometer
+1F913                                      ; fully-qualified     # 🤓 nerd face
+1F914                                      ; fully-qualified     # 🤔 thinking face
+1F915                                      ; fully-qualified     # 🤕 face with head-bandage
+1F916                                      ; fully-qualified     # 🤖 robot face
+1F917                                      ; fully-qualified     # 🤗 hugging face
+1F918                                      ; fully-qualified     # 🤘 sign of the horns
+1F919                                      ; fully-qualified     # 🤙 call me hand
+1F91A                                      ; fully-qualified     # 🤚 raised back of hand
+1F91B                                      ; fully-qualified     # 🤛 left-facing fist
+1F91C                                      ; fully-qualified     # 🤜 right-facing fist
+1F91D                                      ; fully-qualified     # 🤝 handshake
+1F91E                                      ; fully-qualified     # 🤞 crossed fingers
+1F91F                                      ; fully-qualified     # 🤟 love-you gesture
+1F920                                      ; fully-qualified     # 🤠 cowboy hat face
+1F921                                      ; fully-qualified     # 🤡 clown face
+1F922                                      ; fully-qualified     # 🤢 nauseated face
+1F924                                      ; fully-qualified     # 🤤 drooling face
+1F925                                      ; fully-qualified     # 🤥 lying face
+1F926                                      ; fully-qualified     # 🤦 person facepalming
+1F927                                      ; fully-qualified     # 🤧 sneezing face
+1F928                                      ; fully-qualified     # 🤨 face with raised eyebrow
+1F929                                      ; fully-qualified     # 🤩 star-struck
+1F92A                                      ; fully-qualified     # 🤪 zany face
+1F92B                                      ; fully-qualified     # 🤫 shushing face
+1F92C                                      ; fully-qualified     # 🤬 face with symbols on mouth
+1F92D                                      ; fully-qualified     # 🤭 face with hand over mouth
+1F92E                                      ; fully-qualified     # 🤮 face vomiting
+1F92F                                      ; fully-qualified     # 🤯 exploding head
+1F930                                      ; fully-qualified     # 🤰 pregnant woman
+1F931                                      ; fully-qualified     # 🤱 breast-feeding
+1F932                                      ; fully-qualified     # 🤲 palms up together
+1F933                                      ; fully-qualified     # 🤳 selfie
+1F933 1F3FB                                ; fully-qualified     # 🤳🏻 selfie: light skin tone
+1F933 1F3FD                                ; fully-qualified     # 🤳🏽 selfie: medium skin tone
+1F933 1F3FF                                ; fully-qualified     # 🤳🏿 selfie: dark skin tone
+1F934                                      ; fully-qualified     # 🤴 prince
+1F934 1F3FB                                ; fully-qualified     # 🤴🏻 prince: light skin tone
+1F934 1F3FD                                ; fully-qualified     # 🤴🏽 prince: medium skin tone
+1F934 1F3FF                                ; fully-qualified     # 🤴🏿 prince: dark skin tone
+1F935                                      ; fully-qualified     # 🤵 man in tuxedo
+1F936                                      ; fully-qualified     # 🤶 Mrs. Claus
+1F937                                      ; fully-qualified     # 🤷 person shrugging
+1F938                                      ; fully-qualified     # 🤸 person cartwheeling
+1F939                                      ; fully-qualified     # 🤹 person juggling
+1F93A                                      ; fully-qualified     # 🤺 person fencing
+1F93C                                      ; fully-qualified     # 🤼 people wrestling
+1F93D                                      ; fully-qualified     # 🤽 person playing water polo
+1F93E                                      ; fully-qualified     # 🤾 person playing handball
+1F940                                      ; fully-qualified     # 🥀 wilted flower
+1F941                                      ; fully-qualified     # 🥁 drum
+1F942                                      ; fully-qualified     # 🥂 clinking glasses
+1F943                                      ; fully-qualified     # 🥃 tumbler glass
+1F944                                      ; fully-qualified     # 🥄 spoon
+1F945                                      ; fully-qualified     # 🥅 goal net
+1F947                                      ; fully-qualified     # 🥇 1st place medal
+1F948                                      ; fully-qualified     # 🥈 2nd place medal
+1F949                                      ; fully-qualified     # 🥉 3rd place medal
+1F94A                                      ; fully-qualified     # 🥊 boxing glove
+1F94B                                      ; fully-qualified     # 🥋 martial arts uniform
+1F94C                                      ; fully-qualified     # 🥌 curling stone
+1F94D                                      ; fully-qualified     # 🥍 lacrosse
+1F94E                                      ; fully-qualified     # 🥎 softball
+1F94F                                      ; fully-qualified     # 🥏 flying disc
+1F950                                      ; fully-qualified     # 🥐 croissant
+1F951                                      ; fully-qualified     # 🥑 avocado
+1F952                                      ; fully-qualified     # 🥒 cucumber
+1F953                                      ; fully-qualified     # 🥓 bacon
+1F954                                      ; fully-qualified     # 🥔 potato
+1F955                                      ; fully-qualified     # 🥕 carrot
+1F956                                      ; fully-qualified     # 🥖 baguette bread
+1F957                                      ; fully-qualified     # 🥗 green salad
+1F958                                      ; fully-qualified     # 🥘 shallow pan of food
+1F959                                      ; fully-qualified     # 🥙 stuffed flatbread
+1F95A                                      ; fully-qualified     # 🥚 egg
+1F95B                                      ; fully-qualified     # 🥛 glass of milk
+1F95C                                      ; fully-qualified     # 🥜 peanuts
+1F95D                                      ; fully-qualified     # 🥝 kiwi fruit
+1F95E                                      ; fully-qualified     # 🥞 pancakes
+1F95F                                      ; fully-qualified     # 🥟 dumpling
+1F960                                      ; fully-qualified     # 🥠 fortune cookie
+1F961                                      ; fully-qualified     # 🥡 takeout box
+1F962                                      ; fully-qualified     # 🥢 chopsticks
+1F963                                      ; fully-qualified     # 🥣 bowl with spoon
+1F964                                      ; fully-qualified     # 🥤 cup with straw
+1F965                                      ; fully-qualified     # 🥥 coconut
+1F966                                      ; fully-qualified     # 🥦 broccoli
+1F967                                      ; fully-qualified     # 🥧 pie
+1F968                                      ; fully-qualified     # 🥨 pretzel
+1F969                                      ; fully-qualified     # 🥩 cut of meat
+1F96A                                      ; fully-qualified     # 🥪 sandwich
+1F96B                                      ; fully-qualified     # 🥫 canned food
+1F96C                                      ; fully-qualified     # 🥬 leafy green
+1F96D                                      ; fully-qualified     # 🥭 mango
+1F96E                                      ; fully-qualified     # 🥮 moon cake
+1F96F                                      ; fully-qualified     # 🥯 bagel
+1F970                                      ; fully-qualified     # 🥰 smiling face with 3 hearts
+1F973                                      ; fully-qualified     # 🥳 partying face
+1F974                                      ; fully-qualified     # 🥴 woozy face
+1F975                                      ; fully-qualified     # 🥵 hot face
+1F976                                      ; fully-qualified     # 🥶 cold face
+1F97A                                      ; fully-qualified     # 🥺 pleading face
+1F97C                                      ; fully-qualified     # 🥼 lab coat
+1F97D                                      ; fully-qualified     # 🥽 goggles
+1F97E                                      ; fully-qualified     # 🥾 hiking boot
+1F97F                                      ; fully-qualified     # 🥿 woman’s flat shoe
+1F980                                      ; fully-qualified     # 🦀 crab
+1F981                                      ; fully-qualified     # 🦁 lion face
+1F982                                      ; fully-qualified     # 🦂 scorpion
+1F983                                      ; fully-qualified     # 🦃 turkey
+1F984                                      ; fully-qualified     # 🦄 unicorn face
+1F985                                      ; fully-qualified     # 🦅 eagle
+1F986                                      ; fully-qualified     # 🦆 duck
+1F987                                      ; fully-qualified     # 🦇 bat
+1F988                                      ; fully-qualified     # 🦈 shark
+1F989                                      ; fully-qualified     # 🦉 owl
+1F98A                                      ; fully-qualified     # 🦊 fox face
+1F98B                                      ; fully-qualified     # 🦋 butterfly
+1F98C                                      ; fully-qualified     # 🦌 deer
+1F98D                                      ; fully-qualified     # 🦍 gorilla
+1F98E                                      ; fully-qualified     # 🦎 lizard
+1F98F                                      ; fully-qualified     # 🦏 rhinoceros
+1F990                                      ; fully-qualified     # 🦐 shrimp
+1F991                                      ; fully-qualified     # 🦑 squid
+1F992                                      ; fully-qualified     # 🦒 giraffe
+1F993                                      ; fully-qualified     # 🦓 zebra
+1F994                                      ; fully-qualified     # 🦔 hedgehog
+1F995                                      ; fully-qualified     # 🦕 sauropod
+1F996                                      ; fully-qualified     # 🦖 T-Rex
+1F997                                      ; fully-qualified     # 🦗 cricket
+1F998                                      ; fully-qualified     # 🦘 kangaroo
+1F999                                      ; fully-qualified     # 🦙 llama
+1F99A                                      ; fully-qualified     # 🦚 peacock
+1F99B                                      ; fully-qualified     # 🦛 hippopotamus
+1F99C                                      ; fully-qualified     # 🦜 parrot
+1F99D                                      ; fully-qualified     # 🦝 raccoon
+1F99E                                      ; fully-qualified     # 🦞 lobster
+1F99F                                      ; fully-qualified     # 🦟 mosquito
+1F9DA                                      ; fully-qualified     # 🧚 fairy
+1F9DA 1F3FB                                ; fully-qualified     # 🧚🏻 fairy: light skin tone
+1F9DA 1F3FD                                ; fully-qualified     # 🧚🏽 fairy: medium skin tone
+1F9DA 1F3FF                                ; fully-qualified     # 🧚🏿 fairy: dark skin tone
+1F9DB                                      ; fully-qualified     # 🧛 vampire
+1F9DB 1F3FB                                ; fully-qualified     # 🧛🏻 vampire: light skin tone
+1F9DB 1F3FF                                ; fully-qualified     # 🧛🏿 vampire: dark skin tone
+1F9DC                                      ; fully-qualified     # 🧜 merperson
+1F9DD                                      ; fully-qualified     # 🧝 elf
+1F9DD 1F3FB                                ; fully-qualified     # 🧝🏻 elf: light skin tone
+1F9DD 1F3FD                                ; fully-qualified     # 🧝🏽 elf: medium skin tone
+1F9DD 1F3FF                                ; fully-qualified     # 🧝🏿 elf: dark skin tone
+1F9DE                                      ; fully-qualified     # 🧞 genie
+1F9DF                                      ; fully-qualified     # 🧟 zombie
+1F9EA                                      ; fully-qualified     # 🧪 test tube
+1F9EB                                      ; fully-qualified     # 🧫 petri dish
+1F9EC                                      ; fully-qualified     # 🧬 dna
+1F9ED                                      ; fully-qualified     # 🧭 compass
+1F9EE                                      ; fully-qualified     # 🧮 abacus
+1F9EF                                      ; fully-qualified     # 🧯 fire extinguisher
+1F9FA                                      ; fully-qualified     # 🧺 basket
+1F9FB                                      ; fully-qualified     # 🧻 toilet paper
+1F9FC                                      ; fully-qualified     # 🧼 soap
+1F9FD                                      ; fully-qualified     # 🧽 sponge
+1F9FE                                      ; fully-qualified     # 🧾 receipt
+1F9FF                                      ; fully-qualified     # 🧿 nazar amulet
+203C                                       ; non-fully-qualified # ‼ double exclamation mark
+203C FE0F                                  ; fully-qualified     # ‼️ double exclamation mark
+21A9                                       ; non-fully-qualified # ↩ right arrow curving left
+21A9 FE0F                                  ; fully-qualified     # ↩️ right arrow curving left
+21AA                                       ; non-fully-qualified # ↪ left arrow curving right
+21AA FE0F                                  ; fully-qualified     # ↪️ left arrow curving right
+231A                                       ; fully-qualified     # ⌚ watch
+231B                                       ; fully-qualified     # ⌛ hourglass done
+23CF                                       ; non-fully-qualified # ⏏ eject button
+23CF FE0F                                  ; fully-qualified     # ⏏️ eject button
+23E9                                       ; fully-qualified     # ⏩ fast-forward button
+23EA                                       ; fully-qualified     # ⏪ fast reverse button
+23EB                                       ; fully-qualified     # ⏫ fast up button
+23EC                                       ; fully-qualified     # ⏬ fast down button
+23ED                                       ; non-fully-qualified # ⏭ next track button
+23ED FE0F                                  ; fully-qualified     # ⏭️ next track button
+23EE                                       ; non-fully-qualified # ⏮ last track button
+23EE FE0F                                  ; fully-qualified     # ⏮️ last track button
+23EF                                       ; non-fully-qualified # ⏯ play or pause button
+23EF FE0F                                  ; fully-qualified     # ⏯️ play or pause button
+23F0                                       ; fully-qualified     # ⏰ alarm clock
+23F1                                       ; non-fully-qualified # ⏱ stopwatch
+23F1 FE0F                                  ; fully-qualified     # ⏱️ stopwatch
+23F2                                       ; non-fully-qualified # ⏲ timer clock
+23F2 FE0F                                  ; fully-qualified     # ⏲️ timer clock
+23F3                                       ; fully-qualified     # ⏳ hourglass not done
+23F8                                       ; non-fully-qualified # ⏸ pause button
+23F8 FE0F                                  ; fully-qualified     # ⏸️ pause button
+23F9                                       ; non-fully-qualified # ⏹ stop button
+23F9 FE0F                                  ; fully-qualified     # ⏹️ stop button
+23FA                                       ; non-fully-qualified # ⏺ record button
+23FA FE0F                                  ; fully-qualified     # ⏺️ record button
+24C2                                       ; non-fully-qualified # Ⓜ circled M
+24C2 FE0F                                  ; fully-qualified     # Ⓜ️ circled M
+25AA                                       ; non-fully-qualified # ▪ black small square
+25AA FE0F                                  ; fully-qualified     # ▪️ black small square
+25AB                                       ; non-fully-qualified # ▫ white small square
+25AB FE0F                                  ; fully-qualified     # ▫️ white small square
+25B6                                       ; non-fully-qualified # ▶ play button
+25B6 FE0F                                  ; fully-qualified     # ▶️ play button
+25C0                                       ; non-fully-qualified # ◀ reverse button
+25C0 FE0F                                  ; fully-qualified     # ◀️ reverse button
+25FB                                       ; non-fully-qualified # ◻ white medium square
+25FB FE0F                                  ; fully-qualified     # ◻️ white medium square
+25FC                                       ; non-fully-qualified # ◼ black medium square
+25FC FE0F                                  ; fully-qualified     # ◼️ black medium square
+25FD                                       ; fully-qualified     # ◽ white medium-small square
+25FE                                       ; fully-qualified     # ◾ black medium-small square
+260E                                       ; non-fully-qualified # ☎ telephone
+260E FE0F                                  ; fully-qualified     # ☎️ telephone
+261D                                       ; non-fully-qualified # ☝ index pointing up
+261D FE0F                                  ; fully-qualified     # ☝️ index pointing up
+262A                                       ; non-fully-qualified # ☪ star and crescent
+262A FE0F                                  ; fully-qualified     # ☪️ star and crescent
+262E                                       ; non-fully-qualified # ☮ peace symbol
+262E FE0F                                  ; fully-qualified     # ☮️ peace symbol
+262F                                       ; non-fully-qualified # ☯ yin yang
+262F FE0F                                  ; fully-qualified     # ☯️ yin yang
+263A                                       ; non-fully-qualified # ☺ smiling face
+263A FE0F                                  ; fully-qualified     # ☺️ smiling face
+264A                                       ; fully-qualified     # ♊ Gemini
+264B                                       ; fully-qualified     # ♋ Cancer
+264C                                       ; fully-qualified     # ♌ Leo
+264D                                       ; fully-qualified     # ♍ Virgo
+264E                                       ; fully-qualified     # ♎ Libra
+264F                                       ; fully-qualified     # ♏ Scorpio
+267B                                       ; non-fully-qualified # ♻ recycling symbol
+267B FE0F                                  ; fully-qualified     # ♻️ recycling symbol
+267E                                       ; non-fully-qualified # ♾ infinity
+267E FE0F                                  ; fully-qualified     # ♾️ infinity
+267F                                       ; fully-qualified     # ♿ wheelchair symbol
+269B                                       ; non-fully-qualified # ⚛ atom symbol
+269B FE0F                                  ; fully-qualified     # ⚛️ atom symbol
+269C                                       ; non-fully-qualified # ⚜ fleur-de-lis
+269C FE0F                                  ; fully-qualified     # ⚜️ fleur-de-lis
+26A0                                       ; non-fully-qualified # ⚠ warning
+26A0 FE0F                                  ; fully-qualified     # ⚠️ warning
+26A1                                       ; fully-qualified     # ⚡ high voltage
+26AA                                       ; fully-qualified     # ⚪ white circle
+26AB                                       ; fully-qualified     # ⚫ black circle
+26B0                                       ; non-fully-qualified # ⚰ coffin
+26B0 FE0F                                  ; fully-qualified     # ⚰️ coffin
+26B1                                       ; non-fully-qualified # ⚱ funeral urn
+26B1 FE0F                                  ; fully-qualified     # ⚱️ funeral urn
+26BD                                       ; fully-qualified     # ⚽ soccer ball
+26BE                                       ; fully-qualified     # ⚾ baseball
+26C4                                       ; fully-qualified     # ⛄ snowman without snow
+26C5                                       ; fully-qualified     # ⛅ sun behind cloud
+26C8                                       ; non-fully-qualified # ⛈ cloud with lightning and rain
+26CE                                       ; fully-qualified     # ⛎ Ophiuchus
+26CF                                       ; non-fully-qualified # ⛏ pick
+26CF FE0F                                  ; fully-qualified     # ⛏️ pick
+26D1                                       ; non-fully-qualified # ⛑ rescue worker’s helmet
+26D1 FE0F                                  ; fully-qualified     # ⛑️ rescue worker’s helmet
+26D3                                       ; non-fully-qualified # ⛓ chains
+26D3 FE0F                                  ; fully-qualified     # ⛓️ chains
+26D4                                       ; fully-qualified     # ⛔ no entry
+26E9                                       ; non-fully-qualified # ⛩ shinto shrine
+26E9 FE0F                                  ; fully-qualified     # ⛩️ shinto shrine
+26EA                                       ; fully-qualified     # ⛪ church
+26F0                                       ; non-fully-qualified # ⛰ mountain
+26F0 FE0F                                  ; fully-qualified     # ⛰️ mountain
+26F1                                       ; non-fully-qualified # ⛱ umbrella on ground
+26F1 FE0F                                  ; fully-qualified     # ⛱️ umbrella on ground
+26F2                                       ; fully-qualified     # ⛲ fountain
+26F3                                       ; fully-qualified     # ⛳ flag in hole
+26F4                                       ; non-fully-qualified # ⛴ ferry
+26F4 FE0F                                  ; fully-qualified     # ⛴️ ferry
+26F5                                       ; fully-qualified     # ⛵ sailboat
+26F7                                       ; non-fully-qualified # ⛷ skier
+26F7 FE0F                                  ; fully-qualified     # ⛷️ skier
+26F8                                       ; non-fully-qualified # ⛸ ice skate
+26F8 FE0F                                  ; fully-qualified     # ⛸️ ice skate
+26F9                                       ; non-fully-qualified # ⛹ person bouncing ball
+26F9 FE0F                                  ; fully-qualified     # ⛹️ person bouncing ball
+26FA                                       ; fully-qualified     # ⛺ tent
+26FD                                       ; fully-qualified     # ⛽ fuel pump
+270A                                       ; fully-qualified     # ✊ raised fist
+270B                                       ; fully-qualified     # ✋ raised hand
+270C                                       ; non-fully-qualified # ✌ victory hand
+270C FE0F                                  ; fully-qualified     # ✌️ victory hand
+270D                                       ; non-fully-qualified # ✍ writing hand
+270D FE0F                                  ; fully-qualified     # ✍️ writing hand
+270F                                       ; non-fully-qualified # ✏ pencil
+270F FE0F                                  ; fully-qualified     # ✏️ pencil
+271D                                       ; non-fully-qualified # ✝ latin cross
+271D FE0F                                  ; fully-qualified     # ✝️ latin cross
+274C                                       ; fully-qualified     # ❌ cross mark
+274E                                       ; fully-qualified     # ❎ cross mark button
+27A1                                       ; non-fully-qualified # ➡ right arrow
+27A1 FE0F                                  ; fully-qualified     # ➡️ right arrow
+27B0                                       ; fully-qualified     # ➰ curly loop
+27BF                                       ; fully-qualified     # ➿ double curly loop
+2B05                                       ; non-fully-qualified # ⬅ left arrow
+2B05 FE0F                                  ; fully-qualified     # ⬅️ left arrow
+2B06                                       ; non-fully-qualified # ⬆ up arrow
+2B06 FE0F                                  ; fully-qualified     # ⬆️ up arrow
+2B07                                       ; non-fully-qualified # ⬇ down arrow
+2B07 FE0F                                  ; fully-qualified     # ⬇️ down arrow
+2B1B                                       ; fully-qualified     # ⬛ black large square
+2B1C                                       ; fully-qualified     # ⬜ white large square
+2B50                                       ; fully-qualified     # ⭐ white medium star
+2B55                                       ; fully-qualified     # ⭕ heavy large circle
+303D                                       ; non-fully-qualified # 〽 part alternation mark
+303D FE0F                                  ; fully-qualified     # 〽️ part alternation mark
+:
+: Saved
+: end
+</roottag>
+<?xml version="1.0" encoding="UTF-7" ?>
+<data>&file;</data>
+<roottag>
+<sometag>&windowsfile;</sometag>
+Access to the path 'c:\windows\system32\inetsrv' is denied.
+Admin_testimmg.php
+Application Request Contains:
+Application Response Contains:
+DEMO
+Demo
+EVAL
+Eval
+MDB2_testcase.php
+PMA_pow_test.php
 PRUEBA
 PRUEBAS
 Prova
 Provas
+Pruebas
+Suggestion: Stop and Send in a Bug Report
+TEST
+TESTS
+Test
+Tests
+That means you've successfully confirmed XXE on Windows
+Unit_test.php
+User.test.php
+Windows XXE Smoke Test PoC
+[-a-c]
+[^a-zA-Z0-9]
+[a-zA-Z0-9._]+@[a-z0-9._]+\\.[a-z]+
+[a]
+]>
+_test
+_test.bat
+_test.php
+_test_files
+_testcases
+_tests
+a
+a*b
+a+b
+a?b
+aa
+aaa authentication ssh console LOCAL
+aa|b
+aa|bb
+aa|bb|c
+acceptance_test.php
+access-group global_access global
+access-group ipv6tunnel in interface outside
+access-group outside_access_ipv6_in in interface outside
+access-list ALLOWED_FROM_OUTSIDE extended permit gre any object RRAS
+access-list ALLOWED_FROM_OUTSIDE extended permit ip 192.168.0.0 255.255.255.0 object ANYCONNECT_VPN
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object ASA-ASDM_SSLVPN eq www
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object CAFFEINATED-SSH eq ssh
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_ACTIVESYNC eq www
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_OWA eq https
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_SMTP eq smtp
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object RRAS eq pptp
+access-list BAH-PKI-LAB remark BAH-PKI-LAB ACCESS
+access-list BAH-PKI-LAB remark Vandyke WIFI
+access-list BAH-PKI-LAB standard permit 10.100.60.0 255.255.255.0
+access-list BAH-PKI-LAB standard permit 192.168.5.0 255.255.255.0
+access-list INSIDE_INBOUND extended deny ip ff00::/16 any6 log
+access-list global_access extended deny ip object-group INTERNAL_ONLY_DEVICES interface outside
+access-list global_access extended deny tcp any any eq finger
+access-list global_access extended permit gre any object RRAS
+access-list global_access extended permit icmp any any echo
+access-list global_access extended permit icmp any any echo-reply
+access-list global_access extended permit ip 192.168.0.0 255.255.255.0 any
+access-list global_access extended permit object-group TCPUDP any object DNS_lookup eq domain
+access-list global_access extended permit tcp any any object-group World_of_Warcraft log emergencies
+access-list global_access extended permit tcp any object ASA-ASDM_SSLVPN eq www
+access-list global_access extended permit tcp any object CAFFEINATED-SSH eq ssh
+access-list global_access extended permit tcp any object EXCHANGE_ACTIVESYNC eq www
+access-list global_access extended permit tcp any object EXCHANGE_OWA eq https
+access-list global_access extended permit tcp any object EXCHANGE_SMTP eq smtp
+access-list global_access extended permit tcp any object Minecraft object-group minecraft
+access-list global_access extended permit tcp any object RRAS eq pptp
+access-list guestwifidmz_access_in extended deny ip ff00::/16 any6 log
+access-list inside_access_in extended permit ip any any
+access-list inside_access_in_1 extended permit 41 any any
+access-list inside_access_in_1 extended permit ip any any
+access-list outside_access_in extended permit tcp any object CAFFEINATED-SSH eq ssh
+access-list outside_access_in_1 extended permit 41 any any
+access-list outside_access_in_1 extended permit ip any any
+acl.test.php
+adapter_test.php
+address-pool VPN
+ajax.test.php
+all-tests.php
+all_tests.php
+alltest.php
+annotation_test.php
+anyconnect ask enable default anyconnect timeout 5
+anyconnect ask none default anyconnect
+anyconnect enable
+anyconnect keep-installer installed
+anyconnect profiles coffee_anyconnect_client_profile disk0:/coffee_anyconnect_client_profile.xml
+anyconnect profiles value coffee_anyconnect_client_profile type user
+anyconnect ssl rekey method ssl
+anyconnect ssl rekey time 30
+anyconnect-essentials
+apc.test.php
+asdm image disk0:/asdm-649-103.bin
+attachLatest.php
+auth.test.php
+authentication aaa certificate
+authentication pre-share
+autorun_test.php
+a|b
+a|bb|c
+a|bb|cc
+a|b|c
+bad_test_suite.php
+basics.test.php
+bdd_test.html
+behavior.test.php
+bookmark_test.php
+bookstore-test.php
+boot system disk0:/asa844-1-k8.bin
+boundary_tests.php
+browser_test.php
+browsing_test.rb
+builder_test.html
+cache.test.php
+cake.test.php
+cake_log.test.php
+cake_test_case.php
+cake_test_model.php
+call-home
+cart_test.rb
+cart_test1.rb
+catgets/gencat
+certificate XXXXX
+certificate ca XXXXX
+cf~testsessions.php
+chattest.php
+class global-class
+class inspection_default
+class-map global-class
+class-map inspection_default
+classes
+cli_test.php
+clitest.php
+clock summer-time EDT recurring
+clock timezone EST -5
+collector_test.php
+compatibility_test
+component.test.php
+config.status
+config.test.php
+configure.test.php
+console timeout 0
+contest
+contest.php
+controller.test.php
+cookie.test.php
+cookies_test.php
+core.test.php
+crl configure
+crypto ca certificate chain ASDM_TrustPoint1
+crypto ca certificate chain securesub
+crypto ca trustpoint ASDM_TrustPoint1
+crypto ca trustpoint securesub
+crypto ikev1 policy 10
+crypto ikev2 policy 1
+crypto ikev2 policy 10
+crypto ikev2 policy 20
+crypto ikev2 policy 30
+crypto ikev2 policy 40
+crypto ikev2 remote-access trustpoint securesub
+crypto ipsec ikev2 ipsec-proposal 3DES
+crypto ipsec ikev2 ipsec-proposal AES
+crypto ipsec ikev2 ipsec-proposal DES
+crypto map outside_map interface outside
+css
+curltest.php
+db_acl.test.php
+db_test.php
+dbo_adodb.test.php
+dbo_mssql.test.php
+dbo_mysql.test.php
+dbo_mysqli.test.php
+dbo_oracle.test.php
+dbo_source.test.php
+dbo_sqlite.test.php
+dbtest.class.php
+dbtest1.sql
+dbtest2.sql
+debug.test.php
+debug/catchsegv
+debug/pcprofiledump
+debug/xtrace
+debugger.test.php
+default-domain value securesub
+default-group-policy GroupPolicy_coffee_anyconnect
+default-group-policy coffee_clientless
 demo
-DEMO
-Demo
+description //OUT TO FIOS///
+description Anyconnet VPN Range
+description DansDesktop
+description ESX5 Server
+description Ventrilo Server
+description Ysera
+description \\LAN Connection to Switch\\
+destination address email callhome@cisco.com
+destination transport-method http
+detached_test.php
+dhcpd auto_config outside
+dhcpd dns 129.250.35.250 129.250.35.251 interface inside
+dispatcher.test.php
+display_test.php
+dns domain-lookup inside
+dns domain-lookup outside
+dns server-group DefaultDNS
+dns-server value 192.168.0.25 4.2.2.2
+docs
+domain-name securesub.net
+dragdrop2_test.html
+dragdrop3_test.html
+dragdrop4_test.html
+dragdrop5_test.html
+dragdrop6_test.html
+dragdrop7_test.html
+dragdrop8_test.html
+dragdrop9_test.html
+dragdrop_test.html
+dummy_test_1.php
+dummy_test_2.php
+dumper_test.php
+dynamic-access-policy-record DfltAccessPolicy
+eclipse_test.php
+effects2_test.html
+effects3_test.html
+effects4_test.html
+effects5_test.html
+effects6_test.html
+effects_test.html
+element_test.html
+elf/ldconfig
+elf/ldd
+elf/pldd
+elf/sln
+elf/sotruss
+elf/sprof
+email.test.php
+empty_test_file.php
+en-x-test.php
+en-x-testmini.php
+enable outside
+enable password XXX encrypted
+encoding_test.php
+encryption 3des
+encryption aes
+encryption des
+end
+enrollment terminal
+environment
+error.test.php
+errors_test.php
 eval
-Eval
-EVAL
+exceptions_test.php
+fck_dtd_test.html
+file.test.php
+flay.test.php
+folder.test.php
+form.test.php
+form_test.php
+frames_test.php
+ftp mode passive
+function.testme.php
+functional_test.rb
+fuzz-tester.php
+group 2
+group 5
+group-alias coffee_anyconnect disable
+group-alias securesub enable
+group-policy DefaultRAGroup internal
+group-policy DfltGrpPolicy attributes
+group-policy GroupPolicy_coffee_anyconnect attributes
+group-policy GroupPolicy_coffee_anyconnect internal
+group-policy coffee_clientless attributes
+group-policy coffee_clientless internal
+grouptest.php
+hash sha
+helper.test.php
+host 192.168.0.1
+host 192.168.0.10
+host 192.168.0.12
+host 192.168.0.2
+host 192.168.0.22
+host 192.168.0.25
+host 192.168.0.26
+host 192.168.0.3
+host 192.168.0.4
+host 192.168.0.5
+host 192.168.0.6
+host 192.168.0.7
+host 216.66.22.2
+hostname asa
+hpm topN enable
+html.test.php
+i18n.test.php
+icmp unreachable rate-limit 1 burst-size 1
+iconv/iconv_prog
+iconv/iconvconfig
+images
+images-test.php
+includes
+inflector.test.php
+inspect esmtp
+inspect ftp
+inspect ipsec-pass-thru
+integrity sha
+interface Ethernet0/0
+interface Ethernet0/1
+interface Ethernet0/2
+interface Ethernet0/3
+interface Ethernet0/4
+interface Ethernet0/5
+interface Ethernet0/6
+interface Ethernet0/7
+interface Vlan1
+interface Vlan2
+interfaces_test.php
+io/pwd
+ip address ASA_INSIDE 255.255.255.0
+ip address dhcp setroute
+ip local pool VPN 192.168.0.200-192.168.0.205 mask 255.255.255.0
+ipn_test.php
+ipn_test_return.php
+ipv6 access-list outside_access_ipv6_in permit icmp6 interface outside interface inside echo
+ipv6 access-list outside_access_ipv6_in permit icmp6 interface outside interface inside echo-reply
+ipv6-address-pool SecuresubIPV6
+javascript.test.php
+jevixtest.php
+keypair securesub
+l10n.test.php
+latest.php
+latestVersion
+line_item_test.rb
+live_test.php
+loader.test.php
+loading_test.html
+locale/locale
+locale/localedef
+logging asdm emergencies
+logging buffered emergencies
+logging console emergencies
+logging emblem
+logging enable
+logging from-address asa@coffee.no-ip.info
+logging history emergencies
+logging host inside 192.168.0.22 format emblem
+logging mail emergencies
+logging monitor emergencies
+logging trap emergencies
+login/utmpdump
+magic_db.test.php
+malloc/memusage
+malloc/memusagestat
+malloc/mtrace
+management-access inside
+master
+match default-inspection-traffic
+mctest.php
+memcache.test.php
+min_unit_tests
+mod_latest
+mod_latest.php
+mod_latest.xml
+mod_latestnews
+mod_latestnews.php
+mod_latestnews.xml
+model.test.php
+multibyte.test.php
+mysql_test_db.sql
+name 192.168.0.1 ASA_INSIDE
+name 192.168.0.11 DAN_NIX
+name-server 192.168.0.25
+name-server 4.2.2.2
+nameif inside
+nameif outside
+names
+network-object object CANON_PRINTER
+network-object object DD-WRT
+network-object object ESX_5_SERVER
+network-object object ESX_MANAGEMENT
+network-object object FREENAS
+network-object object SWITCH
+network-object object Vent_data_tcp
+network-object object Ventrilo_tcp
+network-object object WDTV
+network-object object vent_data_udp
+network-object object ventrilo_udp
+no active
+no asdm history enable
+no call-home reporting anonymous
+no failover
+no snmp-server contact
+no snmp-server location
+nochex_apc_test.php
+nscd/nscd
+nss/getent
+nss/makedb
+number.test.php
+object network ANYCONNECT_VPN
+object network ANYCONNECT_VPN_POOL
+object network ANYCONNECT_VPN_USERS
+object network ASA-ASDM_SSLVPN
+object network ASA_INSIDE
+object network AnyConnect_VPN_USERS
+object network CAFFEINATED-SSH
+object network CANON_PRINTER
+object network DD-WRT
+object network DNS_lookup
+object network DNS_transfer
+object network Dans-Desktop
+object network DansDesktop
+object network ESX_5_SERVER
+object network ESX_MANAGEMENT
+object network EXCHANGE_ACTIVESYNC
+object network EXCHANGE_IMAP
+object network EXCHANGE_OWA
+object network EXCHANGE_SMTP
+object network FREENAS
+object network IIS_OWA
+object network INSIDE_LAN
+object network Media-Server
+object network Minecraft
+object network RDWeb_App
+object network RRAS
+object network RRAS_L2TP_IKE
+object network RRAS_L2TP_IPSEC
+object network SWITCH
+object network US.LOGON.BATTLE.NET
+object network VPN-POOL
+object network Vent_data_tcp
+object network Ventrilo_tcp
+object network WDTV
+object network YSERA
+object network ipv6_local_endpoint
+object network ipv6_remote_endpoint
+object network vent_data_udp
+object network ventrilo_udp
+object service 6in4
+object service https
+object-group network INTERNAL_ONLY_DEVICES
+object-group network Ventrilo
+object-group network obj-192.168.0.0
+object-group protocol TCPUDP
+object-group service Battlenet_login tcp
+object-group service Vent tcp-udp
+object-group service World_of_Warcraft tcp
+object-group service irc_ports tcp
+object-group service metasploit_range tcp
+object-group service minecraft tcp
+object.test.php
+observer_test.php
+options_test.php
+order_speed_test.rb
+order_test.rb
+otb_test.php
+output_test.php
+page_test.php
+pager lines 24
+paginator.test.php
+parameters
+parser_test.php
+passwd XXX encrypted
+pdb-test.php
+pear_test_case.php
+php_test.php
+phpmailer_test.php
+phptest.php
+plugin_test.php
+policy-map FTPPOLICY
+policy-map global-policy
+policy-map type inspect dns preset_dns_map
+posix/getconf
+prf sha
+probando
+product_test.rb
+profile CiscoTAC-1
+project_test.rb
+prompt hostname context
+protocol esp encryption 3des
+protocol esp encryption aes
+protocol esp encryption des
+protocol esp integrity sha-1 md5
+protocol-object tcp
+protocol-object udp
+prova
+prova1
+prova2
+provas
+prueba
+prueba00
+prueba01
+prueba1
+prueba2
+pruebas
+query.test.php
+quit
+real_sites_test.php
+remote_test.php
+request.test.php
+request_test.php
+response.test.php
+revocation-check ocsp
+roletest.php
+router.test.php
+rss.test.php
+run-tests.php
+run_tests.php
+run_unit_tests.html
+runtest.bat
+runtests
+runtests.bat
+runtests.php
+runtests.sh
+same-security-traffic permit intra-interface
+sanitize.test.php
+scaffold.test.php
+schema.test.php
+scripts
+security-level 0
+security.test.php
+server.test.php
+service 41
+service tcp source eq https destination eq https
+service-policy global-policy global
+service-type remote-access
+session.test.php
+set.test.php
+sftestplugin
+shell.test.php
+shell_test.php
+shell_tester.php
+simple_test
+simple_test.php
+simple_web_test.php
+simpletest
+simpletest.php
+simpletest_test.php
+slider_test.html
+snmp-server enable traps snmp authentication linkup linkdown coldstart
+so_tester.fla
+socket.test.php
+socket_test.php
+sortable2_test.html
+sortable3_test.html
+sortable4_test.html
+sortable5_test.html
+sortable6_test.html
+sortable_test.html
+sound_test.html
+speed_test.php
+split-tunnel-network-list value BAH-PKI-LAB
+split-tunnel-policy excludespecified
+ssh 192.168.0.0 255.255.255.0 inside
+ssh key-exchange group dh-group1-sha1
+ssh timeout 60
+ssl trust-point securesub inside
+ssl trust-point securesub outside
+string.test.php
+string_test.html
+subnet 192.168.0.0 255.255.255.0
+subscribe-to-alert-group configuration periodic monthly
+subscribe-to-alert-group diagnostic
+subscribe-to-alert-group environment
+subscribe-to-alert-group inventory periodic monthly
+subscribe-to-alert-group telemetry periodic daily
+sunrpc/cross-rpcgen
+sunrpc/rpcgen
+switchport access vlan 2
+switchport monitor Ethernet0/0
+tag_test.php
+telnet timeout 5
+test
+test-datadict.php
+test-gd.php
+test-perf.php
+test-pgblob.php
+test-php5.php
+test-position.html
+test-results
+test-suite
+test-xmlschema.php
+test.ascx
+test.ascx.cs
+test.asp
+test.aspx
+test.aspx.cs
+test.bat
+test.cache.php
+test.cgi
+test.class.php
+test.conf
+test.config.php
+test.csv
+test.db
+test.empty.php
+test.exception.php
+test.flexy.form.tpl
+test.glade
+test.htm
+test.html
+test.html.suspended
+test.inc
+test.inc.php
+test.ini
+test.log
+test.mdb
+test.name.php
+test.php
+test.php.svn-base
+test.php3
+test.php4
+test.phtml
+test.pl
+test.properties
+test.py
+test.rar
+test.rb
+test.sh
+test.sql
+test.tmpl.php
+test.tpl
+test.txt
+test.vm
+test.xls
+test.xml
+test.yaml
+test00
+test01
+test1
+test1-discover.txt
+test1-parsehtml.txt
+test1-xrd.xml
+test1.php
+test1.xml
+test2
+test2.php
+test2.tpl
+test2.xml
+test2.zip
+test3
+test3.php
+test3.xml
+test4.php
+test5.php
+testACL.php
+testApp
+testB.sql
+testCase
+testClass.php
+testColors.php
+testContainer.html
+testCreateData.php
+testData.sql
+testFile.php
+testFiles
+testList.php
+testRunner.html
+testRunner.sql
+testSQL.php
+testStats.php
+testTemplate.html
+testTest.php
+testThemes.php
+test_2.php
+test_Dump.php
+test_Files.php
+test_Minify.php
+test_PostgreSQL.sql
+test_URL.php
+test_adodb_lite.php
+test_all.php
+test_app
+test_calc.php
+test_case.php
+test_cases.php
+test_classes
+test_container.html
+test_controller.php
+test_data.yml
+test_domit
+test_edit.html
+test_element.ctp
+test_email.php
+test_error.php
+test_events.html
+test_expand.html
+test_files
+test_form.php
+test_gmail.php
+test_grid.html
+test_grid_dlg.html
+test_grid_rtl.html
+test_groups.php
+test_helper.php
+test_helper.rb
+test_keyboard.html
+test_mail.php
+test_manager.php
+test_markup.html
+test_model.php
+test_old.php
+test_plugin
+test_plugin.po
+test_plugin_theme
+test_plugin_two
+test_request.php
+test_request.txt
+test_rs_array.php
+test_sendmail.php
+test_setup.php.dist
+test_sizing.html
+test_smtp.php
+test_styling.html
+test_subgrid.html
+test_template.php
+test_theme
+test_tools
+test_view.php
+testbed.html
+testcache.php
+testcases.php
+testchoose.php
+testclient.php
+testcookie.php
+testdata
+testdata.txt
+testdb
+testdir
+testdox
+testdox.php
+teste
+teste.htm
+teste.php
+tester
+tester.php
+testes
+testexample.php
+testfile1.html
+testfile2.html
+testfile3.html
+testfixture.xml
+testform.php
+testgenid.php
+testimonials
+testing
+testing.php
+testing_domit.php
+testip.php
+testlib
+testmssql.php
+testoci8.php
+testoci8cursor.php
+testpage
+testpaging.php
+testpear.php
+testrun.sh
+tests
+tests.csproj
+tests.de.xml
+tests.en.xml
+tests.es.xml
+tests.fr.xml
+tests.id.xml
+tests.php
+tests.pl.xml
+tests.xml
+tests.zh.xml
+tests_core
+tests_plugins_tests
+tests_server
+testsessions.php
+testsuit.php
+testsuite.php
+testtbl.sql
+testunit.php
+testunit_date.php
+testuser.php
+testutils.php
+testxml.xml
+text.test.php
+texvc_test.ml
+theme.test.php
+threat-detection basic-threat
+threat-detection statistics
+time.test.php
+timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 icmp 0:00:02
+timeout floating-conn 0:00:00
+timeout pat-xlate 0:00:30
+timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+timeout tcp-proxy-reassembly 0:01:00
+timeout xlate 3:00:00
+timezone/tzselect
+timezone/zdump
+timezone/zic
+tokenizer_test.php
+translate.test.php
+tree-test.php
+tree.test.php
+treetest
+treetest-schema.xml
+tst
+tsts
+tunnel-group coffee_anyconnect general-attributes
+tunnel-group coffee_anyconnect type remote-access
+tunnel-group coffee_anyconnect webvpn-attributes
+tunnel-group coffee_clientless general-attributes
+tunnel-group coffee_clientless type remote-access
+tunnel-group-list enable
+tween_test.html
+unit-tests
+unit_test
+unit_test.rb
+unit_test_lang.php
+unit_tester.php
+unit_testing.html
+unit_tests.php
+unittest_test.html
+upgrade_latest.php
+upgrade_latest.sql
+upload.test.php
+uploadtest.html
+url-list value dans
+url_test.php
+user-identity default-domain LOCAL
+user_agent_test.php
+user_test.rb
+username dano password XXXXXX encrypted privilege 15
+utf8test.txt
+validation.test.php
+view.test.php
+visual_test.php
+vpn-tunnel-protocol ikev1 l2tp-ipsec ssl-clientless
+vpn-tunnel-protocol ikev2 ssl-client
+vpn-tunnel-protocol ssl-clientless
+web_test_test.php
+web_tester.php
+web_tester_test.php
+webtest.php
+webvpn
+wins-server none
+wknotest.txt
+xcache.test.php
+xml.test.php
+xml_test.php
+yuitest

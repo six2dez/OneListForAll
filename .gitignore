@@ -18,6 +18,15 @@ SHA256SUMS
 dict/*__*.txt
 dict/SOURCES.md
 
+# Large dict files (>100MB, exceed GitHub limit)
+# Generate locally with: olfa pipeline
+dict/subdomains_long.txt
+dict/passwords_long.txt
+dict/passwords_short.txt
+dict/fuzz_general_long.txt
+dict/directories_long.txt
+dict/dns_long.txt
+
 # OS
 .DS_Store
 

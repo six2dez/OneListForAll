@@ -1,3 +1,0 @@
-etc/passwd
-C:\boot.ini
-C:\WINDOWS\win.ini

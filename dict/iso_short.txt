@@ -1,156 +1,948 @@
-/2008_R2_64Bit_English.ISO
-/2019.ISO
-/2019ROK.iso
-/7601.17514.101119-1850_x64fre_server_eval_en-us-GRMSXEVAL_EN_DVD.iso
-/AcronisBackupAdvancedPC_11.7_44409_en-US.iso
-/cd140201.iso
 /CentOS-5.11-x86_64-bin-DVD-1of2.iso
-/CentOS-6.5-x86_64-minimal.iso
 /CentOS-6.10-x86_64-minimal.iso
-/CentOS-7-x86_64-Minimal-1708.iso
-/CentOS-8.2.2004-x86_64-minimal.iso
-/debian-10.8.0-amd64-DVD-1.iso
-/debian-amd64-netinst-3cx.iso
-/en_windows_7_enterprise_with_sp1_x64_dvd_u_677651.iso
-/en_windows_10_enterprise_version_1511_updated_feb_2016_x64_dvd_8378876.iso
-/en_windows_server_2016_x64_dvd_9718492.iso
-/ESXi-6.7.0-20210204001-standard-customized.iso
-/esxi65u3a.iso
-/issabel4-USB-DVD-x86_64-20181002.iso
-/macOS.iso
+/CentOS-6.5-x86_64-minimal.iso
 /Partash-Windows7HomePremium.iso
 /Reset_Windows_Pass.iso
-/rwpa.iso
-/ser2019.iso
-/SERV2019STD.ENU.AUG2019.ISO
-/SNG7-FPBX-64bit-2002-2.iso
-/SW_CD_Windows_Svr_Std_2003_R2_32-BIT_X64_English_ISO_32bit_1_MLF_X13-73742.ISO
-/SW_DVD5_Office_Professional_Plus_64Bit_ChnSimp_-5_OfficeOnlineSvr_MLF_X21-63781.ISO
 /Symantec_Messaging_Gateway_OSrestore_10.7.3-5_Linux_Int.iso
+/Windows10.iso
+/XenServer-6.5.0-sp1-install-cd.iso
+/debian-10.8.0-amd64-DVD-1.iso
+/debian-amd64-netinst-3cx.iso
+/esxi65u3a.iso
+/macOS.iso
+/rwpa.iso
 /ubuntu-12.04.5-server-amd64.iso
 /ubuntu-14.04.6-server-amd64.iso
 /ubuntu-16.04.5-server-amd64.iso
 /ubuntu-18.04-live-server-amd64-ILO.iso
 /ubuntu-19.10-live-server-amd64.iso
 /ubuntu-20.04.1-live-server-amd64.iso
-/VeeamBackupReplication_10.0.0.4461_20200401.iso
-/VMware-ESXi-6.7.0-Update1-11675023-HPE-Gen9plus-670.U1.10.4.0.19-Apr2019.iso
-/VMware-vCenter-Server-Appliance-6.5.0.33100-16764584-patch-FP.iso
-/VMware-VMvisor-Installer-6.0.0.update02-3620759.x86_64.iso
-/VMware-VMvisor-Installer-6.5.0.update02-8294253.x86_64.iso
-/vyatta-livecd_VSE6.4-2014.03.06_amd64.iso
-/WIN7X64.17in1.ENU.MAR2020.iso
-/Win10PE_1709.iso
 /windows.iso
-/Windows10.iso
-/windows2016.iso
-/WS08R2SP1_New.iso
-/XenServer-6.5.0-sp1-install-cd.iso
 /zabbix_appliance-5.0.3-netinstall.iso
-3dsmax2015.iso
+0 Approved
+1 Refer to Card Issuer
+10 Partial Amount Approved
+11 VIP Approval
+12 Invalid Transaction
+13 Invalid Amount
+14 Invalid Card Number
+15 No Such Issuer
+17 Customer Cancellation
+18 Customer Dispute
+19 Re-enter Transaction
+2 Refer to Issuer's special conditions
+20 Invalid Response
+22 Suspected Malfunction
+23 Unacceptable Transaction Fee
+24 File Update not Supported by Receiver
+25 Unable to Locate Record on File
+26 Duplicate File Update Record
+27 File Update Field Edit Error
+28 File Update File Locked Out
+29 File Update not Successful
+3 Invalid Merchant
+30 Format Error
+31 Bank not Supported by Switch
+32 Completed Partially
+33 Expired Card - Pick Up
+34 Suspected Fraud - Pick Up
+35 Contact Acquirer - Pick Up
+36 Restricted Card - Pick Up
+37 Call Acquirer Security - Pick Up
+38 Allowable PIN Tries Exceeded
+39 No CREDIT Account
 3GB-Dummy.iso
-871795_001_spp-2017.04.0-SPP2017040.2017_0420.14.iso
-aacraid-driverdisk-1.2.1-52011-RHEL5.11-x86_64.iso
-aacraid-driverdisk-1.2.1-56008-RHEL7.4-x86_64.iso
-Adobe Acrobat Pro DC 2020 (v20.012.20043) Multilingue Windows x86-x64 + Patch.iso.part
-Adobe Acrobat Pro DC 2020 (v20.012.20048) Multilingue Windows x86-x64 + Patch.iso
-archbang-0101-x86_64.iso
-archbang-beta-3005-x86_64.iso
+4 Pick Up Card
+40 Requested Function not Supported
+41 Lost Card - Pick Up
+42 No Universal Amount
+43 Stolen Card - Pick Up
+44 No Investment Account
+5 Do Not Honor
+51 Insufficient Funds
+52 No Cheque Account
+53 No Savings Account
+54 Expired Card
+55 Incorrect PIN
+56 No Card Record
+57 Trans. not Permitted to Cardholder
+58 Transaction not Permitted to Terminal
+59 Suspected Fraud
+6 Error
+60 Card Acceptor Contact Acquirer
+61 Exceeds Withdrawal Amount Limits
+62 Restricted Card
+63 Security Violation
+64 Original Amount Incorrect
+65 Exceeds Withdrawal Frequency Limit
+66 Card Acceptor Call Acquirer Security
+67 Hard Capture - Pick Up Card at ATM
+68 Response Received Too Late
+75 Allowable PIN Tries Exceeded
+76 Previous message not found
+77 Data does not match original message
+8 Honor with identification
+80 Invalid Date
+81 Cryptographic failure
+82 Incorrect CVV
+83 Unable to verify PIN
+84 Invalid authorization life cycle
+85 No reason to decline
+86 ATM Malfunction
+87 No Envelope Inserted
+88 Unable to Dispense
+89 Administration Error
+9 Request in Progress
+90 Cut-off in Progress
+91 Issuer or Switch is Inoperative
+92 Financial Institution Not Found
+93 Trans Cannot be Completed
+94 Duplicate Transmission
+95 Reconcile Error
+96 System Malfunction
+97 Reconciliation Totals Reset
+98 MAC Error
+99 Reserved for National Use
+BV	BVT	074	BV	Bouvet Island		49.0	0	AN
+BartPE-with-drivers.iso
+CC	CCK	166	CK	Cocos [Keeling] Islands	West Island	14.0	628	AS
+CentOS-6.10-x86_64-netinstall.iso
+DUP_el6_x86_64.iso
+HBCD_PE_x64.iso
+HM	HMD	334	HM	Heard Island and McDonald Islands		412.0	0	AN
+Locale   Language             Country
+MX200_MU03_BOOTABLE.iso
+PN	PCN	612	PC	Pitcairn Islands	Adamstown	47.0	46	OC
+ROMPaq USB Key.iso
+ROMPaq.iso
+ScientificLinux-7.6-0.x86_64.disk1.iso
+UM	UMI	581		U.S. Minor Outlying Islands		0.0	0	OC
+VA	VAT	336	VT	Vatican City	Vatican City	0.4	921	EU
+VeeamRecoveryMedia.iso
+XA Forward to issuer
+XD Forward to issuer
+aa
+aa_DJ    Afar                 Djibouti                                   aa   DJ
+aa_ER    Afar                 Eritrea                                    aa   ER
+aa_ET    Afar                 Ethiopia                                   aa   ET
+ab
+ace
+ach
+ada
+ady
+ae
+aeb
+af
+af_ZA    Afrikaans            South Africa                               af   ZA
+afh
+agq
+ain
+ak
+akk
+akz
+ale
+aln
+alt
+am
+am_ET    Amharic              Ethiopia                                   am   ET
+an
+an_ES    Aragonese            Spain                                      an   ES
+ang
+anp
+ar
+ar_AE    Arabic               United Arab Emirates                       ar   AE
+ar_BH    Arabic               Bahrain                                    ar   BH
+ar_DZ    Arabic               Algeria                                    ar   DZ
+ar_EG    Arabic               Egypt                                      ar   EG
+ar_IN    Arabic               India                                      ar   IN
+ar_IQ    Arabic               Iraq                                       ar   IQ
+ar_JO    Arabic               Jordan                                     ar   JO
+ar_KW    Arabic               Kuwait                                     ar   KW
+ar_LB    Arabic               Lebanon                                    ar   LB
+ar_LY    Arabic               Libyan Arab Jamahiriya                     ar   LY
+ar_MA    Arabic               Morocco                                    ar   MA
+ar_OM    Arabic               Oman                                       ar   OM
+ar_QA    Arabic               Qatar                                      ar   QA
+ar_SA    Arabic               Saudi Arabia                               ar   SA
+ar_SD    Arabic               Sudan                                      ar   SD
+ar_SY    Arabic               Syrian Arab Republic                       ar   SY
+ar_TN    Arabic               Tunisia                                    ar   TN
+ar_YE    Arabic               Yemen                                      ar   YE
+arc
+arn
+aro
+arp
+arq
+ars
+arw
+ary
+arz
+as
+as_IN    Assamese             India                                      as   IN
+asa
+ase
 aser7_64.iso
 aser8_64.iso
+ast
+ast_ES   Asturian             Spain                                      ast  ES
+av
+avk
+awa
+ay
+az
+az_AZ    Azerbaijani          Azerbaijan                                 az   AZ
+ba
 backbox-6-desktop-amd64.iso
 backbox-6-desktop-amd64.iso.md5
-backbox-6-desktop-amd64.iso.sha256
 backbox-6-desktop-amd64.iso.torrent
 backbox-6-desktop-i386.iso
 backbox-6-desktop-i386.iso.md5
-backbox-6-desktop-i386.iso.sha256
 backbox-6-desktop-i386.iso.torrent
 backbox-7-desktop-amd64.iso
 backbox-7-desktop-amd64.iso.md5
-backbox-7-desktop-amd64.iso.sha256
 backbox-7-desktop-amd64.iso.torrent
-BartPE-with-drivers.iso
+bal
+ban
+bar
+bas
 base-7.0-2.x86_64.disk1.iso
+bax
+bbc
+bbj
+be
+be_BY    Byelorussian         Belarus                                    be   BY
+bej
+bem
+ber_DZ   Berber               Algeria                                    ber  DZ
+ber_MA   Berber               Morocco                                    ber  MA
+bew
+bez
+bfd
+bfq
+bg
+bg_BG    Bulgarian            Bulgaria                                   bg   BG
+bgn
+bho
+bi
+bik
+bin
+bjn
+bkm
+bla
 blade-v2.iso
 bladeupdates.iso
-BlindArch-2020.11.28-x86_64.iso
+bm
+bn
+bn_BD    Bengali/Bangla       Bangladesh                                 bn   BD
+bn_IN    Bengali/Bangla       India                                      bn   IN
+bo
+bo_CN    Tibetan              China                                      bo   CN
+bo_IN    Tibetan              India                                      bo   IN
+bpy
+bqi
+br
+br_FR    Breton               France                                     br   FR
+bra
+brh
+brx
+bs
+bs_BA    Bosnian              Bosnia And Herzegovina                     bs   BA
+bss
+bua
+bug
+bum
+byn
+byn_ER   Bilin                Eritrea                                    byn  ER
+byv
+ca
+ca_AD    Catalan              Andorra                                    ca   AD
+ca_ES    Catalan              Spain                                      ca   ES
+ca_FR    Catalan              France                                     ca   FR
+ca_IT    Catalan              Italy                                      ca   IT
+cad
+car
 casa-axyom-4.9.2-144.iso
 casa-axyom-4.9.3-75.iso
-casa-axyom-4.9.3-1014.iso
-CentOS-6.10-x86_64-netinstall.iso
-CentOS-7-x86_64-DVD-2009.iso
-CentOS-7-x86_64-Everything-2009.iso
-CentOS-7-x86_64-Minimal-1804.iso
-CentOS-7-x86_64-Minimal-2009.iso
-CentOS-7-x86_64-NetInstall-2009.iso
-CentOS-7.4.1708-0.x86_64.disk1.iso
-CentOS-8.1.1911-x86_64-dvd1.iso
-CentOS-8.2.2004-x86_64-boot.iso
-cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_incl_virtio-140506-homemade-by-Jetso.iso
+cay
+cch
+ce
+ceb
+cgg
+ch
+chb
+chg
+chk
+chm
+chn
+cho
+chp
+chr
+chy
+ckb
+co
+cop
 core-7.0-2.x86_64.disk1.iso
-debian-8.11-dvd.iso
+cps
+cr
+crh
+crh_UA   Crimean Tatar        Ukraine                                    crh  UA
+cs
+cs_CZ    Czech                Czech Republic                             cs   CZ
+csb
+csb_PL   Kashubian            Poland                                     csb  PL
+cu
+cv
+cy
+cy_GB    Welsh                United Kingdom                             cy   GB
+da
+da_DK    Danish               Denmark                                    da   DK
+dak
+dar
+dav
+de
+de_AT    German               Austria                                    de   AT
+de_BE    German               Belgium                                    de   BE
+de_CH    German               Switzerland                                de   CH
+de_DE    German               Germany                                    de   DE
+de_LI    German               Liechtenstein                              de   LI
+de_LU    German               Luxembourg                                 de   LU
 debian-10.5.0-amd64-DVD-1.iso
 debian-10.5.0-amd64-netinst.iso
 debian-10.6.0-amd64-xfce-CD-1.iso
+debian-8.11-dvd.iso
 debian-live-8.8.0-amd64-standard.iso
 debian.iso
 debian8blade.iso
 debian9-fw.iso
 debian9-netinstall.iso
 debian9.iso
-DUP_el6_x86_64.iso
+del
+den
+dgr
+din
+dje
+doi
+dsb
+dtp
+dua
+dum
+dv
+dv_MV    Dhivehi              Maldives                                   dv   MV
+dyo
+dyu
+dz
+dz_BT    Bhutani              Bhutan                                     dz   BT
+dzg
+ebu
+ee
+efi
+egl
+egy
+eka
+el
+el_CY    Greek                Cyprus                                     el   CY
+el_GR    Greek                Greece                                     el   GR
+elx
+en
+en_AG    English              Antigua And Barbuda                        en   AG
+en_AU    English              Australia                                  en   AU
+en_BW    English              Botswana                                   en   BW
+en_CA    English              Canada                                     en   CA
+en_DK    English              Denmark                                    en   DK
+en_GB    English              United Kingdom                             en   GB
+en_HK    English              Hong Kong                                  en   HK
+en_IE    English              Ireland                                    en   IE
+en_IN    English              India                                      en   IN
+en_NG    English              Nigeria                                    en   NG
+en_NZ    English              New Zealand                                en   NZ
+en_PH    English              Philippines                                en   PH
+en_SG    English              Singapore                                  en   SG
+en_US    English              United States                              en   US
+en_ZA    English              South Africa                               en   ZA
+en_ZW    English              Zimbabwe                                   en   ZW
+enm
+eo
+eo       Esperanto                                                       eo
+es
+es_AR    Spanish              Argentina                                  es   AR
+es_BO    Spanish              Bolivia                                    es   BO
+es_CL    Spanish              Chile                                      es   CL
+es_CO    Spanish              Colombia                                   es   CO
+es_CR    Spanish              Costa Rica                                 es   CR
+es_DO    Spanish              Dominican Republic                         es   DO
+es_EC    Spanish              Ecuador                                    es   EC
+es_ES    Spanish              Spain                                      es   ES
+es_GT    Spanish              Guatemala                                  es   GT
+es_HN    Spanish              Honduras                                   es   HN
+es_MX    Spanish              Mexico                                     es   MX
+es_NI    Spanish              Nicaragua                                  es   NI
+es_PA    Spanish              Panama                                     es   PA
+es_PE    Spanish              Peru                                       es   PE
+es_PR    Spanish              Puerto Rico                                es   PR
+es_PY    Spanish              Paraguay                                   es   PY
+es_SV    Spanish              El Salvador                                es   SV
+es_US    Spanish              United States                              es   US
+es_UY    Spanish              Uruguay                                    es   UY
+es_VE    Spanish              Venezuela                                  es   VE
+esu
+et
+et_EE    Estonian             Estonia                                    et   EE
+eu
+eu_ES    Basque               Spain                                      eu   ES
+eu_FR    Basque               France                                     eu   FR
+ewo
+ext
+fa
+fan
+fat
+ff
+fi
+fi_FI    Finnish              Finland                                    fi   FI
+fil
+fil_PH   Filipino             Philippines                                fil  PH
+fit
+fj
+fo
+fo_FO    Faeroese             Faroe Islands                              fo   FO
+fon
+fr
+fr_BE    French               Belgium                                    fr   BE
+fr_CA    French               Canada                                     fr   CA
+fr_CH    French               Switzerland                                fr   CH
+fr_FR    French               France                                     fr   FR
+fr_LU    French               Luxembourg                                 fr   LU
+frc
+frm
+fro
+frp
+frr
+frs
 fuel8.iso
+fur
+fur_IT   Friulian             Italy                                      fur  IT
+fy
+fy_DE    Frisian              Germany                                    fy   DE
+fy_NL    Frisian              Netherlands                                fy   NL
+ga
+ga_IE    Irish                Ireland                                    ga   IE
+gaa
+gag
+gan
 ganglia-7.0-2.x86_64.disk1.iso
+gay
+gba
+gbz
+gd
+gd_GB    Scots/Gaelic         United Kingdom                             gd   GB
+gez
+gez_ER   Geez                 Eritrea                                    gez  ER
+gez_ET   Geez                 Ethiopia                                   gez  ET
+gil
+gl
+gl_ES    Galician             Spain                                      gl   ES
+glk
+gmh
+gn
+goh
+gom
+gon
+gor
+got
 gparted-live-1.1.0-1-amd64.iso
 gparted-live-1.1.0-3-i686.iso
+grb
+grc
+gsw
+gu
+gu_IN    Gujarati             India                                      gu   IN
+guc
+gur
+guz
+gv
+gv_GB    Manx                 United Kingdom                             gv   GB
+gwi
+ha
+ha_NG    Hausa                Nigeria                                    ha   NG
+hai
+hak
 hamonikr-sgb.iso
 hamonikr.iso
-HBCD_PE_x64.iso
+haw
+he
+he_IL    Hebrew               Israel                                     he   IL
+hi
+hi_IN    Hindi                India                                      hi   IN
+hif
+hil
+hit
+hmn
+hne_IN   Chhattisgarhi        India                                      hne  IN
+ho
 hpc-7.0-0.x86_64.disk1.iso
-HPIP282.2020_0820.11.iso
-index.html.cz.iso8859-2
-index.html.he.iso8859-8
-index.html.hr.iso8859-2
+hr
+hr_HR    Croatian             Croatia                                    hr   HR
+hsb
+hsb_DE   Upper Sorbian        Germany                                    hsb  DE
+hsn
+ht
+ht_HT    Haitian              Haiti                                      ht   HT
+hu
+hu_HU    Hungarian            Hungary                                    hu   HU
+hup
+hy
+hy_AM    Armenian             Armenia                                    hy   AM
+hz
+ia
+ia       Interlingua                                                     ia
+iba
+ibb
+id
+id_ID    Indonesian           Indonesia                                  id   ID
+ie
+ig
+ig_NG    Igbo                 Nigeria                                    ig   NG
+ii
+ik
+ik_CA    Inupiak              Canada                                     ik   CA
+ilo
 index.html.ja.iso202..>
-index.html.ja.iso2022-jp
 index.html.kr.iso-kr
 index.html.po.iso-pl
-index.html.po.iso8859-2
 index.html.ru.iso-ru
-Jenux-2021.02.14-dual.iso
-kerio-control-installer-8.5.3-3469-PS.iso
-kerio-control-installer-8.6.2-3847-PS.iso
+inh
+io
+is
+is_IS    Icelandic            Iceland                                    is   IS
+it
+it_CH    Italian              Switzerland                                it   CH
+it_IT    Italian              Italy                                      it   IT
+iu
+iu_CA    Inuktitut            Canada                                     iu   CA
+iw_IL    Hebrew               Israel                                     iw   IL
+izh
+ja
+ja_JP    Japanese             Japan                                      ja   JP
+jam
+jbo
+jgo
+jmc
+jpr
+jrb
+jut
+jv
+ka
+ka_GE    Georgian             Georgia                                    ka   GE
+kaa
+kab
+kac
+kaj
+kam
+kaw
+kbd
+kbl
+kcg
+kde
+kea
+ken
 kernel-7.0-0.x86_64.disk1.iso
+kfo
+kg
+kgp
+kha
+kho
+khq
+khw
+ki
+kiu
+kj
+kk
+kk_KZ    Kazakh               Kazakhstan                                 kk   KZ
+kkj
+kl
+kl_GL    Greenlandic          Greenland                                  kl   GL
+kln
+km
+km_KH    Cambodian            Cambodia                                   km   KH
+kmb
+kn
+kn_IN    Kannada              India                                      kn   IN
+ko
+koi
+kok
+kos
+kpe
+kr
+krc
+kri
+krj
+krl
+kru
+ks
+ks_IN    Kashmiri             India                                      ks   IN
+ksb
+ksf
+ksh
+ku
+ku_TR    Kurdish              Turkey                                     ku   TR
+kum
+kut
+kv
+kw
+kw_GB    Cornish              United Kingdom                             kw   GB
+ky
+ky_KG    Kirghiz              Kyrgyzstan                                 ky   KG
+la
+lad
+lag
+lah
+lam
+lb
+lez
+lfn
+lg
+lg_UG    Ganda                Uganda                                     lg   UG
+li
+li_BE    Limburgan            Belgium                                    li   BE
+li_NL    Limburgan            Netherlands                                li   NL
+lij
+liv
+lkt
+lmo
+ln
+lo
+lo_LA    Laothian             Lao People's Democratic Republic           lo   LA
+lol
+loz
+lrc
+lt
+lt_LT    Lithuanian           Lithuania                                  lt   LT
+ltg
+lu
+lua
+lui
+lun
+luo
+lus
+luy
+lv
+lv_LV    Latvian/Lettish      Latvia                                     lv   LV
+lzh
+lzz
+mad
+maf
+mag
+mai
+mai_IN   Maithili             India                                      mai  IN
+mak
+man
+mas
+mde
+mdf
+mdh
+mdr
 memtest86+-5.01.iso
+men
+mer
+mfe
+mg
+mg_MG    Malagasy             Madagascar                                 mg   MG
+mga
+mgh
+mgo
+mh
+mi
+mi_NZ    Maori                New Zealand                                mi   NZ
+mic
 mikrotik-5.26.iso
+min
+mis
+mk
+ml
+ml_IN    Malayalam            India                                      ml   IN
 mlab1-lga1t.mlab-sandbox.measurement-lab.org_stage1.iso
 mlab4-hnd01.mlab-staging.measurement-lab.org_stage1.iso
-MX200_MU03_BOOTABLE.iso
-Office_Select_Edition_2016_64bit_RuEn.iso
-P09037_001_spp-2018.06.0-SPP2018060.2018_0618.64.iso
+mn
+mn_MN    Mongolian            Mongolia                                   mn   MN
+mnc
+mni
+moh
+mos
+mr
+mr_IN    Marathi              India                                      mr   IN
+mrj
+ms
+ms_MY    Malay                Malaysia                                   ms   MY
+mt
+mt_MT    Maltese              Malta                                      mt   MT
+mua
+mul
+mus
+mwl
+mwr
+mwv
+my
+my_MM    Burmese              Myanmar                                    my   MM
+mye
+myv
+mzn
+na
+nan
+nap
+naq
+nb
+nb_NO    Norwegian Bokmål     Norway                                     nb   NO
+nd
+nds
+nds_DE   Low German           Germany                                    nds  DE
+nds_NL   Low German           Netherlands                                nds  NL
+ne
+ne_NP    Nepali               Nepal                                      ne   NP
+new
+ng
+nia
+niu
+njo
+nl
+nl_AW    Dutch                Aruba                                      nl   AW
+nl_BE    Dutch                Belgium                                    nl   BE
+nl_NL    Dutch                Netherlands                                nl   NL
+nmg
+nn
+nn_NO    Norwegian Nynorsk    Norway                                     nn   NO
+nnh
+no
+no_NO    Norwegian            Norway                                     no   NO
+nog
+non
+nov
+nqo
+nr
+nr_ZA    South Ndebele        South Africa                               nr   ZA
+nso
+nso_ZA   Pedi                 South Africa                               nso  ZA
+numeric	fips	Country	Capital	Area in km	Population	Continent
+nus
+nv
+nwc
+ny
+nym
+nyn
+nyo
+nzi
+oc
+oc_FR    Occitan              France                                     oc   FR
+oj
+om
+or
+or_IN    Oriya                India                                      or   IN
+os
+osa
+ota
+pa
+pa_IN    Punjabi              India                                      pa   IN
+pa_PK    Punjabi              Pakistan                                   pa   PK
+pag
+pal
+pam
+pap
+pap_AN   Papiamento           Netherlands Antilles                       pap  AN
+pau
+pcd
+pdc
+pdt
+peo
 perl-7.0-0.x86_64.disk1.iso
 pfSense-CE-2.4.5-RELEASE-p1-amd64.iso
+pfl
+phn
+pi
+pl
+pl_PL    Polish               Poland                                     pl   PL
+pms
+pnt
+pon
+prg
+pro
 proxmox-6-2.iso
 proxmox-61.iso
 proxmox-61.iso.1
 proxmox-611.iso
 proxmox-alt.iso
 proxmox.iso
+ps
+ps_AF    Pashto/Pushto        Afghanistan                                ps   AF
+pt
+pt_BR    Portuguese           Brazil                                     pt   BR
+pt_PT    Portuguese           Portugal                                   pt   PT
 python-7.0-2.x86_64.disk1.iso
-ROMPaq USB Key.iso
-ROMPaq.iso
-ScientificLinux-7.6-0.x86_64.disk1.iso
+qu
+quc
+qug
+raj
+rap
+rar
+rgn
+rif
+rm
+rn
+ro
+ro_RO    Romanian             Romania                                    ro   RO
+rof
+rom
+rtm
+ru
+ru_RU    Russian              Russian Federation                         ru   RU
+ru_UA    Russian              Ukraine                                    ru   UA
+rue
+rug
+rup
+rw
+rw_RW    Kinyarwanda          Rwanda                                     rw   RW
+rwk
+sa
+sa_IN    Sanskrit             India                                      sa   IN
+sad
+sah
+sam
+saq
+sas
+sat
+saz
+sba
+sbp
+sc
+sc_IT    Sardinian            Italy                                      sc   IT
+scn
+sco
+sd
+sd_IN    Sindhi               India                                      sd   IN
+sdc
+sdh
+se
+se_NO    Northern Sami        Norway                                     se   NO
+see
+seh
+sei
+sel
+ses
+sg
+sga
 sge-7.0-0.x86_64.disk1.iso
+sgs
+shi
+shn
+shs_CA   Shuswap              Canada                                     shs  CA
+shu
+si
+si_LK    Singhalese           Sri Lanka                                  si   LK
+sid
+sid_ET   Sidamo               Ethiopia                                   sid  ET
+sk
+sk_SK    Slovak               Slovakia                                   sk   SK
+sl
+sl_SI    Slovenian            Slovenia                                   sl   SI
 slax.iso
+sli
+sly
+sm
+sma
+smj
+smn
+sms
+sn
+snk
+so
+so_DJ    Somali               Djibouti                                   so   DJ
+so_ET    Somali               Ethiopia                                   so   ET
+so_KE    Somali               Kenya                                      so   KE
+so_SO    Somali               Somalia                                    so   SO
+sog
+sq
+sq_AL    Albanian             Albania                                    sq   AL
+sr
+sr_CS    Serbian              Serbia And Montenegro                      sr   CS
+sr_ME    Serbian                                                         sr   ME
+sr_RS    Serbian                                                         sr   RS
+sr_YU    Serbian                                                         sr   YU
+srn
+srr
+ss
+ss_ZA    Siswati              South Africa                               ss   ZA
 ssacli.iso
 ssaoffline-4.15-6.0.iso
-SW_DVD5_Office_2016_W32_German_MLF_X20-41374.ISO
-SW_DVD9_Win_Server_STD_CORE_2016_64Bit_English_-4_DC_STD_MLF_X21-70526.ISO
+ssy
+st
+st_ZA    Sesotho              South Africa                               st   ZA
+stq
+su
+suk
+sus
+sux
+sv
+sv_FI    Swedish              Finland                                    sv   FI
+sv_SE    Swedish              Sweden                                     sv   SE
+sw
+swb
+swc
+syc
+syr
 sysrcd-612.iso
 sysrcd-custom04.iso
 sysrcd.iso
-TurboTax 2020.iso
+szl
+ta
+ta_IN    Tamil                India                                      ta   IN
+tcy
+te
+te_IN    Tegulu               India                                      te   IN
+tem
+teo
+ter
+tet
+tg
+tg_TJ    Tajik                Tajikistan                                 tg   TJ
+th
+th_TH    Thai                 Thailand                                   th   TH
+ti
+ti_ER    Tigrinya             Eritrea                                    ti   ER
+ti_ET    Tigrinya             Ethiopia                                   ti   ET
+tig
+tig_ER   Tigre                Eritrea                                    tig  ER
+tiv
+tk
+tk_TM    Turkmen              Turkmenistan                               tk   TM
+tkl
+tkr
+tl
+tl_PH    Tagalog              Philippines                                tl   PH
+tlh
+tli
+tly
+tmh
+tn
+tn_ZA    Setswana             South Africa                               tn   ZA
+to
+tog
+tpi
+tr
+tr_CY    Turkish              Cyprus                                     tr   CY
+tr_TR    Turkish              Turkey                                     tr   TR
+tru
+trv
+ts
+ts_ZA    Tsonga               South Africa                               ts   ZA
+tsd
+tsi
+tt
+tt_RU    Tatar                Russian Federation                         tt   RU
+ttt
+tum
+tvl
+tw
+twq
+ty
+tyv
+tzm
 ubuntu-12.04.5-server-amd64.iso
 ubuntu-14.04.6-server-amd64.iso
 ubuntu-16.04-server-amd64.iso
@@ -169,17 +961,74 @@ ubuntu-18.04.5-server-amd64.iso
 ubuntu-19.04-server-amd64.iso
 ubuntu-20.04.1-live-server-amd64.iso
 ubuntu-20.04.1-mini-amd64.iso
+udm
+ug
+ug_CN    Uighur               China                                      ug   CN
+uga
+uk
+uk_UA    Ukrainian            Ukraine                                    uk   UA
+umb
+und
 unitusminer4.iso
-Updates-CentOS-7.4.1708-2017-12-01-0.x86_64.disk1.iso
-VeeamRecoveryMedia.iso
+ur
+ur_PK    Urdu                 Pakistan                                   ur   PK
+uz
+uz_UZ    Uzbek                Uzbekistan                                 uz   UZ
+vai
+ve
+ve_ZA    Venda                South Africa                               ve   ZA
+vec
+vep
+vi
+vi_VN    Vietnamese           Viet Nam                                   vi   VN
 virtio-win-0.1.185.iso
-VMware-VMvisor-Installer-7.0.0-15843807.x86_64.iso
+vls
+vmf
+vo
+vot
+vro
+vun
 w10sp.iso
-Win10_1909_Chinese(Simplified)_x64.iso
-win2016de.iso
-Windows 2003 Server-R2.iso
-windows_2012r2_virto.iso
-WINDOWS10_X64_20H2ZJB.iso
+wa
+wa_BE    Walloon              Belgium                                    wa   BE
+wae
+wal
+war
+was
+wbp
+wo
+wo_SN    Wolof                Senegal                                    wo   SN
+wuu
+xal
 xcp-ng-8.0.0.iso
 xcp-ng-8.1.0-2.iso
+xh
+xh_ZA    Xhosa                South Africa                               xh   ZA
+xmf
+xog
+yao
+yap
+yav
+ybb
+yi
+yi_US    Yiddish              United States                              yi   US
+yo
+yo_NG    Yoruba               Nigeria                                    yo   NG
+yrl
+yue
 yumfix-7.0-0.x86_64.disk1.iso
+za
+zap
+zbl
+zea
+zen
+zgh
+zh
+zh_CN    Chinese              China                                      zh   CN
+zh_HK    Chinese              Hong Kong                                  zh   HK
+zh_SG    Chinese              Singapore                                  zh   SG
+zu
+zu_ZA    Zulu                 South Africa                               zu   ZA
+zun
+zxx
+zza

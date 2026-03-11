@@ -1,0 +1,12 @@
+../admin/
+../console/
+../html/
+../manager/html/
+../manager/text/
+../www/
+..;/admin/
+..;/console/
+..;/html/
+..;/manager/html/
+..;/manager/text/
+..;/www/

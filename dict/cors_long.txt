@@ -1,0 +1,29 @@
+</body>
+</head>
+</html>
+</script>
+<body>
+<head>
+<html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+<script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+<script>
+<title>HI HUABAN IAMANEWBOTNAMEDCORSBOT</title>
+Access-Control-Allow-Credentials
+Access-Control-Allow-Headers
+Access-Control-Allow-Methods
+Access-Control-Allow-Origin
+Access-Control-Expose-Headers
+Access-Control-Max-Age
+Access-Control-Request-Headers
+Access-Control-Request-Method
+Origin
+Timing-Allow-Origin
+X-Permitted-Cross-Domain-Policies
+hb = {};
+success: cb
+var urlname = c.comment.user.urlname;
+var user_id = c.users[i].user_id;
+}
+});
+};

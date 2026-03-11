@@ -1,0 +1,12 @@
+/.docker/config.json
+/.dockercfg
+/.gitpod.Dockerfile
+/.gitpod.dockerfile
+/Dockerrun.aws.json
+/api/users/admin/check
+/docker-cloud.yml
+/images/json
+/static/Dockerrun.aws.json
+/v1/metadata
+/v1/tasks
+/v2/_catalog

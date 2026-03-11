@@ -1,5 +1,1096 @@
+' or '1'='1
+*
+*.gif/
+*.html
 *.jsp
-/OA_HTML//bin/pasta.cfg
+*.jsp/
+*.jws
+*.portal
+*.portion
+*.portlet
+*.shtml/
+- Neither the name of Oracle nor the names of its
+- Redistributions in binary form must reproduce the above copyright
+- Redistributions of source code must retain the above copyright
+--	--	Uses the same port as Oracle HTTP Server.
+------------------------------------------------------------
+/*.jsp
+/APP
+/Adaptador
+/Admin
+/AggreSpy
+/Apps
+/BBoardServlet
+/BPELConsole
+/ConfigServlet
+/CookieExample
+/Counter
+/DAD
+/DB
+/DateServlet
+/EJB
+/EMDServlet
+/FE
+/HTMLDB
+/HelloWorldServlet
+/HelloworldExample
+/HelloworldServlet
+/HttpSoap12
+/JMSRouter_MBean_starter
+/JMXSoapAdapter
+/JMXSoapAdapter-web
+/JSP
+/OA_HTML/AppsLogin
+/OA_HTML/bin/sqlnet.log
+/OA_HTML/ibeCAcpSSOReg.jsp
+/OA_HTML/ibeCRgpIndividualUser.jsp
+/OA_HTML/ibeCRgpPartnerPriCreate.jsp
+/OA_HTML/ibeCRgpPrimaryCreate.jsp
+/OA_HTML/jsp/bsc/bscpgraph.jsp?ifl=/etc/&ifn=passwd
+/OA_HTML/jtfwrepo.xml
+/OA_HTML/lcmServiceController.jsp
+/OHW
+/ONLINE
+/ORASSO
+/OWA
+/OperaLogin/Welcome.do
+/Oracle
+/OracleASjms
+/PORTAL
+/PORTAL2
+/PORTAL30
+/PORTAL30_SSO
+/PSEMHUB/hub
+/PSIGW/AS2ListeningConnector/*
+/PSIGW/AS2ResponseConnector/*
+/PSIGW/ExampleServletListeningConnector/*
+/PSIGW/HttpListeningConnector/*
+/PSIGW/JMSAdministratorConsole/*
+/PSIGW/JMSControllerHelper/*
+/PSIGW/JMSListeningConnectorAdministrator/*
+/PSIGW/PS81ListeningConnector/*
+/PSIGW/PeopleSoftListeningConnector/*
+/PSIGW/PeopleSoftServiceListeningConnector/*
+/PSIGW/QASRepositoryWriter/*
+/PSIGW/QueryListeningConnector/*
+/PSIGW/RESTListeningConnector/*
+/PSIGW/errorLog.html
+/PSIGW/msgLog.html
+/PSOL/htmldoc/eng/index.htm
+/PSOL/htmldoc/index.htm
+/PSOL/psolmanager.htm
+/PSOL/servlet/FullTextSearch
+/PSOL/servlet/PSOLManager?func=changedebuglevel
+/RP?wsrp-url=file:///c:\\windows\\win.ini
+/RP?wsrp-url=file:///etc/passwd
+/RedirectServlet
+/RequestHeaderExample
+/RequestInfoExample
+/RequestParamExample
+/SIMPLEDAD
+/SSODAD
+/Servlet
+/ServletToJsp
+/Servlets
+/SessionExample
+/SessionServlet
+/SimpleServlet
+/SnoopServlet
+/Spy
+/SyncServer
+/TEST
+/ToJSPServlet
+/ViewSrc
+/_pages
+/admin_ejb
+/admingui/version/serverTasksGeneral?serverTasksGeneral.GeneralWebserverTabs.TabHref=2
+/analytics/saw.dll?Dashboard
+/analytics/saw.dll?bieehome&startPage=1
+/analytics/saw.dll?getPreviewImage&previewFilePath=/etc/passwd
+/app
+/aqserv/servlet
+/ascontrol
+/atg/bcc
+/atg/user/html/login.jsp
+/basic
+/bc4j
+/bc4j.jsp
+/bpel
+/cabo
+/cal
+/catalog
+/ccore
+/cgi-bin
+/cgi-bin/printenv
+/cgi-bin/test-cgi
+/console
+/console/*
+/console/help/*
+/console/login/LoginForm.jsp
+/dad
+/dav_public
+/db
+/dbaas_monitor/login
+/default
+/defaultWebApp
+/dms
+/dms/AggreSpy
+/dms/Spy
+/dms0
+/dms0/AggreSpy
+/dms0/Spy
+/dmsoc4j
+/dmsoc4j/AggreSpy
+/dynamicImage
+/dynamicImage/*
+/echo
+/echo2
+/em
+/em/console/ias/oc4j/home
+/em/console/logon/logon
+/esb
+/esb/
+/examples
+/examples/jsp/jsp2/misc/config.jsp
+/examples/jsp/snp/snoop.jsp
+/false
+/fcgi-bin
+/fcgi-bin/echo
+/fcgi-bin/echo.exe
+/fcgi-bin/echo2
+/fcgi-bin/echo2.exe
+/hellouser
+/hellouser.jsp
+/home
+/home/oas/OraHome_1/
+/html/bin/sqlnet.log
+/htmldb
+/iPages/i_login.asp
+/ias/cluster/appServer.jsp
+/ias/cluster/topology.jsp
+/ias/faintTabsInclude.jsp
+/ias/oc4j/admin/j2eeWebsites.jsp
+/ias/oc4j/admin/websites/wsHome.jsp
+/ias/oc4j/administration.jsp
+/ias/oc4j/app/appHome.jsp
+/ias/oc4j/app/appViewDesc.jsp
+/ibm/console
+/index.html
+/index.jsp
+/index_jsp
+/j2ee
+/javacachedocs
+/jmsrouter
+/jmsrouter_ejb
+/jmsrouter_web
+/jsp
+/jspdocs
+/jspsamples
+/log4j.properties
+/login.html
+/logon.jsp
+/manage/fileDownloader?sec=1
+/netbanking
+/no
+/null
+/oam/pages/login.jsp
+/oam/server/opensso/sessionservice
+/oamfed/idp/soap
+/oas
+/oc4j
+/oc4j-status
+/oc4jadmin
+/oiddas
+/oiddas/ui/oracle/ldap/das
+/ojspdemos
+/online
+/oprocmgr-service
+/ora/reports/
+/oracle
+/oracle/reports/
+/orasso
+/owa
+/perl
+/petstore
+/pls
+/pls/dad/null
+/portal
+/portal2
+/portal30
+/portal30_sso
+/portlist
+/printenv
+/psc/ps/?&cmd=login&languageCd=ENG
+/psp/CAREERS/?&cmd=login&languageCd=ENG
+/psp/CCHIPRD_2/?&cmd=login&languageCd=ENG
+/psp/CHUMPRDM/?&cmd=login&languageCd=ENG
+/psp/CSPRD_PUB/?&cmd=login&languageCd=ENG
+/psp/FMPRD/?&cmd=login&languageCd=ENG
+/psp/HR92PRD/?&cmd=login&languageCd=ENG
+/psp/HRPRD/?&cmd=login&languageCd=ENG
+/psp/HRPRODASP/?&cmd=login&languageCd=ENG
+/psp/LHCGWPRD_1/?&cmd=login&languageCd=ENG
+/psp/applyuth/?&cmd=login&languageCd=ENG
+/psp/cangate_1/?&cmd=login&languageCd=ENG
+/psp/csperf/?&cmd=login&languageCd=ENG
+/psp/csprd/?&cmd=login&languageCd=ENG
+/psp/guest/?&cmd=login&languageCd=ENG
+/psp/hcmprdfp/?&cmd=login&languageCd=ENG
+/psp/heprod_5/?&cmd=login&languageCd=ENG
+/psp/hr857prd_er/?&cmd=login&languageCd=ENG
+/psp/ihprd/?&cmd=login&languageCd=ENG
+/psp/saprod/?&cmd=login&languageCd=ENG
+/reports/
+/reports/rwservlet/showenv
+/reports/rwservlet?report=test.rdf&desformat=html&destype=cache&JOBTYPE=rwurl&URLPARAMETER=file:///
+/ruleauthor
+/saw.dll?bieehome&startPage=1
+/servlet
+/servlet/BBoardServlet
+/servlet/ConfigServlet
+/servlet/CookieExample
+/servlet/Counter
+/servlet/DateServlet
+/servlet/HelloWorldExample
+/servlet/HelloWorldServlet
+/servlet/RedirectServlet
+/servlet/RequestHeaderExample
+/servlet/RequestInfoExample
+/servlet/RequestParamExample
+/servlet/SessionExample
+/servlet/SessionServlet
+/servlet/SimpleServlet
+/servlet/SnoopServlet
+/servlet/ToJSPServlet
+/servlet/ViewSrc
+/servlet/ViewSrc/*
+/servlet/servletToJsp
+/shutdown
+/simple
+/simpledad
+/snoop.jsp
+/snp
+/ssodad
+/stressH
+/system
+/test
+/testru
+/testunit
+/transtrace
+/true
+/uddiexplorer/
+/uixi
+/usebean.jsp
+/utility
+/webapp
+/webapp/wm/bc4j.jsp
+/welcome_webcenter.html
+/welcomeuser.jsp
+/wm
+/xmllink/HRDEMO
+/{{path}}
+1.	Definitions.
+1. Redistributions of source code must retain the above
+1. Software includes only the versions of the above products
+10. 	Limitation of Liability.
+11. 	Export Regulations.
+12. 	U.S. Government Restricted Rights.
+13. 	Governing Law.
+14. 	Severability.
+15. 	Integration.
+2.	License Grant and Entitlement.
+2. Notwithstanding anything to the contrary in any Master
+2. Redistributions in binary form must reproduce the above
+3.	Permitted Use.
+3. The names of the authors may not be used to endorse or
+4.	Licensed Units.
+5.	Restrictions.
+6.	Term and Termination.
+7.	Java Compatibility and Open Source.
+8. 	Limited Warranty.
+9.	Disclaimer of Warranty.
+?Publisher
+?cmd=debugCache&pwd=dayoff
+?cmd=manifestCache&pwd=dayoff
+?cmd=manifestKeyCache&pwd=dayoff
+?cmd=purge&pwd=dayoff
+?cmd=reloadconfig&pwd=dayoff
+?cmd=removeNodeCache&pwd=dayoff
+?cmd=removeUserCache&pwd=dayoff
+?cmd=resetlog&pwd=dayoff
+?cmd=resettimeout&pwd=dayoff
+?cmd=showCacheMetrics&pwd=dayoff
+?cmd=viewconfig&pwd=dayoff
+?cmd=viewsprop&pwd=dayoff
+?wp-cs-dump
+?wp-html-rend
+?wp-start-ver
+?wp-stop-ver
+?wp-uncheckout
+?wp-usr-prop
+?wp-ver-diff
+?wp-ver-info
+?wp-verify-link
+ADAMS:WOOD
+ADV1
+ADVCPROD
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+AIX10
+AIX11
+AIX9
+AND SUPERSEDE THE MASTER TERMS IN RELATION TO THIS SOFTWARE.
+ANONYMOUS:ANONYMOUS
+APEX
+AQApp
+AQApp/
+ARIS
+ASAmon
+ASDB
+ASDB0
+ASDB1
+ASDB2
+ASDB3
+ASDB4
+ASDB5
+ASDB6
+ASDB7
+ASDB8
+ASDB9
+ASG817P
+ASG817T
+ATRPROD
+ATRTEST
+Adaptador
+Additional Terms:
+Admin
+AdminCaptureRootCA
+AdminClients
+AdminConnections
+AdminEvents
+AdminJDBC
+AdminLicense
+AdminMain
+AdminProps
+AdminRealm
+AdminServer
+AdminThreads
+AdminVersion
+AggreSpy
+Agreement. No modification of this Agreement will be
+All rights reserved.
+AnalysisAggregation
+AnalysisAggregation/config
+AnalysisAggregation/config/db.xml
+Any action related to this Agreement will be governed by
+Application Server Control
+Application Server Control RMI port
+Application Server Control port
+Apps
+BBoardServlet
+BC4J
+BC4J/
+BE LEGALLY INVALID.
+BEFORE OPENING SOFTWARE MEDIA PACKAGE. BY OPENING SOFTWARE
+BLA
+BLAKE:PAPER
+BON
+BON/MICROS
+BOOKS
+BPELAdmin/
+BPELAdmin/login.jsp
+BPELAdmin/server.jsp
+BPELConsole
+BPELConsole/
+BPELConsole/login.jsp
+BUDGET
+BizTalkServer
+Bootstrap
+CCT:CCT
+CLARK:CLOTH
+CTM4_0
+CTM4_1
+CTM4_6
+CTXSYS:CHANGE_ON_INSTALL
+CTXSYS:CTXSYS
+California law and controlling U.S. federal law. No choice
+Certificate
+ChangePassword.cmd
+Classpath/
+Communications Security Corp in the United States and/or
+Component	Default Port	Port Number Range	Name in staticports.ini
+ConfigServlet
+ConsoleHelp
+ConsoleHelp/
+Consumer
+Consumer/HotelAdmin.jsp
+CookieExample
+Counter
+D
+D10
+D8
+D9
+DB
+DB01
+DB02
+DB03
+DB1
+DB2
+DB2EDU
+DB2PROD
+DB2TEST
+DB3
+DBA
+DBA1
+DBA2
+DBA3
+DBA4
+DBA5
+DBA6
+DBA7
+DBA8
+DBA9
+DBSNMP:DBSNMP
+DBX
+DBinstaller.log
+DCM Java Object Cache port
+DEMO
+DEMO:DEMO
+DEV
+DEV0
+DEV01
+DEV1
+DEV2
+DEV3
+DEV4
+DEV5
+DEV6
+DEV7
+DEV8
+DEV9
+DEVEL
+DIA1
+DIA2
+DIP:DIP
+DIS
+DMSYS:DMSYS
+DOCUMENTATION IS PROVIDED "AS IS" AND ALL EXPRESS OR IMPLIED
+DWH
+DWHDB
+DWHPROD
+DWHTEST
+DWRHS
+DateServlet
+DefaultWebApp
+DeploymentService
+EARTH
+EJB
+ELCARO
+EMDServlet
+EMRS2
+EOF
+EQUIVALENT) BUTTON AT THE END OF THIS AGREEMENT. IF YOU DO
+ERP
+ESOR
+EXCEPT TO THE EXTENT THAT SUCH DISCLAIMERS ARE HELD TO BE
+EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO
+EXFSYS:EXFSYS
+Effective Date: Date of delivery of the Software to You.
+Entitlement and as further described in the applicable
+Entitlement doesn't cover additional software delivered to
+Entitlement. The Permitted Use for any bundled Sun software
+FAQApp
+FE
+FINDEC
+FINPROD
+FNDFS_HR1
+FNDFS_HR2
+FPRD
+FileServlet
+GR01
+GR02
+GR03
+Government or by a U.S. Government prime contractor or
+HCDMO
+HEDGEHOG
+HPUX10
+HPUX11
+HPUX9
+HR
+HR0
+HR1
+HR2
+HR3
+HR4
+HR5
+HR6
+HR7
+HR8
+HR9
+HR:HR
+HRDMO
+HTMLDB
+HTTPClntClose
+HTTPClntClose/*
+HTTPClntLogin
+HTTPClntLogin/*
+HTTPClntRecv
+HTTPClntRecv/*
+HTTPClntSend
+HTTPClntSend/*
+HelloWorldServlet
+HelloworldExample
+HelloworldServlet
+HotelService
+HttpSoap12
+IAGTS
+IASDB
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+INC. OR ANY CONTRIBUTORS TO THIS SOFTWARE BE LIABLE FOR ANY
+INCD
+ISD01
+ISD06
+ISP
+ISP01
+ISP1
+ISP2
+ISQ1
+ITS
+IXOS
+If Software is being acquired by or on behalf of the U.S.
+If any provision of this Agreement is held to be
+If your rights to Software or Services are limited in
+Inventory
+IsWebCacheWorking/
+IsWebCacheWorking/jesi_template.jsp
+Iventory/logs
+J2EE.htm
+J2EEandIA.htm
+JMSRouter_MBean_starter
+JMXSoapAdapter
+JMXSoapAdapter-web
+JONES:STEEL
+JSP
+Java Object Cache port
+Jsch. Use of any of this software is governed by the terms
+JspServlet
+KRAUS
+KRONOS
+LBACSYS:LBACSYS
+LDAP
+LEGALLY INVALID.
+LIN10
+LIN11
+LIN9
+LINUX92
+LUN
+Licensed Unit: Software Copy
+Licensed unit Count: Unlimited
+Licensee/Company: Entity receiving Software.
+Log Loader port
+LogfileSearch
+LogfileTail
+Login.jsp
+LogoutApp.war
+Logs
+MANIFEST.MF
+MDDATA:MDDATA
+MDSYS:MDSYS
+MDTEST
+META-INF
+MICROS
+MM_Log.log
+MMinstaller.log
+MSAM
+MYDB
+MetadataExtract.jar
+Middleware
+Middleware/user_projects
+Middleware/user_projects/domains
+Middleware/user_projects/domains/bifoundation_domain
+Middleware/user_projects/domains/bifoundation_domain/app_metadata.xml
+MigrationTool
+NEDB
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+NFIntro.htm
+NORTHWIND
+Not settable through staticports.ini
+OAS
+OAS1
+OAS10
+OAS2
+OAS3
+OAS4
+OAS5
+OAS6
+OAS7
+OAS8
+OAS9
+OA_HTML/
+OA_HTML//bin//sqlnet.log
+OA_HTML//bin/pasta.cfg
+OA_HTML/AppsLocalLogin.jsp
+OA_HTML/PTB/mwa_readme.htm
+OA_HTML/ibeCAcpSSOReg.jsp
+OA_HTML/jsp/fnd/aoljtest.jsp
+OA_HTML/jtffmetm.jsp
+OA_HTML/jtfihaon.jsp
+OA_HTML/jtfwrepo.xml
+OA_HTML/oam/weboam.log
+OA_JAVA/
+OBIEE
+OBIEEPatch
+ODB
+ODM:ODM
+ODM_MTR:MTRPW
+OE:OE
+OEMREP
+OGDP
+OHW
+OID
+OJS
+OLAPDBA:OLAPDBA
+OLAPSVR:INSTANCE
+OLAPSVR:OLAPSVR
+OLAPSYS:MANAGER
+OLAPSYS:OLAPSYS
+OMS
+ORA
+ORA1
+ORA10
+ORA11
+ORA11g
+ORA2
+ORA3
+ORA4
+ORA5
+ORA6
+ORA7
+ORA8
+ORA8_SC
+ORA9
+ORACL
+ORACLE
+ORADB
+ORADB1
+ORADB2
+ORADB3
+ORALIN
+ORCL
+ORCL.WORLD
+ORCL0
+ORCL1
+ORCL10
+ORCL10G
+ORCL11
+ORCL11G
+ORCL2
+ORCL3
+ORCL4
+ORCL5
+ORCL6
+ORCL7
+ORCL8
+ORCL9
+ORCLA
+ORCLB
+ORCLC
+ORCLD
+ORCLE
+ORCLF
+ORCLG
+ORCLH
+ORCLI
+ORCLJ
+ORCLK
+ORCLL
+ORCLM
+ORCLN
+ORCLO
+ORCLP
+ORCLP0
+ORCLP1
+ORCLP2
+ORCLP3
+ORCLP4
+ORCLP5
+ORCLP6
+ORCLP7
+ORCLP8
+ORCLP9
+ORCLQ
+ORCLR
+ORCLRNA
+ORCLRNA/bin
+ORCLRNA_BIPLATFORM.DBF
+ORCLRNA_IASTEMP.DBF
+ORCLRNA_MDS.DBF
+ORCLS
+ORCLSOL
+ORCLT
+ORCLU
+ORCLV
+ORCLW
+ORCLX
+ORCLY
+ORCLZ
+ORDPLUGINS:ORDPLUGINS
+ORDSERVER:ODS
+ORDSYS:ORDSYS
+ORIONDB
+ORTD
+OUTLN:OUTLN
+OnlineOrders_html/
+OnlineOrders_html/login.jsp
+Oracle
+Oracle Certificate Authority SSL Mutual Authentication port
+Oracle Certificate Authority SSL Server Authentication port
+Oracle Enterprise Manager Application Server Control
+Oracle HTTP Server
+Oracle HTTP Server Diagnostic port
+Oracle HTTP Server Listen port
+Oracle HTTP Server SSL port
+Oracle HTTP Server port
+Oracle Internet Directory
+Oracle Internet Directory port
+Oracle Notification Server Local port
+Oracle Notification Server Remote port
+Oracle Notification Server Request port
+Oracle will fulfill these obligations as successor in
+Oracle/Middleware
+Oracle/Middleware/user_projects
+Oracle/Middleware/user_projects/domains
+Oracle/Middleware/user_projects/domains/bifoundation_domain
+Oracle/Middleware/user_projects/domains/bifoundation_domain/app_metadata.xml
+OracleAS Portal
+OracleAS Single Sign-On
+OracleAS Web Cache
+OracleAS Wireless
+OracleASjms
+P
+P10
+P10G
+P8
+P8I
+P9
+P9I
+PD1
+PINDB
+PM:PM
+PRD
+PRITXI
+PROD
+PROD0
+PROD1
+PROD10
+PROD10G
+PROD11
+PROD11G
+PROD2
+PROD3
+PROD4
+PROD5
+PROD6
+PROD7
+PROD8
+PROD8I
+PROD9
+PROD9I
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+PROG10
+PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+PasswordChangeUtility
+Permitted Uses: You may reproduce and use the Software for
+Please note that portions of Software may be provided with
+QM
+QS
+QS:QS
+RAB1
+RAC
+RAC1
+RAC2
+RAC3
+RAC4
+RCU
+RDB
+RDS
+README
+RECV
+REP
+REP0
+REP1
+REP2
+REP3
+REP4
+REP5
+REP6
+REP7
+REP8
+REP9
+REPO
+REPO0
+REPO1
+REPO2
+REPO3
+REPO4
+REPO5
+REPO6
+REPO7
+REPO8
+REPO9
+REPOS
+REPOS0
+REPOS1
+REPOS2
+REPOS3
+REPOS4
+REPOS5
+REPOS6
+REPOS7
+REPOS8
+REPOS9
+REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR EXPRESS WRITTEN
+REPSCAN
+RIPPROD
+RITCTL
+RITDEV
+RITPROD
+RITQA
+RITTRN
+RITTST
+RMAN:RMAN
+RedirectServlet
+RequestHeaderExample
+RequestInfoExample
+RequestParamExample
+SA0
+SA1
+SA2
+SA3
+SA4
+SA5
+SA6
+SA7
+SA8
+SA9
+SAA
+SAB
+SAC
+SAD
+SAE
+SAF
+SAG
+SAH
+SAI
+SAJ
+SAK
+SAL
+SALES
+SAM
+SAMPLE
+SAN
+SANIPSP
+SAO
+SAP
+SAP0
+SAP1
+SAP2
+SAP3
+SAP4
+SAP5
+SAP6
+SAP7
+SAP8
+SAP9
+SAPHR
+SAQ
+SAR
+SAS
+SAT
+SAU
+SAV
+SAW
+SAX
+SAY
+SAZ
+SCOTT:TIGER
+SCOTT:TIGGER
+SDB
+SENTRIGO
+SES
+SGNT
+SH:SH
+SID0
+SID1
+SID2
+SID3
+SID4
+SID5
+SID6
+SID7
+SID8
+SID9
+SIP
+SLA)
+SOFTWARE LICENSE AGREEMENT
+SOL10
+SOL11
+SOL9
+SQLServerOBIEEConfiguration
+SQLServerOBIEEConfiguration.exe
+SQLServerOBIEEConfiguration/SQLServerOBIEEConfiguration.exe
+STAG1
+STAG2
+SYS
+SYS:CHANGE_ON_INSTALL
+SYS:INTERNAL
+SYS:MANAGER
+SYS:ORACLE
+SYS:SYS
+SYS:SYSPASS
+SYS:manag3r
+SYS:oracle8
+SYS:oracle8i
+SYS:oracle9
+SYS:oracle9i
+SYSMAN:OEM_TEMP
+SYSTEM
+SYSTEM::CHANGE_ON_INSTALL
+SYSTEM:MANAGER
+SYSTEM:SYSTEM
+Samples
+SamplesSearchWebApp
+Servlet
+ServletToJsp
+Servlets
+SessionExample
+SessionServlet
+Shutdown
+Shutdown/*
+SimpappServlet
+SimpleClientJws
+SimpleClientProviderImpl
+SimpleServlet
+SnoopServlet
+Software for its Permitted Use for the license term. Your
+Software in this distribution.
+Software may contain Java technology. You may not create
+Software under this Agreement. The foregoing limitations
+Software: Sun Shared Shell 4.3.2
+Spy
+StockServlet
+Sun Shared Shell Copyright Notice:
+Sun supports and benefits from the global community of open
+Sun warrants to you that for a period of 90 days from the
+Sun's and/or its licensors' rights to Software. Sun may
+T1
+T10
+T2
+T3
+T3AdminMain
+T4
+T7
+T71
+T72
+T73
+T8
+T80
+T81
+T82
+T9
+T91
+T92
+TEST
+TEST10G
+TEST11G
+TEST9I
+TESTORCL
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+THE POSSIBILITY OF SUCH DAMAGES. In no event will Sun's
+THIS PRODUCT CONTAINS CONFIDENTIAL INFORMATION AND TRADE
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR
+THUMPER
+TRC28
+TRIUMF
+TSH1
+TSM
+TSMSYS:TSMSYS
+TST
+TST0
+TST1
+TST2
+TST3
+TST4
+TST5
+TST6
+TST7
+TST8
+TST9
+TYCP
+The Entitlement may be delivered to you in various ways
+The license and service term are set forth in your
+ToJSPServlet
+U.S. Government Rights - Commercial software.  Government
+Uninstall_myMicros
+Units stated in your Entitlement. If you require additional
+Units.
+UniversityServlet
+Use is subject to license terms.  This distribution may
+VENOM
+VENU
+VISTA
+ViewSrc
+WEB
+WEB-INF
+WEB-INF./web.xml
+WEB-INF/config.xml
+WEB-INF/web.xml
+WEB1
+WEB10
+WEB2
+WEB3
+WEB4
+WEB5
+WEB6
+WEB7
+WEB8
+WEB9
+WEBDEV
+WG73
+WIN11
+WIN7
+WINDOWS11
+WKADMIN:WKADMIN
+WKPROXY:WKPROXY
+WKSYS:WKSYS
+WKUSER:WKUSER
+WK_TEST:WK_TEST
+WLDummyInitJVMIDs
+WMSYS:WMSYS
+Web Cache Administration port
+Web Cache HTTP Listen port
+Web Cache Invalidation port
+Web Cache Statistics port
+WebCacheDemo.html
+WebServiceServlet
+Weblogic
+XDB:CHANGE_ON_INSTALL
+XE
+XEXDB
+XE_XPT
+XSQLConfig.xml
+Your Permitted Use is limited to the number of Licensed
+Your exclusive remedy and Sun's entire liability under this
+[
+]
+_async
+_async/*
+_async/AsyncResponseService
+_async/AsyncResponseServiceHttps
+_async/AsyncResponseServiceJms
+_async/AsyncResponseServiceSoap12
+_async/AsyncResponseServiceSoap12Https
+_async/AsyncResponseServiceSoap12Jms
 _pages
 _pages/
 _pages/_demo/
@@ -9,49 +1100,175 @@ _pages/_demo/_sql/_pages/
 _pages/_webapp/_admin/_showjavartdetails.java
 _pages/_webapp/_admin/_showpooldetails.java
 _pages/_webapp/_jsp/
-Adaptador
-Admin
+_tmp_war
+_tmp_war_DefaultWebApp
+abm abm
+above may not apply to you. This limited warranty gives you
+above may not be applicable to you.
+accessor
+actions
+adams wood
+adldemo adldemo
+admin
+admin jetspeed
+admin welcome
+admin-serv
+admin-serv/config/admpw
 admin/
+admin/login.do
 admin_/
 admin_ejb
+administrator admin
+administrator administrator
 adminoc4j
-AggreSpy
+admpw
+agents
+aggregation.conf
+aggregation.properties
+ahl ahl
+ahm ahm
+ak ak
+alhro xxx
+alhrw xxx
+alr alr
+ams ams
+amv amv
+analyticsRes.war
+and other countries.  UNIX is a registered trademark in the
+andy swordfish
+anonymous anonymous
+ap ap
 apex/
 aplogon.html
-app
-APP
+app_metadata.xml
 appdet.html
-Apps
-AQApp
-AQApp/
+applet
+applications
+applmgr applmgr
+applsys applsys
+applsys apps
+applsys fnd
+applsyspub applsyspub
+applsyspub fndpub
+applsyspub pub
+apply to Software under this Agreement.
+applysyspub fndpub
+applysyspub pub
+appmanager
+appmanager/*
+apps apps
+apps_mrc apps
+appuser apppassword
+aq aq
+aqdemo aqdemo
+aqjava aqjava
 aqserv/servlet
+aquser aquser
+ar ar
+are met:
 ascontrol
+asf asf
+asg asg
+asl asl
+aso aso
+asp asp
 assistants/
+ast ast
+asyncServlet
+asyncServlet/main.jsp
+asyncServlet/receive
+asyncServlet/send
+atm sampleatm
+audiouser audiouser
+aurora$jis$utility$ invalid
+aurora$orb$unauthenticated invalid
+authenticatedy
+authorized Sun reseller. It may also be in electronic
+authorized in this Agreement as specified in your
+available under a separate agreement available at
+ax ax
+az az
 backup_restore/
 basic
-BBoardServlet
-BC4J
 bc4j
+bc4j bc4j
 bc4j.html
 bc4j.jsp
-BC4J/
 bc4jadmin/bc4jadmin.htm
 bc4jdoc/
 bc4jdoc/rt/index.html
 bc4jdoc/setup.html
+bea-guardian-agent
+bea-guardian-agent/
+bea-guardian-agent/DeployServlet
+bea-guardian-agent/test.jsp
+bea-guardian-agent/version
+bea_wls9_async_response
+bea_wls_async_response
+bea_wls_cluster_internal
+bea_wls_cluster_internal/psquare/*
+bea_wls_deployment_internal
+bea_wls_deployment_internal/*
+bea_wls_deployment_internal/DeploymentService
+bea_wls_diagnostics
+bea_wls_diagnostics/*
+bea_wls_diagnostics/accessor
+bea_wls_internal
+bea_wls_internal/
+bea_wls_internal/*
+bea_wls_internal/HTTPClntClose
+bea_wls_internal/HTTPClntClose/*
+bea_wls_internal/HTTPClntLogin
+bea_wls_internal/HTTPClntLogin/*
+bea_wls_internal/HTTPClntRecv
+bea_wls_internal/HTTPClntRecv/*
+bea_wls_internal/HTTPClntSend
+bea_wls_internal/HTTPClntSend/*
+bea_wls_internal/WLDummyInitJVMIDs
+bea_wls_internal/WebServiceServlet
+bea_wls_internal/classes/
+bea_wls_internal/classes/*
+bea_wls_internal/classes/META-INF/MANIFEST.MF
+bea_wls_internal/com/*
+bea_wls_internal/getior
+bea_wls_internal/getior/*
+bea_wls_internal/iiop/ClientClose
+bea_wls_internal/iiop/ClientClose/*
+bea_wls_internal/iiop/ClientLogin
+bea_wls_internal/iiop/ClientLogin/*
+bea_wls_internal/iiop/ClientRecv
+bea_wls_internal/iiop/ClientRecv/*
+bea_wls_internal/iiop/ClientSend
+bea_wls_internal/iiop/ClientSend/*
+bea_wls_internal/psquare/x.jsp
+bea_wls_management_internal2
+bea_wls_management_internal2/Bootstrap
+bea_wls_management_internal2/wl_management
+bea_wls_remote_deployer
+beanManaged
+ben ben
+benchmark or comparison tests run on Software to any third
+bi_server
+bic bic
+bifoundation_domain
+bifoundation_domain/app_metadata.xml
+bil bil
+bim bim
+bin
+bis bis
+biv biv
+bix bix
+blake paper
+blewis blewis
 bmp/
-bmp/global-web-application.xml
 bmp/JSPClient.java
-bmp/mime.types
 bmp/README.txt
-bmp/setconn.jsp
 bmp/SqljConnBeanDemo.jsp
 bmp/SqljConnBeanDemo.jsp.txt
 bmp/SqljConnCacheBeanDemo.jsp
 bmp/SqljConnCacheBeanDemo.jsp.txt
 bmp/SqljCursorBeanDemo.jsp
 bmp/SqljCursorBeanDemo.jsp.txt
-bmp/sqljdemo.jsp
 bmp/SqljIterator.sql.jsp
 bmp/SqljIterator.sql.jsp.txt
 bmp/SqljIterator.sqljsp
@@ -64,55 +1281,132 @@ bmp/SqljSerialize.sql.jsp
 bmp/SqljSerialize.sql.jsp.txt
 bmp/SqljSerialize.sqljsp
 bmp/SqljSerialize.sqljsp.txt
+bmp/global-web-application.xml
+bmp/mime.types
+bmp/setconn.jsp
+bmp/sqljdemo.jsp
+bom bom
 bpel
-BPELAdmin/
-BPELAdmin/login.jsp
-BPELAdmin/server.jsp
-BPELConsole
-BPELConsole/
-BPELConsole/login.jsp
+brio_admin brio_admin
+brugernavn adgangskode
+brukernavn password
+bsc bsc
+bug_reports bug_reports
+ca
 cabo
 cal
 callerInfo/
+callerInfo/README.txt
 callerInfo/callerInfo/
 callerInfo/callerInfoA
 callerInfo/callerInfoB
-callerInfo/README.txt
+calvin hobbes
 cartx/owa
 catalog
+catalog catalog
 ccore
 ccore/
+cct cct
+cdemo82 cdemo82
+cdemo82 cdemo83
+cdemo82 unknown
+cdemocor cdemocor
+cdemorid cdemorid
+cdemoucb cdemoucb
+cdouglas cdouglas
+ce ce
+centra centra
+central central
+certificate
 cgi-bin
 cgi-bin/
 cgi-bin/printenv
 cgi-bin/printenv.tmp
 cgi-bin/test-cgi
+cids cids
+cis cis
+cis zwerg
+cisinfo cisinfo
+cisinfo zwerg
+clark cloth
+classes
+classes/
+classes/*
+classes/META-INF/MANIFEST.MF
+cn cn
+com
+com.acumenat.uddi.server.http.UDDIListenerServlet
+com.bea.guardian.agent.VersionServlet
+com.bea.guardian.agent.weblogic.DeployServlet
+com.bea.guardian.agent.weblogic.DispatchServlet
+com/*
+cometd/*
+common
+company company
+compiere compiere
+compliance with the Additional Terms below.
+config
 config.xml
-ConfigServlet
+config/db.xml
 console
+console-help
+console-help/doc/*
+console-help/help/*
+console-help/online_search/*
 console/*
 console/help/*
-Consumer
-Consumer/HotelAdmin.jsp
+console/login/LoginForm.jsp
+consoleapp
+consolehelp
+consolehelp/console-help.portal
+consolehelp/index.jsp
 content/index.jspx
 content/ws/RemoteLoginManager
 content/ws/SessionManager
-CookieExample
-Counter
+contributors may be used to endorse or promote products derived
+cookies
+cqschemauser password
+cquserdbuser password
+crp crp
+cs cs
+csc csc
+csd csd
+cse cse
+csf csf
+csi csi
+csl csl
+csmig csmig
+csp csp
 csportlet/providers/
-dad
-DAD
-DateServlet
+csr csr
+css css
+ctxdemo ctxdemo
+ctxsys change_on_install
+ctxsys ctxsys
+ctxsys unknown
+cua cua
+cue cue
+cuf cuf
+cug cug
+cui cui
+cun cun
+cup cup
+cus cus
+cz cz
+data_schema laskjdf098ksdaf09
 dav
 dav/
 dav_portal/portal/
 dav_public
 dav_public/
-db
-DB
+db.xml
+dbi mumblefratz
+dbsnmp dbsnmp
+dbvision dbvision
 default
 defaultWebApp
 demo
+demo demo
 demo/
 demo/basic/hellouser/hellouser.jsp
 demo/basic/hellouser/synopsis.htm
@@ -164,9 +1458,9 @@ demo/sql/jdbc/viewsrc/ConnCache1.jsp.txt
 demo/sql/jdbc/viewsrc/ConnCache2.jsp.txt
 demo/sql/jdbc/viewsrc/ConnCache3.jsp.txt
 demo/sql/jdbc/viewsrc/JDBCQuery.jsp.txt
-demo/sql/jdbc/viewsrc/setupcache.jsp.txt
 demo/sql/jdbc/viewsrc/SimpleQuery.jsp.txt
 demo/sql/jdbc/viewsrc/UseHtmlQueryBean.jsp.txt
+demo/sql/jdbc/viewsrc/setupcache.jsp.txt
 demo/sql/sqlj/SQLJIterator.sqljsp
 demo/sql/sqlj/SQLJSelectInto.sqljsp
 demo/sql/sqlj/viewsrc/SQLJIterator.sqljsp.txt
@@ -185,13 +1479,25 @@ demo/sql/tag/viewsrc/sample5.jsp.txt
 demo/xml/helloxml/hello.jsp
 demo/xml/helloxml/index.html
 demo/xml/index.html
+demo/xml/xmlquery/XMLQuery.jsp
 demo/xml/xmlquery/index.html
 demo/xml/xmlquery/viewsrc/XMLQuery.jsp.txt
-demo/xml/xmlquery/XMLQuery.jsp
+demo8 demo8
+demo9 demo9
+depending on the manner in which you obtain Software and
+des des
+des2k des2k
+described in your Entitlement.
 dev60cgi/f60cgi
 dev60cgi/ifcgi60.exe
 dev60cgi/rwcgi60
+diagnostics
 diagnostics/
+diane passwo1
+dip dip
+dirb_random.cgi
+dirb_random.jsp
+dirb_random.shtml
 discoverer/app/about
 discoverer/app/cec
 discoverer/app/connection
@@ -202,6 +1508,7 @@ discoverer/intro/html/disc_demo_intro.htm
 discoverer/plus
 discoverer/viewer
 discoverer/viewer_files/help/en/edit_parameters.htm
+discoverer_admin discoverer_admin
 dms
 dms/AggreSpy
 dms/DMSDump
@@ -212,29 +1519,115 @@ dms0/AggreSpy
 dms0/Spy
 dmsoc4j
 dmsoc4j/AggreSpy
+dmsys dmsys
+docs
+docs/SamplesSearchServlet/*
+docs/core/index.html
+docs/index.html
+docs51
+documentation and/or other materials provided with the distribution.
+documents authorized by Sun evidencing your obligation to
+domain
+domains
+domains/bifoundation_domain
+domains/bifoundation_domain/app_metadata.xml
+dpf dpfpass
+drp-exports
+drp-publish
 dsa/
+dsgateway dsgateway
+dsgw
+dssys dssys
+dtsp dtsp
+dummy
+duration and the date such rights begin is other than the
 dynamicImage
 dynamicImage/*
+e2ePortalProject/Login.portal
+eCare
+eCare.ear
+eCare.jar
+eCare.rar
+eCare.tar
+eCare.tar.bz2
+eCare.tar.gz
+eCare.tbz
+eCare.tgz
+eCare.txt
+eCare.war
+eCare.zip
+eaa eaa
+eam eam
+earlywatch support
+east east
+ec ec
 echo
 echo2
-EJB
+ecx ecx
+ejb
+ejb ejb
+ejb20BeanMged
+ejb20BeanMgedEar
+ejb20_beanManaged
+ejb30
+ejbSimpappServlet
+ejsadmin ejsadmin
+ejsadmin ejsadmin_password
 em
 em/
 em/dynamicImage/emSDK/chart/EmChartBean
 emd/dynamicImage/emSDK/chart/EmChartBean
-EMDServlet
+emp emp
+eng eng
+eni eni
+error
 esb
 esb/
+essential purpose. Some states do not allow the exclusion
+estoreuser estore
+evaluation use under Section 3.
+event event
+evm evm
+example example
 examples
 examples/jsp/
 examples/jsp/jsp2/misc/config.jsp
 examples/jsp/snp/snoop.jsp
 examples/servlets/
+examplesWebApp
+examplesWebApp/*
+examplesWebApp/ConnectorServlet
+examplesWebApp/EJBeanManagedClient.jsp
+examplesWebApp/InteractiveQuery.jsp
+examplesWebApp/SSLClientServlet
+examplesWebApp/SenderServlet
+examplesWebApp/SessionServlet
+examplesWebApp/SimpleSqlServlet
+examplesWebApp/WebservicesEJB.jsp
+examplesWebApp/Wsdl2Service.jsp
+examplesWebApp/docs -> /docs
+examplesWebApp/docs/
+examplesWebApp/domains
+examplesWebApp/examples
+examplesWebApp/examples/src/examples/copyright.html
+examplesWebApp/images
+examplesWebApp/index.jsp
+examplesWebApp/medrec
+examplesWebApp/server
+exfsys exfsys
+export control laws and may be subject to export or import
+ext_servlet_annotations
+ext_servlet_annotations/loginForm.jsp
+ext_servlet_annotations/session
+extdemo extdemo
+extdemo2 extdemo2
 f60cgi.exe
 f60servlet
+fa fa
 false
-FAQApp
+fast_track.html
 fastcgi/
+fault
 fcgi-bin
 fcgi-bin/
 fcgi-bin/echo
@@ -242,35 +1635,89 @@ fcgi-bin/echo.exe
 fcgi-bin/echo2
 fcgi-bin/echo2.exe
 fcgi-bin/printenv
-FE
-fedadmin
+fem fem
+fii fii
+file
 file.xsql
+file/
+fileRealm
+fileRealm.properties
+finance finance
+finprod finprod
+flm flm
+fnd fnd
+following Permitted Uses will apply to your use of Software.
+following conditions are met:
+following disclaimer in the documentation and/or other
+following disclaimer.
+foo bar
+for a period of 90 days from your first use.
+format if you download Software.
 forms/frmservlet
 forms/jinitiator/us/jinit_download.htm
 forms/lservlet
 forms90/f90servlet
+fpt fpt
+framework/skeletons/console/*
+framework/skeletons/console/css/*
+framework/skeletons/console/js/*
+free of defects in materials and workmanship under normal
+frm frm
+from this software without specific prior written permission.
+frosty snowman
+fte fte
+fv fv
 g11n/imap.html
 g11n/suppA/html/frame.html
 g11n/suppA/jsp/newBook.jsp
 g11n/suppB/html/frame.html
 g11n/suppB/jsp/newBook.jsp
 g11n/wob/jsp/welcome.jsp
+getior
+getior/*
+gl gl
 globals.jsa
+gma gma
+gmd gmd
+gme gme
+gmf gmf
+gmi gmi
+gml gml
+gmp gmp
+gms gms
+gpfd gpfd
+gpld gpld
+gr gr
+graphics
+hades hades
 has/
+hcpark hcpark
 hdemo
+helloKona
+helloWebApp
+helloWebApp/hello.html
+helloWebApp/hello.jsp
+helloWorld
 hellouser
 hellouser.jsp
-HelloworldExample
-HelloWorldServlet
-HelloworldServlet
+help
 help/index.htm
+hlw hlw
 home
 home/oas/OraHome_1/
-HotelService
+hr change_on_install
+hr hr
+hr unknown
+hri hri
 html/jtfwlgnm.jsp
-htmldb
-HTMLDB
-HttpSoap12
+hvst hvst
+hxc hxc
+hxt hxt
+iASDemos.htm
+iCare
+iCare.ear
+iCare.war
+iCare.zip
 ias/cluster/appServer.jsp
 ias/cluster/topology.jsp
 ias/faintTabsInclude.jsp
@@ -279,36 +1726,83 @@ ias/oc4j/admin/websites/wsHome.jsp
 ias/oc4j/administration.jsp
 ias/oc4j/app/appHome.jsp
 ias/oc4j/app/appViewDesc.jsp
-iASDemos.htm
 iaspt/
+iba iba
+ibe ibe
+ibp ibp
+ibu ibu
+iby iby
+icdbown icdbown
+icx icx
+idemo_user idemo_user
+ieb ieb
+iec iec
+iem iem
+ieo ieo
+ies ies
+ieu ieu
+iex iex
+if the Sun documentation accompanying Software lists
+ifssys ifssys
+igc igc
+igf igf
+igi igi
+igs igs
+igw igw
+iiop/ClientClose
+iiop/ClientClose/*
+iiop/ClientLogin
+iiop/ClientLogin/*
+iiop/ClientRecv
+iiop/ClientRecv/*
+iiop/ClientSend
+iiop/ClientSend/*
+images
+images/*
+imagesTemp
+imagesTemp/org
+imageuser imageuser
+imc imc
+imedia imedia
+immediately terminate.
+imt imt
 imtapp/app/arc_pub.uix
 imtapp/app/gbl_contact_us.uix
 imtapp/app/home.uix
 imtapp/app/prelogin.uix
 imtapp/app/pubschconf.uix
 imthelp/help/
+in Software and accompanying documentation will be only as
+inTellectPRO.jsp
+index
 index.html
 index.jsp
 index_jsp
 install.platform/
 install/
-integration/services/EvidenceService/EvidenceService
-integration/services/IdentityService/configuration
-integration/services/IdentityService/identity
-integration/services/TaskMetadataService/TaskMetadataServicePort
-integration/services/TaskQueryService/TaskQueryService
-integration/services/TaskReportService//integration/services/RuntimeConfigService/RuntimeConfigService
-integration/services/TaskService/TaskServicePort
-integration/services/UserMetadataService/UserMetadataService
-inTellectPRO.jsp
+instances
+instances/ORCLRNA/bin
+instruction on such uses.
+interest to Sun.
+internal
+internal oracle
+internal sys_stnt
+inv inv
 inventory/
+ipa ipa
+ipd ipd
+iplanet iplanet
+isc isc
 isqlplus
 isqlplus/
-IsWebCacheWorking/
-IsWebCacheWorking/jesi_template.jsp
+itg itg
+its licensors is granted under this Agreement.
+its service delivery partners for the purpose of providing
+its supplements.
+itself or through outsourcing services) to your end users in
 j2ee
-J2EE.htm
 j2ee/
+j2ee/OC4J_Demos
 j2ee/examples/jsp/
 j2ee/examples/jsp/cal/calendar.html
 j2ee/examples/jsp/cal/login.html
@@ -344,7 +1838,6 @@ j2ee/examples/servlets/sessions.html
 j2ee/examples/servlets/snoop.txt
 j2ee/examples/servlets/tojsp.html
 j2ee/index.jsp
-j2ee/OC4J_Demos
 j2ee/oc4jfeatures.html
 j2ee/servlet/CookieExample
 j2ee/servlet/HelloWorldExample
@@ -354,80 +1847,184 @@ j2ee/servlet/RequestParamExample
 j2ee/servlet/SessionExample
 j2ee/servlet/SnoopServlet
 j2ee/servlet/ToJSPServlet
-J2EEandIA.htm
+ja ja
+jake passwo4
 javacache/
 javacachedocs
 javavm/
 jdbc/
+jdbcRowSets
+jdbcRowSetsEar
+jdbc_rowsets
+je je
+jg jg
+jill passwo2
 jinitiator/jinit_download.htm
 jinitiator/us/jinit_download.htm
+jl jl
 jmsrouter
 jmsrouter_ejb
-JMSRouter_MBean_starter
 jmsrouter_web
+jmssender
+jmstrader
 jmsws1
 jmsws1.ear
 jmsws2
-JMXSoapAdapter
-JMXSoapAdapter-web
+jmuser jmuser
 jocdemo/servlet/IsCacheWorking
+john john
+jones steel
 jre/
 jserv
 jserv/engine/0
 jserv/status
 jservdocs/
-JSP
 jsp
 jsp/
+jsp/*
+jspSimpleTag
+jspSimpleTagEar
 jsp_backup/
+jspbuild
 jspdocs
 jspdocs/
 jspdocs/index.html
 jspdocs/javadoc
 jspsamples
+jtf jtf
+jtm jtm
+jts jts
+jward airoplane
+jws_basic_simple
+jws_basic_simple/SimpleService
+jwsdir
+kwalker kwalker
+l2ldemo l2ldemo
+lbacsys lbacsys
 lbs/
 ldap/
+liability provisions in this Agreement will apply to all
+librarian shelves
+license agreement and applicable provisions of the FAR and
+licenses granted hereunder do not alter any rights and
+licensors disclaim any express or implied warranty of
+limited warranty will be at Sun's option to replace Software
+log
 log/
 login.html
+login.jsp
 logon.jsp
 logs
+mainWebApp
+manifest.mf
+manprod manprod
+manual
+mapping
+mark passwo3
+mascarm manager
+master password
 master/
+materially breach it or take any action in derogation of
+materials delivered under this Agreement are subject to U.S.
+materials provided with the distribution.
+mc-icons
+mddata mddata
+mddemo mddemo
+mddemo_clerk clerk
+mddemo_clerk mgr
+mddemo_mgr mddemo_mgr
+mddemo_mgr mgr
+mdsys mdsys
+me me
+media or refund the fee paid for Software. Some states do
+mejb
 mesg/
+mfg mfg
+mgr mgr
+mgwuser mgwuser
+microsConfig.properties
+microsconfig.properties
+migrate migrate
+miller miller
+mmo2 mmo2
+mmo2 mmo3
+mmo2 unknown
 mod_ose.html
 mod_ose_docs
 mod_ose_docs/
+modtest yes
+moreau moreau
+mrp mrp
+msc msc
+msd msd
+mso mso
+msr msr
+mts_user mts_password
+mtssys mtssys
+mwa mwa
+mxagent mxagent
+myInsight
+myInsight/log
+myInvenMenu.ini
+myInventory
+myMicros
+myMicros/Uninstall_myMicros
+myMicros/myPortal
+myMicros_Install_datetime.log
+myPortal
 myapp
 myapp/
 mydad
 mydad/
+mydomain
+myservlet
+names names
+neotix_sys neotix_sys
 netbanking
-NFIntro.htm
+netshare
+new password
 nls
 nls/
+nneul nneulpass
 no
-null
-OA_HTML/
-OA_HTML//bin//sqlnet.log
-OA_HTML/AppsLocalLogin.jsp
-OA_HTML/jsp/fnd/aoljtest.jsp
-OA_HTML/jtffmetm.jsp
-OA_HTML/jtfihaon.jsp
-OA_HTML/jtfwrepo.xml
-OA_HTML/oam/weboam.log
-OA_HTML/PTB/mwa_readme.htm
-OA_JAVA/
+nodemanager
+nom_utilisateur mot_de_passe
+nome_utilizador senha
+nomeutente password
+non-DOD acquisitions).
+not specified in your Entitlement will be evaluation use as
+notices and open source licenses from such communities and
+ns-icons
+nume_utilizator parol
 oa_servlets//IsItWorking
 oa_servlets//oracle.apps.fnd.oam.jserv.OAMDBConnAndAM?debug=y
 oa_servlets//oracle.xml.xsql.XSQLServlet/OA_HTML/jtfwrepo.xml
 oa_servlets/AppsLogin
 oa_servlets/oracle.apps.fnd.sso.FNDSSOLogoutRedirect
 oas
+oas_public oas_public
+obieeConfig.properties
+obieeWebService.war
 oc4j
 oc4j-status
 oc4jadmin
-oca/admin
+ocitest ocitest
+ocm_db_admin ocm_db_admin
+oda-admin
+odm odm
+odm_mtr mtrpw
+ods ods
+ods_server ods_server
+odscommon odscommon
+oe change_on_install
+oe oe
+oe unknown
 oem_webstage/oem.conf
-OHW
+oemadm oemadm
+oemrep oemrep
+of a claim of intellectual property infringement or trade
+of law rules of any jurisdiction will apply.
+of the license below:
 oiddas
 oiddas/
 oiddas/oiddashome.uix
@@ -445,9 +2042,6 @@ ojspdemos/basic/hellouser/synopsis.htm
 ojspdemos/basic/index.html
 ojspdemos/basic/info/info.jsp
 ojspdemos/basic/info/synopsis.htm
-ojspdemos/basic/jspstore/basic/addtobkt.gif
-ojspdemos/basic/jspstore/basic/bg.gif
-ojspdemos/basic/jspstore/basic/shop_again.gif
 ojspdemos/basic/jspstore/index.jsp
 ojspdemos/basic/jspstore/synopsis.htm
 ojspdemos/basic/lottery/lotto.jsp
@@ -467,8 +2061,8 @@ ojspdemos/cache/objcache/objcache.jsp
 ojspdemos/cache/objcache/synopsis.html
 ojspdemos/cache/ocs/additem.html
 ojspdemos/cache/ocs/ocsSynopsis.html
-ojspdemos/cache/servletcode.jsp
 ojspdemos/cache/servletSynopsis.html
+ojspdemos/cache/servletcode.jsp
 ojspdemos/cache/setup.html
 ojspdemos/cache/tagcode.jsp
 ojspdemos/cache/xmldomcache.html
@@ -491,8 +2085,8 @@ ojspdemos/fileaccess/dbTagDownloadExample.jsp
 ojspdemos/fileaccess/dbTagUploadExample.jsp
 ojspdemos/fileaccess/dbUploadIndex.html
 ojspdemos/fileaccess/fileDownloadIndex.html
-ojspdemos/fileaccess/fileindex.html
 ojspdemos/fileaccess/fileUploadIndex.html
+ojspdemos/fileaccess/fileindex.html
 ojspdemos/fileaccess/index.html
 ojspdemos/fileaccess/maxfiles.jsp
 ojspdemos/fileaccess/tagDownloadExample.jsp
@@ -510,8 +2104,8 @@ ojspdemos/jesi/personalize.jsp
 ojspdemos/jesi/setup.html
 ojspdemos/jspdynamicws/dynamicws.jsp
 ojspdemos/jspdynamicws/index.html
-ojspdemos/jspwsdemo/index.html
 ojspdemos/jspwsdemo/Readme.html
+ojspdemos/jspwsdemo/index.html
 ojspdemos/jspwsdemo/wsclient.jsp
 ojspdemos/jspxmlview/index.html
 ojspdemos/jspxmlview/lottoXml.jsp
@@ -530,6 +2124,7 @@ ojspdemos/personalization/record.jsp
 ojspdemos/personalization/setup.html
 ojspdemos/personalization/stateless.jsp
 ojspdemos/personalization/tagdemodriver.jsp
+ojspdemos/servlet/ViewSrc/WEB-INF/iteratetag.tld
 ojspdemos/servlet/ViewSrc/basic/hellouser/hellouser.jsp
 ojspdemos/servlet/ViewSrc/basic/hellouser/hellouser_jml.jsp
 ojspdemos/servlet/ViewSrc/basic/info/info.jsp
@@ -605,9 +2200,9 @@ ojspdemos/servlet/ViewSrc/sql/bean/DBBeanDemo.jsp
 ojspdemos/servlet/ViewSrc/sql/jdbc/ConnCache1.jsp
 ojspdemos/servlet/ViewSrc/sql/jdbc/ConnCache2.jsp
 ojspdemos/servlet/ViewSrc/sql/jdbc/JDBCQuery.jsp
-ojspdemos/servlet/ViewSrc/sql/jdbc/setupcache.jsp
 ojspdemos/servlet/ViewSrc/sql/jdbc/SimpleQuery.jsp
 ojspdemos/servlet/ViewSrc/sql/jdbc/UseHtmlQueryBean.jsp
+ojspdemos/servlet/ViewSrc/sql/jdbc/setupcache.jsp
 ojspdemos/servlet/ViewSrc/sql/sqlj/SQLJIterator.sqljsp
 ojspdemos/servlet/ViewSrc/sql/sqlj/SQLJSelectInto.sqljsp
 ojspdemos/servlet/ViewSrc/sql/tag/sample1.jsp
@@ -639,13 +2234,9 @@ ojspdemos/servlet/ViewSrc/src/examples/RStrArray.java
 ojspdemos/servlet/ViewSrc/src/examples/StrArray.java
 ojspdemos/servlet/ViewSrc/src/examples/WStrArray.java
 ojspdemos/servlet/ViewSrc/src/exampletag.tld
-ojspdemos/servlet/ViewSrc/src/Oracle/j2ee/ws/client/impl/WSClientBean.java
-ojspdemos/servlet/ViewSrc/src/oracle/j2ee/ws/client/impl/WSClientBean.java
-ojspdemos/servlet/ViewSrc/src/Oracle/jsp/sample/event/PageEventDispatcher.java
 ojspdemos/servlet/ViewSrc/src/oracle/taglib/IterateTag.java
 ojspdemos/servlet/ViewSrc/src/test-policy.cpd
 ojspdemos/servlet/ViewSrc/trafficCA/CATraffic.jsp
-ojspdemos/servlet/ViewSrc/WEB-INF/iteratetag.tld
 ojspdemos/servlet/ViewSrc/wstags/desc.html
 ojspdemos/servlet/ViewSrc/wstags/dynamicws.jsp
 ojspdemos/servlet/ViewSrc/xml/helloxml/hello.jsp
@@ -661,13 +2252,13 @@ ojspdemos/sql/bean/index.html
 ojspdemos/sql/index.jsp
 ojspdemos/sql/jdbc/ConnCache1.jsp
 ojspdemos/sql/jdbc/ConnCache2.jsp
-ojspdemos/sql/jdbc/index.html
 ojspdemos/sql/jdbc/JDBCQuery.jsp
 ojspdemos/sql/jdbc/SimpleQuery.jsp
 ojspdemos/sql/jdbc/UseHtmlQueryBean.jsp
-ojspdemos/sql/sqlj/index.html
+ojspdemos/sql/jdbc/index.html
 ojspdemos/sql/sqlj/SQLJIterator.sqljsp
 ojspdemos/sql/sqlj/SQLJSelectInto.sqljsp
+ojspdemos/sql/sqlj/index.html
 ojspdemos/sql/tag/index.html
 ojspdemos/sql/tag/indx3.html
 ojspdemos/sql/tag/sample1.jsp
@@ -691,37 +2282,78 @@ ojspdemos/xml/helloxml/index.html
 ojspdemos/xml/index.html
 ojspdemos/xml/xmldom/index.html
 ojspdemos/xml/xmldom/xmldom.jsp
-ojspdemos/xml/xmlquery/index.html
 ojspdemos/xml/xmlquery/XMLQuery.jsp
+ojspdemos/xml/xmlquery/index.html
 ojspdemos/xss.html
-online
-ONLINE
+okb okb
+okc okc
+oke oke
+oki oki
+oko oko
+okr okr
+oks oks
+okx okx
+olapdba olapdba
+olapsvr instance
+olapsvr olapsvr
+olapsys manager
+olapsys olapsys
+omwb_emulation oracle
 onlineorders/main.jsp
 onlineorders/signon.jsp
-OnlineOrders_html/
 onlineorders_html/
-OnlineOrders_html/login.jsp
+ont ont
+oo oo
+openspirit openspirit
+opi opi
 oprocmgr-service
 oprocmgr-status
-Oracle
+or maintenance of any nuclear facility and Sun and its
+or to government agencies.
+oracache oracache
 oracle
+oracle oracle
 oracle/
-OracleASjms
 oradata/
+oradba oradbapass
+oraprobe oraprobe
+oraregsys oraregsys
 orasso
-ORASSO
+orasso orasso
 orasso/
 orasso/orasso.home
+orasso_ds orasso_ds
+orasso_pa orasso_pa
+orasso_ps orasso_ps
+orasso_public orasso_public
+orastat orastat
+orcladmin welcome
 ord/
+ordcommon ordcommon
+ordplugins ordplugins
+ordsys ordsys
+org
+org.apache.beehive.netui.pageflow.PageFlowActionServlet
+org.apache.beehive.netui.pageflow.xmlhttprequest.XmlHttpRequestServlet
+ose$http$admin invalid
+ose$http$admin invalid password
+osm osm
+osp22 osp22
+ota ota
+other countries.
 oui/
-owa
-OWA
+outln outln
+owa owa
+owa_public owa_public
 owa_util.cellsprint
 owa_util.listprint
 owa_util.show_query_columns
 owa_util.showsoucre
 owa_util.showsource
+owf_mgr owf_mgr
 owm/
+own commercial purposes.
+owner owner
 ows-bin/
 ows-bin/admin_/
 ows-bin/admin_/cache.htm
@@ -740,9 +2372,9 @@ ows-bin/db
 ows-bin/db/admin_/
 ows-bin/htmldb
 ows-bin/htmldb/admin_/
+ows-bin/myDAD
 ows-bin/myapp
 ows-bin/myapp/admin_/
-ows-bin/myDAD
 ows-bin/mydad
 ows-bin/mydad/admin_/
 ows-bin/online
@@ -760,9 +2392,7 @@ ows-bin/portal2
 ows-bin/portal2/admin_/
 ows-bin/portal30
 ows-bin/portal30/admin_/
-ows-bin/portal306
 ows-bin/portal306/admin_/
-ows-bin/portal309
 ows-bin/portal309/admin_/
 ows-bin/portal30_sso
 ows-bin/portal30_sso/admin_/
@@ -778,13 +2408,32 @@ ows-bin/simpledad/sample.home
 ows-bin/ssodad
 ows-bin/ssodad/admin_/
 ows-bin/test/admin_/
+ozf ozf
+ozp ozp
+ozs ozs
+pa pa
+page
+panama panama
+patient/login.do
+patient/register.do
+patrol patrol
+paul paul
+perform automated collection of system data and/or automated
+perfstat perfstat
 perl
 perl-status
 perl/
 perl/printenv
+perstat perstat
 petstore
+phone
+physican/login.do
+pjm pjm
+planning planning
+plex plex
 pls
 pls/
+pls/Workflow/wfa_html.home
 pls/admin
 pls/admin_/gateway.htm
 pls/admin_/globalsettings.htm
@@ -800,7 +2449,6 @@ pls/classic/admin_/dadentries.htm
 pls/classic/admin_/gateway.htm
 pls/classic/admin_/globalsettings.htm
 pls/cs_wf/wfa_html.home
-pls/dad/null
 pls/help/
 pls/htmldb
 pls/htmldb/apex_admin
@@ -827,9 +2475,7 @@ pls/portal/owa_util.showsoucre
 pls/portal/owa_util.signature
 pls/portal30
 pls/portal30/admin_/
-pls/portal306
 pls/portal306/admin_/
-pls/portal309
 pls/portal309/admin_/
 pls/portal30_sso
 pls/portal30_sso/admin_/
@@ -853,42 +2499,113 @@ pls/test/admin_/
 pls/wf/wf_demo.home
 pls/wf/wfa_html.home
 pls/wfa/wfa_html.home
-pls/Workflow/wfa_html.home
+plsql supersecret
 plsql/
 plsqlapp
 plsqlapp/
+pm change_on_install
+pm pm
+pm unknown
+pmi pmi
+pn pn
+po po
+po7 po7
+po8 po8
+poa poa
+pom pom
 portal
-PORTAL
+portal.ear
 portal/
 portal/page
 portal/pls/portal
-portal2
-PORTAL2
 portal30
-PORTAL30
-portal306
-portal309
+portal30 portal30
+portal30 portal31
+portal30_admin portal30_admin
+portal30_demo portal30_demo
+portal30_ps portal30_ps
+portal30_public portal30_public
 portal30_sso
-PORTAL30_SSO
+portal30_sso portal30_sso
+portal30_sso_admin portal30_sso_admin
+portal30_sso_ps portal30_sso_ps
+portal30_sso_public portal30_sso_public
+portalAppAdmin/login.jsp
 portalTools/
 portalTools/omniPortlet/providers/omniPortlet
 portalTools/sample/providers/omniPortletSample
 portalTools/webClipping/providers/webClipping
+portal_demo portal_demo
+portal_sso_ps portal_sso_ps
 portlist
+pos pos
+powercartuser powercartuser
 precomp/
+primary primary
 printenv
+promote products derived from this software without
+properties
+provided in Section 3.
+proxy
+psa psa
+psb psb
+psp psp
+psquare/*
+psquare/x.jsp
 ptg/rm
 ptg_upgrade_pkg.log
+public_html
+publisher
+pubsub pubsub
+pubsub1 pubsub1
+pv pv
 qa
+qa qa
+qdba qdba
+qp qp
+qs change_on_install
+qs qs
+qs unknown
+qs_adm change_on_install
+qs_adm qs_adm
+qs_adm unknown
+qs_cb change_on_install
+qs_cb qs_cb
+qs_cb unknown
+qs_cbadm change_on_install
+qs_cbadm qs_cbadm
+qs_cbadm unknown
+qs_cs change_on_install
+qs_cs qs_cs
+qs_cs unknown
+qs_es change_on_install
+qs_es qs_es
+qs_es unknown
+qs_os change_on_install
+qs_os qs_os
+qs_os unknown
+qs_ws change_on_install
+qs_ws qs_ws
+qs_ws unknown
 rdbms/
-README
+re re
 real
 recomp_exit.dyn
-RedirectServlet
+recovery_admin
+registerServlet
+regulations in other countries. You agree to comply strictly
+relating to its subject matter during the term of this
+relating to its subject matter. It supersedes all prior or
 relnotes
+rep_manager demo
+rep_owner demo
+rep_owner rep_owner
+rep_user demo
+repadmin repadmin
 repdemo/index.html
 repdemo/runJSPIAS.html
 repdemo/runrepIAS.html
+reports reports
 reports/examples/Tools/test.jsp
 reports/rwservlet
 reports/rwservlet/delauth
@@ -915,42 +2632,70 @@ reports/rwservlet/showjobs
 reports/rwservlet/showmap
 reports/rwservlet/showmyjobs
 reports/rwservlet?server=repserv+report=/tmp/hacker.rdf+destype=cache+desformat=PDF
-RequestHeaderExample
-RequestInfoExample
-RequestParamExample
+reports_user oem_temp
+representations and warranties and prevails over any
+representative of each party.
+reviewService
+reviewService/ClientServlet
+reviewService/InterceptorClientServlet
+reviewService/createArtist_service.jsp
+reviewService/dwr/*
+reviewService/index.jsp
+rg rg
+rhx rhx
 richtextportlet/info
+rla rla
+rlm rlm
+rmail rmail
+rman rman
+root
 root.sh
+rrs rrs
 ruleauthor
 ruleauthor/
 runqianprovider/providers/
+saml2
+samlacs
+samlars
+samlits
+samlits_ba
+samlits_cc
 sample
+sample sample
+sap sapr3
+sapr3 sap
+scott
+scott tiger
+scott tigger
+sdos_icsap sdos_icsap
+search
+search-ui
+secdemo secdemo
 sejb_webservices
 sejb_webservices/HelloService
 server-info
 server-status
-Servlet
+servers
+servers/AdminServer
+service listings at www.sun.com/service/servicelist.
+serviceconsumer1 serviceconsumer1
 servlet
 servlet/BBoardServlet
 servlet/ConfigServlet
 servlet/CookieExample
 servlet/Counter
-servlet/DateServlet
 servlet/DMSDump
-servlet/f60servlet
+servlet/DateServlet
 servlet/HelloWorldExample
 servlet/HelloWorldServlet
 servlet/IsCacheWorking
 servlet/IsItWorking
 servlet/IsItWorking/
-servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
-servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
-servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
 servlet/RedirectServlet
 servlet/RequestHeaderExample
 servlet/RequestInfoExample
 servlet/RequestParamExample
-servlet/servletToJsp
 servlet/SessionExample
 servlet/SessionServlet
 servlet/SimpleServlet
@@ -959,36 +2704,49 @@ servlet/Spy
 servlet/ToJSPServlet
 servlet/ViewSrc
 servlet/ViewSrc/*
-Servlets
+servlet/f60servlet
+servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+servlet/servletToJsp
+servletimages
+servlets
+servlets/
 servlets/weboam/oam/oamLogin
-ServletToJsp
-SessionExample
-SessionServlet
+session
+set forth in this Agreement; this is in accordance with 48
+settings.ini
+sh change_on_install
+sh sh
+sh unknown
 shutdown
+si_informtn_schema si_informtn_schema
+simpapp
 simple
+simpleFormServlet
 simpledad
-SIMPLEDAD
-SimpleServlet
+siteminder siteminder
 slax
 slax/
+slide slidepw
+snoop
 snoop.jsp
-SnoopServlet
 snp
 soap/
 soap/admin
 soap/admin/providermanager
 soap/admin/servicemanager
 soap/admin/servlet/soaprouter
-soap/servlet/soaprouter
 soap/servlet/Spy
+soap/servlet/soaprouter
+soapConfig.xml
 soapbuilder/
 soapbuilder/r2/InteropTest
-soapConfig.xml
 soapdocs/
 soapdocs/ReleaseNotes.html
 soapdocs/webapps/soap/
 soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
-Spy
+software updating services. System data collected through
+specific prior written permission.
+spierson spierson
 sqlj
 sqlj/
 sqlnet.log
@@ -1000,39 +2758,133 @@ sso
 sso/
 sso/jsp/login.jsp
 ssodad
-SSODAD
+ssp ssp
+starter starter
+state to state.
 statefuldocws
 statelessdocws
+stock
+stock/*
+stock/data/*
+stock/index.html
+stock/index.jsp
+stock/publisher.html
+stock/publisher.jsp
+strat_user strat_passwd
 stressH
+survey
+swpro swpro
+swuser swuser
+sympa sympa
 syndication/
+sys
+sys 0racl3
+sys 0racl38
+sys 0racl38i
+sys 0racl39
+sys 0racl39i
+sys 0racle
+sys 0racle8
+sys 0racle8i
+sys 0racle9
+sys 0racle9i
+sys change_on_install
+sys d_syspw
+sys manag3r
+sys manager
+sys oracl3
+sys oracle
+sys oracle8
+sys oracle8i
+sys oracle9
+sys oracle9i
+sys sys
+sys syspass
+sysadm sysadm
+sysadmin
+sysadmin sysadmin
+sysman oem_temp
+sysman sysman
 sysman/
 sysman/reporting/
 system
+system 0racl3
+system 0racl38
+system 0racl38i
+system 0racl39
+system 0racl39i
+system 0racle
+system 0racle8
+system 0racle8i
+system 0racle9
+system 0racle9i
+system change_on_install
+system d_syspw
+system d_systpw
+system manag3r
+system manager
+system oracl3
+system oracle
+system oracle8
+system oracle8i
+system oracle9
+system oracle9i
+system system
+system systempass
+taglib-uri
+tahiti tahiti
+talbot mt6ch5
+tdos_icsap tdos_icsap
+tec tectec
+temp
 temp/
+temp/DBinstaller.log
+temp/MM_Log.log
+temp/MMinstaller.log
+terminate immediately without notice from Sun if you
+termination of the Agreement.
 test
-TEST
+test passwd
+test test
 test/
+test_user test_user
+testpilot testpilot
 testru
 testunit
 text/
+that are made initially available to You.
+thinsample thinsamplepw
+this Agreement.
+tibco tibco
 tictactoe
+tiger
+tip37 tip37
 tmp/
-ToJSPServlet
+tracesvr trace
 transtrace
+travel travel
 true
+tsdev tsdev
+tsuser tsuser
+turbine turbine
 uddi
 uddi/
+uddi/*
 uddi/admin
-uddi/demo
-uddi/demo/inquiry
 uddi/demo/jsp/searchForm.jsp
-uddi/demo/publishing
 uddi/inquiry
 uddi/publishing
+uddi/uddilistener
+uddiexplorer
+uddiexplorer/*
+uddiexplorer/Login.jsp
+uddiexplorer/index.jsp
+uddilistener
 uddirepl/admin/wallet
 uddirepl/replication
 uix/
 uixi
+ultimate ultimate
 ultrasearch/
 ultrasearch/admin/control/login.jsp
 ultrasearch/admin/index.jsp
@@ -1043,13 +2895,46 @@ ultrasearch/query/mail.jsp
 ultrasearch/query/search.jsp
 ultrasearch/query/tag/tsearch.jsp
 ultrasearch/query/usearch.jsp
+um_admin um_admin
+um_client um_client
 upgrade/
+use such software on a stand-alone basis or use any portion
 usebean.jsp
+user
+user user
+user0 user0
+user1 user1
+user2 user2
+user3 user3
+user4 user4
+user5 user5
+user6 user6
+user7 user7
+user8 user8
+user9 user9
+user_name password
+user_projects
+user_projects/domains
+user_projects/domains/bifoundation_domain
+user_projects/domains/bifoundation_domain/app_metadata.xml
+usuario clave
 utility
-ViewSrc
+utility utility
+utils
+utlbstatu utlestat
+vea vea
+veh veh
+vertex_login vertex_login
+videouser videouser
+vif_developer vif_dev_pwd
+viruser viruser
+vrr1 unknown
+vrr1 vrr1
+vrr1 vrr2
 wcs/
-WEB-INF/config.xml
+web
 web-inf/config.xml
+web.xml
 web_services
 webapp
 webapp/
@@ -1069,12 +2954,35 @@ webapp/jsp/container_tabs.jsp
 webapp/wm/bc4j.jsp
 webapp/wm/javart.jsp
 webapp/wm/runtime.jsp
+webappCachingEar
 webcache/
-webcache/webcache.xml
 webcache/WebCacheDemo.html
+webcache/webcache.xml
 webcacheadmin
-WebCacheDemo.html
+webcal01 webcal01
 webcalendar/
+webdb webdb
+weblogic
+weblogic.cluster.GroupMessageHandlerServlet
+weblogic.cluster.MulticastSessionDataRecoveryServlet
+weblogic.cluster.StateDumpServlet
+weblogic.deploy.service.internal.transport.http.DeploymentServiceServlet
+weblogic.jar
+weblogic.management.servlet.BootstrapServlet
+weblogic.management.servlet.FileDistributionServlet
+weblogic.properties
+weblogic.rjvm.InternalWebAppListener
+weblogic.servlet.AsyncInitServlet
+weblogic.servlet.FileServlet
+weblogic.servlet.JSPClassServlet
+weblogic.testclient.CallbackHandler
+weblogic.wsee.async.AsyncResponseBean
+weblogic.wsee.async.AsyncResponseBeanSoap12
+weblogic.xml
+weblogic/ready
+weblogic90
+webread webread
+webservice
 webservices/
 webservices/beanTest
 webservices/statefulTest
@@ -1082,13 +2990,90 @@ webservices/statelessTest
 webservices1/
 webservices1/javacallin
 webservices1/sqlstatement
+webservicesJwsSimpleEar
+webshare
+websys manager
 webtools/
+webuser your_pass
+welcome1
+welcome2
 welcomeuser.jsp
+west west
+wfadmin wfadmin
+wh wh
+which Sun has adopted into many of its products.
+will apply even if the above stated warranty fails of its
+wip wip
 wireless/
+with these laws and regulations and acknowledge that you
+wk_test wk_test
+wkadmin wkadmin
+wkproxy change_on_install
+wkproxy unknown
+wkproxy wkproxy
+wksys change_on_install
+wksys wksys
+wkuser wkuser
+wl_management
+wl_management_internal
+wl_management_internal1
+wl_management_internal1/LogfileSearch
+wl_management_internal1/LogfileTail
+wl_management_internal2
+wl_management_internal2/Admin
+wl_management_internal2/Bootstrap
+wl_management_internal2/FileDistribution
+wl_management_internal2/wl_management
+wliconsole
+wls-wsat/CoordinatorPortType
+wls-wsat/CoordinatorPortType11
+wls-wsat/ParticipantPortType
+wls-wsat/ParticipantPortType11
+wls-wsat/RegistrationPortTypeRPC
+wls-wsat/RegistrationPortTypeRPC11
+wls-wsat/RegistrationRequesterPortType
+wls-wsat/RegistrationRequesterPortType11
+wls_utc
+wls_utc/*.do
+wls_utc/*.jpf
+wls_utc/*.render
+wls_utc/*.xhr
+wls_utc/CallbackHandler
+wls_utc/begin.do
+wls_utc/error.jsp
+wls_utc/index.html
+wls_utc/index.jsp
+wls_utc/messageLog.jsp
+wls_utc/selectWsdl.jsp
+wls_utc4
+wlserver
+wlstestclient
 wm
+wms wms
+wmsys wmsys
+wob wob
+wps wps
+wsee
+wsh wsh
+wsm wsm
+www www
+www.java.net.
+wwwuser wwwuser
+xademo xademo
+xdb change_on_install
 xdk/
 xdk/doc/index.html
 xdk/java/xsql/readme.html
+xdp xdp
+xla xla
+xmlBean
+xml_xmlBean
+xnc xnc
+xni xni
+xnm xnm
+xnp xnp
+xns xns
+xprt xprt
 xsql/
 xsql/adhocsql/query.xsql
 xsql/adhocsql/sqltoxml.html
@@ -1110,9 +3095,10 @@ xsql/java/xsql/demo/insertxml/newsstorydemo.html
 xsql/java/xsql/demo/uri/uridemo.html
 xsql/lib/XSQLConfig.xml
 xsql/svg/svgdemo.html
-XSQLConfig.xml
-[
-]
-discoverer/plus#Connect%20Directly
-pls/admin_/help/..%255Cplsql.conf
-pls/admin_help/%252F..%252Fplsql.conf
+xtr xtr
+you may do so only as provided in the Sun documentation.
+you may not use Software for any of the other Permitted
+you with remote system services and/or improving Sun's
+you.
+{{paths}}
+’ or ‘1’=’1

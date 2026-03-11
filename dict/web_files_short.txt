@@ -1,0 +1,13 @@
+/configuration.php
+/humans.txt
+/inc/config.php
+/inc/mysql.php
+/include/config.php
+/include/mysql.php
+/phpmyadmin/changelog.php
+/robots.txt
+/sites/defaults/settings.php
+/wp-content/plugins
+web.config
+wp-admin.php
+wp-login.php

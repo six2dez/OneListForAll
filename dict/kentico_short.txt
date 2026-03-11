@@ -1,0 +1,4 @@
+/CMSInstall/install.aspx
+/CMSPages/GetDocLink.ashx?link=https://interact.sh/
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
+/CMSPages/logon.aspx

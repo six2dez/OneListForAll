@@ -1,0 +1,1792 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$2b$10$ZVQNwaBFAYZHiMXuMaPtHO
+**
+*******
+***your-256-bit-secret***
+*s3cr3t#
+*your jasonwebtoken secret*
+-------
+-SrTY3wmw80
+...
+/nacos/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+0.rfyj3n9nzh
+005qqP3nVUfeGAAkleWWERqLkYNaL_4tnBzgm6frys
+123dung
+123qwe
+1Bjp9ERP{o7VF`Q
+1Kun
+1qaz2wsx
+2
+20$$NAD##20
+2lbva54qylh
+2q3sdfgdf
+34U*gd^&G*&D#Ge
+3DI3@$2qi1
+3ZGErMDCyxTOZYDp45GGD
+42isTheAnswer
+6jlRvvwpO4
+7CeAfFAW?=-7pUVhgp4=6k^cm
+7jekd*d9spongbobsquarepants260X*E
+8Dsupersecurekeydf0
+98ygvbnjhgvfr67ujh
+9uOxHyH9
+:)
+< client secret >
+<<client_secret>>
+<MY SECRET KEY>
+<SOME-REALLY-COOL-LONG-TEXT-WHICH-HELPS-SCREW-THOSE-HACKERS>
+<VERYLONGSECURESECRET---CHANGE-ME--->
+<YOUR_JWT_SECRET>
+<Your Stripe secret key>
+<client secret>
+<insert shared secret here>
+<project-jwt-secret>
+<random secret string>
+<the password you made>
+@$@$sKHaPpycAmpuS@#@#
+@QEGTUI
+@minelev-jwt-secret
+@minelev-prod-jwt
+@minelev-test-jwt
+@proffy
+@recordshop_token
+@the-difference-@ll-we-will-do-is-to-standout
+A secret API example
+A secret...
+A super secret password
+A very long secret
+A very secret key
+ABCDEFGHIJKLM
+AC34-HT73-LLF0-BVND
+AFBE234ssSAsas8hjfSECREtsz
+AFXCKINGSECRET
+AJDKHSABADSBJASJHDB
+ALAMAKOTA
+AMITZNATI
+AMUNMR
+ASDAsdasLDjasldkasjld@asdad
+ASDF
+ASDJADHASDKFHADS
+ASHISHRAJ
+AUTH0_CLIENT_SECRET
+AbCdEfGhIjKlMnOpQrStUvWxYz==
+AdboyBotsWeAreTheBestChatbotPlatform
+AhihiKuribohDeptrai
+Ahihifkdjfk
+App
+AutomaHouse
+AyZAyTTSJdn8OorPiKYVolHEuStIa7dc
+Ayush Pandey's Secret Key
+BAKERY_STORE
+BANANA
+BIG_SECRET
+BIIIIIIG_SECRET
+BIRDMAN
+BK_SteamingSystem_Backend
+BKtKhiEcsRT
+BOb8ZTdKdfRceLJaKMzPrr4YHTefkptY
+Bearer token signing secret
+Bo0tC4mp_@P1
+BookWorm
+BqsCFNlm4KtqgjwUTrkBJvbOeIl9ebHF
+CHANGEME
+CHANGE_ME
+CHANGE_THIS_SECRET
+CI_JWT_SECRET
+CLIENT_SECRET
+COFFEEGOBLINS
+CQqMO4SNlgGHbHiovAqK
+CRIMSON_SECRET_KEY
+CTRL_ALT_ELITE
+CYBERELEARN
+C]:zJF2vpk_yP@dJ
+Calipso-diosa-de-los-mares
+ChooseTheSecretWisely
+ChrisIsALegend
+CobaTebaKDong
+Codebrains
+Coders of XDA
+ConBoSua
+DAILY_LEARNER
+DEV-JWTSecret
+DEVELOPMENT#SECRET&KEY
+DEVELOPMENT_ONLY_JWT_SECRET
+DEVKEY
+DKJFdfieniea
+DLMU_CLASS_DESIGN
+DON'TTELLANYONE
+DefaultSecret
+DefaultSecretForThisApp
+DefaultSecretIsNotAGoodSecret
+DefauttSecret
+Dev Secret
+DevSecret
+Development
+Dhruv&Khy_Project
+DiaryProject
+Done
+EAfZasuhuuhdgBLNtf07ZRXyQPcuKPEC
+ENTER YOUR TOKEN
+ENTER_YOUR_JWT_SECRET_HERE
+EQAXA@12sxwwT
+EXIT
+El-perro-de-Jota-se-llamaba-Hugo
+ElectronicReceipe
+EsT0 E5 uNa 53cR3t K3Y
+EscribeCualquierPalabra
+Everyb0dyKnow$My$ecret
+Example&xecret#@
+F1reh0und-S3cr3t
+FJDKAOFJDKOQKFDKFKDJAFLOWJFLDJSOFWJFK
+FORUMTESTKEY
+FREE_MASON
+FUckOff
+FYYKYFLUGLBGUIYTGYYTULY
+Ffer4rF44fd@$F
+FleetManageMent
+Fly you fools
+GCGFAetuHQDP3FCy
+GameOfThrones
+H1UKhYuK
+H34e626&D7
+HACKOVERFLOWHIJEETEGI
+HEART
+HEART_SECRET_STRING
+HELLO SECRET
+HERE-INPUT-YOUR-SECRET-KEY
+HIMANSH
+HackForGood
+Harry
+Hashed123$
+Hello
+HelloSecretJWT
+HolaSoyUnaCadenaSuperSeguraQueNuncaSeraHackiada...
+I LOVE CATS MORE THAN PUPPIES
+I LOVE MY PULSAR 180 AND I LOVE WEB DEVELOPMENT
+I'm Error
+I'm so lonely
+I-love-pancakes-with-chocolate-and-banans
+IAMSUPERPOWERS
+IB$GV53uURj9nFBsnPtu
+ICANDOIT
+ILOVEISLAMANDMYFAMILY
+IMSUCHAGOODSECRET
+INISECRET
+ITOU
+I_AM_A_SECRET_KEY
+I_LOVE_ICE_CREAM
+IamAngularSuperhero
+IcarusSan
+Ill never tell
+Itsasecret
+IverLIDentEigaSTeReAGeNArymENT
+IxrAjDoa2FqElO7IhrSrUJELhUckePEPVpaePlS_Xaw
+JABBERWOCKY
+JGSAJDHGASJDHPPSDI8
+JLAEIkjls983klKASDF$$$
+JLKIOHBDBDURJFMOP
+JSON-WEB-TOKEN
+JWT
+JWT SECRET
+JWT Secret
+JWT@Secret@QB
+JWTSECRET
+JWTSecretCKPKey
+JWTSecretHere
+JWTSecretKey
+JWTSuperSecretKey
+JWT_CHINCHAY_SECRET_CODE
+JWT_SECRET
+JWT_SECRET_VALUE
+JWT_~secret*\\key
+JdklmazeXHkdlsfdezaiHJK67hdf87
+JecPYCMKzHNgtOrvHDUvI2HtixOprxXp
+JehovaIsOurGod
+JsonWebToken Secret
+Just a bunch of top secret stuff here
+JwtSecret
+KARINACERVANTESROMERO
+KJDFSjkdfskijar
+KLDSkjkdl&56hjk
+KXGwyURVVkOJT01UIqWSjUbtYNfOcf8m
+KYAWSECRET
+Keep it safe
+KeyOauthJwt
+KfWygTLF21huOgppqWKTfbVkUuhERx6L
+KfqiMBKug98wpUwahcfb
+Khamsone
+KimJongUn
+KocetGanteng
+Kospr_sec
+Krang
+LBLDSUNDUNLSUDNWUNEWUWEIN
+LKOIENRMDMDDMDMDMDM
+La vaca roja en el prado verde
+LeThiMyHanh
+Login
+LongDefaultSecretKeyForEncryption
+LoxodontaElephasMammuthusPalaeoloxodonPrimelephas
+Lozidopes and capri shoes.
+LshAuthentication
+Lzm^o>Q-lGO
+MERNSECRET
+MERN_SECRET
+MICODIGOSECRETO
+MINHA_SENHA_SECRETA
+MI_CODIGO_SECRETO
+MOHENMONDALJDFKFLL
+MUMBAI_HITMAN
+MY super secure server side secret
+MYSECRET
+MYSECRETTOCHANG3
+MY_AMAZING_CHAT_APP
+MY_JWT_SECRET
+MY_SECRET
+MY_SECRET_KEY
+MY_SLACK_SIGNING_SECRET
+MiClaveSecreta123*
+MwTeTnnSkhWQt8utGETcmHIGIsOzQZLsXVrpyDG1
+My Secret
+My secret passphrase here
+My-ultRa-Secure-ulTra-long-SeCreT-of-nodeJs
+MyBestSecret
+MyJWTSeCrEtStRinG
+MyJwtSecret
+MyLifeIsMyMessage
+MySecret
+MySuP3R_z3kr3t
+MySuperSecret
+MySuperSecretString
+MyUltraSecurePassWordIWontForgetToChange
+My_undefinedundefined
+N/A
+N@9EWRh8
+NEEDSTOBEGENERATED
+NEED_A_SECRET_KEY
+NEED_HERE_A_SECRET_KEY
+NEHAHSECRET
+NICE_TRY_WANNABE_HACKER_THIS_PASSWORD_HAS_TO_BE_LONGER
+NODEBAACKED_key
+NOT_DEVELOPMENT_ONLY_JWT_SECRET
+NTALK_TEST
+NUGARAY
+No-secret
+NoOneKnows
+NodejsApiAuthentication
+Nt@sk
+Nta$K-AP1
+OLDSCHOOLSECRET
+PEPITO_PAGA_DOBLE
+POWERFULENCRYPTIONKEY
+PUT_HERE_YOUR_SUPER_SECRET_JWT_CODE
+PackPack
+Palbra_secreta
+Peaches and Applesauce
+Pive-Fumkiu4
+PrmoOSPhKsilVqpzxrzjOoEU
+QRSTMsfD9AXXt5S
+QUESTION_ANSWERS_AUTH_KEY
+QingBlog
+R4hIdaY$T
+R;*j4CpCaej>t=5Z
+RANDOM_KEYGEN
+RANDOM_STRING
+REMEMBERTOCHANGETHIS
+REPLACE THIS WITH YOUR JWT SECRET
+REPLACE WITH YOU DUO SECRET KEY
+REPLACE_WITH_SECRET_KEY
+RPORT_JWT_SECRET
+RaYNeaRjWtSecRET
+Rahasia-Kelompok-4
+RandomSecretKey
+RandomSecretSharedWithTheAuthService
+RandomString
+Random_Secret
+React Dashboard
+React Starter Kit
+RegeifDaudimsoitBuktaqueshurjObWoroudjebteinzyefJinEng1josper
+RemisPassword
+S3CR3T TH1NG
+SALT
+SAMPLE
+SAMPLESECRET
+SCSCSCSCCS
+SDfsdfQWEFwefWEfEtWERQWasdQWEs
+SECRET
+SECRET JWT TOKEN
+SECRETJWT
+SECRETKEY
+SECRETO
+SECRETO_PARA_ENCRIPTACION
+SECRETPASSFORJWTS
+SECRETUIUUB
+SECRET_JWT
+SECRET_KEY
+SECRET_KEY_FOR_CREATE_JSON_WEB_TOKEN
+SECRET_KEY_HERE
+SECRET_TOKEN
+SENHA PRA ENCRIPTAR
+SET_ME
+SHOULD_HAVE_PUT_IN_ENV_LOL
+SICRET
+SOME SUPER SECRET PASSPHRASE HERE THAT YOU JUST MADE UP
+SOMESECRET
+SOMETHING
+SOME_AWSOME_JWT_SECRET
+SOME_JWT_SECRET
+SOME_SECRET
+SOME_SECRET_KEY
+SOME_SECRET_STRING
+SSSSSSSHHHHHHHHHHHSECRET
+SSgtrqTvX36&H*Va
+STRING_DE_CLAVE_JWT
+SUPA_DUPA_JWT_SECRET_1_39_992_BLEH
+SUPERSECRET
+SUPERTAJNEHESLO
+SUPER_SECRET
+SUPER_SECRET_JWT-KEY
+SUPER_SECURE_SECRET
+Satoshi Nakamoto
+SeCreTKeY
+Secret
+Secret goes here
+Secret string
+Secret word
+Secret à changer
+SecretJWT
+SecretJwtKey
+SecretKeyCarRentalApp
+SecretKeyToGenJWTs
+SecretKeyToGenerateJWTs
+SecretKeys_Overhere
+SecretPassword
+SecretSuperSecure
+SecretToDecryptJWT
+SecretWord
+SecretjwtKey
+SecretodeKe
+Secrets
+SetStrongSecretInDotEnv
+Shashangka Shekhar
+Sheldon01
+Slap that token down
+SlytherinOrGTFO
+SomeReallySecretKey
+SomeSecret
+SomeSecureHash
+Somejsonwebtokensecret
+SomethingToSignJWTsWith
+SoonGwan
+StRoNGs3crE7
+StanleyLab97
+Sunny-forum-secret
+SunnySandy*
+Super Secret
+SuperSecret
+SuperSecret29
+SuperTest
+TEMP_JSON_WEB_TOKEN_SECRET
+TEST
+TEST_NEVERSITUP
+TEST_SECRET
+TEST_SECRET2
+TEXT SECRET LETAK KAN DI ENV
+THE_SECRET
+THEviper22
+THISISACLASSIFIEDKEYYOUCANNOTACCESSTHIS
+THISISTHESECRETKEYFORJWT
+THIS_MY_EXCAVATION
+THIS_SHOULD_NEVER_BE_THE_KEY_IN_PRODUCTION
+THIS_is_my_SeCret_Key_LOL_Kkjnasjcnjksna
+TI_si_Stakor
+TKQrb8iQ+nqegF/KX5hdIVLwCbeH1d+GziSSOrL3Ye/ovOsOnJfoQ54F7nhooeUz
+TOP_SECRET
+TTTNMEAN
+TYGFTUFGFTYDESFTKGFDTDTD
+TagYou'reIt
+Tagrandmere25mefaiCaGratuit
+TelerikAcademy
+The Approov Base64 encoded secret
+The JSON Web Token Secret still needs to be configured...
+The great white silver fox
+The secret for my store is this right here
+TheAmazingKreskin
+TheMostSecretKey
+TheSecretYouShouldChange
+ThinkSNSPlus
+This hardcoded value isnt very secure and secret
+This is a secret
+This is a secret to change later to a file
+This is secret
+ThisIsARandomString
+ThisIsASecret
+ThisIsJustAnExampleItShouldBeLongAndRandom
+ThisIsMySecretJWTKeyMyNameLeAnhTuana9d-1@amskfnasi$nfaoks-kfnoanofoperjyoeor
+ThisIsMy_Secret_LoL_GtvhkLRTgtNdGl
+ThisTokenIsNotSoSecretChangeIt
+This_Should_be_32_characters_long
+This_is_the_secret_key_that_iam_using_for_JSON_WEB_TOKEN
+ThisismySecretKey
+TikFoodApiAuthentication
+TokenEskat
+TokenMegaUltraSecretoQueNadieDebeSaberNuncaJamas
+TokoBuku
+UITS_IT
+UKV60CZrcafbuvIfIznOlVKkMOVnBNiw
+ULTIMATE_SECRET_JWT
+UNTOKEN
+Unsecure secret
+UpFJfpWKYteH5rMHSxst
+VERYSECRET
+VERYSECRETKEY
+VERYSECURE
+VNPT_IOT_PORTAL
+VaibhavBhapkar
+Vec<u8>
+ViME*BpB@uD*
+Vinay
+Vitya__chisto__beliy
+VoCra8#GEBAbRl*+vos9UF@??gi8Oy
+WAKIE_CLONE_AUTH_KEY
+WakYED
+WithMandaYouCanUnlockAnything
+XPTO
+XXX
+XXXX
+XXXXXX
+XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+YOUCANDOIT
+YOUR JWT_SECRET
+YOUR KEY HERE
+YOUR SECRECT KEU
+YOURJWTSECRETCHANGEIT
+YOURSECRET
+YOURSIGNINGKEYGOESHERE
+YOUR_ADMIN_API_KEY
+YOUR_JWT
+YOUR_JWT_SECRET
+YOUR_JWT_SECRET_GOES_HERE
+YOUR_JWT_SECRET_HERE
+YOUR_JWT_TOKEN_SALT_STRING
+YOUR_OWN
+YOUR_SECRET
+YOUR_SECRET_HERE
+YOUR_SECRET_KEY
+YOUR_SECRET_KEY_FOR_JWT
+YOUR_SECRET_STRING
+YOUR_secret_key
+YV~B*&xq8WC=h]
+YZY
+YmFsdGhhemFyLWxvcmQtb2YtdGhlLXVuZGVhZA==
+You Shall Not Pass
+You can not know the secret
+Your GitHub client secret
+Your Secret
+Your jwt secret here
+YourAnySecretString
+YourJWTSecretHere
+YourJwtSecretHere
+YourSecret
+Your_secret_key
+ZNZ@lighters
+ZmFudGFzdGljand0
+ZmUXsRACW69tNlRiwO2BMSnYbfBkmCma
+["=R{f6BzbU-W3hm
+[EDIT_ME]
+[SECRET GOES HERE]
+[SECRET_HERE]
+[secret for the JWT]
+[thisisanawefulsecret]
+\0SOYCxBCv8GF|A^;
+]nGQWnDQneT81L]rY
+_Your_super_secret
+___SECRETO_RANDOM___
+a
+a fun secret
+a secret
+a secret for local JWT testing
+a-fake-secret-for-development-temp-use
+a-secret
+aGVsbG93b3JsZA==
+aMazon_maxIcan_SECRET_KEY
+aSecretKey
+aVerySecretKey
+aVyTTwWWrHYDJSkzAyzi
+a_jwt_secret
+a_long_secret
+aa
+aaaa
+aaaaaaaaaaaaaaaa
+aajdkajdndlnldnlndw
+abc
+abc123$
+abcd
+abcde
+abcdefghij
+abcdefghijklmnopqrstuvwxyz
+abcds3
+abeartoken
+abracadabra
+accessSecret
+acmesecret
+activityAuthentication
+add a .env file to root of project with the JWT_SECRET variable.
+add third table for many 2 many
+addjsonwebtokensecretherelikeQuiscustodietipsoscustodes
+adsadsadasd
+adsfasdfsadfadsfasdfsadf-secret
+aeufaskfhasuekfhasefukasehukf
+aewadsdqdsas123q
+afeiuhvdsb23r90u
+ahahahahjah
+ahfsiaiuGiushauhfuoha
+ahmad
+ahsduiashduqwjdoasmcns
+ajdfgdsfrguyg346gjg
+akshdkhaskjhaklkaskhdkjssd
+akuprogramer
+ale esta aprendiendo a boxear
+alexitopre
+alfjajklsgfjdshgl
+alphacamp
+alysse
+amakurunyayo_abikwa_neza@tangizwanubonetse_wese
+amazonian
+amesh
+androidchatapplication
+angular2-secret
+anonymous_chicken
+anyRandomSecretKeyWhichWillBeUsedToEncodeTheTokenValue
+any_random_secret_key_for_token_generation&
+anysecret
+anystring
+anytoken
+apisecret
+apiserversecret
+applergic_*
+applicationsecret
+arcobaleno
+asbfqwpoiunb
+asd
+asdaasdsadsafdfdghtkuourtytrfyt-dev
+asdasdasdasdad
+asdasdjknalskjvnakljnbiunb8b9h
+asdf
+asdfasaf
+asdfasdf
+asdfasdfjhadjklfhdaks;lfjdjklafhkds
+asdfghjkkjhgfrtyuiopoi
+asdfksdofiasdngnasdfl
+asdfsgasdfg
+asecret
+asecrettoeveryone
+asfdasdf
+ashdfjhasdlkjfhalksdjhflak
+asjkdnfksdn
+askdfjsoweir125#@
+askdjgkjghkjdhgk;jdfgh;kdjfghphurruriperuerre
+askhfoqwihfsdnlsd
+assdsdasa
+asupersecretkey
+auth-secret-key
+auth-test-secret
+authDemo
+authentication
+authentication-secret-key-lies-here
+autoai-aid
+available
+averylongpassword
+avocado-rapid-dev
+awdowadkwaod
+aweuruwiedncalslsedjhflak
+bXlzZWNyZXQK
+bacon25
+bad secret
+bad-wolf
+badbreathbuffalo
+balthazar-lord-of-the-undead
+base64-encoded-signing-key-here
+bboysoul
+be bootcamp my friend
+beatsmusic
+beerfluplsno
+benjaminnd
+bezKoderSecretKey
+bezkoder-secret-key
+big_apple_in_a_small_tent
+bigfish
+biking_secret_jwt
+blablabliblabloblablu
+blahblah
+bldstst
+blueberry
+blyatblyat
+body
+bogus_secret
+bonobo
+bootcamp malo rulez
+btnode_secret
+budgetsecret
+bugovnkl44
+business
+bvhfbjdnnfoiremfkv
+c2VjcmV0
+c33qPZLwgb74V-ysAVu5Eg
+cAtwa1kkEy
+cachopo
+cachorronaosabefalar
+calendarSecretKey
+can be anything
+canbeanything
+capstone3-secret
+cargomanager
+cartsy-app
+cashruleseverythingaroundme
+cats and dogs
+change me
+change this secret
+change-secret
+change-this-secret
+changeMe
+changeThisInToLongSecret
+change_this_example_secret
+change_this_super_secret_random_string
+changeit
+changeme
+changethis
+changethisinproduction
+changethisordie
+changethisoryourplantwillfreeze
+charge_something_for_i_am_dwindling
+chat21SecretKey
+chefPalace_secret
+chorerunner-jwt-secret
+chrd5hdhxt
+chris
+chuongdeptrai
+churras-tri
+cisecret4
+claveutrasecreta
+client-secret
+client_secret_jwt
+codebase
+codeial
+codial
+come-up-with-a-super-secret-token-here
+contoh
+cookie
+core
+cra-init-dashboard-graphql
+cranes
+crud-secret-key
+custom secret
+d15n3t_53cr3t_1d
+dKeSLgHne5
+dakommtihrniedrauf
+dasdasdasdasdasdasdas
+dasegsnjofadbyiadbno
+dbc2EgDM
+default
+default#shared$key
+defaultSecret
+defaultSecretKey
+defaultSecretKeyPrivate
+defaultjwtsecret
+dev mode
+dev waffles
+dev-jwt-secret
+dev-key
+dev-secret
+dev-secret-key
+devJWTSecret
+devJwtSecret
+dev_jwt_secret_key
+develop-key
+development
+development_secret
+devglan-secret
+devias-top-secret-key
+devicehive
+devsecret
+dfg54rt&gtrt$53df@1fgAS
+dfgjkhfdjshwdckszkskiidixx
+digitalSecretKey
+dishmanager
+djiasjpasdmasdnmaadask
+docker secret create portfolio-secret-jwt
+doksel secret
+don't tell a soul
+don'tPanic
+dontuser
+dooboolab
+dorbirendorf
+doyouseriouslythinklol
+dsakd...rehfnx
+dsfadfdsfasdfsadf
+dsfkjhhksdfhklkhdf
+dumbledor
+dummy
+dummysecret
+e9cj9kd
+ecolotusChan
+eebilkitteh
+efeasdfeasdfefewerasdiojon
+effarlkjaskldfhiaasdsdfilayuo
+effegwegrgrgw4
+effegwegwrgrg4
+effegwegwrgrgw4
+effehfkrirn
+efffdgkjdkgj45
+efrdtgyhujh
+egsbvjonsbsmcnbnxlhg
+ehJWTSecretFyrirSigningJWT
+ejemplo
+el padre de mi abuela tenia doble vida
+elearning
+encodethejwt
+enter-a-secret
+enter_your_secret_here
+eowfhlvxlbmzvcvzb
+epbr-jwt-secret-production
+erpoihnerpnerher430@nroge
+ert***
+esta-es-el-reto-tecnico
+estacionamento
+esto-eS-UNA-palabra-SECRET4
+everybody knows it
+evilfactorylabs
+ewtewrytrejghkkjhl
+examnode
+example
+example-secret
+example-secret-key
+example_key
+examplesecret
+express-typescript-starter-token
+eyJ.eyJp.dB
+eyJ0eXAiOiJKV1Q...
+eyJhbGciOiJIUz...
+eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0
+fYA3#pM5cPSzRDgZ
+facefood
+fake_jwt_secret
+fastlane-ci-test
+fatboar-ci
+fdeffzefzefzfz
+fdkjsfsfdskfd
+fghdkjkfjgfghfjd
+fidelicard
+figs have wasps inside so i do not engage
+finalProject
+fiscaluno
+fkgnsldkjlkasjfl
+foobar
+foobar2
+foobarbaz
+foodora-super-secret
+foooo
+footoken
+forbiddenfruit
+framework
+frasesecreta
+friends_secret
+frqgqharhhea
+fskjnkjn4bnj43hb
+fssFSS
+fuckyouasshole
+futjakot
+fxg==213*x
+gWC93b#gg^s9
+gallery-api-development
+gallery-api-test
+gam3cub3
+gamete89
+gauravtalele
+gdg
+generate_strong_secret_here
+generated-token
+generatetoken
+getanewone
+geuAFR83_IXfpwx742$QQwfgiut45_cs
+gfgfhfh
+gfvhdsfdsfdsfns
+ghjdlHskfu@dsds$
+ghjfkgjhewo8o
+ghoul
+glabfesecret
+go-admin
+gocoronago
+golden-wings-jojo-anime
+goldenshop
+golfer
+good secret
+good_luck
+goodtogo
+google-client-secret
+google_client_secret
+gorm-demo2
+greenbay
+grumpycat
+gvfnhcjermherutyuib
+h4tech
+hadfkh
+hahaha
+handsomeUnicorn
+hangang
+happypaws_secretkey
+hard jwt secret
+hardsecret
+harryPotter
+harshitkishorraviverma
+hashSecretKeyYanusik
+hauvq
+hdfsajkfhlsdkja
+hdgjghdkjghkjjkdgjdgdgkjdghkj
+healthy-diet
+heeeeloooo
+hello
+hello Slana
+helloisthismewhouarelookingfor
+helloo
+hellotheresecret
+hellothisissecret
+helloworld
+helloworldiliya
+hellp
+heodxx_D998sds12
+hex game secret private key
+hgdhsbdbubbdjbdjbdj
+hghgdghdshgbnxhjasdhj
+hhAye49oOXSUeXxzjNglLasMd9LeyeuV
+hhlskjflkasjdflkasj;dflk
+hiddentkeyyyyyyyy
+hjhjhdjjdjf
+hohoholololo
+holaadqwdw33r$smdkfmekqpqpfdsf.@avcbhr
+homologacao
+hrenVam
+hrjZTjqJOLtkMHqr52OiOF4EeFhgxFCD
+hsherehancksrheererscsftrtr
+hvtschoolsecret
+hydra
+hydrogen_honey
+hyperf-chat
+hyperf.plus
+i hate hakers
+i love cupcakes
+i-am-very-secret-key
+i-will-be-a-billionaire-oneday-and-my-family-will-be-proud-of-me
+i3_s-t?=8+n~
+iDontHaveAnySecrets
+i_am_password
+i_am_secret
+iamasonofGodnotaslave
+id498sjOwx
+idontknow
+iloveguhyeon
+ilovekuma
+ilovesmolgurl
+im so lonely
+ima_important_secret
+impulsoh
+in the hall of the mountain king
+includeiostream
+indique una frase o valor de preferencia.
+inisoa
+innoscript
+insecure
+insecure_default_secret
+insert_your_random_key_here
+instapysecret
+iron_man
+it can't rain all the time
+it-is-dangerous-to-be-right-when-your-gf-is-angry-and-wrong
+itheima
+its a secret
+its a totally secret thing
+its-a-secret
+itsasecret
+iygkh4NaBIePUkswPkzyZksS3
+jIgBi_F5g5SB_QylpluwfI_QtYOgpgqUScXZI3F6
+jWtEeV2k19
+jWtSeCrEt
+jabfkb
+jaimeynovingesupetsfr
+jaivik-jaayaka
+jakusytqrtsgjsk
+janu
+javachinna
+javainuse
+javamaster
+jcjbdcvjkbswdakjcvb
+jcnfcrecetiejcne
+jdnfksdmfksd
+jdsjfjkfdjkkkfk
+je suis un secret
+jesuisunsecret
+jesus-est-mon-bon-berger
+jffiuiusddf
+jgkjfklffjlfksdf
+jhjkhggasdfjgajdf
+jkfsbdkjbdfkbsflkqewq
+jkrbgiqwvfkbwkjsgws
+jksfkjsfd
+jlanfrup52
+jlksadjoUUWUWaasdaUUUsjdosa
+jobsitychat
+jonsoku
+jordanisagoober
+jose
+js2onsecreasdte@dsd1$$$@Dsda1dPR0Dsaso###
+jsakdlfljadsmview12
+json-web-token-secret
+json_web_token_secret
+json_web_token_secret_key
+jsonwebtokensecret
+jujudhaukopaisa200rs
+jum_sul_pan_secret_key
+jwt
+jwt key
+jwt secret
+jwt secret key
+jwt-conduit-secret
+jwt-dev-secret
+jwt-secret
+jwt-secret-SOMETHING
+jwt-secret-here
+jwt-secret-string
+jwt-secret-value
+jwt-secret_events
+jwt-token-secret-key-for-encryption
+jwtClave
+jwtGrokonezSecretKey
+jwtKey
+jwtPrivateKey
+jwtS3cr3t
+jwtSecret
+jwtSecret should be declared in .env
+jwtSecret-Placeholder
+jwt_hash_secret
+jwt_loe_zjsk_0o
+jwt_sec
+jwt_secret
+jwt_secret_password
+jwt_test
+jwt_token
+jwtqualquersecret
+jwtsecret
+jwtsecretkey
+jxcvbhbmbvxkhbjkvxh
+jxoGfiQqqgvHtv4fLzI
+kFW^=2C.77j&2sb>'H]V-WLCz==^XukX
+kaanErSecretKey
+kaikeba
+kalebra versh mern
+kanbu-dev
+kapankaya
+kcJwtSbk74ykKWIL
+kdfgsuiefguigarsy
+keep it secret
+keep it secret keep it safe
+keeyyyyyy
+kejnovalitnejno
+key_qa
+keyboard cat
+keyboard_cat
+keyboardcat
+keysecret
+khamsone
+khbhjjhgcjvhjv
+kjhsdjshvkjhkjsdbccsdbckjsbkjvc
+kjvnjkkfjbkfjbv
+kokos
+kunming
+kwfeknvjbvjrbvrbvjbjjbjbrj
+lakjghdfjhbg
+laksdfkljakl
+lala#2jdsf
+lalalala
+lamhan
+lax
+learnr-level-seven-classified
+lesecret
+lifeofdevelopersatworld
+ligma_b@llz
+litepost.io
+liv-jwt-secret-for-node-program-natours
+lkdjfaoldkfjadfldkjlfkadfkadkjr
+lkjhgf
+lkskksksksndhddfd
+localhost
+lodaaaaaa
+lol
+lolo
+longer-secret-is-better
+longsecret
+lorem ipsum key
+lylyly
+lyx&yyc-jwt
+m&XAFzBpM3es
+mF8QNsmZpO
+mWSeBCibjsGw5AuHIlP7eUGxzXfWIRHW
+maclesecretedontjesuisleseuleàconnaitrezehahahahahahaha
+madera_api
+magapapamatcha
+make-that-shmoney
+makeasecret
+manishforeignnerd
+marine
+martolexjwttoken
+master_sword
+math_jwt_secret_01
+may-the-force-be-with-y0u-and-fuck-disney
+mazhiwen
+med-cab
+meemmemory
+meme
+meow
+mernBB-default-secret
+mern_shop_courses_deploy
+miCodigoSecreto
+miSecretJwtToken
+miclavedetokens
+miclavesupersecreta.
+mihir
+minhemlighet
+minimalpm@secretl0ngtext
+misecreto
+mitokensecreto
+mjUqSyAFfoiivGAxHbtA
+mkFOcbEeBGBHLKiMxM6m
+mockSecret
+mocksecretjwt
+modals
+modeDeveloppement
+mofath
+mohamedtalaat
+monbeaupotager
+most_secret_key
+mothors_stone
+mr7baaaa
+msCaseStudies
+msadmlmclfkmkvlmv
+mude isso em produção
+mweifhbwehfewijkfwe
+my secret
+my secret string
+my top secret key
+my$ecretK3y
+my-256-bit-secret
+my-32-character-ultra-secure-and-ultra-long-secret
+my-application-efficiently-encrypted-and-protected
+my-dummy-jwt-token
+my-dummy-token
+my-example-secret-jwt-token
+my-jwt-secret
+my-name-debarshi-mondal-secret-token
+my-name-is-shubham-and-i-am-bad-boy
+my-node-supercut-secret
+my-own-special-jwt-secret
+my-own-very-deadly-secret
+my-secret
+my-secret-from-env-file-in-prod
+my-secret-jwt-key-placeholder
+my-secret-key
+my-secret-key-for-jsonwebtoken
+my-secret-key-which-should-be-changed-in-production-and-be-base64-encoded
+my-secret-token
+my-super-secret
+my-super-ultra-long-secure-password
+my-ultra-secret-and-ultra-long-code
+my-ultra-secure-and-miximise-long-secretly
+my-ultra-secure-and-ultra-long-secret
+my-ultra-super-secure-and-super-long-secret
+my-very-best-jsonwebtoken-unique-key
+my-very-unique-secure-secret-long-long
+my-very-very-very-long-secret
+myJWTsecretKeepThisSafe
+myJwtSecret
+mySecret
+mySecretKey
+mySecretStr
+mySecretToken
+mySecretjwt
+mySuperSecureSecret
+my_precious
+my_secret
+my_secret-key
+my_secret_jwt
+my_secret_key
+my_special_secret
+my_super_secret_key
+my_super_secret_password
+myadminsecretkey
+mybizcorner
+myideapool-session-secret
+myjwt
+myjwtscrete
+myjwtsecret
+myjwttokensecret
+mylibauth
+mylittlesecret
+mynameisjeff
+myrewolf-secret
+mysJwtSecret
+mysU1p3rsEcreTpasSworD
+mysecret
+mysecretisnothere
+mysecretisnotheretoo
+mysecretkey
+mysecretpassword
+mysecretsshhh
+mysecrettoken
+mysupersecret
+mysupersecretpassword
+mysupperpasswort
+myteste
+myverysecretword
+myverysecuresecret
+nTzg7**T$zzn$6Qu
+nWSEuoWcbeKSN
+namdepzai
+nanana
+need_a_better_secret
+nest-generic
+neura mocha
+neverstoplearning
+niceSecret
+njsgjsnjkgjsjkgbsjk
+njxkklkxskl
+nksdmlkfmfsd
+no-secret
+noclue
+node-core-app
+node-start
+noob-olympics-will-be-best-event
+nooneshoutouchhere@#&*1
+noonewilleverguess
+nosecret
+nososecret
+not-so-secret
+not_a_working_secret
+not_secure
+notasecret
+notasecreta
+note_dev
+notsecure
+nova scotia scova notia
+ntJJIqQ0rphzn9mMgMpM
+null
+nuo
+nvadov;inavawevaio32rbabaeenernar
+oauth
+oethjiothjpj
+oirgdjnc$@dfg
+omg wtf bbq bojap ftw awesome legit
+orion collab
+oskarroSecretKey
+oudelali
+our biggest secret
+oursecret
+ousecret
+oxbridgeAuthentication
+oxygen
+p
+p*x*R7T&Hs$p?h$J
+p7fTW+gyYSZ[X2?6
+pagarme
+pakiSTAN
+pancakes
+paraguiapoa
+passphrase big very huge man
+password
+password1
+penguins live in the desert to eat cactus
+phudeptrai
+pimpmasterguapo
+pin-kod
+pinkflyingmonkeysarefunny
+pleaseChangeThisSecretForANewOne
+pleaseuserandomuniquekey
+plz set up secret.
+podiumJSRocksJWT
+polarbear
+poronpompero
+pp
+prdxn
+pricetagit_thekey
+prime256v1
+prod-jwt-secret
+prodSecret
+projectauthentication
+projectsecret
+ps_jwt_secret_key
+ptit
+public
+put_a_secret_here
+put_your_secret_in_env_variable
+putidemojwtseCrect013keyideO
+q.nF9L\v8gLT\M:KxYd$#f*m#3`gJ*uZ
+qeuioajklsdzcmadsqew
+qgqhqeghwgwebrwnwe
+qqq
+qschhh
+qsjdhfkqjsdfjklhqsdflkjqsIUYghj$
+quinoa-shop
+quora
+qwaqwa
+qwe1r3f
+qweqweqw
+qwerstdgwvdwqtdvqwvdhgvdshg
+qwerty
+qwertyuiohgfdsdfghj
+qwertyuiop
+r69+T3ExQgCbWzHF8u+SJetNPGMBDe30
+rahasia
+rahasia-negara
+random
+randomSecretJustToRunSomeTests
+randomText
+random_string
+randomrandom
+randomstring
+randomstringgg
+react_chat
+really-secret-key-here
+recipe-journal
+relax take it easy
+replaceThisSecretWithStrongSentence
+replacethis
+rh0LiNdhTIovxRVDiMJWhoaemKpCQOfN28N+TXQR
+ricoduukasecrets
+roger-takeshita-secret
+ronin
+roomtaskcontroller
+root
+rrroorerew
+ruibarbosafcrb
+rutnviprojectissoawesome
+rweesdfgdfhhfgii31
+s##47qy<U~sjY.xK
+s3cR3t
+s3cr37
+s3cr3t
+s3cre7
+s3cret_c0de
+sAlAiSuUs
+salt
+saltJWT
+samplesecret
+sancorzep
+saraismyprincess
+save-dev-and-enter
+saya-adalah-seorang-pelajar-dan-anaks
+screel_labs_assessment_jwt_secret
+sdbfjhsdjhfdf
+sdjgveufwbdmnrbcinf
+sdkfdlefefko
+sdkjandlkasndsflksdnfldk
+sdlfshdfk sdklf dsn
+sdlkfjdfalfj
+sdmes
+secet
+secret
+secret cat
+secret goes here
+secret key
+secret key for token
+secret string
+secret untuk jwt
+secret used for the jwt token
+secret value
+secret-but-not-so-secret
+secret-dataplus-inventario
+secret-for-jwt
+secret-key
+secret-not-provided
+secret1
+secret11
+secret2
+secretDefectSystem
+secretJWT
+secretJWTStringKey
+secretKey
+secretKeyHasAValueNow
+secretSecret
+secretToken
+secret_JWT
+secret_env
+secret_for-json#web$token
+secret_from_config
+secret_here
+secret_jwt
+secret_jwt@env_var_must
+secret_jwt_b1n_dev
+secret_jwt_string_key
+secret_key
+secret_phrase
+secret_secret_super_secret
+secret_server_key
+secret_this_should_be_longer
+secretcode
+secreteducationapp
+secretfish
+secretforjwt123@
+secretissecet
+secretissecret
+secretjwt
+secretjwtkey
+secretjwtpasswordfordevonly
+secretkey
+secretkeybuatgroupproject
+secretkeyhere
+secretl0l
+secretmagic
+secreto
+secretoFull
+secretosuperseguro
+secretpacman
+secretpassword
+secrets
+secretsecret
+secretsecrethushhush
+secretstring
+secretststststs
+secretstuff
+secrettoken
+secretvalue
+secretword
+secure-your-dreams
+securekey
+securestringforjsonwebtoken...
+sekret
+sekrit
+senhabadaras
+session_secret
+set this to something random
+sg must be lunched today by the virtue of grace
+shengxiang
+shh
+shh-its-a-secret
+shhHhh...
+shhh
+shhh-secret
+shhh...itsasecret
+shhhh super secret code here bro
+shhhhh
+shhhhhhared-secret
+shhhhhhhhh_it_is_a_secret
+shhhhhhhhh_test_secret
+shipping
+shootingauthentication
+sieu_bi_mat
+silly
+sit3n
+sjjZlW4VXCtqgcOYxAXtaxu2QJLCzwQRw
+sjknahdjsahdjhbs
+sk_test_32uin...2nio
+skip
+sl_myJwtSecret
+sleepisgood
+slick-rick
+smartblind
+smkccss
+smsGateWayChilltalk.tld
+snbdsbdhdsndsdsdhsh
+sniffMeButYouNeverWill
+so much to learn to set up a database
+so secret that it hurts a b1t
+some Secret
+some basdasdasda asd asdada
+some other secret as default
+some secret code...
+some secret string
+some secret value
+some stupid movie api
+some unique secret string here
+some-dev-secret
+some-jwt-secret
+some-secret
+some-secret-key
+some-secret-shit-goes-here
+some-secret-string
+some-strong-secret
+someAwesomeScret
+someJWTstring
+someRandomSecretWord
+someRandomString64Bytes
+someRandomStringWhichIsDefinitelyNotAASFIIITM
+someSecret
+someSecret@ideas.delivery
+someSecretKey
+someSecretThatShouldntbeExposed
+someSecretValue
+some_jwt_secret
+some_secret
+some_secret_jwt
+someawesomesecret
+somekey
+somekindasecret
+somelongstring
+somepass
+somerandomstring
+somereallylongsecretkey
+somesecret
+somesecret@python.com
+somesecretkeyforjsonwebtoken
+somesecretstring
+somesecretthingie
+somesecrettoken
+somesesesesesesesesese
+somesuperkey
+somesuperlongsecret
+somesupersecretkey
+somesupersecretsecret
+something
+something-here-dont-leak-it
+somethingSecret
+somethingconfidential
+somethingdeeponsecretthings
+somethingsecret
+somethingsecrets
+somethingsekret
+someverylongrandomstring
+sortear-uma
+special-sauce
+splitkeyactivity
+spookySecretVeryVeryVerySecretive
+ssshhh_its_a_secret
+sssshhhh
+staart
+stagingJWTSecret
+standoutwithourleg
+stepstonesecret
+stringthatiwillchangelater
+strong_random_bytes
+supaa secret
+super secret
+super secret code goes here
+super secret sauce
+super secret string
+super secret token
+super-classified-top-secret-jwt-secret
+super-secret
+super-secret-jwt-hashkey
+super-secret-key
+super-secret-mock-demo
+super-secret-secret
+super-secret-string
+superSecret
+superSecretKey
+superSecretKeyForJwt
+superSecretLOL
+superSecretTokenOfLedesma
+superSecreta
+super_seckret
+super_secret
+super_secret_code
+super_secret_key
+supermegasecret
+superscret
+superscretsecret
+supersecret
+supersecretdevsecret
+supersecretjwt
+supersecretkey
+supersecretmon
+supersecreto
+supersecretpassword
+supersecretsuper
+superstream
+supersupersecretkey
+supertajneheslo
+sususu
+swaaaggy$$$
+swsh23hjddnns
+t3st_s3cr3t
+tajnikljuc
+tanyakelompok2
+tcjwt
+tdJçld50=1jhKKl
+techgeeknext
+tempjwtsecretfordevonly
+tentecerveja
+terserahAjaDeh
+terserahajadeh
+test
+test jwt secret
+test-jwt-secret
+test-secret
+test123test
+testApp
+testSecret
+test_jwt_secret
+test_secret
+test_task
+test_token_secret
+testasdf
+testejwtsecret
+testing
+testing-access-token-secret
+testing-jwt
+testingJWTSecret
+testing_secret
+testjwtsecret
+testkey
+testnilesh
+testpass
+testpassphrase
+testsecret
+testsecretkey
+testtokenforsecurity
+testunnotechjwttoken
+the secret
+the secret message is stay safe
+the-very-secret-secret
+theJWTSecret
+the_very_secure_and_long_secret_for_jwt
+thermal85
+thesecret
+thesocialnetwork
+this is for development
+this is jwt secret
+this is my secret
+this is my secret ...shhh
+this is my test of a secret. It can be anything
+this is our secret
+this is the extremely secret secret
+this-is-a-brobdinagian-ultra-secure-and-ultra-long-secret-for-pearlsworth
+this-is-a-secure-key-which-should-be-32-char-long
+this-is-a-very-long-string-to-make-sure-it-is-32-characters-long
+this-is-a-very-super-powerful-secret-password
+this-is-an-example-of-a-very-long-secret-password
+this-is-greatest-secure-and-greatest-long-secret
+this-is-my-jwt-secret-key-fellas
+this-is-the-collaborative-project-between-sarthak-and-anand
+this-is-the-hardest-key-to-crack
+this-is-the-secret
+this-secret-must-be-32-character
+this-secret-strength-is-over-nine-thousand
+thisCanBeAnyStringYouWant
+thisIsASecret
+thisIsNotSecretKey
+thisIsTheJwtSecretPassword
+thisIsTheSecretOfTheToken
+this_is_a_jwt_secret_key_no_one_will_ever_know_this_key
+this_is_a_secret_phrase
+this_is_not_secure_generate_a_password
+this_is_secret
+this_is_the_top_most_secret_i_wish to have_for_my_app_lets_do_thisss
+this_is_your_other_secret
+this_is_your_secret
+thisisInventoryMSAppp
+thisisakeytoalltheprivatedata
+thisisasamplesecret
+thisisasecret
+thisisasecretformyapp
+thisisasecretformyapptl7stizi
+thisisasecretkey
+thisisatestsecret
+thisisaverylongstring
+thisisit
+thisisjwtsecret
+thisislonglongsecret
+thisismynewcourse
+thisismysecret
+thisismysecretkey
+thisisnotsuchabigsecret
+thisissecret
+thisissecrete
+thisissomesecretornot
+thisisthejwtsecret
+thisisthesecretforjwt
+thisisthesecretkey
+ticky-yayis
+ticky_yayis
+timRichard$
+time-to-write-history-building-item7-webapp
+tj61s5saqa=-1as
+tj670==5H
+tj67O==5H
+tj760==5H*
+tmnt.js
+tmntjs
+tmtcbogoss
+todo
+todo-app-super-shared-secret
+todolist-secret-key
+token
+tokenSecret
+tokenizerandlexer
+tokensecret
+tonyjwtsecret
+top-secret
+top-secret-phrase
+topSecret52
+top_secret
+topsecret
+totallysecretsecret
+totodantiti
+trabajando.jwt.secret
+tribes
+trololo
+truongdeptrai
+trybeer05
+tttzzziiii
+tuHlDtSr7DO4JxxmjfuddNHOdgZLhgVC
+tuan
+tzsecretswhatsup
+uaa_jwt_secret
+uf7e^WaiUGFSA7fd8&^dadh
+ultimate
+ultra-secretul-si-ultra-lungul-meu-secret
+ultra-secure-safe-long-secret
+ummm it's a secret
+unauthorized
+undefined
+uniflow
+uniuniuniuni
+unsafe_jwt_secret
+unsecreto11GAGparaJWT
+unsecure_fallback
+unsecure_password
+urethndvkngkjdbgkdkdnbdmbmdbdf
+url-shorter-jwt-secret-key
+use-env-secret
+use-this-or-gen-new-secret
+userOverriden
+uwhduiedhwuehdhwehduih
+v3ry_important_s3cr3t
+vWsBwvuJ4phW89bh
+valuecoders
+valueedsdkmfnlkdflkn
+vegasecret
+vemdezapbebe
+veronica
+very insecure secret
+very secret secret
+very-secret-value
+very-secure-and-unbreakable-secret
+verySecret
+veryVerySecretKey
+very_important_secret
+very_secret
+very_secret_key
+verysecret
+verysecretive
+verysecretkey
+victory
+virtus pro
+vkiller
+votre-phrase-secrete
+votre_code_secret
+wYbUgUPYWxHd9y
+wYbUgUPYWxHd9y5rtd
+walker
+washington
+wave
+we should keep this a secretmaybe
+wearemeanpeople
+weatherapp
+web_app
+wefhwqiugh3fuihrewofiwqerhgtq
+welcometoironman
+well-known-value
+wewhatsgram jwt
+whatever your secret for your jwt is
+whatever99
+whatinthewld
+where-the-challenge-begins-ultra-secure-secret
+wilson-moraes
+wonderfulevergreensecret
+woo
+working_on_weekends_fucking_suuuuuuuuuuuuucks
+wow so secret
+wow_this_is_some_secure_password
+woyebuzhidaoxiediansha
+write_something
+wutangclan
+xGPbhZH0TM1NakjgWjGtwFqocBUNlrsi
+xablau
+xbsabdRs
+xkfo02fySirnyk&aj4iZkjeo
+xmoMtn5YelPZsYAnQRKBNxUOiIwhR3Sf
+xswords
+xswordsUserServerSecret
+xxx
+xxxx
+xxxxx
+xxxxxx
+xxxxxxxx
+xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+y5oEr+Hcmnjjf1soU4vOfw==
+yarimasune
+yassine
+yetgTXUzFG3sLviN
+yippy
+yolopass
+yor secret key
+you secret string
+youhavetochoseone
+youllneverguessthishahaha
+your JWT secret.
+your client secret
+your json token secret
+your jwt secret
+your personal secret goes here
+your secret API key
+your secret key to SIGN token
+your signature secret
+your super secret key
+your-256-bit-secret
+your-hidden-secret
+your-jwt-secret
+your-secret
+your-secret-code
+your-secret-jwt-key
+your-secret-key
+your-secret-whatever
+your-super-secret-string
+your-top-secret-key
+yourSuperSecretPassword
+your_client_secret
+your_jwt_secret
+your_jwt_secret_key
+your_jwt_secret_word
+your_secret
+your_secret_here
+your_secret_jwt_key
+your_secret_key
+your_secret_keys
+your_secret_string
+your_secret_token_or_key
+your_secret_value_dont_share_this
+your_super_secret_secret
+youraccesstokensecret
+yourappkey
+yourjwtsecret
+yoursecret
+yoursecrethere
+yoursecretkey
+yt_target_okr
+yxcvbnmnbvcxyxcvbnm
+yyyy
+yyyyyy
+zawarudo
+zenvarocks node .
+zenvarocks nodemon .
+zxcvz
+zxsde====zaaa
+{cas-cipher}eyJhbGciOiJIUzUxMiIs...
+{noop}secret
+{very secret key}
+{xor}LDo8LTor
+{{ oidc_playground_jwt_secret }}
+}x"aEZkk24cbXc$&/Q7cD6KtR]]^?4
+Тайна
+密钥
+﻿@$@$sKHaPpycAmpuS@#@#

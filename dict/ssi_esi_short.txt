@@ -1,0 +1,3 @@
+</nowiki>
+<esi:debug/>
+<esi:include src=http://google.com/>

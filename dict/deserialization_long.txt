@@ -1,0 +1,11 @@
+/
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
+/api/json
+/deserialize
+/helpdesk/WebObjects/Helpdesk.woa
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
+/json
+/parse
+/service/~baseapp/UploadServlet
+/{{externalAuthContainer}}
+/{{interface}}

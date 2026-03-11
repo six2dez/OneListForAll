@@ -1,0 +1,15 @@
+/Library/WebServer/Documents/index.html
+/etc/apache2/httpd.conf
+/private/var/log/appstore.log
+/usr/local/nginx/conf/nginx.conf
+/var/log/apache2/access_log
+/var/log/apache2/error_log
+/var/log/nginx/access_log
+/var/log/nginx/error_log
+MSIE 9.0; Macintosh
+Macintosh; Firefox/27
+Macintosh; MSIE 9.0
+Macintosh; Mac OS; en-US; Firefox/27
+Macintosh; Mac; en-US; Firefox/27
+Mozilla/5.0; MSIE 9.0; Macintosh
+open help:///System/Applications/Calculator.app
