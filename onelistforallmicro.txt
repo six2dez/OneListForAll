@@ -19,7 +19,6 @@ wso.php
 cgi-914/netauth.cgi
 some/route
 psol/htmldoc/index.htm
-*.pdf
 pipeline.yml
 .sass-lint.yml
 db_update.sql
@@ -40,7 +39,6 @@ atompub-contacts-client
 nice
 cleaned_email_list.txt
 michaud
-小红帽.asp
 filehandler.php
 for
 affix
@@ -229,7 +227,6 @@ archibus
 download/filesets
 adminer-4.7.7.php
 wp-config.sublime-project
-*logout=yes
 cabal.project.local~
 get-version.sh
 backups.tgz
@@ -256,7 +253,6 @@ controller-manager.sh
 punctweb
 servlets
 mongo/
-jörg
 nodejs.sh
 aaaa.txt
 web/phpmyadmin/scripts/setup.php
@@ -319,7 +315,6 @@ estoque_sqlite.sql
 core.write_file.php
 java-sys
 alien
-*?mod=misc*
 wp-content/backups/wordpress.sql
 .kube/config
 panel-administracion/login.html
@@ -382,7 +377,6 @@ mkuboot.sh
 wp-config.php~bk
 sap/xml/soap/xmla/fault
 testings.php
-*do=lostpassword
 app/config/packages/dev/debug.xml
 collected_static/.env
 eastinit.sh
@@ -461,10 +455,8 @@ aptare
 editor-4.0.0-en.php
 _jcr_system/Acr_versionStorage.json
 verso
-отправить.php
 htbin/sojourn.cgi
 Rowena
-*?mode=viewprofile
 boonex
 raydium
 hacked.php
@@ -670,7 +662,6 @@ service.cnf
 joined.txt
 .prettierrc.yaml
 Zips
-*bitrix_*=
 hits.json
 scams.mp3
 call8.mp3
@@ -793,7 +784,6 @@ client_.ovpn
 server_with_db/.env
 member/login.rb
 oh-my-zsh.sh
-отладка
 logs/stats
 web.config.maj
 phpmyadmin2012/
@@ -905,7 +895,6 @@ docs/api-docs.json
 web.config.dat
 phpMyAdmin-3.1.3/
 servicedefinition
-*index.php$
 wp-content/backup/db.sql
 bin/search/search.cgi
 after_script.sh
@@ -938,7 +927,6 @@ composer.phar
 munki_repo/.env
 %69%73%70%69%72%69%74/%69%6d/%75%70%6c%6f%61%64%2e%70%68%70
 dbadmin.zip
-*products
 arcsoft
 database.yml
 .pip/pip.conf
@@ -1364,7 +1352,6 @@ rit
 phpmyadmin3/index.php
 smtp.json
 formulario.txt
-*backurl=*
 admin-custom
 blog/phpmyadmin/
 logo.php
@@ -1423,7 +1410,6 @@ kit
 simple.jsp
 s1.php
 cray
-*?action
 cooolsoft
 canada.txt
 bin/symfony_requirements
@@ -1746,7 +1732,6 @@ phoneconferencing/
 log/access.log
 eric3
 ethereum.php
-*from=mail
 cgi-exe/quickstore.cgi
 hs_err_pid.log
 extchg.sh
@@ -1817,7 +1802,6 @@ fish.txt
 pollsetup.sql
 tests/default_settings/v12.0/.env
 bea_wls_deployment_internal
-hahahaha小马.JSp
 config/parameters_dev.xml
 debug.test.php
 modlogan
@@ -1833,7 +1817,6 @@ scans
 ideal
 mm.txt
 auth.7z
-администратор.php
 untag-release.sh
 forum.zip
 2.asp
@@ -1952,7 +1935,6 @@ bac.zip
 tdavid
 dbadmin.tar.bzip2
 gponform/diag_form
-*filter_sended=
 .agignore
 proxy/
 AuthZ2.sql
@@ -2030,7 +2012,6 @@ encode-explorer_6.4/
 web/robots.txt
 .gbent
 js/tinymce
-*/brand-/*
 administrator/includes
 accommodation
 mpcgi/FileSeek.cgi
@@ -2062,7 +2043,6 @@ cgi-bin-sdb/ImageFolio/admin/admin.cgi
 lmn.php
 tortoisecvs
 cgi-sys/store.cgi
-*/search/
 2004.7z
 .php-version
 test/fixtures/.gitkeep
@@ -2073,7 +2053,6 @@ dra.php
 adminer-3.4.0
 .db-backup
 api/swagger-ui.json
-*&pm*
 mediabox404
 database.php~
 snapshot.sh
@@ -2130,7 +2109,6 @@ works_db.sql
 build/buildinfo.properties
 services
 protected/data
-*.asp*
 neak.php
 k-collect
 apps/test.txt
@@ -2145,7 +2123,6 @@ manifest/cache
 stripe/webhook
 admin2009
 .gdb.dump
-*/OID_*
 grip
 admin_imob_2
 shell.cfm.html
@@ -2156,7 +2133,6 @@ managers/proxy.pac
 iissamples/exair/howitworks/codebrws
 cgi-915/sojourn.cgi
 WEB-INF/jboss-ejb-client.xml
-logger小马.jsp
 soft
 walberg
 images_upload
@@ -2220,7 +2196,6 @@ dump.sql.tar
 pma2018
 12309.php
 adm_auth.asp
-тест
 _novo
 trace.axd::$data
 pas.php
@@ -2262,7 +2237,6 @@ validemails.txt
 .filezilla/sitemanager.xml.xml
 admin/proxy/versions
 gnome
-不灭之魂2013改进版本.asp
 php-my-admin/index.php
 pcal
 htbin/talkback.cgi
@@ -2299,7 +2273,6 @@ _archive
 sir
 lastpass.txt
 php_errors.log
-PHP检测文件夹权限.php
 incent.sql
 phpstan.neon
 .dbeaver/credentials-config.json
@@ -2575,7 +2548,6 @@ ecrire/?exec=install
 py-livredor
 ospfd.conf
 dump2.sql
-*?from=begun
 makefile.old
 interwiki.sql
 webdynpro/dispatcher/sap./com/acc_admin_welcome/com.sap.acc.admin.welcomeapp
@@ -2750,7 +2722,6 @@ awstats/data
 packagesdata_zh_cn_gbk.sql
 meow.rar
 adm.asp
-*print_course=Y
 cgi/dcforum.cgi
 auth_admin.php
 enterprise
@@ -2817,7 +2788,6 @@ vb.zip
 authorization.sh
 mt-check.cgi
 phppgadmin/
-*utm
 phpmyadmin-3.1.2
 actionapps
 hola
@@ -3102,7 +3072,6 @@ sqlbook.sql
 scgi-bin/webspirs.cgi
 siemens
 qualiteam
-cerbã¨re
 css/nsc/reset.css
 wp-license.php
 borodin
@@ -3234,7 +3203,6 @@ log/log.log
 .maintenance
 bx_1c_import.php
 plus/mybak.php
-почта.txt
 _awstats
 person.sql
 phpm/scripts/setup.php
@@ -3490,7 +3458,6 @@ bb-admin/admin.php
 cgi-bin-sdb/powerup/r.cgi
 sites/testing.html
 combo.txt
-密码：889.asp
 cgi-sys/mail/emumail.cgi
 firebase-debug.log
 drop.sql
@@ -3506,7 +3473,6 @@ CmdServlet.java
 archive.sh
 pages/interactives/sponsor-story/
 explorer
-灭天远程管理.jsp
 room/1002
 administr8
 cc.zip
@@ -3795,7 +3761,6 @@ mysmartbb
 knowledgebasepublisher
 txt*
 cgi-bin/mail/nph-mr.cgi
-вход.php
 Hacked1.txt
 wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
 elmah.axd
@@ -3912,7 +3877,6 @@ _temp
 web.config_
 scrutinizer.yml
 accounts/login.htm
-*search
 fished.txt
 naan.json
 config.inc.php.dat
@@ -3923,7 +3887,6 @@ cgi-win/nph-emumail.cgi
 clusterrollout
 exploits.txt
 xianyu/index/setp1.html
-yesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylngrequesturlbutwearedoingitonpurposewearescann
 phpcms_db.sql
 filetopia
 openbullet.txt
@@ -4717,7 +4680,6 @@ creds1.txt
 log.sqlite
 php-reverse-shell.php
 tumbleweed
-панель.php
 WEB-INF/spring-config/messaging-config.xml
 admin_flash.asp
 .remote
@@ -5012,7 +4974,6 @@ admincontent
 stolen.log
 config/locales/simple_form.en.yml
 admin.srf
-*do=pm
 netappliance
 testing.pdf
 testing.jpg
@@ -5257,7 +5218,6 @@ complaint.txt
 login/api
 dashu.php
 build/.env
-*detail.php
 thumbs
 db_net.sql
 cgi-win/directorypro.cgi
@@ -5322,7 +5282,6 @@ msadc/samples/selector/showcode
 photoupload/
 juergen
 start.php
-*/?sort=*
 jhlyadmin168/login.asp
 america,
 AdminTools
@@ -5461,7 +5420,6 @@ aspwebsoft
 d2-shoutbox
 upload/.env
 confluence/plugins/servlet/oauth/consumers/add-manually
-*/?_openstat
 script.sql
 Finds
 logout.php
@@ -5502,7 +5460,6 @@ illusion
 publish.sh
 gitlab.txt
 wp-content/plugins/photo-gallery/css/bwg_edit_image.css
-*do=lastcomments
 p/
 easyphpcalendar
 tmsnc
@@ -5626,7 +5583,6 @@ web-inf.
 all.txt
 app/config.js
 examples/download/download_private/
-土司搞基asp大马.asp
 ratliffheath
 adminshout
 Tests
@@ -5689,7 +5645,6 @@ abuse
 js/tinymce/
 a.sql
 candidatelogin.aspx
-冰锋刺客.aspx
 supervise/login.aspx
 roethlisberger
 dasusr1
@@ -5699,7 +5654,6 @@ lindsay
 sentry/
 results/.env
 vizra
-*mobile=yes*
 seagate
 web-inf/ias-web.xml
 kien
@@ -5748,7 +5702,6 @@ v2/keys/?recursive=true
 mode/
 LICENSE.html
 adminer-4.2.1.php
-*gclid
 ganglia
 piserver-aggregator.key
 admin.ex
@@ -6011,7 +5964,6 @@ _webalizer
 admin/proxy/routes
 cgi-bin/mj_wwwusr
 kubernetes/kubeconfig
-*?print=
 user.tar.gz
 mosquito
 2011.sql.tar.gz
@@ -6055,7 +6007,6 @@ frank
 letmein/
 content/add_valid_path_to_a_page/_jcr_content.feed
 default.png
-*login=yes
 pma2011
 fyodor
 affs.txt
@@ -6390,9 +6341,7 @@ var/cache/.gitkeep
 mod_survey
 wing
 _web_inf
-银河舰队大马_2014版.asp
 oxeye.yaml
-国外牛逼大马.aspx
 cgi-home/mail/nph-mr.cgi
 signin/
 install_2-0_postgresql.sql
@@ -6468,7 +6417,6 @@ configuration.php.dist
 cutesoft_client/cuteeditor/imageeditor/listfiles.aspx
 sent.php
 node.admin.inc
-上传小马.asp
 wp-content/fullwebsite.sql
 development-parts
 mediaslash
@@ -6515,7 +6463,6 @@ web.config.swp
 picturecatch.cgi
 webdisk.backup
 ce.php
-木马帮V1.1-火舌版.asp
 wqcms60.sql
 ows-bin/shop.cgi
 kohn
@@ -6773,7 +6720,6 @@ OK.txt
 web.config.temp
 synapse
 fanclub
-*?yclid
 translation.php
 debug/route
 id.rar
@@ -7080,7 +7026,6 @@ _cat/ml/data_frame/analytics
 jsonapi/user/user
 everybuddy
 ledgerwinner
-专版aspx汗血宝马.aspx
 api/action
 app_dev.php/_profiler/empty/search/results?limit=10
 API.html
@@ -7158,7 +7103,6 @@ tested.json
 offramp.txt
 backup
 TrezorModelOne
-*register
 rollup.config.js
 n0ise.sql
 phpmyadmin.box25/scripts/setup.php
@@ -7323,7 +7267,6 @@ russell
 ph1sh.txt
 kibana
 mynewsgroups
-*add_search=*
 wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.6.3
 ~games
 cgi-bin/order
@@ -7437,7 +7380,6 @@ wp-config.phpold
 cgi-bin/nagios4/status.cgi
 run-e2e-tests.sh
 admpar
-подтвердить.txt
 css/
 ur-admin.htm
 jackett/UI/Dashboard
@@ -7447,7 +7389,6 @@ allocation
 description
 memstats
 bitrix/admin/site_checker.php
-отладка.txt
 credentials.xml
 thibault
 update-closure.sh
@@ -7604,7 +7545,6 @@ meta.xml
 README.mkd
 codeship
 ASP_Client.html
-*/trackback
 save.log
 1000000.txt
 welsh
@@ -7668,7 +7608,6 @@ addressbookj2we/services/addressbook
 admin_media.php
 davenport
 websphere
-catégorie/
 swagger/doc.json
 dox.txt
 inspection.wsil
@@ -7886,7 +7825,6 @@ rulez
 admincontrol.aspx
 dotenv.env
 helsinki
-dÿzÿlus
 usemodwiki
 pdf_sample.zip
 castillo
@@ -7899,7 +7837,6 @@ monero
 omnistar
 .settings/.classpath
 config.inc.php-backup.php
-*?adm
 longshine
 ip.php
 20.txt
@@ -8347,7 +8284,6 @@ kkk.txt
 usernames.zip
 trigger.sql
 print.php
-*mark_id*
 secring.skr
 MyErrors.log
 save.txt.gz
@@ -8358,7 +8294,6 @@ api/v1/status/flags
 step1.asp
 app.env
 kadavucchol.html
-*action=ADD2BASKET
 .cshrc
 build_isolated
 plog
@@ -8686,7 +8621,6 @@ gambar.html
 ms.txt
 blog/wp-content/plugins/wp-file-manager/readme.txt
 faethon
-*do=register
 .cask
 dev.env
 media/.env
@@ -8729,7 +8663,6 @@ blog/error_log
 .cr/
 metavante
 logging.php
-форма
 phpMyAdmin-2.8.9/
 planning/src
 linuxprinting
@@ -8821,7 +8754,6 @@ login.vm
 cargo.lock
 lysator
 en/admin
-中国木马资源网-WwW.MumaSec.TK.php
 w-channel
 Makefile
 tests/default_settings/v7.0/.env
@@ -9074,7 +9006,6 @@ ruby
 cruise_config
 PHISHED.txt
 apikey.gzip
-*x=
 webser~1
 api/users
 modules_admin
@@ -9484,12 +9415,10 @@ crx/de/index.jsp
 api/v1/metadata
 addadmin
 johnytech
-rød.
 .grc
 index.php?module=Install&view=Index
 lprold
 old.7z
-отладка.php
 inktomi
 cancellable
 guanliyuan.txt
@@ -9769,7 +9698,6 @@ dockerfile
 leaks
 phpmyadmin-2.8.0.2
 dagger.json
-小马.jsp
 config/routes/dev/framework.yml
 evolutionx
 v2/stats/self
@@ -9913,7 +9841,6 @@ access.dat
 META-INF/eclipse.inf
 test_gen.caches
 functions.php~
-ÿstrand
 backup/wp-includes/wlwmanifest.xml
 boozt!
 adminer-4.0.3-en.php
@@ -10074,7 +10001,6 @@ e-blah
 .mozilla
 shells.py
 AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx?dp=1
-DJ团队.asp
 interakt
 enderunix
 thumb/.env
@@ -10099,7 +10025,6 @@ Helmetjs/.env
 web.php
 sms.7z
 ffr.php
-目录扫描读写马.asp
 kamnot-hetou.php
 .idea/scopes/scope_settings.xml
 2020.tar.gz
@@ -10174,11 +10099,9 @@ pack-a9e6fede5fa9947e97aa566caa3357ec1c1844b4.idx
 cacti
 cmdd.php
 meow
-*&print=
 .factorypath
 adminprefs
 admin/knowledge/dsmgr/users/usermanager
-*.jpg$
 files.json
 checkuser.aspx
 calling.html
@@ -10191,7 +10114,6 @@ symbol
 /api/swagger.yaml
 oftpd
 editor-4.7.5-en.php
-web_单院版.config
 php
 back.txt
 phpmyadmin.sql
@@ -10206,7 +10128,6 @@ editor-4.2.3-mysql-en.php
 clickcess
 cgis/store/index.cgi
 .fbcindex
-星外-华众-新网-虚拟主机提权专用Webshell.asp
 plus/qiang.php
 dia
 HNAP1/
@@ -10561,7 +10482,6 @@ client.conf
 sofotex
 monitor/conf
 base_common.xml
-*image
 ian
 boxes/oracle-vagrant-boxes/OLCNE/.env
 LEADS
@@ -10640,7 +10560,6 @@ settings/profile
 propel.json
 client_secrets.json
 newbbs
-在线exp专用免杀版.php
 trump.html
 git-prompt.sh
 bid
@@ -10753,7 +10672,6 @@ e/master/login.aspx
 .config/app.config
 1000p.php
 csx
-*utm_source=
 ss_vms_admin_sm/
 _vti_pvt/administrator.pwd
 montavista
@@ -10822,7 +10740,6 @@ radiobird
 consolehelp
 admin/sqladmin
 contrasena.html
-使用说明.txt
 qdebug.php
 cfg/cpp/
 home.infinity.json
@@ -11118,7 +11035,6 @@ api/common/getconfig
 allenheim
 imprice.sql
 debug.asp
-新型JSP小马支持上传任意格式文件.jsp
 lg/lg.conf
 wp-config.8
 tickets
@@ -11416,12 +11332,10 @@ bitrix/components/bitrix/desktop/admin_settings.php
 .drone.sec
 crowd/plugins/servlet/exp?cmd=cat%20/etc/shadow
 admin-login.cgi
-php版iisspy.php
 cgi-bin/pl_web.cgi/util_configlogin_act
 polkadot.txt
 fineshop
 accountnumbers.txt
-r00ts小组过防火墙马.asp
 v2/swagger.json
 app/config/database.yml~
 .key
@@ -11519,7 +11433,6 @@ shangjiahudong
 learn/ruubikcms/ruubikcms/cms/includes/required.php
 musicspecia.sql
 enter.php?phpbb_root_path=
-***
 web-life.sql
 autoupdate/
 __web_console/
@@ -12043,7 +11956,6 @@ ows-bin/emumail/emumail.cgi
 v.aspx
 feixiang.php
 admin_picks.php
-*.aspx$
 admin_pcc
 logs/access.log
 autodiscover.tmp
@@ -12262,7 +12174,6 @@ hatem
 groupware
 wp-content/adminer.php
 phpmyadmin.old/index.php
-web.release.confiп
 ceph/mon_status
 stage_create_service_dev.sh
 oneworldstore
@@ -12313,7 +12224,6 @@ cgi-exe/webmail/html/emumail.cgi
 rhinosoft
 helpz
 vwar
-cidr.txtа
 modelsearch/index.asp
 samples/.git/config
 wp-config.php-backup
@@ -12326,7 +12236,6 @@ cgi/store/index.cgi
 cgi-sys/a1stats/a1disp4.cgi
 .db.tar.gz
 usdc.zip
-*action=BUY
 asd3we.txt
 intel.dat
 admin_ht/login.asp
@@ -12343,7 +12252,6 @@ ftpsync.settings
 drphibez
 .java-version
 kindeditor-min.js
-小强asp木马.asp
 wp-admin/admin-post.php?yp_remote_get=2
 maybe_threads_unittest.sh
 closes.txt
@@ -12374,7 +12282,6 @@ test1.mp3
 gate
 xlm.txt
 session_store.rb
-*
 login_out.asp
 adminer-4.8.0-en.php
 https
@@ -12428,7 +12335,6 @@ FCKeditor24/
 SIMS.txt
 cgi-bin-sdb/sojourn.cgi
 siyu.sql
-使用方法.txt
 %2e/admin
 editor-4.7.6-en.php
 scan.txt
@@ -12646,7 +12552,6 @@ admanager
 ccguestbook
 vtiger
 phillips
-подтвердить.php
 wp-content/uploads/wp_dndcf7_uploads
 phpMyAdmin-2.11.1.2/
 networkactiv
@@ -12891,7 +12796,6 @@ group-index.xml
 pp.php
 .w3m
 setup
-*member*
 Instagram.txt
 admin/admin_login.php
 logon/LogonPoint/index.html
@@ -12977,7 +12881,6 @@ archives.bak
 rss_fetch.inc
 fresh.log
 .SyncID
-вход.txt
 bcc
 scarecrow
 user/register/
@@ -13060,7 +12963,6 @@ ftp.zip
 dbadmin.sql.sql
 bray
 Saved/
-*?mod=attachment*
 nc-sa
 bmadmin
 rongji/admin/
@@ -13076,7 +12978,6 @@ Dockerfile.old
 cgi-915/traffic.cgi
 customers.txt
 enigma
-электронная_почта.txt
 buying.txt
 pma4
 env.bak/
@@ -13224,12 +13125,10 @@ vkhod.php
 semaphore.yml
 meta-inf/application-client.xml
 cgi-914/magiccard.cgi
-contraseÃ�Â±a.txt
 mod_auth_radius
 Test.dat
 jssresource
 StyleCopReport.xml
-*subpart=*
 abcd
 bkp.zip
 r57.php
@@ -13642,7 +13541,6 @@ var/cache/
 Readme.html
 gophish.txt
 _teamcity
-toby57解析加密一句话木马.php
 admin.menu.tpl
 controls
 systemsoft
@@ -13871,7 +13769,6 @@ web-inf/liferay-portlet.xml
 admin.7z
 resetpassword.jsf
 offline.txt
-*do=stats
 .prettierrc.js
 nuke
 tomcat6/tomcat-users.xml
@@ -14037,7 +13934,6 @@ docker/secrets.json
 general.sql
 privacy.html
 api.tgz
-*/feed
 levels
 scammer.html
 2023users.txt
@@ -14285,7 +14181,6 @@ gophertiles
 siteadmin/login.cfm
 hofmann
 camera.zip
-*level=liger*
 check.mp3
 New%20folder%20(2)
 sqlnet
@@ -14438,7 +14333,6 @@ lists.php
 admin_loader.php
 forgot_pass.php
 iisadmin/
-отправить
 peripheral
 infor
 kkjj/config.js
@@ -14530,7 +14424,6 @@ magento/.htaccess.sample
 display.php
 app-service.yaml
 q1w2e3r4t5
-*sputprtn
 banips.txt
 corba
 modelsearch/admin.asp
@@ -14911,7 +14804,6 @@ pheap
 documents
 adminui
 public/web/js/add/com.js
-炽天使.asp
 webdb/scripts/setup.php
 wp-config.php-bak
 backup.zip
@@ -14931,7 +14823,6 @@ guardado.php
 wed_n/
 2021.tgz
 2021
-*WorkingVersion
 ecf
 docproject/help/html2
 env.bak
@@ -15049,7 +14940,6 @@ test/unit/.gitkeep
 local/.env
 samples/docker/deploymentscripts/.env
 uc/env
-r00ts无FSO组建大马.asp
 reset_tables.sql
 App_Data/database.mdf
 sql/dump.sql
@@ -15087,7 +14977,6 @@ stage_deploy_prod.sh
 fabric
 apis.zip
 yp/*.asp?*
-sãnchez
 base64.jspx
 users/popup/*
 mail.py
@@ -15103,7 +14992,6 @@ emul.js
 forum/cgi-bin/
 login_out.aspx
 applicattions
-红狼ASP木马--Anfly免杀版.asp
 logon.htm
 save.dat
 detail/
@@ -15114,8 +15002,6 @@ wechat.mp3
 translator/
 i-mall
 /wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-ACat-附数据库驱动-jdk1.5.jar
-*utm_campaign=*
 server/app.py
 licence
 wp-content/uploads/gravity_forms/logs/gravityforms.txt
@@ -15332,7 +15218,6 @@ type
 tradesoft
 adminscripts
 !.gitignore
-不灭之魂.asp
 interactivephp
 cbsms
 associated
@@ -15357,7 +15242,6 @@ druid/coordinator/v1/leader
 react_todo/.env
 sendmail
 run.zip
-mof提权带回显带清楚命令版本.php
 Telerik.Web.UI.DialogHandler.aspx
 lapan.php
 secure/dashboard.jspa
@@ -15604,7 +15488,6 @@ wp-content/plugins/mailcwp/mailcwp-upload.php
 auth/join
 admincatgroup.php
 yyy.php
-*/gallery/*order=*
 cgi-bin/dcforum.cgi
 lasersoft
 abs/
@@ -15756,7 +15639,6 @@ kvm.sh
 adminftp
 admin_restore.php
 cmdynet
-WebShell系列(一)---XML.txt
 2015.rar
 config/routes/annotations.xml
 update_authors.sh
@@ -15822,14 +15704,12 @@ adminpanel.html
 save-kiya.txt
 uk.txt
 WEB-INF/faces-config-Options.xml
-тестирование.php
 sysadm.html
 bin/newsdesk.cgi
 extern.php
 romedahl
 admin/logging.jsp
 admin-authz.xml
-подтвердить
 admin_site
 tinyfilemanager-2.0.2
 logs/ig_security.log
@@ -15841,7 +15721,6 @@ Snapchat
 testing1.txt
 wp-config.php.bk
 admloginuser.cgi
-почта
 antiboard
 convert-uulib
 aircrafts
@@ -15864,7 +15743,6 @@ ensim
 dvd.sql
 .nsf
 webbuilder/script/locale/wb-lang-zh_cn.js
-отправить.txt
 site_admin
 once-as-root.sh
 .keys.yml
@@ -16063,7 +15941,6 @@ tested
 includes/cache.inc
 confluence/plugins/servlet/oauth/view-consumer-info
 nhibernate.config
-虚拟机主机提权大马.asp
 okena
 hotmail.txt
 pelesoft
@@ -16898,7 +16775,6 @@ start.jsp
 pravesh.gzip
 AspxSpy2014Final.aspx
 metasploit.zip
-*price_min=
 limes
 administrator.html
 Configs/Current/authServerSettings.config
@@ -16926,7 +16802,6 @@ hit.txt
 login-sys
 dcadmin.cgi
 mysql_ins.sql
-传说中的草泥马4.0.asp
 kpanel.php
 update.sql
 agadmin
@@ -16964,7 +16839,6 @@ format
 eduha
 daotao
 administrator/account.js
-草莓webshell.asp
 scanz
 search.asp?word=*
 .drone.yaml
@@ -17353,7 +17227,6 @@ openpgp
 +cscoe+/logon.html
 sysbotz
 you.html
-*?pm*
 ci-pipeline.yaml
 audit.dict_export.sql
 .web-server-pid
@@ -17833,7 +17706,6 @@ orbitscripts
 api/device/protocol
 _scriptlibrary
 .no-sublime-package
-Jsp反弹shell.txt
 api/cask/graphql-playground
 travers
 hybridconfig/
@@ -18244,7 +18116,6 @@ ibex
 ledgernano.json
 444.txt
 setup.zip
-панель.txt
 ultracms
 ips.zip
 restricted_access
@@ -18684,7 +18555,6 @@ throttle
 web.config.cfg
 flip
 jensen
-*ggl
 j.rar
 ~admin/
 countersoft
@@ -18990,7 +18860,6 @@ cplay
 testserver.sh
 scgi-bin/shop.cgi
 phpmyad-sys/
-*orderby=*
 cleans.zip
 insert_data.sql
 graphiql.php
@@ -19518,7 +19387,6 @@ api/v1/namespaces/default/services
 content_types-inc.pot
 webadmin/index.html
 html.tar.bz2
-*utm_source=*
 deploy
 docker-compose.yml
 webspheresamples/singlesamples/increment/increment.html
@@ -19782,7 +19650,6 @@ news
 concatus
 iiscart
 os4e
-*print
 oldfiles
 cgi-bin/luci
 count.php
@@ -19928,7 +19795,6 @@ db_net2.sql
 gasoft
 phpMyA/
 double.json
-*price_max=
 phone.html
 gbot
 mybloggie
@@ -19991,7 +19857,6 @@ checkadmin
 actuator;/env;
 phpmyadmin4
 timed
-银河舰队大马_2015专版asp大马.asp
 config/packages/test/twig.php
 etcd-apiserver-server.crt
 /api/swagger-ui.html
@@ -20042,7 +19907,6 @@ typo3temp/
 snaps.zip
 telligent
 website.sql.zip
-*openstat
 webcom
 ext/build
 api/device/service
@@ -20187,7 +20051,6 @@ g00nshell-v1.3.php
 lance
 ws_ftp
 dbzz_stock_crm.sql
-图片马.jpg
 adminer-4.7.5-mysql.php
 phpMyAdmin-2.6.4-pl3/
 muquit
@@ -20527,7 +20390,6 @@ web-inf
 13629693
 qaz.php
 ncr
-панель
 ows-bin/mail/emumail.cgi
 aadmin/
 saltstack
@@ -20661,7 +20523,6 @@ admin/login.rb
 sql/phpMyAdmin/
 lionmax
 project.ini
-тестирование.txt
 cgi-exe/shopper.cgi
 houtai
 adaptcms/admin.php?view=/&view=stats
@@ -20778,7 +20639,6 @@ img
 phpmyadmin-2.6.2
 cfs
 administrator/index.html
-rã¸d.
 IP.txt
 bitcoincash.txt
 phpgreetz
@@ -20796,7 +20656,6 @@ WEB-INF/faces-config-ModalPanel.xml
 as-admin
 debug/mysql_debug/pprof
 addresses.json
-*BACKURL=*
 overland
 edit.php
 dbase.gz
@@ -20936,7 +20795,6 @@ panapai.php
 cgibin/magiccard.cgi
 trees
 panel/vendor/phpunit/phpunit/src/util/php/eval-stdin.php
-*pid=
 dev.sql
 nbproject/project.xml
 content/add_valid_path_to_a_page/pagename.docview.xml
@@ -20997,7 +20855,6 @@ api/graphiql
 simpan.php
 app/config/routing_dev.yml
 website_sale_stock_product_availability.xml
-*/print/
 script-solution.de
 template.xml
 hostapd.sh
@@ -21099,7 +20956,6 @@ pro/*/reserva*
 graphite/
 desktop.ini.php
 docker/
-*QUERY=
 installation/
 site.tar.bz2
 server.php
@@ -21149,7 +21005,6 @@ remote-entry
 onez.sql
 _wpeprivate/config.json
 default.html
-тест.php
 rd.php
 translate
 ext/
@@ -21477,7 +21332,6 @@ adadmin.asp
 .godir
 plugins/servlet/gadgets/makerequest?url=https
 apache2triad
-修改属性.asp
 hndunblock.cgi
 Failed.log
 author
@@ -21539,7 +21393,6 @@ kj332235/config.js
 env.test.js
 random
 manage.aspx
-脱库工具.php
 mysqladminhksin/scripts/setup.php
 options
 swagger-ui/index.html
@@ -21641,7 +21494,6 @@ m4/libtool.m4
 denglu
 administrator/phpMyAdmin/
 sites/1.php
-80sec内部专用过世界杀软休积最小功能超强超猛宇宙第一.asp
 ak47.php
 manage.inc
 bradmark
@@ -21711,7 +21563,6 @@ config/packages/test/swiftmailer.xml
 apc-nrp.php
 var/package
 jpmorgan.txt
-*register=yes
 phprojekt
 cgi-bin/ezshopper/search.cgi
 jkmanager-auth
@@ -21973,7 +21824,6 @@ apidoc
 news/wp-includes/wlwmanifest.xml
 project-admins
 build_isolated/
-仗剑孤行搜索可读可写目录脚本.php
 xslt/
 active6
 admin_process
@@ -22007,7 +21857,6 @@ fcgi-bin/echo2
 e-market
 db.tar.bz2
 cgi.cgi/ImageFolio/admin/admin.cgi
-目录扫描.asp
 verizon
 .htaccess.inc
 printers/ids/1
@@ -22069,14 +21918,12 @@ test/fixtures/users.yml
 gps.txt
 customers.mdb
 stats.pdf
-笠勝電子有限公司-找工作機會-68848493.htm
 admin_ranks.php
 Web.config.bak
 helm
 phpoldinfo.php
 .do
 index.htm
-вход
 WEB-INF/jboss-deployment-structure.xml
 errors/.env
 Chat
@@ -22101,7 +21948,6 @@ bch
 structure.sql
 de.yml
 wp/
-*action=ADD_TO_COMPARE_LIST
 aadb_dump.sql
 phoetux
 entry.count.image
@@ -22273,7 +22119,6 @@ chinery
 admin2.cgi
 artikeladmin
 docker-compose.ci.yml
-форма.txt
 .rdb.tar
 __main__.py
 ton.txt
@@ -22338,7 +22183,6 @@ uber/phpMemcachedAdmin
 sites/1.txt
 bible
 .electron
-*level=12*
 cms/portlets/Telerik.Web.UI.DialogHandler.aspx?dp=1
 userhome
 sut.log
@@ -22353,7 +22197,6 @@ xfkjnew/config.js
 storm
 saml
 sys/kbd/1
-php读取iis.php
 blocked.php
 api/command/list
 span
@@ -22384,8 +22227,6 @@ bbs.old
 oscadmin
 adminer-4.2.3-mysql-en.php
 siteadmin.htm
-TNTHK加密小马.asp
-*/comments
 admin;
 core/vb5/route/channel.php
 up
@@ -22422,7 +22263,6 @@ fb.php
 administration.sql
 paneli.txt
 .hgtags
-*PAGE_NAME=detail_slide_show
 cgi-bin-sdb/emu/html/emumail.cgi
 netscreen
 sametime/stadmin
@@ -22441,7 +22281,6 @@ api/swagger/index.html
 cgi-exe/store/index.cgi
 brouwer
 davide
-*_openstat
 cgi/store.cgi
 dupe1.txt
 pyproject.toml
@@ -22505,7 +22344,6 @@ armagetron
 hacks.php
 view-source
 cpanel_file/
-*.swf
 config/packages/dev/swiftmailer.yaml
 index.tgz
 twitch.txt
@@ -22819,7 +22657,6 @@ magic.default
 skins
 webmail.php
 block.txt
-菊花聊天室.php
 app/config/parameters_test.php
 2000.txt.gz
 tmp/error_log
@@ -22840,7 +22677,6 @@ actuators/dump
 admin/proxy
 bbs/ajax/render/widget_tabbedcontainer_tab_panel
 complete
-*/page=
 config/initializers/wrap_parameters.rb
 phpmyadmin-old
 pengujian.txt
@@ -23075,7 +22911,6 @@ config/xml
 vicomsoft
 prometheus/
 phpPgAdmin/
-*Password
 mcmurtrey/whitaker
 seed.dat
 actions_admin
@@ -23094,7 +22929,6 @@ vbulletin.BAK
 moxftp
 adminwww
 mailer.json
-苦咖啡专用.jsp
 phpbb-auction
 pp
 web/phpmyadmin/
@@ -23403,7 +23237,6 @@ admin/admin-login.php
 seir
 netbus
 supportpro
-*do=addnews
 index1.htm
 api/index/loanslist
 orders.txt
@@ -23553,7 +23386,6 @@ chetcpasswd
 admin/login.jsp
 cgi-pbin/board/index.php
 look.json
-*back_url=*
 contributor
 infradig
 OA_HTML/bin/sqlnet.log
@@ -23649,7 +23481,6 @@ admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx
 spins
 dat
 ucdoskeymsylskcom/admincenter/public.login.do
-админ.txt
 node
 snaps.gzip
 .s3cfg
@@ -23724,7 +23555,6 @@ lib/bundler/man
 documentation
 openid/connect/jwks.json
 sql/phpmy-admin/index.php
-*utm_medium=*
 .lock-wscript
 WalletConnect.txt
 cole
@@ -23742,7 +23572,6 @@ clarkconnect
 phpmyadmin/config.inc.php
 pages/header/bottom.jsp
 php-fpm.conf
-jã¶rg
 config.inc.php.com
 castle
 composer
@@ -23814,7 +23643,6 @@ vincent
 arescom
 phishing.php
 scanning
-*search*
 parker
 CHANGELOG.html
 openbiblio
@@ -24375,7 +24203,6 @@ status?full
 hack.html
 cgi-local/traffic.cgi
 phpcoin
-*SHOWALL_1=
 custom.config
 theme_static/.env
 200000000.txt
@@ -24474,7 +24301,6 @@ log_admin.php
 mcnews
 database_backup
 user_secrets.yml
-老V.jsp
 ldap/
 password.mdb
 ids_log
@@ -24491,7 +24317,6 @@ adminer-4.6.3.php
 firebase-config.js
 phish.txt
 users/ajax/*
-*forgot_password=yes
 frontend
 realnode
 m4/ltoptions.m4
@@ -24532,7 +24357,6 @@ autobuild.sh
 logan
 osads
 .cpan
-*/page-1/
 var/lib/cloud/instance/user-data.txt
 webscriptworld
 xw1.php
@@ -24826,7 +24650,6 @@ mythic
 phpMyAdmin-2.7.7/
 massimiliano
 saya.html
-тест.txt
 bin/hsx.cgi
 admin9140212d/login.php
 wp-content/uploads/db_backup.sql
@@ -24958,7 +24781,6 @@ travis_test.sh
 admin_poll
 corbu/mimes/images/createdir.txt
 sock.txt
-*?brand_
 multitech
 cgi-perl/a1disp3.cgi
 fcgi-bin/a1stats/a1disp3.cgi
@@ -24969,7 +24791,6 @@ v3/graphiql.min.js
 websql/scripts/setup.php
 pegasus
 wp-content/plugins/ajax_multi_upload/readme.txt
-合成图片马命令.txt
 phpmyadmin-2.7.0-pl1
 wp-includes/js/wp-embed.min.js?ver=4.7.13
 db/phpmyadmin3/index.php
@@ -25565,7 +25386,6 @@ desiderata
 scripts/setup.php
 bitrix/cache_image
 scgi-bin/auktion.cgi
-*&st*
 htbin/powerup/r.cgi
 npds
 ekg
@@ -25579,7 +25399,6 @@ getmail
 baepfawm.html
 alpha.rar
 .sqlite.bz2
-PostgreSQL数据库操纵.php
 test-patch.sh
 wp-content/uploads/file-manager/log.txt
 ready.zip
@@ -25601,7 +25420,6 @@ doctrine
 actuator/loggingconfig
 Exodus
 express-web
-从注册表中读存在路径.aspx
 webadmin/admin.php
 framework
 webstat
@@ -25687,7 +25505,6 @@ hagstrom
 modelsearch/login.aspx
 phpmyadmin-2.10.0
 account.cfm
-Asp_Aspx_Php一句话合集.txt
 matthew
 mssql
 config/packages/test/webpack_encore.yaml
@@ -26012,7 +25829,6 @@ speed
 app/config/packages/test/validator.yml
 topic/*/smart/
 test.7z
-*minprice=*
 inc/tiny_mce/
 logs/1.txt
 desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx?dp=1
@@ -26493,7 +26309,6 @@ config/packages/html_sanitizer.yaml
 cloud-config.json
 euro.txt
 O.txt
-*/slide_show/
 priv8.php
 alabanza
 log-dump.sh
@@ -26885,7 +26700,6 @@ doinst.sh
 river
 8.txt
 mmm.txt
-josé
 cgi-915/a1disp3.cgi
 test/version_tmp/
 rathaphan.txt
@@ -26909,7 +26723,6 @@ ll.txt
 tests/drupal-test/.env
 tis
 valids.txt
-*action=DELETE_FROM_COMPARE_LIST
 Cargo.lock
 push
 debugger.html
@@ -26939,7 +26752,6 @@ boekj/%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 check-all.sh
 carnegie
 engineering
-法克僵尸大马.asp
 DocProject/Help/html
 nine.txt
 core.is_trusted.php
@@ -26986,7 +26798,6 @@ wangdefa
 netmailshar
 utimaco
 database/phpMyAdmin2/
-*name=
 .cpcache/
 actionpoll
 export_presets.cfg
@@ -27128,7 +26939,6 @@ wed/*.asp$
 spammer.zip
 citypost
 jaxbelement
-*?fb_xd_fragment
 sql/sqladmin/
 udp.txt
 __recovery/
@@ -27234,7 +27044,6 @@ auth/login.php
 devops.txt
 onlinearts
 tumblr.txt
-josã©
 admin/bootstrap.inc.php?mgp=danc3uf@t&c=whoami
 jean-yves
 biztalkserver
@@ -27509,7 +27318,6 @@ clean-package.sh
 flowerfire
 un.sh
 adminbackups
-SPS-3.0免杀.php
 plexcor
 account/sign_up
 expat
@@ -27583,7 +27391,6 @@ initial-setup.sh
 admin_rotator.php
 award
 victims.txt
-админ
 login.aspx
 wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
 htbin/pfdispaly.cgi
@@ -28067,7 +27874,6 @@ care
 fileopen
 cgi-win/webspirs.cgi
 mobile/script/main.m.js
-*_openstat=
 .inc.php
 mysql/db/
 t00.php
@@ -28093,7 +27899,6 @@ texas
 readme.MD
 cc-errors.txt
 token.json
-上传小马.jsp
 dream4
 chart
 werner
@@ -28336,7 +28141,6 @@ microtica.yaml
 app/etc/local.xml.template
 subs
 wp-content/plugins/revslider/temp/update_extract/raiz0__cjadm.php
-*ajax=
 web/django/settings.py
 fcgi-bin/14all-1.1.cgi
 pearlinger
@@ -28856,7 +28660,6 @@ databases
 modulesadmin
 slaves.sh
 atalasoft
-*.gif$
 assets
 Example.txt
 jiran
@@ -28934,7 +28737,6 @@ news.old
 wp-content/plugins/yuzo-related-post/assets/js/admin.js
 fileadmin/_temp_/
 kuber
-*print=
 addressbookj2wb
 urls.zip
 admin/proxy/discovery
@@ -29243,7 +29045,6 @@ adminer-4.7.0-mysql-en.php
 shadercompiler-64bit-1.log
 cgi.cgi/auktion.cgi
 Xinware
-*?st*
 php/mysql
 chats.7z
 checklogin.asp
@@ -29261,7 +29062,6 @@ ext/libtool
 admin/panel.html
 posix.sh
 todbo
-*BACK_URL=*
 peers
 apps/vendor/phpunit/phpunit/phpunit
 packs.txt
@@ -29615,7 +29415,6 @@ n-base
 .gitlab
 validator.do
 webalizer.old
-*PAGE_NAME=search
 started.txt
 safe.html
 login/
@@ -29636,7 +29435,6 @@ Hacked
 phpmyadmin123/index.php
 cgi-exe/emu/html/emumail.cgi
 e
-内网扫描header.jsp
 Valid
 zuckerberg
 variables.tf
@@ -29762,7 +29560,6 @@ b-product
 vasco
 packeteer
 Russia.txt
-08小组内部交流专用.asp
 ci/solano.yml
 vbzoom
 network/
@@ -29826,7 +29623,6 @@ backups.inc.old
 api/reload
 planet
 pkg.sh
-*order=*
 phpmyadmin_/scripts/setup.php
 changelog.sh
 _nodes
@@ -29852,7 +29648,6 @@ taobaoapi.sql
 server.sql
 larry
 bin/a1disp3.cgi
-тестирование
 events../.git/config
 called.txt
 LICENSE.md
@@ -29964,7 +29759,6 @@ admins.html
 .tox/
 kube-node-unpacker.sh
 adminer-4.2.4.php
-MSSQL控制程序.asp
 signup.txt
 k
 oadb.sql
@@ -30217,7 +30011,6 @@ norm
 cron/cron.sh
 /v1.x/swagger-ui.html
 sql/php-myadmin/index.php
-*Chld
 r99.php
 includes/fckeditor/editor/filemanager/upload/php/upload.php
 admin_newspost.php
@@ -30270,7 +30063,6 @@ vtund.conf
 dbdump.sql.tar.bzip2
 queue-module.pot
 cgi/sojourn.cgi
-*?page=1
 app.json
 var/classes.json
 activision
@@ -30520,7 +30312,6 @@ semikkapattadhu.php
 panel/admin
 hat
 auth/realms/master/.well-known/openid-configuration
-*img/managers/docs/
 .dsk
 nix
 gtasoft
@@ -30583,7 +30374,6 @@ WEB-INF/faces-config-tooltip.xml
 authors
 zzz.php
 amazon
-*/?lang.ru
 server/
 bitrix/php_interface/dbconn.php.old
 php.old
@@ -30667,7 +30457,6 @@ customize.js
 project
 uadmin
 sanchez
-админ.php
 logs/errors.log
 realchat
 dapo
@@ -31027,7 +30816,6 @@ revsshclient.py
 .config/gcloud/config_sentinel
 cgi-mod/netauth.cgi
 fud.json
-*.php
 .eggs/
 way
 haht
@@ -31097,7 +30885,6 @@ visual
 infoviewapp
 .nakignore
 opentext
-*act=viewinfo*
 phpmyadmin-2
 Dumps
 dev.sh
@@ -31352,7 +31139,6 @@ Db.script
 christoph
 denmark
 balance.json
-*do=feedback
 api/authentication
 login/super
 net-snmp
@@ -31549,7 +31335,6 @@ apis/custom.metrics.k8s.io
 coverage.sh
 admin/backups
 ezsqliteadmin
-*Ya_
 GoogleService-Info.plist
 dotbbs.sql
 accesstopic.asp
@@ -31990,7 +31775,6 @@ app/config/core.php
 hamweather
 .npmrc
 README.html
-虚拟主机提权专用Webshell去后门版.asp
 config-test.sh
 COPYRIGHT.txt
 app/config/packages/doctrine_migrations.xml
@@ -32234,7 +32018,6 @@ cgis/netauth.cgi
 goform/advsetdns
 db/phpMyAdmin-2
 yuyang.php
-*struct_id=*
 throttled
 var/lib/cloud/instance/vendor-data.txt
 start-all.sh
@@ -32282,7 +32065,6 @@ sql-ledger
 aonix
 mailreader
 Finds.txt
-почта.php
 mailtraq
 web.config.dev
 .vscode/ftp-sync.json.save
@@ -32341,7 +32123,6 @@ accountlist.jsp
 web.configb
 diendan2
 editor-4.6.2.php
-администратор
 appinstallstatusservlet
 pwr/simplyink/pwr/6n66vqj2/rawdata/
 WEB-INF/faces-config-InputNumberSpinner.xml
@@ -32442,7 +32223,6 @@ cart/
 phpMyAdminold/
 .AppleDB
 telemetry
-很好用的扫可读可写目录asp脚本xwdir.asp
 queues.txt
 80.txt
 kitadmins
@@ -32559,7 +32339,6 @@ bamboo-specs/bamboo.yml
 common.php
 futuresoft
 access_logs.txt
-*auth=yes
 test/bdd/fixtures/agent-rest/.env
 phpma/
 bitrix/stack_cache
@@ -32739,7 +32518,6 @@ test-lib.sh
 hypermail
 v2/graphiql.min.css
 mack
-*subaction=userinfo
 phpMyAdmin4.8.4/
 account_number.txt
 nettica
@@ -32915,7 +32693,6 @@ albert
 stringsvc/count
 user-mode
 renew
-*/?f=*
 getFile.cfm
 ovidentia
 2009.txt.gz
@@ -33023,7 +32800,6 @@ migrate.html
 hawking
 1c_exchange.php
 application/cache/
-牛逼免杀提权隐藏大马.asp
 response
 config/packages/dev/routing.xml
 rabbitmq
@@ -33143,7 +32919,6 @@ admin_account.php
 $metadata
 leafnode
 index~
-上传马.aspx
 admission_controller_config.yaml
 spring/spring-aop/subresource
 set-up
@@ -33332,7 +33107,6 @@ bbs.php
 oa.sql
 bitrix/php_interface/dbconn.swp
 bamboo/
-*from=adwords
 app/config/packages/prod/doctrine.xml
 eggs
 0-flannel.conf
@@ -33704,7 +33478,6 @@ webapi/v1/system/accountmanage/account
 .screenrc
 Admin.txt
 _dockerfile
-mysql脱库.php
 Chek.txt
 conexant
 phpmyadmin-2.11.6-all-languages
@@ -33783,7 +33556,6 @@ wp-config.php.un~
 sesame
 xmr.txt
 live.json
-dã¿zã¿lus
 .index.php~
 wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.3.44
 app/config/packages/webpack_encore.xml
@@ -33874,7 +33646,6 @@ debug/status
 adminer.sql
 js/buttons.js
 logs/saves.log
-*/?view=*
 club_admin
 old/wp-includes/wlwmanifest.xml
 filehandler
@@ -33940,7 +33711,6 @@ encode-explorer_6.2/
 fakesassemblies
 livefeed
 bbs/member.php
-*add*
 hantar.html
 wp-commentsrss2.php
 fozmail
@@ -34029,7 +33799,6 @@ skin/js/common.js
 adm.rb
 admin/auth.inc.php
 wwwroot
-零魂PHP一句话木马客户端.htm
 phpmyforum
 v1/altair
 admin_usrmgr
@@ -34097,7 +33866,6 @@ surgemail/
 webresolve
 xlm
 pre-applypatch.sample
-*utm_content=*
 1.asp
 administrator/components/com_joommyadmin/phpmyadmin/
 yerramsetti
@@ -34284,7 +34052,6 @@ admin_awards
 vendor/composer/license
 .git/hooks/applypatch-msg
 cgi-perl/sojourn.cgi
-*/from_ya
 solucija
 main.jsp
 getcategoryinfo.sql
@@ -34514,7 +34281,6 @@ surat.php
 /ui/
 telphin.log
 webcgi/traffic.cgi
-传说中的hcker.asp
 2011.sql
 kj/%e6%96%b0%e8%9c%82%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 gemilang
@@ -34897,7 +34663,6 @@ divine
 interwoven
 create_result.sql
 .old.env
-администратор.txt
 file::extattr
 lib/phpunit/util/php/eval-stdin.php
 store/app/etc/local.xml
@@ -34911,7 +34676,6 @@ py-compile
 templates/beez3/
 app/unschedule.bat
 uber/phpMyAdmin
-极其隐蔽的pHp小马穿插在正常页面中.php
 administrator/account.html
 .yo-rc.json
 tests.csproj
@@ -35049,7 +34813,6 @@ logmasuk.json
 called.zip
 ardour
 simplog
-*tourpoisk
 2007
 api/v1/status/label/<label_name>
 transform
@@ -35165,7 +34928,6 @@ tiny
 themes.old
 ugs
 clearinghouse
-ã¿strand
 xt.sql
 core/install.php
 7
@@ -35332,7 +35094,6 @@ cgi/FileSeek2.cgi
 config/packages/framework.xml
 subscription.php
 cafe
-электронная-почта.php
 phpMyAdmin-3.1.0.0/
 skin1_admin.css
 Whatsapp.txt
@@ -35356,7 +35117,6 @@ skims.txt
 cloisterblog
 aliacom
 login/panels
-*index.php
 new_install.sql
 phpmyadmin2013
 musicmatch
@@ -35372,7 +35132,6 @@ cgi.cgi/bb-hist
 age
 WEB-INF/classes/demo.xml
 jsrpc.php
-grã©gory
 nylon
 linkhub
 nywila.txt
@@ -35526,7 +35285,6 @@ clients.sqlite
 .config/filezilla/recentservers.xml
 menu.inc
 adminarea/admin.cgi
-*change_password=yes
 eth.txt
 acnews
 administrator/login
@@ -35724,7 +35482,6 @@ rock
 peoplesoft
 multitheftauto
 images/zh-cn/logo.ico
-app.js
 static_user/.env
 opa-debug-js
 pom.xml.releaseBackup
@@ -36029,7 +35786,6 @@ st-js-be-2020-movies-two/.env
 scripts/mail/nph-mr.cgi
 gulpfile.js
 migra.yml
-*back_url_admin=*
 wp-config.sav
 viart
 padivam.txt
@@ -36235,7 +35991,6 @@ cgi.cgi/loadpage.cgi
 wp.rar/
 egroupware
 wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=update_plugin
-*maxprice=*
 ftpglide
 cgi-bin/nobody/nobody/loginquick.htm/cgi-bin/rdfs.cgi
 j.txt
@@ -36581,7 +36336,6 @@ graphql-playground-html
 webpage
 telerik.web.ui.webresource.axd?type=rau
 adminpro
-*?pdg
 lilikoi
 osd.jsp
 admin/header.jsp
@@ -36663,7 +36417,6 @@ bb-admin/index.cgi
 upload.json
 access.log
 pma2018/index.php
-*PAGE_NAME=user_post
 cgi-bin-sdb/newsdesk.cgi
 api/auth/v1/pin/verify
 out.log
@@ -36771,7 +36524,6 @@ rpm-install.sh
 qmail
 server/app.js
 wang.gzip
-форма.php
 beat
 api/liferay
 cam.zip
@@ -36814,7 +36566,6 @@ testingg.zip
 why/*
 sites/demo/
 bbs/admin_index.asp
-ACat-附数据库驱动.jar
 shell.jpeg.php
 lines
 search_keywords/*
@@ -36841,7 +36592,6 @@ netoffice
 ez-ticket
 compusource
 wp-admin/admin-post.php?wpematico-action=settings_tab_settings
-pHp一句话扫描脚本程序.php
 Passwords.dat
 demo.txt
 softiacom
@@ -36881,7 +36631,6 @@ js/zeroclipboard.swf
 checkundef.sh
 ows-bin/sbcgi/sitebuilder.cgi
 config/database.yml_original
-Serv-U本地权限提升工具.php
 xx.png
 src/
 main.php
@@ -37294,7 +37043,6 @@ masuk
 api/admin/role
 ffftp.ini
 beautifier
-上传马.php
 scanning.txt
 actions/seomatic/meta
 admin.frontpage.php
@@ -37368,7 +37116,6 @@ signin.htm
 pages/oneorderindex.jsp
 uji
 nhanvien
-内网探测.jsp
 hndUnblock.cgi
 cgi/webspirs.cgi
 admin2/login.php
@@ -37472,7 +37219,6 @@ wifi_base.shtml
 Partners/application/configs/application.ini
 cluster/cluster
 on-off-test.sh
-*?vidget
 apis/authentication.k8s.io
 sms.txt
 post
@@ -37708,3 +37454,415 @@ godep-save.sh
 .coafile
 asterisk@home
 birt
+_next/static/chunks/
+_next/data/
+__nextjs_original-stack-frame
+_nuxt/
+__nuxt/
+_astro/
+.vercel/
+.netlify/
+/readiness
+/livez
+/readyz
+/startup
+/prometheus/metrics
+/debug/vars
+/debug/requests
+/_cluster/health
+/_cat/indices
+api/openapi.json
+.well-known/openapi.json
+.well-known/openapi.yaml
+amplify.yml
+cdk.json
+pulumi.yaml
+strapi/
+_strapi/
+directus/
+ghost/api/
+contentful/
+sanity/
+realms/master/.well-known/openid-configuration
+auth/realms/master
+__sentry/
+_sentry-debug/
+.cursor/
+graphql/playground
+v1/chat/completions
+v1/completions
+v1/embeddings
+v1/models
+v1/images/generations
+v1/audio/transcriptions
+v1/moderations
+api/v1/chat/completions
+api/v1/models
+api/v1/embeddings
+ollama/
+api/tags
+api/generate
+api/chat
+api/show
+api/ps
+api/pull
+api/version
+gradio/
+gradio/config
+gradio/api/
+gradio/file/
+gradio/upload
+gradio/queue/join
+gradio/queue/status
+gradio/info
+gradio/favicon.ico
+streamlit/
+_stcore/
+_stcore/health
+_stcore/stream
+_stcore/allowed-message-origins
+langserve/
+langserve/playground/
+langchain/
+langsmith/
+invoke
+flowise/
+api/v1/chatflows
+api/v1/predictions
+api/v1/credentials
+api/v1/assistants
+dify/
+console/api/setup
+api/v1/workflows
+api/v1/datasets
+qdrant/
+qdrant/dashboard
+collections
+api/v1/collections
+v1/schema
+v1/objects
+api/v1/heartbeat
+milvus/
+weaviate/
+chromadb/
+pinecone/
+api/kernels
+api/sessions
+api/contents
+lab/
+voila/
+hub/login
+nbconvert/
+mlflow/
+mlflow/api/2.0/mlflow/experiments/list
+tensorboard/
+wandb/
+aim/
+neptune/
+clearml/
+bentoml/
+model.onnx
+model.pt
+model.pth
+model.safetensors
+model.gguf
+model.bin
+model.json
+tokenizer.json
+tokenizer_config.json
+vocab.json
+special_tokens_map.json
+.openai
+openai.yaml
+.env.ai
+.env.openai
+ai.yaml
+ai/config
+ai/config.json
+llm-config.json
+llm-config.yaml
+.huggingface/
+.huggingface/token
+api/models
+huggingface/
+vllm/
+localai/
+v1/internal/model/status
+tgi/
+litellm/
+models
+generate
+system_prompt.txt
+system_prompt.md
+prompts.json
+prompts.yaml
+training_data.json
+training_data.csv
+dataset.json
+fine_tune.jsonl
+ai/
+ai/admin
+ai/chat
+ai/settings
+chat/
+chatbot/
+copilot/
+assistant/
+.mcp/
+mcp.json
+.cursor/mcp.json
+.claude/
+.claude/settings.json
+.aider/
+autogpt/
+agentgpt/
+crewai/
+agents/
+workflows/
+openai/v1/models
+openai/v1/chat/completions
+openai/deployments
+api/openai/v1/models
+api/openai/v1/chat/completions
+.well-known/ai-plugin.json
+ai-plugin.json
+v1/audio/translations
+v1/audio/speech
+v1/files
+v1/fine_tuning/jobs
+v1/assistants
+v1/threads
+v1/batches
+ollama/api/tags
+ollama/api/generate
+ollama/api/chat
+ollama/api/version
+api/push
+api/create
+api/copy
+api/delete
+api/blobs
+api/embeddings
+gradio/api/predict
+gradio/heartbeat
+queue/join
+queue/status
+queue/data
+api/predict
+api/predict/
+_stcore/host-config
+_stcore/st-allowed-message-origins
+langserve/playground
+langchain/docs
+stream
+input_schema
+output_schema
+config_schema
+flowise/api/v1/chatflows
+flowise/api/v1/nodes
+flowise/api/v1/predictions
+flowise/api/v1/credentials
+flowise/api/v1/tools
+flowise/api/v1/assistants
+flowise/api/v1/variables
+flowise/api/v1/apikey
+api/v1/apikey
+dify/api/
+dify/apps
+dify/datasets
+console/api/login
+console/api/workspaces
+api/v1/chat-messages
+api/v1/completion-messages
+api/v1/workflows/run
+api/v1/messages
+qdrant/collections
+points/search
+dashboard/#/collections
+v1/.well-known/ready
+v1/.well-known/live
+v1/meta
+chroma/
+api/v1/tenants
+api/v1/databases
+api/terminals
+api/kernelspecs
+api/nbconvert
+api/shutdown
+lab/api/
+lab/tree
+lab/workspaces
+voila/render
+tree/
+notebooks/
+hub/api
+hub/api/users
+hub/spawn
+hub/admin
+jupyterhub/
+jupyterhub/hub/login
+jupyterhub/hub/api
+mlflow/api/2.0/mlflow/registered-models/list
+mlflow/api/2.0/mlflow/runs/search
+mlflow/ajax-api/2.0/mlflow/experiments/list
+ajax-api/2.0/mlflow/experiments/list
+api/2.0/mlflow/experiments/list
+api/2.0/mlflow/registered-models/list
+data/plugin/scalars/tags
+data/environment
+data/logdir
+data/runs
+wandb/settings
+clearml/api
+model.h5
+model.pkl
+model.joblib
+pytorch_model.bin
+tf_model.h5
+adapter_model.safetensors
+adapter_model.bin
+adapter_config.json
+tokenizer.model
+vocab.txt
+merges.txt
+generation_config.json
+preprocessor_config.json
+sentence_bert_config.json
+modules.json
+model_index.json
+diffusion_pytorch_model.safetensors
+.openai/
+.anthropic
+.anthropic/
+anthropic.json
+ai.env
+.llmrc
+llm_config.json
+llm_config.yaml
+ai_config.json
+ai_config.yaml
+prompts.txt
+prompt_template.txt
+prompt_templates.json
+.promptflow
+.promptflow/
+openai_api_key.txt
+api_keys.yaml
+.litellm_config.yaml
+litellm_config.yaml
+litellm_proxy_config.yaml
+openai.json
+.huggingface/cached_tokens
+.cache/huggingface/
+.cache/huggingface/token
+hf/
+generate_stream
+v1/engines/list
+v2/models
+v2/health/ready
+v2/health/live
+v2/repository/index
+v2/models/model/infer
+localai/models
+localai/v1/models
+model/info
+model/list
+key/info
+key/generate
+spend/logs
+openllm/
+training_data.jsonl
+dataset.csv
+dataset.jsonl
+eval_results.json
+eval_results.csv
+fine_tuning_data.json
+fine_tuning_data.jsonl
+conversations.json
+conversations.jsonl
+chat_history.json
+chat_history.jsonl
+embeddings.json
+embeddings.npy
+labels.json
+annotations.json
+corpus.json
+corpus.jsonl
+data.jsonl
+rag_data.json
+knowledge_base.json
+documents.json
+documents.jsonl
+ai/admin/
+ai/dashboard
+ai/playground
+ai/models
+ai/api
+ai/logs
+chat/playground
+chat/api
+chat/completions
+chatbot/admin
+chatbot/config
+assistant/chat
+copilot/chat
+llm/
+llm/admin
+llm/chat
+llm/config
+llm/models
+.mcp.json
+mcp/config
+mcp/servers
+.vscode/mcp.json
+.claude/mcp.json
+mcp_config.json
+auto-gpt/
+superagi/
+superagi/api
+taskweaver/
+agents/config
+agents/list
+agents/runs
+agent/status
+agent/config
+agent/tasks
+workflows/run
+workflows/list
+ray/dashboard
+ray/api/jobs
+ray/api/serve/applications
+serve/
+serve/docs
+triton/
+triton/v2/models
+bentoml/docs
+bentoml/metrics
+seldon/
+seldon/api/v1.0/predictions
+api/v1/predict
+api/v2/predict
+api/infer
+v2/models/
+inference/
+inference/predict
+predict/
+predict
+.cursor/settings.json
+.cursor/prompts
+.cursor/rules
+.cursorignore
+.cursorrules
+.copilot/
+.github/copilot-instructions.md
+.aider.conf.yml
+.aider.input.history
+.aider.chat.history.md
+.continue/
+.continue/config.json
+.codeium/
+cline_docs/
+.clinerules
+.clauderc
+CLAUDE.md
+claude.json
