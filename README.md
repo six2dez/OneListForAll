@@ -7,8 +7,8 @@ Wordlists for web fuzzing: curated `micro`, categorized `short`/`long`, and comb
 - `onelistforallmicro.txt`: curated list (maintained manually).
 - `dict/<category>_short.txt`: per-category curated wordlist (small/quality sources).
 - `dict/<category>_long.txt`: per-category comprehensive wordlist (all sources).
-- `dist/onelistforall.txt`: micro + all `*_short.txt`, deduplicated.
-- `dist/onelistforall_big.txt`: everything combined, deduplicated.
+- `onelistforall.txt`: micro + all `*_short.txt`, deduplicated.
+- `onelistforall_big.txt`: everything combined, deduplicated.
 
 ## How it works
 

@@ -177,7 +177,7 @@ func runAssemble(args []string) {
 	configPath := fs.String("config", "configs/pipeline.yml", "config file path")
 	categoriesDir := fs.String("categories-dir", "dict", "directory with category short/long files")
 	microFile := fs.String("micro", "onelistforallmicro.txt", "path to micro wordlist")
-	outputDir := fs.String("output-dir", "dist", "output directory for assembled lists")
+	outputDir := fs.String("output-dir", ".", "output directory for assembled lists")
 	dryRun := fs.Bool("dry-run", false, "show what would run")
 	cleanAssemble := fs.Bool("clean", false, "remove existing outputs before assembling")
 	_ = fs.Parse(args)
@@ -202,7 +202,7 @@ func runAssemble(args []string) {
 func runStats(args []string) {
 	fs := flag.NewFlagSet("stats", flag.ExitOnError)
 	configPath := fs.String("config", "configs/pipeline.yml", "config file path")
-	outputDir := fs.String("output-dir", "dist", "output directory")
+	outputDir := fs.String("output-dir", ".", "output directory")
 	format := fs.String("format", "table", "table|json")
 	_ = fs.Parse(args)
 
@@ -284,7 +284,7 @@ func runList(args []string) {
 func runPackage(args []string) {
 	fs := flag.NewFlagSet("package", flag.ExitOnError)
 	configPath := fs.String("config", "configs/pipeline.yml", "config file path")
-	outputDir := fs.String("output-dir", "dist", "output directory")
+	outputDir := fs.String("output-dir", ".", "output directory")
 	_ = fs.Parse(args)
 
 	cfg, err := config.Load(*configPath)
@@ -358,7 +358,7 @@ func runPipeline(args []string) {
 	sourcesDir := "sources"
 	indexPath := "classification_index.json"
 	outputDir := "dict"
-	assembleDir := "dist"
+	assembleDir := "."
 	microFile := "onelistforallmicro.txt"
 
 	steps := []step{
