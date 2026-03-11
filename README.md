@@ -52,7 +52,7 @@ go run ./cmd/olfa assemble
 
 # Validate and package
 go run ./cmd/olfa validate-categories
-go run ./cmd/olfa stats --output-dir dist
+go run ./cmd/olfa stats
 go run ./cmd/olfa package
 
 # Full pipeline (all steps in one command)
@@ -103,8 +103,66 @@ Running the full pipeline (syncing sources + building all categories) requires *
 
 ## Configuration
 
-- `configs/pipeline.yml`: sources, filters, classification rules, dedup settings, release config.
-- `configs/taxonomy.json`: category taxonomy (236 categories with aliases, including attack vectors, CMS, frameworks, cloud, and more).
+Everything is controlled by two files:
+
+- **`configs/pipeline.yml`** — sources, filters, classification rules, dedup settings, release config.
+- **`configs/taxonomy.json`** — category taxonomy (236 categories with aliases).
+
+### Adding a new source repo
+
+Edit `configs/pipeline.yml` and add an entry to the `sources` array:
+
+```json
+{
+  "name": "my-wordlists",
+  "repo": "username/repo-name",
+  "branch": "main",
+  "paths": ["all"],
+  "tags": ["directories", "api"],
+  "priority": "medium"
+}
+```
+
+| Field | Description |
+|-------|-------------|
+| `name` | Unique identifier for the source |
+| `repo` | GitHub `owner/repo` (cloned via `https://github.com/...`) |
+| `branch` | Branch to track |
+| `paths` | Directories to scan inside the repo (`["all"]` = everything) |
+| `tags` | Fallback categories when auto-classification can't determine the category |
+| `priority` | `high`, `medium`, or `low` — high-priority sources go into `*_short.txt`, all sources go into `*_long.txt` |
+
+After adding a source, run the pipeline to pull and classify it:
+
+```bash
+go run ./cmd/olfa pipeline
+```
+
+Or sync just the new source:
+
+```bash
+go run ./cmd/olfa update --source my-wordlists
+```
+
+### Filters
+
+Global filters in `pipeline.yml` control what lines are kept or dropped:
+
+- `regex_denylist` — lines matching any pattern are removed (e.g., URLs, UUIDs, image extensions)
+- `max_line_len` — lines longer than this are dropped (default: 100 chars)
+- `trim` — strip leading/trailing whitespace
+- `drop_empty` — remove blank lines
+
+Per-category filters can be set in `category_filters` (e.g., subdomains only allow valid hostname characters).
+
+### Short vs Long split
+
+Each category produces two wordlists:
+
+- **`*_short.txt`** — only from `high` priority sources, or files with fewer than 5000 lines, or filenames containing keywords like `common`, `short`, `top`, `default`.
+- **`*_long.txt`** — all sources combined.
+
+Thresholds and keywords are configurable in `classification.short_line_threshold`, `classification.short_keywords`, and `classification.long_keywords`.
 
 ## Category taxonomy
 
@@ -116,4 +174,9 @@ Categories are defined in `configs/taxonomy.json`. Each has a canonical name and
 4. Content sampling with regex patterns (fallback)
 5. Source-level tags (last resort)
 
-Short/long split is determined by line count threshold (default 5000) and filename keywords.
+To list all available categories:
+
+```bash
+go run ./cmd/olfa list --categories
+go run ./cmd/olfa list --categories --format json
+```
