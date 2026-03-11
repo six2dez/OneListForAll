@@ -1,0 +1,36 @@
+name: build-release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+      - name: Install 7z
+        run: sudo apt-get update && sudo apt-get install -y p7zip-full
+      - name: Sync sources
+        run: go run ./cmd/olfa update
+      - name: Classify sources
+        run: go run ./cmd/olfa classify
+      - name: Build all categories
+        run: go run ./cmd/olfa build --all-categories
+      - name: Assemble final lists
+        run: go run ./cmd/olfa assemble
+      - name: Package release assets
+        run: go run ./cmd/olfa package --output-dir dist
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: onelistforall-release
+          path: |
+            dist/onelistforall.txt*
+            dist/onelistforall_big.txt*
+            dist/onelistforallmicro.txt
+            dist/SHA256SUMS

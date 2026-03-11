@@ -1,0 +1,118 @@
+{
+  "version": "3",
+  "taxonomy_file": "configs/taxonomy.json",
+  "sources": [
+    {"name":"SecLists","repo":"danielmiessler/SecLists","branch":"master","paths":["Discovery/Web-Content","Discovery/DNS","Discovery/Infrastructure"],"tags":["directories","subdomains","parameters","api"],"priority":"high"},
+    {"name":"fuzzdb","repo":"fuzzdb-project/fuzzdb","branch":"master","paths":["attack","discovery"],"tags":["payloads","directories"],"priority":"high"},
+    {"name":"trickest-wordlists","repo":"trickest/wordlists","branch":"main","paths":["discovery","technologies"],"tags":["directories","parameters","dns"],"priority":"high"},
+    {"name":"webapp-wordlists","repo":"p0dalirius/webapp-wordlists","branch":"main","paths":["all"],"tags":["cms"],"priority":"high","collapse_versions":true,"version_dir_pattern":"*/versions/*"},
+    {"name":"commonspeak2","repo":"assetnote/commonspeak2-wordlists","branch":"master","paths":["all"],"tags":["subdomains","api","parameters"],"priority":"high"},
+    {"name":"Auto_Wordlists","repo":"carlospolop/Auto_Wordlists","branch":"main","paths":["wordlists"],"tags":["subdomains","directories","parameters"],"priority":"medium"},
+    {"name":"wfuzz","repo":"xmendez/wfuzz","branch":"master","paths":["wordlist"],"tags":["directories"],"priority":"medium"},
+    {"name":"foospidy-payloads","repo":"foospidy/payloads","branch":"master","paths":["all"],"tags":["payloads"],"priority":"medium"},
+    {"name":"minimaxir-bonns","repo":"minimaxir/big-list-of-naughty-strings","branch":"master","paths":["all"],"tags":["fuzz_general"],"priority":"medium"},
+    {"name":"api_wordlist","repo":"chrislockard/api_wordlist","branch":"master","paths":["all"],"tags":["api"],"priority":"medium"},
+    {"name":"brutas","repo":"tasooshi/brutas","branch":"master","paths":["all"],"tags":["passwords","usernames"],"priority":"medium"},
+    {"name":"n0kovo_subdomains","repo":"n0kovo/n0kovo_subdomains","branch":"main","paths":["all"],"tags":["subdomains"],"priority":"medium"},
+    {"name":"samlists","repo":"the-xentropy/samlists","branch":"main","paths":["all"],"tags":["fuzz_general"],"priority":"medium"},
+    {"name":"KaliLists","repo":"3ndG4me/KaliLists","branch":"master","paths":["all"],"tags":["fuzz_general"],"priority":"medium"},
+    {"name":"kkrypt0nn-wordlists","repo":"kkrypt0nn/wordlists","branch":"main","paths":["all"],"tags":["fuzz_general","directories"],"priority":"medium"},
+    {"name":"brutespray","repo":"x90skysn3k/brutespray","branch":"main","paths":["all"],"tags":["default_credentials"],"priority":"low"},
+    {"name":"xsscx-fuzz","repo":"xsscx/fuzz","branch":"master","paths":["all"],"tags":["payloads"],"priority":"low"},
+    {"name":"bruteforce-lists","repo":"random-robbie/bruteforce-lists","branch":"master","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"Bug-Bounty-Wordlists","repo":"Karanxa/Bug-Bounty-Wordlists","branch":"main","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"HacktivistRO-Bug-Bounty","repo":"HacktivistRO/Bug-Bounty-Wordlists","branch":"master","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"buggysolid-bugbounty","repo":"buggysolid/bugbounty-wordlist","branch":"main","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"fuzz4bounty","repo":"0xPugazh/fuzz4bounty","branch":"master","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"fuzzlists","repo":"fssecur3/fuzzlists","branch":"main","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"graphql-wordlist","repo":"Escape-Technologies/graphql-wordlist","branch":"main","paths":["all"],"tags":["graphql","api"],"priority":"low"},
+    {"name":"Offensive-Payloads","repo":"InfoSecWarrior/Offensive-Payloads","branch":"main","paths":["all"],"tags":["payloads"],"priority":"low"},
+    {"name":"relevant-wordlist","repo":"pry0cc/relevant-wordlist","branch":"main","paths":["all"],"tags":["api"],"priority":"low"},
+    {"name":"Security-Wordlist","repo":"DragonJAR/Security-Wordlist","branch":"main","paths":["all"],"tags":["fuzz_general"],"priority":"low"},
+    {"name":"tk0-bugbounty","repo":"tomikoski/tk0-bugbounty","branch":"master","paths":["all"],"tags":["parameters","directories"],"priority":"low"},
+    {"name":"werdlists","repo":"decal/werdlists","branch":"master","paths":["all"],"tags":["dns","paths"],"priority":"low"},
+    {"name":"orwagodfather-WordList","repo":"orwagodfather/WordList","branch":"main","paths":["all"],"tags":["passwords","directories"],"priority":"low"},
+    {"name":"WordList-Compendium","repo":"Dormidera/WordList-Compendium","branch":"master","paths":["all"],"tags":["directories","passwords"],"priority":"low"},
+    {"name":"Wordlist-Hub","repo":"bhavesh-pardhi/Wordlist-Hub","branch":"main","paths":["all"],"tags":["directories","parameters","api"],"priority":"low"},
+    {"name":"ZephrFish-Wordlists","repo":"ZephrFish/Wordlists","branch":"main","paths":["all"],"tags":["directories","passwords"],"priority":"low"},
+    {"name":"awesome-default-passwords","repo":"nyxxxie/awesome-default-passwords","branch":"master","paths":["all"],"tags":["default_credentials"],"priority":"low"},
+    {"name":"PayloadsAllTheThings","repo":"swisskyrepo/PayloadsAllTheThings","branch":"master","paths":["all"],"tags":["payloads","lfi","traversal","sql"],"priority":"medium"}
+  ],
+  "filters": {
+    "regex_denylist": [
+      "[\\!(,%]",
+      "[0-9]{4,}",
+      "[0-9]{3,}$",
+      "[a-z0-9]{32}",
+      "[0-9]+[A-Z0-9]{5,}",
+      "\\/.*\\/.*\\/.*\\/.*\\/.*\\/.*\\/",
+      "\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12}",
+      "[0-9]+[a-zA-Z]+[0-9]+[a-zA-Z]+[0-9]+",
+      "\\.(png|jpg|jpeg|gif|svg|bmp|ttf|avif|wav|mp4|aac|ajax|css|all)$",
+      "^http",
+      "^#",
+      "data-view-component="
+    ],
+    "max_line_len": 100,
+    "trim": true,
+    "lowercase": false,
+    "drop_empty": true
+  },
+  "category_filters": {
+    "subdomains": {
+      "regex_allowlist": ["^[a-zA-Z0-9]([a-zA-Z0-9._-]*[a-zA-Z0-9])?$"]
+    },
+    "dns": {
+      "regex_allowlist": ["^[a-zA-Z0-9]([a-zA-Z0-9._-]*[a-zA-Z0-9])?$"]
+    }
+  },
+  "classification": {
+    "short_line_threshold": 5000,
+    "content_sample_lines": 100,
+    "path_rules": [
+      {"pattern": "Discovery/DNS/*", "category": "subdomains"},
+      {"pattern": "Discovery/Infrastructure/*", "category": "directories"},
+      {"pattern": "attack/xss/*", "category": "xss"},
+      {"pattern": "attack/sql-injection/*", "category": "sqli"},
+      {"pattern": "attack/lfi/*", "category": "lfi"},
+      {"pattern": "attack/rfi/*", "category": "rfi"},
+      {"pattern": "attack/os-cmd-injection/*", "category": "command_injection"},
+      {"pattern": "attack/xxe/*", "category": "xxe"},
+      {"pattern": "attack/ldap/*", "category": "ldap"},
+      {"pattern": "attack/file-upload/*", "category": "upload_variants"},
+      {"pattern": "attack/csrf/*", "category": "fuzz_general"},
+      {"pattern": "Discovery/Web-Content/CMS/*", "category_from_dirname": true, "pattern_note": "uses dirname"}
+    ],
+    "content_patterns": [
+      {"pattern": "/wp-(content|admin|includes)/", "category": "wordpress"},
+      {"pattern": "/sites/default/", "category": "drupal"},
+      {"pattern": "\\.php[0-9]?$", "category": "php"},
+      {"pattern": "\\.jsp$", "category": "jsp"},
+      {"pattern": "\\.asp[x]?$", "category": "asp"},
+      {"pattern": "<script|onerror=|javascript:", "category": "xss"},
+      {"pattern": "SELECT.*FROM|UNION.*SELECT|' OR ", "category": "sqli"},
+      {"pattern": "\\.\\./\\.\\./", "category": "traversal"},
+      {"pattern": "<!ENTITY|<!DOCTYPE.*SYSTEM", "category": "xxe"},
+      {"pattern": "\\$gt|\\$ne|\\$regex|\\$where", "category": "nosql"},
+      {"pattern": "%0[dD]%0[aA]", "category": "crlf"},
+      {"pattern": "\\{\\{.*\\}\\}|\\{%.*%\\}", "category": "ssti"},
+      {"pattern": "169\\.254\\.169\\.254|http://127\\.0\\.0\\.1|http://localhost", "category": "ssrf"},
+      {"pattern": ";\\s*(cat|ls|id|whoami|uname)|&&\\s*(cat|ls|id)", "category": "command_injection"},
+      {"pattern": "/actuator/|/manage/", "category": "actuator"}
+    ],
+    "short_keywords": ["common", "short", "small", "top", "best", "mini", "micro", "default"],
+    "long_keywords": ["all-levels", "big", "large", "full", "mega", "all_content"]
+  },
+  "build": {
+    "profiles": [
+      {"name": "all", "include_globs": ["dict/*_short.txt", "dict/*_long.txt"], "exclude_globs": [], "output_file": "onelistforall_big.txt"},
+      {"name": "short", "include_globs": ["dict/*_short.txt"], "exclude_globs": [], "output_file": "onelistforall.txt"}
+    ]
+  },
+  "dedupe": {"strategy": "external_merge", "chunk_lines": 200000, "temp_dir": "/tmp"},
+  "release": {
+    "split_7z": {"enabled": true, "volume_mb": 49},
+    "outputs": ["onelistforallmicro.txt", "onelistforall.txt", "onelistforall_big.txt"],
+    "checksum_file": "SHA256SUMS"
+  }
+}

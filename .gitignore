@@ -1,0 +1,25 @@
+# Build outputs
+dist/
+bin/
+
+# Source sync workspace
+sources/
+
+# Generated artifacts
+sources_lock.yml
+classification_index.json
+SHA256SUMS
+
+# Release archives
+*.7z
+*.7z.*
+
+# Source-attributed imports (not tracked)
+dict/*__*.txt
+dict/SOURCES.md
+
+# OS
+.DS_Store
+
+# Go
+.cache/

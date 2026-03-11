@@ -1,76 +1,84 @@
 # OneListForAll
-**Rockyou for web fuzzing**
 
-This is a project to generate huge wordlists for web fuzzing, if you just want to fuzz with a good wordlist use the file [onelistforallmicro.txt](https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt).
+Wordlists for web fuzzing: curated `micro`, categorized `short`/`long`, and combined final lists.
 
->**Due to GitHub's size file limitations I had to split all the files bigger than 50M in different files with the following taxonomy _technology_[1-99]_long.txt**
->**If you want to recreate the original file just run, for example the apache long dict `cat dict/apache* > dict/apache_long.txt`**
+## What this repo generates
 
-The wordlists mentioned at the bottom of this pages are merged by technology/type and differenced by _short and _long suffixes. So you can search by any technology or software and fuzz the target site with a small list or the long one. Also, this projects provides three of all-in-one wordlists:
+- `onelistforallmicro.txt`: curated list (maintained manually).
+- `dict/<category>_short.txt`: per-category curated wordlist (small/quality sources).
+- `dict/<category>_long.txt`: per-category comprehensive wordlist (all sources).
+- `dist/onelistforall.txt`: micro + all `*_short.txt`, deduplicated.
+- `dist/onelistforall_big.txt`: everything combined, deduplicated.
 
-- onelistforall.txt (everything merged, both _short.txt and _long.txt files, cleaned and deduplicated, zipped 7z multi)
-- onelistforallshort.txt (merged only _short.txt files, cleaned and deduplicated)
-- onelistforallmicro.txt (my favorite, manually crafted and constantly updated, with interesting files and low-hanging fruits findings)
+## How it works
 
+1. **Sync** (`update`): Clones ~36 wordlist repos into `sources/`.
+2. **Classify** (`classify`): Walks every `.txt` file in `sources/`, classifies each into categories using path structure, filename keywords, and content sampling. Produces `classification_index.json`.
+3. **Build** (`build --all-categories`): For each category, merges classified source files into `dict/{cat}_short.txt` and `dict/{cat}_long.txt` with filtering and deduplication.
+4. **Assemble** (`assemble`): Combines micro + all shorts into `onelistforall.txt`, and everything into `onelistforall_big.txt`.
 
-## Usage
+## Requirements
 
-### Method 1
+- Go 1.22+
+- `git` (for `update`)
+- `7z` (only for `package`)
 
-1. Go to [releases](https://github.com/six2dez/OneListForAll/releases) and download the latest
+## CLI (`olfa`)
 
-2. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
-ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
+# Check dependencies
+go run ./cmd/olfa check
+
+# List sources and categories
+go run ./cmd/olfa list
+go run ./cmd/olfa list --categories
+
+# Sync source repos
+go run ./cmd/olfa update
+go run ./cmd/olfa update --source SecLists
+
+# Classify source files
+go run ./cmd/olfa classify
+go run ./cmd/olfa classify --format json
+
+# Build all category wordlists
+go run ./cmd/olfa build --all-categories
+go run ./cmd/olfa build --category wordpress --variant short
+
+# Assemble final combined lists
+go run ./cmd/olfa assemble
+
+# Validate and package
+go run ./cmd/olfa validate-categories
+go run ./cmd/olfa stats --output-dir dist
+go run ./cmd/olfa package
 ```
 
-### Method 2
+## Recommended workflow
 
-**Build your own wordlists!**
-
-> Requirement: install [duplicut](https://github.com/nil0x42/duplicut) by yourself :)
-
-1. Add your wordlists to dict/ folder with suffix **_short.txt** for short wordlist and **_long.txt** for the full wordlist.
-
-2. Run ./olfa.sh (olfa -> One List For All) and you will have onelistforall.txt file and onelistforallshort.txt.
-
-3. Fuzz with the best tool [ffuf](https://github.com/ffuf/ffuf) :)
 ```bash
-ffuf -c -w onelistforall.txt -u [target.com]/FUZZ
+go run ./cmd/olfa check
+go run ./cmd/olfa update
+go run ./cmd/olfa classify
+go run ./cmd/olfa build --all-categories
+go run ./cmd/olfa assemble
+go run ./cmd/olfa validate-categories
+go run ./cmd/olfa package
 ```
 
-## Wordlists summary
+## Configuration
 
-- **onelistforallmicro.txt** manally crafted wordlist for low hanging fruits: 18109 lines, 298K
-- **onelistforallshort.txt** a shortened version, it also contains a lot of things, but in a more affordable way: 892361 lines, 15M
-- **onelistforall.txt** basically everything, launch it and go to sleep. 59076819 lines, 1.2G
+- `configs/pipeline.yml`: sources, filters, classification rules, dedup settings, release config.
+- `configs/taxonomy.json`: category taxonomy (236 categories with aliases, including attack vectors, CMS, frameworks, cloud, and more).
 
-## Sources
+## Category taxonomy
 
-This is a wordlists project for fuzzing purposes made from the best word lists currently available,merged and deduplicated later with [duplicut](https://github.com/nil0x42/duplicut), adding cleaner from [BonJarber](https://github.com/BonJarber/SecUtils/tree/master/clean_wordlist). The lists used have been selected from these repositories:
+Categories are defined in `configs/taxonomy.json`. Each has a canonical name and aliases. Source files are matched to categories by:
 
-- [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
-- [SecLists](https://github.com/danielmiessler/SecLists)
-- [xmendez](https://github.com/xmendez/wfuzz)
-- [minimaxir](https://github.com/minimaxir/big-list-of-naughty-strings)
-- [TheRook](https://github.com/TheRook/subbrute)
-- [danielmiessler](https://github.com/danielmiessler]/RobotsDisallowed)
-- [swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- [1N3](https://github.com/1N3/IntruderPayloads)
-- [cujanovic](https://github.com/cujanovic)
-- [lavalamp](https://github.com/lavalamp-/password-lists)
-- [ics-default](https://github.com/arnaudsoullie/ics-default-passwords)
-- [jeanphorn](https://github.com/jeanphorn/wordlist)
-- [j3ers3](https://github.com/j3ers3/PassList)
-- [nyxxxie](https://github.com/nyxxxie/awesome-default-passwords)
-- [dirbuster](https://www.owasp.org/index.php/DirBuster)
-- [dotdotpwn](https://github.com/wireghoul/dotdotpwn)
-- [hackerone_wordlist](https://github.com/xyele/hackerone_wordlist)
-- [commonspeak2](https://github.com/assetnote/commonspeak2-wordlists)
-- [bruteforce-list](https://github.com/random-robbie/bruteforce-lists)
-- [assetnote](https://wordlists.assetnote.io/)
-- [brutas](https://github.com/tasooshi/brutas)
-- [werdlists](https://github.com/decal/werdlists)
-- [tk0-bugbounty](https://github.com/tomikoski/tk0-bugbounty)
+1. Explicit path rules (e.g., `Discovery/DNS/*` → subdomains)
+2. Directory path keywords matched against taxonomy
+3. Filename keywords matched against taxonomy
+4. Content sampling with regex patterns (fallback)
+5. Source-level tags (last resort)
 
-Feel free to contribute, PR are welcomed.
+Short/long split is determined by line count threshold (default 5000) and filename keywords.
